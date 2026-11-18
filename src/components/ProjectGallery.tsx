@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import type { ProjectCard } from "@/lib/cards";
-import { fmtCr, fmtPct, fmtPsf, STATUS_LABEL } from "@/lib/metrics";
+import { fmtCr, fmtPct, fmtPsf, fmtYears, STATUS_LABEL } from "@/lib/metrics";
 
 type SortKey = "cagr" | "growth" | "launch" | "price" | "name";
 
@@ -200,12 +200,14 @@ function Card({ c }: { c: ProjectCard }) {
               <dt className="text-xs text-muted">Total growth</dt>
               <dd className={growthColor(c.totalGrowth)}>
                 {c.totalGrowth != null ? fmtPct(c.totalGrowth) : "—"}
-                {c.growthYears ? <span className="text-xs text-muted"> / {c.growthYears.toFixed(0)} yrs</span> : null}
+                {c.growthYears != null ? <span className="text-xs text-muted"> / {fmtYears(c.growthYears)}</span> : null}
               </dd>
             </div>
             <div>
               <dt className="text-xs text-muted">Yearly (CAGR)</dt>
-              <dd className={growthColor(c.cagr)}>{c.cagr != null ? fmtPct(c.cagr, 1) : "—"}</dd>
+              <dd className={growthColor(c.cagr)}>
+                {c.cagr != null ? fmtPct(c.cagr, 1) : <span className="text-xs text-muted">Under 2 yrs of data</span>}
+              </dd>
             </div>
           </dl>
         </div>

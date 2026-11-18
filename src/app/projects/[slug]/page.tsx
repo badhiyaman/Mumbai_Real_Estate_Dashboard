@@ -93,8 +93,8 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           <div className="text-xs text-muted">Compared with</div>
           <ul className="mt-1 space-y-0.5 text-sm">
             <li>Area average: {peerAvg != null ? `${fmtPct(peerAvg, 1)}/yr` : "not enough data"}</li>
-            <li>Bank FD: {fmtPct(FD_RATE, 1)}/yr</li>
-            <li>Inflation: ~{fmtPct(CPI_RATE, 1)}/yr</li>
+            <li>Bank FD: {(FD_RATE * 100).toFixed(1)}%/yr</li>
+            <li>Inflation: ~{(CPI_RATE * 100).toFixed(1)}%/yr</li>
           </ul>
         </div>
       </section>

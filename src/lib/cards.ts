@@ -1,4 +1,4 @@
-import { growth, latestPrice, launchYear, minTicketCr } from "./metrics";
+import { configBucket, growth, latestPrice, launchYear, minTicketCr, shortName } from "./metrics";
 import type { Project } from "./types";
 
 /** Small, precomputed summary of a project for gallery cards and filters. */
@@ -30,7 +30,7 @@ export function toCard(p: Project): ProjectCard {
   return {
     slug: p.slug,
     name: p.name,
-    developer: p.developer?.name ?? "Unknown",
+    developer: p.developer ? shortName(p.developer.name) : "Unknown",
     developerSlug: p.developer?.slug ?? "",
     area: p.micro_market?.name ?? "Mumbai",
     areaSlug: p.micro_market?.slug ?? "",
@@ -39,7 +39,7 @@ export function toCard(p: Project): ProjectCard {
     launchYear: launchYear(p),
     landAcres: p.land_acres,
     imageUrl: p.image_url,
-    configs: [...new Set(p.unit_types.map((u) => u.config))],
+    configs: [...new Set(p.unit_types.map((u) => configBucket(u.config)).filter((c) => c !== "Other"))],
     minTicketCr: minTicketCr(p.unit_types),
     latestPsf: last?.price_psf ?? null,
     latestBasis: last?.basis ?? null,

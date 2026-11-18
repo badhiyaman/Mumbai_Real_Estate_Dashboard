@@ -1,0 +1,182 @@
+{
+  "slug": "lodha-malabar",
+  "name": "Lodha Malabar",
+  "developer": "lodha",
+  "micro_market": "malabar-hill",
+  "address": "Walkeshwar Road, opposite Raj Bhavan (Governor's Estate), Malabar Hill, Mumbai 400006",
+  "lat": 18.953,
+  "lng": 72.7985,
+  "land_acres": 1.68,
+  "towers": 2,
+  "floors_max": 31,
+  "total_units": 36,
+  "rera_ids": ["P51900034949"],
+  "status": "under_construction",
+  "launch_date": "2022-04-01",
+  "possession_promised": "2026-06-30",
+  "amenities": [
+    "Private members' club",
+    "Indoor pool with Arabian Sea views",
+    "Meeting room with lounge seating",
+    "Alfresco dining area",
+    "In-house Lodha hospitality service",
+    "Multiple dedicated car parks per residence"
+  ],
+  "description": "An Art Deco-inspired ultra-luxury tower by Lodha (Macrotech Developers) on Walkeshwar Road, opposite the Governor's estate on Malabar Hill, with sea views. About 36 residences sit in A and B wings: 4 BHK homes of roughly 3,800 sq ft up to 5 BHK duplexes and triplex penthouses. Hafeez Contractor is the architect. In 2023-25 it recorded several of India's highest-value apartment sales.",
+  "notes": "MahaRERA P51900034949 (registered 28 Apr 2022 per an aggregator; launch_date uses Housing.com's April 2022). Possession dates conflict: RERA/aggregators show 30 Jun 2026, Mumbai Property Exchange says Aug 2026, and JLL says Jun 2027. As of Nov 2026 no completion or OC report was found, so status is kept as under_construction. Floors: IndexTap and JLL say 31 floors; another IndexTap post says 32 storeys including the ground floor, with homes on floors 6-31. Land of 1.68 acres comes from a JLL Homes listing, and Lodha calls it 'one of the largest land parcels in Malabar Hill'. Towers: 2 is from the A and B wings named in reports (Housing.com: '2 buildings, 36 units'). Record buyers: Niraj Bajaj (Bajaj Auto chairman) bought an 18,008 sq ft triplex on floors 29-31 for about Rs 252.5 crore in March 2023, then India's biggest apartment deal. The Taparia family (Famy Care) bought 6 properties for Rs 369.55 crore. Kandoi Fabrics directors bought 4 flats for Rs 217.04 crore. Madhav Goel (Tufropes) paid Rs 121 crore. Anil Gupta (Wellknown Polyesters) bought 2 flats for about Rs 270 crore in 2024. Harsh Jain (Dream11) paid Rs 138.42 crore in Jan 2025. The 'Rs 122 crore, Rs 1.28 lakh/sq ft' figure reported for the Barwale (Mahyco) family's 9,546 sq ft unit could not be cross-checked and is not included. Separately, in Jan 2026 Lodha bought development rights to a different 4.3-acre Malabar Hill parcel for about Rs 106 crore; that is not this project.",
+  "sources": [
+    "https://www.lodhagroup.com/projects/residential-property-in-mumbai/lodha-malabar",
+    "https://www.freepressjournal.in/business/mumbai-bajaj-auto-chairman-buys-rs-250-crore-penthouse-in-malabar-hill",
+    "https://www.constructionworld.in/latest-construction-news/real-estate-news/tufropes--director-purchases-south-mumbai-condo-for-rs-121-crore/39865",
+    "https://squarefeatindia.com/taparias-of-famy-care-buy-6-properties-worth-%e2%82%b9369-cr-in-lodha-malabar/",
+    "https://squarefeatindia.com/directors-of-kandoi-fabrics-daman-polyfabs-buy-4-properties-worth-rs-217-cr-in-lodha-malabar/",
+    "https://www.indextap.com/blog/two-flats-in-lodha-malabar-sold-for-%e2%82%b9270-crore/",
+    "https://indextap.com/blog/?p=2354",
+    "https://www.freepressjournal.in/mumbai/mumbai-dream11-ceo-harsh-anand-jain-buys-1384-crore-ultra-luxury-apartment-at-malabar-hill",
+    "https://www.jllhomes.co.in/apartments-new/mumbai/lodha-malabar"
+  ],
+  "unit_types": [
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 3843,
+      "carpet_sqft_max": 4643,
+      "price_min_cr": 54.26,
+      "price_max_cr": 54.26,
+      "notes": "IndexTap gives a smallest unit of 3,843 sq ft. In March 2023, 4,643 sq ft units (net area) on floors 6-9 of A wing sold for about Rs 54.26 Cr each (Zapkey via SquareFeat). IndexTap quotes a starting price of 'above Rs 45 Cr'."
+    },
+    {
+      "config": "5 BHK / large sea-facing residence",
+      "carpet_sqft_min": 9546,
+      "carpet_sqft_max": 9548,
+      "price_min_cr": 121,
+      "price_max_cr": 138.42,
+      "notes": "9,546 sq ft usable carpet units sold for Rs 121 Cr (Mar 2023) and Rs 138.42 Cr (Jan 2025)."
+    },
+    {
+      "config": "Triplex penthouse",
+      "carpet_sqft_min": 18008,
+      "carpet_sqft_max": 18008,
+      "price_min_cr": 252.5,
+      "price_max_cr": 252.5,
+      "notes": "Floors 29-31, 18,008 sq ft total area. One report gives 12,624 sq ft carpet. Sold to Niraj Bajaj in March 2023."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2023-03-13",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 140000,
+      "basis": "unknown",
+      "source_name": "Free Press Journal",
+      "source_url": "https://www.freepressjournal.in/business/mumbai-bajaj-auto-chairman-buys-rs-250-crore-penthouse-in-malabar-hill",
+      "confidence": "high",
+      "note": "Niraj Bajaj triplex: about Rs 252-252.5 crore for 18,008 sq ft total area, with Rs 15.15 crore stamp duty per registration documents. On the 12,624 sq ft carpet figure in one report, this would be about Rs 2 lakh/sq ft carpet. Signing date of 13 Mar is per SquareFeat; another source says 10 Mar."
+    },
+    {
+      "date": "2023-03-23",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 126754,
+      "basis": "unknown",
+      "source_name": "Construction World",
+      "source_url": "https://www.constructionworld.in/latest-construction-news/real-estate-news/tufropes--director-purchases-south-mumbai-condo-for-rs-121-crore/39865",
+      "confidence": "high",
+      "note": "Madhav Goel (Tufropes): Rs 121 crore for 9,546 sq ft on the 19th floor, registered 23 Mar 2023, stamp duty Rs 7.26 crore. Area basis not stated; the same 9,546 sq ft layout is described as usable carpet in the Jan 2025 deal."
+    },
+    {
+      "date": "2023-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 116864,
+      "basis": "unknown",
+      "source_name": "SquareFeatIndia (Zapkey data)",
+      "source_url": "https://squarefeatindia.com/directors-of-kandoi-fabrics-daman-polyfabs-buy-4-properties-worth-rs-217-cr-in-lodha-malabar/",
+      "confidence": "high",
+      "note": "Computed: Rs 217.04 crore for four flats (A-601 to A-901) totalling 18,572 sq ft net area. Deals were signed between 23 and 29 March 2023; stamp duty Rs 13.02 crore."
+    },
+    {
+      "date": "2023-03-29",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 136061,
+      "basis": "unknown",
+      "source_name": "SquareFeatIndia (Zapkey data)",
+      "source_url": "https://squarefeatindia.com/taparias-of-famy-care-buy-6-properties-worth-%e2%82%b9369-cr-in-lodha-malabar/",
+      "confidence": "high",
+      "note": "Computed: Rs 369.55 crore for six properties totalling 27,160.6 sq ft net area, bought by the Taparia family (Famy Care) in two deeds. Stamp duty about Rs 19.07 crore."
+    },
+    {
+      "date": "2024-04-15",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 141391,
+      "basis": "carpet",
+      "source_name": "IndexTap",
+      "source_url": "https://www.indextap.com/blog/two-flats-in-lodha-malabar-sold-for-%e2%82%b9270-crore/",
+      "confidence": "medium",
+      "note": "Computed: about Rs 270 crore for two flats of 9,548 sq ft carpet each (19,096 sq ft) on the 17th and 18th floors, bought by Anil Gupta (Wellknown Polyesters). IndexTap says the rate is 'over Rs 1.4 lakh' and that earlier deals were about Rs 1.2 lakh. The date is the news report date (Inshorts, ~15 Apr 2024); the registration date wasn't stated."
+    },
+    {
+      "date": "2025-01-09",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 145000,
+      "basis": "carpet",
+      "source_name": "Free Press Journal / IndexTap (registration documents)",
+      "source_url": "https://www.freepressjournal.in/mumbai/mumbai-dream11-ceo-harsh-anand-jain-buys-1384-crore-ultra-luxury-apartment-at-malabar-hill",
+      "confidence": "high",
+      "note": "Harsh Jain (Dream11): Rs 138.42 crore for flat 2301, Tower A, 9,546 sq ft usable carpet, registered 9 Jan 2025, stamp duty Rs 8.31 crore."
+    }
+  ],
+  "news": [
+    {
+      "date": "2023-03-15",
+      "title": "Mumbai: Bajaj Auto Chairman, Niraj Bajaj buys Rs 250 crore penthouse in Malabar Hill",
+      "url": "https://www.freepressjournal.in/business/mumbai-bajaj-auto-chairman-buys-rs-250-crore-penthouse-in-malabar-hill",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "Niraj Bajaj bought an 18,000 sq ft triplex on floors 29-31 for about Rs 252 crore (Rs 1.4 lakh/sq ft), then reported as India's biggest apartment deal."
+    },
+    {
+      "date": "2023-03-27",
+      "title": "Tufropes' director purchases South Mumbai condo for Rs 121 crore",
+      "url": "https://www.constructionworld.in/latest-construction-news/real-estate-news/tufropes--director-purchases-south-mumbai-condo-for-rs-121-crore/39865",
+      "source": "Construction World",
+      "event_type": "deal",
+      "summary": "Madhav Goel bought a 9,546 sq ft 19th-floor flat for Rs 121 crore. The report gives possession as June 2026 and the project as 36 units across A and B wings."
+    },
+    {
+      "date": "2023-03-30",
+      "title": "Taparias of Famy Care buy 6 properties worth Rs 369 cr in Lodha Malabar",
+      "url": "https://squarefeatindia.com/taparias-of-famy-care-buy-6-properties-worth-%e2%82%b9369-cr-in-lodha-malabar/",
+      "source": "SquareFeatIndia",
+      "event_type": "deal",
+      "summary": "Jyotiprasad and Anjali Taparia bought six properties totalling 27,160 sq ft for Rs 369.55 crore, per Zapkey documents."
+    },
+    {
+      "date": "2023-04-01",
+      "title": "Directors of Kandoi Fabrics, Daman Polyfabs buy 4 properties worth Rs 217 cr in Lodha Malabar",
+      "url": "https://squarefeatindia.com/directors-of-kandoi-fabrics-daman-polyfabs-buy-4-properties-worth-rs-217-cr-in-lodha-malabar/",
+      "source": "SquareFeatIndia",
+      "event_type": "deal",
+      "summary": "Four flats on floors 6-9 of A wing (4,643 sq ft each) sold for Rs 217.04 crore; deals were signed 23-29 March 2023. The article date is approximate (early April 2023)."
+    },
+    {
+      "date": "2024-04-15",
+      "title": "Two flats in Lodha Malabar sold for Rs 270 crore",
+      "url": "https://www.indextap.com/blog/two-flats-in-lodha-malabar-sold-for-%e2%82%b9270-crore/",
+      "source": "IndexTap",
+      "event_type": "deal",
+      "summary": "Wellknown Polyesters' Anil Gupta bought two 9,548 sq ft carpet flats on the 17th and 18th floors for about Rs 270 crore. IndexTap gives expected completion as June 2026."
+    },
+    {
+      "date": "2025-01-15",
+      "title": "Mumbai: Dream11 CEO Harsh Anand Jain Buys Rs 138.4 Crore Ultra-Luxury Apartment At Malabar Hill",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-dream11-ceo-harsh-anand-jain-buys-1384-crore-ultra-luxury-apartment-at-malabar-hill",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "Harsh Jain bought a 9,546 sq ft carpet apartment in Tower A for Rs 138.4 crore (Rs 1.45 lakh/sq ft), registered 9 Jan 2025."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "raheja-vivarea",
+  "name": "K Raheja Vivarea",
+  "developer": "k-raheja-corp",
+  "micro_market": "mahalaxmi",
+  "address": "25A, Sane Guruji Marg, near Jacob Circle (RTO Colony, Mumbai Central), Mahalaxmi, Mumbai 400011",
+  "land_acres": 14,
+  "towers": 5,
+  "floors_max": 45,
+  "rera_ids": ["P51900008014", "P51900019931"],
+  "status": "completed",
+  "launch_date": "2009-01-01",
+  "possession_promised": "2024-06-30",
+  "amenities": [
+    "Over 90 amenities (developer claim)",
+    "24,000 sq ft clubhouse",
+    "Temperature-controlled swimming pool",
+    "Kids' pool",
+    "Multiple gymnasiums",
+    "Squash court",
+    "Futsal court",
+    "Sports courts",
+    "Indoor games room with billiards",
+    "Outdoor jacuzzi",
+    "Salon and spa (Warren Tricomi)",
+    "Mini-theatre",
+    "Banquet and multi-purpose halls",
+    "Barbeque party deck",
+    "Children's play area",
+    "8.5 acres of landscape and leisure space"
+  ],
+  "description": "A five-tower, low-density luxury complex on about 14 acres at Jacob Circle, overlooking Mahalaxmi Racecourse and the Arabian Sea. K Raheja Corp developed it through Genext Hardware & Parks Pvt Ltd, and the developer says it set a South Mumbai luxury benchmark when it launched around 2009. It offers spacious 3 and 4 BHK homes and duplexes with 3.8 m floor-to-floor heights and an IGBC Green Home Gold certification. The fifth and final tower (Tower E of Building 3, 44 floors) launched in August 2019.",
+  "image_url": "https://www.krahejacorphomes.com/project/wp-content/uploads/2021/07/raheja-vivarea-mumbai-03-12-2024.jpg",
+  "notes": "Phasing: per CTBUH, Raheja Vivarea 1 (193.8 m, 45 floors) was built 2008 to 2012 and Raheja Vivarea 4 (45 floors) 2014 to 2018. Building 2 (MahaRERA P51900008014) has 110 units with proposed completion 30 Jun 2019, and aggregators show it completed. Tower E of Building 3 (P51900019931) has 122 units (75 3BHK, 44 4BHK, 3 duplex) and is 44 floors, registered 13 Mar 2019 with proposed completion 30 Jun 2024. That date is the possession_promised value. Its status is 'Completed' on an aggregator but 'Under Construction / Advanced Stage' on Square Yards, so status='completed' is not fully confirmed for Tower E. Towers A, B and C appear as completed, sold out and not RERA-registered on Mumbai Property Exchange. launch_date is year-only, from the developer's 2019 statement that Vivarea 'set the benchmark for luxe residences as way back as 2009'. Units: the 2019 release says about 400 families, so total_units is left out. Promoter: Genext Hardware & Parks Pvt Ltd (K Raheja Corp group). HDFC Ltd financed the project. Do not confuse it with Raheja Modern Vivarea (a separate two-tower project on about 3 acres of the former Modern Mills land nearby, pre-launched in 2023, MahaRERA P51900034289) or Raheja Vivarea in Koramangala, Bengaluru. Several portal pages mix them up. Price conflicts: Square Yards' Tower E page shows an average asking price of Rs 42,650/sq ft, but its own unit asking prices imply about Rs 90,000/sq ft carpet, and its project-level page says Rs 59,300. Notable buyers: Rahul Bajaj family members and Manish Kejriwal's family trust bought five Tower E units for about Rs 104 crore in Oct to Nov 2022.",
+  "sources": [
+    "https://www.krahejacorphomes.com/project/3-bhk-flats-in-mahalaxmi-south-mumbai/",
+    "https://www.covaipost.com/vivarea-by-k-raheja-corp-now-a-pentacle-in-mumbais-skyline-2",
+    "https://www.skyscrapercenter.com/building/raheja-vivarea-1/12648",
+    "https://www.skyscrapercenter.com/building/raheja-vivarea-4/27034",
+    "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-suburban/tower-e-of-building-no-3-phase-of-project-named-vivarea-being-constructed-on-portion-of-project-land-P51900019931",
+    "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-suburban/building-2-phase-of-project-named-vivarea-constructed-on-portion-of-the-project-land-P51900008014",
+    "https://squarefeatindia.com/bajaj-family-members-and-trust-buys-apartments-for-rs-103-73-crore/",
+    "https://www.freepressjournal.in/mumbai/mumbai-news-parle-products-promoter-ambika-aibara-buys-sea-view-units-for-473-crore-in-mahalaxmi",
+    "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea-building-no-3-tower-e/11244/project"
+  ],
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1740,
+      "carpet_sqft_max": 2131,
+      "price_min_cr": 15.73,
+      "price_max_cr": 18.61,
+      "notes": "MahaRERA carpet: 190.99 sq m (2,056 sq ft) in Tower E and 191.23 to 198.01 sq m (2,058 to 2,131 sq ft) in Building 2. Prices are Square Yards Tower E asking prices (Sep 2026, excluding charges) for 1,740 to 2,058 sq ft."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 2259,
+      "carpet_sqft_max": 2897,
+      "price_min_cr": 20.43,
+      "price_max_cr": 26.15,
+      "notes": "MahaRERA carpet: 268.68 sq m (2,892 sq ft) in Tower E and 268.29 to 269.15 sq m (2,888 to 2,897 sq ft) in Building 2. Prices are Square Yards Tower E asking prices (Sep 2026)."
+    },
+    {
+      "config": "Duplex",
+      "carpet_sqft_min": 4112,
+      "carpet_sqft_max": 5776,
+      "notes": "MahaRERA carpet: 3 BHK duplex 381.98 to 382.46 sq m and 4 BHK duplex 536.58 sq m (Building 2). No sourced current price."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2022-10-18",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 83233,
+      "basis": "unknown",
+      "source_name": "SquareFeatIndia (citing Zapkey registration documents)",
+      "source_url": "https://squarefeatindia.com/bajaj-family-members-and-trust-buys-apartments-for-rs-103-73-crore/",
+      "confidence": "high",
+      "note": "Computed: Rs 28.31 crore / 3,401 sq ft (315.99 sq m), Shefali Bajaj's 39th-floor Tower E unit. The registered area is larger than any MahaRERA carpet type, so it probably includes balconies or other area. The basis is unclear."
+    },
+    {
+      "date": "2022-10-21",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 63584,
+      "basis": "unknown",
+      "source_name": "SquareFeatIndia (citing Zapkey registration documents)",
+      "source_url": "https://squarefeatindia.com/bajaj-family-members-and-trust-buys-apartments-for-rs-103-73-crore/",
+      "confidence": "high",
+      "note": "Computed: Rs 15.47 crore / 2,433 sq ft (226.03 sq m), Manish Kejriwal's 36th-floor Tower E unit. SquareFeatIndia prints Rs 15.46 crore and other reports Rs 15.47 crore. Same-month deals in the same tower vary from about Rs 63,600 to 83,200/sq ft by unit size and floor."
+    },
+    {
+      "date": "2023-10-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 90000,
+      "basis": "unknown",
+      "source_name": "Free Press Journal",
+      "source_url": "https://www.freepressjournal.in/mumbai/mumbai-news-parle-products-promoter-ambika-aibara-buys-sea-view-units-for-473-crore-in-mahalaxmi",
+      "confidence": "medium",
+      "note": "'The last registered transaction in Raheja Vivarea, in October 2023, was priced at Rs 90,000 per sq ft', per an unnamed report cited by FPJ in Jan 2024. The tower and unit are not specified."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 90402,
+      "basis": "carpet",
+      "source_name": "Square Yards (Tower E unit asking prices)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea-building-no-3-tower-e/11244/project",
+      "confidence": "low",
+      "note": "Computed from a listed 3 BHK of 1,740 sq ft carpet at Rs 15.73 crore. Other listed units work out similarly (for example 4 BHK 2,259 sq ft at Rs 20.43 crore, about Rs 90,400). The same page's headline 'average' of Rs 42,650/sq ft is inconsistent and was not used."
+    }
+  ],
+  "news": [
+    {
+      "date": "2019-08-26",
+      "title": "Vivarea by K Raheja Corp now a pentacle in Mumbai's skyline",
+      "url": "https://www.business-standard.com/article/news-ani/vivarea-by-k-raheja-corp-now-a-pentacle-in-mumbai-s-skyline-119082600440_1.html",
+      "source": "Business Standard (ANI)",
+      "event_type": "launch",
+      "summary": "K Raheja Corp launches Vivarea's fifth and final tower, 44 floors on a 4.2-acre portion of the 14-acre complex, with 3 and 4 BHK homes. The complex will house about 400 families."
+    },
+    {
+      "date": "2022-12-17",
+      "title": "Bajaj family members and trust buys apartments for Rs 103.73 crore",
+      "url": "https://squarefeatindia.com/bajaj-family-members-and-trust-buys-apartments-for-rs-103-73-crore/",
+      "source": "SquareFeatIndia",
+      "event_type": "deal",
+      "summary": "Rahul Bajaj family members and Manish Kejriwal-linked trusts buy five Tower E apartments (36th to 40th floors) for about Rs 104 crore in Oct to Nov 2022, with Rs 6.22 crore stamp duty."
+    },
+    {
+      "date": "2023-06-09",
+      "title": "K Raheja Corp sells luxury homes worth Rs 1,100 cr in single project",
+      "url": "https://www.business-standard.com/companies/news/k-raheja-corp-sells-luxury-homes-worth-rs-1-100-cr-in-single-project-123060900706_1.html",
+      "source": "Business Standard",
+      "event_type": "other",
+      "summary": "This is the sister project Raheja Modern Vivarea (two towers, nearby Modern Mills land), not this complex. It drew Rs 1,100 crore of pre-launch sales in under 90 days, which shows demand in the Vivarea micro-market."
+    },
+    {
+      "date": "2024-01-30",
+      "title": "Mumbai News: Parle Products' Promoter Ambika Aibara Buys Sea-View Units For ₹47.3 Crore In Mahalaxmi",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-news-parle-products-promoter-ambika-aibara-buys-sea-view-units-for-473-crore-in-mahalaxmi",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "The deal itself is in Raheja Modern Vivarea (6,180 sq ft across two units for Rs 47.3 crore). The report also notes Raheja Vivarea's last registered transaction (Oct 2023) was at Rs 90,000/sq ft."
+    }
+  ]
+}

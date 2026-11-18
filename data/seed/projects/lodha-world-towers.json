@@ -1,0 +1,193 @@
+{
+  "slug": "lodha-world-towers",
+  "name": "Lodha The World Towers",
+  "developer": "lodha",
+  "micro_market": "lower-parel",
+  "address": "Lodha Place, Shankar Rao Naram Path / Senapati Bapat Marg, Lower Parel (marketed as Worli), Mumbai 400013",
+  "lat": 19.0022,
+  "lng": 72.8264,
+  "land_acres": 17,
+  "towers": 3,
+  "floors_max": 76,
+  "rera_ids": ["P51900008345", "P51900008962"],
+  "status": "completed",
+  "launch_date": "2010-06-01",
+  "possession_promised": "2015-01-01",
+  "possession_actual": "2020-01-01",
+  "amenities": [
+    "Private theatre",
+    "Ballrooms",
+    "Gym",
+    "Sports court",
+    "Running track",
+    "Kids' play studio",
+    "Cricket ground",
+    "Indoor swimming pool with cabanas",
+    "Outdoor poolside with children's pool",
+    "Spa",
+    "Indoor courts",
+    "Rooftop arena",
+    "7-acre landscape and ~100,000 sq ft entrance courtyard"
+  ],
+  "description": "A three-tower luxury complex of World One, World View and World Crest on the former Shrinivas Mills site in Lower Parel. Lodha announced it in June 2010 with World One billed as the world's tallest residential tower at 117 storeys. Aviation-height limits later capped World One at 280 m and 76 floors. The towers hold 3, 4 and 5 bedroom residences, and the interiors were designed by Giorgio Armani.",
+  "image_url": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_1903X800_0.webp",
+  "notes": "Towers: World One (76 floors, 280.2 m), World View (73 floors), World Crest (57 floors), per Wikipedia and CTBUH. Land: 17 acres per Lodha's website and MahaRERA filings, which say 17.00 acres for both phases. Housing.com says 7 acres, which matches only the landscaped area. Total units are not stated because sources disagree: the MahaRERA phases show 61 units (P51900008345, World One Tier II) and 369 units (P51900008962, World One Tier III and Trinity), Square Yards says 445 units, and Dwello says 384. Possession dates: DNA (2018) reports buyers were told the project would be delivered in 2015, and the 2014 Lodha statement said completion was expected in 2016. The MahaRERA completion dates were 31 Dec 2017, revised to 30 Sep 2018 for Tier II (Square Yards also cites a later revision to 25 Feb 2020), and 30 Jun 2021 for Tier III and Trinity. possession_promised (2015) and possession_actual (2020) are year-only dates. The 2020 completion of World One is from Wikipedia and CTBUH. One MahaRERA complaint says an OC for some World One flats was obtained in July 2017, and a consumer complaint cites a Lodha letter of 24 May 2019 claiming the OC was received. Litigation: buyers (mostly corporates) moved MahaRERA in 2018, alleging the 117-storey marketing was misleading because the AAI cleared only about 285 m. Funding: HDFC Property Fund invested Rs 500 crore in 2010 for about 10% and exited in October 2016 for about Rs 1,500 crore. Piramal Fund committed Rs 2,320 crore in 2016. Notable buyers: Amrita Puri and parents (Rs 37 crore, 2025) and Nitin and Neil Nitin Mukesh (Rs 11.35 crore, 2025).",
+  "sources": [
+    "https://www.lodhagroup.com/projects/residential-property-in-worli/lodha-world-towers",
+    "https://en.wikipedia.org/wiki/World_One",
+    "https://www.propscience.com/building_flat/UDUxOTAwMDA4MzQ1/Mumbai-City/South-Mumbai/Lower-Parel/Senapati-Bapat-Marg/Lodha-World-Towers-Phase-1",
+    "https://www.propscience.com/building_flat/UDUxOTAwMDA4OTYy/Mumbai-City/South-Mumbai/Lower-Parel/Senapati-Bapat-Marg/Lodha-World-Towers-Phase-2",
+    "https://www.deccanchronicle.com/141210/business-companies/article/lodha-sells-rs-500-crore-worth-flats-9-days-mumbai-high-rise",
+    "https://www.prnewswire.com/in/news-releases/lodha-group-sells-inr-500-cr-residences-at-worlds-tallest-residential-tower-in-nine-days-285468781.html",
+    "https://www.dnaindia.com/business/report-dna-money-exclusive-lodha-world-one-buyers-move-rera-over-tallest-claim-2662522",
+    "https://www.squareyards.com/mumbai-residential-property/lodha-world-one/2801/project"
+  ],
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1536,
+      "carpet_sqft_max": 1553,
+      "price_min_cr": 9.32,
+      "price_max_cr": 9.42,
+      "notes": "Square Yards asking prices, Sep 2026, excluding charges. Other listings show 3 BHK carpet areas of 1,410 to 1,782 sq ft."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1821,
+      "carpet_sqft_max": 2619,
+      "price_min_cr": 11.04,
+      "price_max_cr": 15.88,
+      "notes": "Square Yards asking prices, Sep 2026, excluding charges."
+    },
+    {
+      "config": "5 BHK",
+      "notes": "Lodha's website lists 5-bedroom residences, and MahaRERA phase P51900008962 lists 3, 4 and 5 BHK. No current sourced area or price."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2010-06-01",
+      "date_precision": "month",
+      "stage": "launch",
+      "price_psf": 25000,
+      "basis": "unknown",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/article/companies/lodha-group-set-to-erect-world-39-s-tallest-residential-tower-110060900004_1.html",
+      "confidence": "low",
+      "note": "Soft-launch rate 'among select buyers' at Rs 25,000 a sq ft, as quoted in a search-engine excerpt of the June 2010 article. The full text could not be retrieved (HTTP 403), and a pre-launch price sheet on a blog lists Rs 23,000/sq ft for 3 BHK."
+    },
+    {
+      "date": "2014-12-10",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 70000,
+      "basis": "unknown",
+      "source_name": "Deccan Chronicle (PTI) / Lodha press release on PR Newswire",
+      "source_url": "https://www.deccanchronicle.com/141210/business-companies/article/lodha-sells-rs-500-crore-worth-flats-9-days-mumbai-high-rise",
+      "confidence": "medium",
+      "note": "Lodha said its 3 and 4 BHK units were 'likely to fetch in the upwards of Rs 70,000-80,000 per sq ft' after about Rs 500 crore of bookings between 29 Nov and 10 Dec 2014. The lower bound is recorded here. This is the developer's statement, not a registered rate. It is pre-RERA, so the figure is probably saleable area."
+    },
+    {
+      "date": "2025-04-30",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 67933,
+      "basis": "unknown",
+      "source_name": "Free Press Journal (citing registration documents via Square Yards)",
+      "source_url": "https://www.freepressjournal.in/entertainment/actress-amrita-puri-buys-luxurious-house-in-mumbais-lower-parel-for-37-crore",
+      "confidence": "high",
+      "note": "Computed: Rs 37 crore / 5,446.53 sq ft (about 505.85 sq m), 49th floor of World One, registered April 2025, with 4 parking spaces. Reports call the area built-up, so the basis is unclear. The seller is not stated."
+    },
+    {
+      "date": "2025-07-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 55528,
+      "basis": "carpet",
+      "source_name": "Free Press Journal (citing registration documents via Square Yards)",
+      "source_url": "https://www.freepressjournal.in/entertainment/neil-nitin-mukesh-his-father-buy-a-lavish-apartment-in-mumbais-lower-parel-worth-1135-crore-report",
+      "confidence": "high",
+      "note": "Computed: Rs 11.35 crore / 2,044 sq ft RERA carpet (189.89 sq m), 31st floor of World One, registered July 2025, with 2 parking spaces and Rs 68.10 lakh stamp duty."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 60650,
+      "basis": "unknown",
+      "source_name": "Square Yards (listing asking-price index, Q3 2026)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-world-one/2801/project",
+      "confidence": "low",
+      "note": "Average asking price, up from Rs 59,800 in Jun 2026. Unit asking prices, such as a 3 BHK of 1,536 sq ft carpet at Rs 9.32 crore (about Rs 60,677/sq ft), suggest a carpet basis."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 53350,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered-transaction summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-world-one/2801/project",
+      "confidence": "medium",
+      "note": "Average registered rate across 10 transactions (about Rs 157 crore total) from Nov 2025 to Oct 2026, based on IGR data aggregated by Square Yards."
+    }
+  ],
+  "news": [
+    {
+      "date": "2010-06-08",
+      "title": "Lodha announces world's tallest residential tower",
+      "url": "https://www.constructionweekonline.in/business/lodha-announces-worlds-tallest-residential-tower",
+      "source": "Construction Week Online",
+      "event_type": "launch",
+      "summary": "Lodha announces World One at Lower Parel as a 117-storey, roughly 442 m tower on the former Shrinivas Mills land, costing about Rs 2,000 crore."
+    },
+    {
+      "date": "2014-12-11",
+      "title": "Lodha group sells Rs 500 crore worth flats in 9 days at Mumbai high-rise",
+      "url": "https://www.deccanchronicle.com/141210/business-companies/article/lodha-sells-rs-500-crore-worth-flats-9-days-mumbai-high-rise",
+      "source": "Deccan Chronicle (PTI)",
+      "event_type": "price_hike",
+      "summary": "Bookings reopened on 29 Nov 2014 and drew about Rs 500 crore in nine days. Lodha said units would fetch upwards of Rs 70,000-80,000/sq ft, civil work was about 75% complete, and completion was expected in 2016."
+    },
+    {
+      "date": "2016-09-01",
+      "title": "Piramal Fund to invest Rs2,320 crore in Lodha's World Tower",
+      "url": "http://www.livemint.com/Companies/glkTuiieBCJMktArNabt8N/Piramal-Fund-to-invest-Rs2320-crore-in-Lodhas-World-Tower.html",
+      "source": "Mint",
+      "event_type": "other",
+      "summary": "Piramal Fund Management commits Rs 2,320 crore to the World Towers project, partly to fund HDFC Property Fund's exit. The date is month-level, per Wikipedia's citation."
+    },
+    {
+      "date": "2016-10-26",
+      "title": "HDFC PE fund exits Lodha's World Tower project for Rs 1,500 crore",
+      "url": "https://www.business-standard.com/article/companies/hdfc-pe-fund-exits-lodha-s-world-tower-project-for-rs-1-500-crore-116102600830_1.html",
+      "source": "Business Standard (PTI)",
+      "event_type": "other",
+      "summary": "HDFC Property Fund, which invested Rs 500 crore in 2010, exits for about Rs 1,500 crore, roughly three times its money."
+    },
+    {
+      "date": "2018-09-13",
+      "title": "DNA Money Exclusive: Lodha 'World One' buyers move RERA over tallest claim",
+      "url": "https://www.dnaindia.com/business/report-dna-money-exclusive-lodha-world-one-buyers-move-rera-over-tallest-claim-2662522",
+      "source": "DNA",
+      "event_type": "rera",
+      "summary": "Buyers file MahaRERA complaints alleging World One was sold as 117 storeys without AAI height approval. Only about 285 m (around 76 storeys) was cleared, delivery was promised in 2015, and Lodha had collected Rs 1,830 crore by Dec 2017."
+    },
+    {
+      "date": "2025-05-09",
+      "title": "Actress Amrita Puri Buys Luxurious House In Mumbai's Lower Parel For ₹37 Crore",
+      "url": "https://www.freepressjournal.in/entertainment/actress-amrita-puri-buys-luxurious-house-in-mumbais-lower-parel-for-37-crore",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "Amrita Puri and parents Aditya and Anita Puri buy a 5,446 sq ft 49th-floor World One apartment for Rs 37 crore. The sale was registered in April 2025, with Rs 2.22 crore stamp duty."
+    },
+    {
+      "date": "2025-10-01",
+      "title": "Neil Nitin Mukesh & His Father Buy A Lavish Apartment In Mumbai's Lower Parel Worth ₹11.35 Crore: Report",
+      "url": "https://www.freepressjournal.in/entertainment/neil-nitin-mukesh-his-father-buy-a-lavish-apartment-in-mumbais-lower-parel-worth-1135-crore-report",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "Nitin and Neil Nitin Mukesh buy a 2,044 sq ft (carpet) 31st-floor World One unit for Rs 11.35 crore. The deal was registered in July 2025 and reported in October 2025, so the date is month-level."
+    }
+  ]
+}

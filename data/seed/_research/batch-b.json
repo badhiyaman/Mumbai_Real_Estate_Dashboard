@@ -1,0 +1,195 @@
+{
+  "developers": [
+    {
+      "slug": "lodha",
+      "name": "Lodha Developers (Macrotech Developers Ltd)",
+      "founded_year": 1980,
+      "website": "https://www.lodhagroup.com",
+      "notes": "Founded by Mangal Prabhat Lodha; listed as Macrotech Developers, later renamed Lodha Developers. In Mumbai it is the seller of record on the ultra-luxury Lodha Altamount (completed around 2017-19, against an April 2017 target) and Lodha Malabar (RERA possession June 2026). Founding year is per Wikipedia (https://en.wikipedia.org/wiki/Lodha_Group). No sourced on-time delivery score was found, so on_time_score is omitted."
+    },
+    {
+      "slug": "rustomjee",
+      "name": "Rustomjee Group (Keystone Realtors Ltd)",
+      "founded_year": 1996,
+      "website": "https://www.rustomjee.com",
+      "notes": "The Rustomjee brand was launched in 1996 by Boman Rustom Irani; the listed entity, Keystone Realtors, was incorporated in 1995 (Gupta & Sen: https://www.guptasen.com/?p=32273). Rustomjee manages Crown, Prabhadevi under a development management agreement. Crown Phase I received its OC about 4.5 years after its original RERA completion date (June 2020 vs ready-to-move from Dec 2024). ET Realty (via the Rustomjee newsroom) reports Q2 FY27 pre-sales of Rs 1,423 crore."
+    },
+    {
+      "slug": "kalpataru",
+      "name": "Kalpataru Ltd",
+      "founded_year": 1969,
+      "website": "https://www.kalpataru.com",
+      "notes": "Mumbai developer founded in 1969; listed on the exchanges after a June 2025 IPO (Business Standard: https://www.business-standard.com/markets/capital-market-news/kalpataru-ipo-ends-with-2-26x-subscription-125062700241_1.html). Free Press Journal has reported homebuyer protests over delayed deliveries on some Kalpataru projects (https://www.freepressjournal.in/mumbai/mumbai-after-homebuyers-protest-against-kalpataru-industry-insiders-say-realtor-under-stress-unable-to-deliver-projects-on-time). Kalpataru Avana's RERA completion date was Dec 2022, and older listings had quoted Dec 2020-21."
+    },
+    {
+      "slug": "oberoi-realty",
+      "name": "Oberoi Realty Ltd",
+      "website": "https://www.oberoirealty.com",
+      "notes": "Formerly Oberoi Constructions; listed on BSE/NSE. Developer of the Oberoi Garden City township in Goregaon East (Exquisite, Esquire, Elysian and others). Esquire's RERA completion date was 30 June 2018 and it was reported ready for possession in March 2018. No founding year was confirmed from a reliable source, so it is omitted."
+    }
+  ],
+  "micro_markets": [
+    {
+      "slug": "altamount-road",
+      "name": "Altamount Road",
+      "region": "South Mumbai",
+      "lat": 18.968,
+      "lng": 72.81,
+      "catalysts": [
+        {
+          "name": "Mumbai Coastal Road (Marine Drive to Bandra-Worli Sea Link)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/amp/mumbai/mumbai-coastal-road-project-bmc-to-open-southbound-connector-between-bwsl-and-marine-drive-cm-devendra-fadnavis-to-inaugurate-on-january-26"
+        },
+        {
+          "name": "Metro Line 3 (Aqua Line) Cuffe Parade - Aarey JVLR, fully operational",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbais-metro-line-3-set-to-begin-full-operations-from-october-9-citys-first-underground-corridor-marks-a-historic-milestone"
+        },
+        {
+          "name": "Atal Setu (Mumbai Trans Harbour Link, Sewri - Nhava Sheva)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2024,
+          "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+        }
+      ],
+      "notes": "Altamount Road (S.K. Barodawalla Marg) on Cumballa Hill is one of India's most expensive streets and home to Antilia. Lodha Altamount set a national record of Rs 1.6 lakh/sq ft in 2015. Metro Line 3's final Worli-Cuffe Parade stretch was inaugurated on 8 Oct 2025 and opened to the public on 9 Oct 2025."
+    },
+    {
+      "slug": "prabhadevi",
+      "name": "Prabhadevi",
+      "region": "Central South Mumbai",
+      "lat": 19.0145,
+      "lng": 72.8285,
+      "catalysts": [
+        {
+          "name": "Metro Line 3 (Aqua Line), including a station at Siddhivinayak",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+        },
+        {
+          "name": "Mumbai Coastal Road and Bandra-Worli Sea Link connectors",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/amp/mumbai/mumbai-coastal-road-project-worli-sea-link-connector-opens-2-days-ahead-of-bmcs-deadline"
+        },
+        {
+          "name": "Sewri-Worli Elevated Connector (incl. double-decker Elphinstone bridge)",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://propnewstime.com/latestnewsstories/MzM3NzE=/sewri-worli-connector-opening-pushed-to-early-2027-as-construction-timeline-extends"
+        },
+        {
+          "name": "Atal Setu (MTHL) via Sewri",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2024,
+          "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+        }
+      ],
+      "notes": "Sea-facing pocket between Worli and Dadar; Siddhivinayak Temple is a landmark. The Coastal Road's Prabhadevi connector was still pending when the CM said in early 2025 that it would open 'by February'; no confirmation of its opening was found (https://www.freepressjournal.in/amp/mumbai/mumbai-coastal-road-set-to-open-fully-with-prabhadevi-connector-by-february-says-maharashtra-cm-devendra-fadnavis). The Sewri-Worli connector was about 62% complete in 2025-26 and has slipped from a 2026 target to early 2027."
+    },
+    {
+      "slug": "parel",
+      "name": "Parel",
+      "region": "Central Mumbai (Lower Parel / Parel)",
+      "lat": 19.003,
+      "lng": 72.84,
+      "catalysts": [
+        {
+          "name": "Sewri-Worli Elevated Connector (Elphinstone double-decker bridge)",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://propnewstime.com/latestnewsstories/MzM3NzE=/sewri-worli-connector-opening-pushed-to-early-2027-as-construction-timeline-extends"
+        },
+        {
+          "name": "Atal Setu (Mumbai Trans Harbour Link) from Sewri",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2024,
+          "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+        },
+        {
+          "name": "Metro Line 3 (Aqua Line), stations in neighbouring Worli / Dadar",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+        }
+      ],
+      "notes": "Former mill district redeveloped into high-rise luxury towers and offices; Kalpataru Avana sits behind ITC Grand Central. Square Yards put the Parel locality average asking price at about Rs 46,200/sq ft in Sep 2026. The Sewri-Worli connector links Atal Setu directly to the Worli / Coastal Road side, crossing Parel at Elphinstone."
+    },
+    {
+      "slug": "goregaon-east",
+      "name": "Goregaon East",
+      "region": "Western Suburbs",
+      "lat": 19.165,
+      "lng": 72.862,
+      "catalysts": [
+        {
+          "name": "Metro Line 7 (Red Line) Andheri East - Dahisar East along Western Express Highway",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2023,
+          "source_url": "https://www.freepressjournal.in/mumbai/modi-in-mumbai-pm-flags-off-metro-lines-2a-7-on-andheri-dahisar-route"
+        },
+        {
+          "name": "Goregaon-Mulund Link Road (GMLR) incl. twin tunnels under SGNP",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2029,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbais-gmlr-project-advances-as-2nd-tbm-joins-excavation-of-twin-tunnels"
+        },
+        {
+          "name": "Metro Line 3 (Aqua Line) northern terminus at Aarey JVLR",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+        }
+      ],
+      "notes": "Metro Lines 2A and 7 were dedicated by PM Modi on 19 Jan 2023, after the first sections opened in April 2022. GMLR's target completion has moved several times: Oct 2028 and Dec 2028 in earlier BMC statements, and Feb 2029 in a Nov 2026 report, with both TBMs now excavating. Square Yards put the Goregaon East average asking price at about Rs 32,800/sq ft in Sep 2026. In Feb 2026 Oberoi sold an 8,570 sq ft Elysian penthouse for Rs 55 crore (about Rs 64,822/sq ft) (https://houssed.com/blog/news/oberoi-realty-goregaon-penthouse-sale-55-crore)."
+    },
+    {
+      "slug": "malabar-hill",
+      "name": "Malabar Hill / Walkeshwar",
+      "region": "South Mumbai",
+      "lat": 18.953,
+      "lng": 72.799,
+      "catalysts": [
+        {
+          "name": "Mumbai Coastal Road (Marine Drive to Worli / Bandra-Worli Sea Link)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/amp/mumbai/mumbai-coastal-road-project-bmc-to-open-southbound-connector-between-bwsl-and-marine-drive-cm-devendra-fadnavis-to-inaugurate-on-january-26"
+        },
+        {
+          "name": "Metro Line 3 (Aqua Line) full Cuffe Parade - Aarey JVLR corridor",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbais-metro-line-3-set-to-begin-full-operations-from-october-9-citys-first-underground-corridor-marks-a-historic-milestone"
+        },
+        {
+          "name": "Atal Setu (Mumbai Trans Harbour Link)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2024,
+          "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+        }
+      ],
+      "notes": "Mumbai's most exclusive residential hill, around Raj Bhavan and Walkeshwar Road. Lodha Malabar sold units at about Rs 1.17-1.45 lakh/sq ft in 2023-25, including the Rs 252 crore Bajaj triplex. In Jan 2026 Lodha bought development rights to another 4.3-acre Malabar / Cumballa Hill parcel for about Rs 106 crore (https://www.freepressjournal.in/mumbai/mumbai-real-estate-news-lodha-developers-acquires-43-acre-malabar-hill-land-development-rights-for-106-crore)."
+    }
+  ]
+}

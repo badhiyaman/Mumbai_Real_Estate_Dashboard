@@ -1,0 +1,122 @@
+{
+  "slug": "kalpataru-avana",
+  "name": "Kalpataru Avana",
+  "developer": "kalpataru",
+  "micro_market": "parel",
+  "address": "Off Dr. S.S. Rao Road / Dr. Walimbe Road, behind ITC Grand Central, Parel, Mumbai 400012",
+  "lat": 19.004,
+  "lng": 72.8395,
+  "towers": 1,
+  "floors_max": 57,
+  "total_units": 276,
+  "rera_ids": ["P51900000793"],
+  "status": "completed",
+  "launch_date": "2014-05-01",
+  "possession_promised": "2022-12-30",
+  "amenities": [
+    "Rooftop gymnasium",
+    "Indoor swimming pool and kids' pool",
+    "Squash and badminton courts",
+    "Spa and jacuzzi",
+    "Clubhouse and party hall",
+    "Amphitheatre",
+    "Observatory deck",
+    "Yoga area",
+    "Home automation",
+    "High-speed elevators"
+  ],
+  "description": "A single high-rise luxury residential building (North and South wings) by Kalpataru behind ITC Grand Central in Parel, with 3 BHK, 4 BHK and 5 BHK duplex homes. The developer highlights east-west orientation, 12'10\" floor-to-floor height and wide sundecks facing the eastern seaboard. Kalpataru lists it as completed with full Occupation Certificate received.",
+  "notes": "MahaRERA P51900000793 (RERA completion date 30 Dec 2022). Kalpataru's site says 'Full OC received', but no OC date was found. Listing sites say possession began around Sep-Dec 2022 and that the OC appears in Kalpataru's FY2022-23 annual report (not independently verified). Launch: Housing.com says May 2014 and Square Yards says April 2014. Older listings quoted possession of Dec 2020 or Dec 2021, which points to a delay of roughly 2 years against early marketing dates, though no news coverage of the delay was found. Floors conflict across listings (44, 50, 52, 'up to 57'; one says 2 basements + 6 podium + 40 habitable floors per tower), so floors_max of 57 is from a single aggregator citing MahaRERA. Units are 276 per RERA-derived data (Square Yards: 254 booked as of Nov 2025; another listing says 272). Land area also conflicts (2.3 / 2.4 / 0.33 acres), so it is omitted. No independent news coverage (launch, deals, litigation) was found for this project.",
+  "image_url": "https://d2j4tkbto6uvqv.cloudfront.net/kalpataru/5f99366366670.jpg",
+  "sources": [
+    "https://www.kalpataru.com/mumbai/kalpataru-avana",
+    "https://www.squareyards.com/mumbai-residential-property/kalpataru-avana/2803/project",
+    "https://www.mumbaipropertyexchange.com/project/kalpataru-avana-parel-by-493/9775",
+    "https://realtyhunting.com/kalpataru-avana-parel-mumbai/",
+    "https://housing.com/in/buy/resale/page/16193933-4-bhk-apartment-in-parel-for-rs-135000000"
+  ],
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1846,
+      "carpet_sqft_max": 1846,
+      "price_min_cr": 11.67,
+      "price_max_cr": 11.67,
+      "notes": "Square Yards asking price, Sep 2026. RealtyHunting describes a roughly 1,848 sq ft carpet unit as a 4 BHK at about Rs 13.5 Cr, so configuration labels differ between sources."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 2455,
+      "carpet_sqft_max": 2645,
+      "price_min_cr": 15.52,
+      "price_max_cr": 16.72,
+      "notes": "Square Yards asking price, Sep 2026."
+    },
+    {
+      "config": "5 BHK / duplex",
+      "carpet_sqft_min": 3855,
+      "carpet_sqft_max": 3855,
+      "price_min_cr": 24.36,
+      "price_max_cr": 24.36,
+      "notes": "Square Yards asking price, Sep 2026."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2025-03-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 52124,
+      "basis": "saleable",
+      "source_name": "Housing.com resale listing",
+      "source_url": "https://housing.com/in/buy/resale/page/16193933-4-bhk-apartment-in-parel-for-rs-135000000",
+      "confidence": "low",
+      "note": "Computed: 4 BHK listed at Rs 13.5 Cr on 2,590 sq ft built-up area (Housing shows Rs 52.12K/sq ft). Asking price, not a transaction."
+    },
+    {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 61950,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-avana/2803/project",
+      "confidence": "low",
+      "note": "Quarterly average asking price. Basis inferred as carpet because Square Yards' unit prices divided by carpet area match its per-sq-ft figure."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 63200,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-avana/2803/project",
+      "confidence": "low",
+      "note": "Average asking price for the Sep 2026 quarter; the Parel locality average was Rs 46,200."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 47900,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-avana/2803/project",
+      "confidence": "medium",
+      "note": "Average registered rate for Nov 2025-Oct 2026, based on only 2 sale registrations. It is well below asking prices of about Rs 63,000."
+    },
+    {
+      "date": "2026-10-06",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 73052,
+      "basis": "carpet",
+      "source_name": "RealtyHunting",
+      "source_url": "https://realtyhunting.com/kalpataru-avana-parel-mumbai/",
+      "confidence": "low",
+      "note": "Computed: a ~1,848 sq ft carpet 4 BHK quoted at about Rs 13.5 Cr (page updated 6 Oct 2026; described as indicative)."
+    }
+  ],
+  "news": []
+}

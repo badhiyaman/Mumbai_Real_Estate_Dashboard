@@ -1,0 +1,303 @@
+{
+  "slug": "oberoi-three-sixty-west",
+  "name": "Oberoi Three Sixty West",
+  "developer": "oberoi-realty",
+  "micro_market": "worli",
+  "address": "Dr Annie Besant Road (at Sadanand Hasu Tandel Marg), Worli, Mumbai 400025",
+  "lat": 19.0111,
+  "lng": 72.8234,
+  "land_acres": 1.58,
+  "towers": 2,
+  "floors_max": 66,
+  "total_units": 284,
+  "rera_ids": ["P51900012115"],
+  "status": "completed",
+  "possession_promised": "2022-06-30",
+  "possession_actual": "2023-05-29",
+  "amenities": [
+    "Access to The Ritz-Carlton hotel services",
+    "Residents' club (amenity design by Populous)",
+    "Swimming pool",
+    "Gymnasium",
+    "Kids' play area",
+    "Landscaped garden",
+    "Jogging track"
+  ],
+  "description": "A two-tower mixed-use development on Annie Besant Road, Worli, built by Oasis Realty, a joint venture of Oberoi Realty and the Sahana Group, with landowner partners. Kohn Pedersen Fox designed it and Samsung C&T built it. One tower houses The Ritz-Carlton Mumbai and the other holds branded sea-facing residences. It is one of India's costliest residential addresses, with developer realisations above Rs 1.2 lakh per sq ft of carpet in 2025 and 2026.",
+  "notes": "Promoter on MahaRERA: Oasis Realty, whose members are Oberoi Constructions, Sky Lark Buildcon, Shree Vrunda Enterprises and Astir Realty LLP. MahaRERA lists 284 units: Tower A 28 (carpet 817.48 to 1,084.73 sq m) and Tower B 256 (304.86 to 1,025.32 sq m). Land is 6,405.56 sq m, about 1.58 acres. Floors: CTBUH and Wikipedia give the residential Tower B as 260 m with 66 floors and Tower A as 255.6 m with 52 floors. Wikipedia's text is inconsistent about which tower holds the hotel, while news reports place the residences in Tower B. Construction started on 18 Jun 2011, the tower topped out in March 2019, and Wikipedia gives completion as 29 May 2023. possession_actual uses that completion date; the OC date itself was not found. possession_promised is the MahaRERA proposed completion date. launch_date is omitted because no dated launch was found. Units were selling by Nov 2014, when Abhishek Bachchan bought, and Square Yards' 'Sep 2017' looks like the RERA registration date. Total carpet area per Oberoi disclosures (via ICICI Direct) is 549,191 sq ft. Price spread: landowner-share inventory sells well below the developer's own sales. For example, Reliance's Sep 2026 duplex from the landowner partners came to about Rs 76,800/sq ft, against Oberoi's Rs 1.5 lakh+ in the same quarter. ICICI Direct notes that Q1FY27 had many resale and landowner sales, and that landowner inventory is now exhausted. Notable buyers and sellers: Abhishek Bachchan (bought 2014, sold 2021), Akshay Kumar and Twinkle Khanna (sold for Rs 80 crore in 2025), Siddhartha Sacheti (two units, Rs 160 crore, 2025), a Zandu promoter-family firm (Rs 110.41 crore, 2026) and Reliance Industries (Rs 75.11 crore duplex, 2026).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Three_Sixty_West",
+    "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-suburban/three-sixty-west-P51900012115",
+    "https://www.icicidirect.com/mailcontent/idirect_oberoirealty_q3fy26.pdf",
+    "https://mailcontent.icicidirect.com/mailcontent/idirect_oberoirealty_q1fy27.pdf",
+    "https://icicidirect.com/research/equity/trending-news/oberoi-realty-reports-healthy-sales-value",
+    "https://www.businesstoday.in/real-estate/story/reliance-industries-purchases-9781-sq-ft-luxury-duplex-in-mumbais-worli-for-rs75-11-crore-557600-2026-09-24",
+    "https://www.freepressjournal.in/mumbai/mumbai-real-estate-ex-promoter-family-of-zandu-pharmaceuticals-buys-11041-crore-luxury-apartment-in-worli",
+    "https://www.squareyards.com/mumbai-residential-property/oberoi-three-sixty-west/64854/project"
+  ],
+  "unit_types": [
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 5235,
+      "carpet_sqft_max": 6830,
+      "price_min_cr": 78.5,
+      "price_max_cr": 80,
+      "notes": "5,235 sq ft carpet asked at Rs 78.50 crore (Gupta & Sen listing). 6,130 sq ft carpet registered at Rs 80 crore (Oct 2025) and 6,830 sq ft carpet at Rs 80 crore (Jan 2025, resale). Square Yards shows a stale Rs 45 crore for 5,235 sq ft, which is ignored."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 6651,
+      "carpet_sqft_max": 7303,
+      "price_min_cr": 99,
+      "price_max_cr": 110.41,
+      "notes": "6,651 sq ft carpet asked at Rs 99 crore (Gupta & Sen listing). A 7,303 sq ft RERA carpet unit on the 62nd floor registered at Rs 110.41 crore from Oberoi Realty in Jul 2026. The configuration of the 7,303 sq ft unit is not stated in the report."
+    },
+    {
+      "config": "Duplex",
+      "carpet_sqft_min": 9781,
+      "carpet_sqft_max": 9781,
+      "price_min_cr": 75.11,
+      "price_max_cr": 75.11,
+      "notes": "A 49th/50th-floor duplex in Tower B, sold by landowner partners to Reliance Industries in Sep 2026."
+    },
+    {
+      "config": "Range per MahaRERA (all types)",
+      "carpet_sqft_min": 3281,
+      "carpet_sqft_max": 11676,
+      "notes": "Converted from MahaRERA carpet ranges of 304.86 to 1,025.32 sq m (Tower B) and 817.48 to 1,084.73 sq m (Tower A)."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2014-11-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 54657,
+      "basis": "unknown",
+      "source_name": "India TV News (citing registration documents of the 2021 resale)",
+      "source_url": "https://www.indiatvnews.com/amp/entertainment/celebrities/abhishek-bachchan-aishwarya-sell-luxurious-mumbai-apartment-for-rs-45-crore-726181",
+      "confidence": "medium",
+      "note": "Computed: Rs 41.14 crore / 7,527 sq ft, Abhishek Bachchan's purchase on the 37th floor in Nov 2014, as reported when he resold in 2021. The area basis is not stated and is pre-RERA."
+    },
+    {
+      "date": "2021-08-10",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 60781,
+      "basis": "unknown",
+      "source_name": "India TV News (citing registration documents)",
+      "source_url": "https://www.indiatvnews.com/amp/entertainment/celebrities/abhishek-bachchan-aishwarya-sell-luxurious-mumbai-apartment-for-rs-45-crore-726181",
+      "confidence": "high",
+      "note": "Computed: Rs 45.75 crore / 7,527 sq ft. Secondary sale of an under-construction unit (37th floor, 4 parking spaces, Rs 2.28 crore stamp duty)."
+    },
+    {
+      "date": "2022-09-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 83181,
+      "basis": "carpet",
+      "source_name": "ICICI Direct (Oberoi Realty Q2FY23 update)",
+      "source_url": "https://icicidirect.com/research/equity/trending-news/oberoi-realty-reports-healthy-sales-value",
+      "confidence": "medium",
+      "note": "Developer average realisation for Q2FY23 (Jul to Sep 2022): 8 units for Rs 610 crore, about 63% above the last sale recorded in FY21. ICICI Direct's Q2FY23 result PDF (https://www.icicidirect.com/mailimages/IDirect_OberoiRealty_Q2FY23.pdf, now 404) reportedly printed Rs 82,181, but Rs 83,181 matches the ICICI news note and HDFC Securities, and Rs 610 crore over 73,281 sq ft works out to about Rs 83,200."
+    },
+    {
+      "date": "2024-12-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 124115,
+      "basis": "carpet",
+      "source_name": "Oberoi Realty disclosures via ICICI Direct Q3FY26 result update",
+      "source_url": "https://www.icicidirect.com/mailcontent/idirect_oberoirealty_q3fy26.pdf",
+      "confidence": "medium",
+      "note": "Q3FY25 (Oct to Dec 2024) developer average realisation: 12,225 sq ft booked for Rs 152 crore. Values are read from a PDF table with misaligned columns and cross-checked as value / area."
+    },
+    {
+      "date": "2025-01-31",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 117130,
+      "basis": "carpet",
+      "source_name": "The Realty Today (citing IndexTap property documents)",
+      "source_url": "https://therealtytoday.com/news/akshay-kumar-and-twinkle-khanna-sell-oberoi-360-west-apartment-for-80-crore",
+      "confidence": "high",
+      "note": "Computed: Rs 80 crore / 6,830 sq ft RERA carpet. Akshay Kumar and Twinkle Khanna's 39th-floor Tower B unit with 4 parking spaces. The sale agreement was signed on 31 Jan 2025."
+    },
+    {
+      "date": "2025-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 144247,
+      "basis": "carpet",
+      "source_name": "Oberoi Realty disclosures via ICICI Direct Q3FY26 result update",
+      "source_url": "https://www.icicidirect.com/mailcontent/idirect_oberoirealty_q3fy26.pdf",
+      "confidence": "medium",
+      "note": "Q4FY25 (Jan to Mar 2025) developer average realisation: 36,961 sq ft booked for Rs 533 crore."
+    },
+    {
+      "date": "2025-06-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 143283,
+      "basis": "carpet",
+      "source_name": "Oberoi Realty disclosures via ICICI Direct Q1FY27 result update",
+      "source_url": "https://mailcontent.icicidirect.com/mailcontent/idirect_oberoirealty_q1fy27.pdf",
+      "confidence": "medium",
+      "note": "Q1FY26 (Apr to Jun 2025) developer average realisation: 14,911 sq ft booked."
+    },
+    {
+      "date": "2025-09-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 130995,
+      "basis": "carpet",
+      "source_name": "Oberoi Realty disclosures via ICICI Direct Q1FY27 result update",
+      "source_url": "https://mailcontent.icicidirect.com/mailcontent/idirect_oberoirealty_q1fy27.pdf",
+      "confidence": "medium",
+      "note": "Q2FY26 (Jul to Sep 2025) developer average realisation: 34,009 sq ft booked for about Rs 446 crore."
+    },
+    {
+      "date": "2025-10-22",
+      "date_precision": "day",
+      "stage": "completion",
+      "price_psf": 130506,
+      "basis": "carpet",
+      "source_name": "The Realty Today (citing Zapkey registration documents)",
+      "source_url": "https://therealtytoday.com/news/residential/siddhartha-sacheti-brother-of-caratlane-founder-purchases-160-crore-residences-in-oberoi-360-west-mumbai/",
+      "confidence": "high",
+      "note": "Computed: Rs 80 crore / 6,130 sq ft carpet, per unit. Siddhartha Sacheti bought two such units for Rs 160 crore. The date is the article date because the registration date is not stated, and the seller is not named, so this may be primary or resale."
+    },
+    {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 118047,
+      "basis": "carpet",
+      "source_name": "Oberoi Realty disclosures via ICICI Direct Q3FY26 result update",
+      "source_url": "https://www.icicidirect.com/mailcontent/idirect_oberoirealty_q3fy26.pdf",
+      "confidence": "medium",
+      "note": "Q3FY26 (Oct to Dec 2025) developer average realisation: 22,851 sq ft for Rs 270 crore. Analysts attribute recent ASP dips to the sale of lower-floor units."
+    },
+    {
+      "date": "2026-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 119870,
+      "basis": "carpet",
+      "source_name": "Oberoi Realty disclosures via ICICI Direct Q1FY27 result update",
+      "source_url": "https://mailcontent.icicidirect.com/mailcontent/idirect_oberoirealty_q1fy27.pdf",
+      "confidence": "medium",
+      "note": "Q4FY26 (Jan to Mar 2026) developer average realisation: 10,790 sq ft for Rs 129 crore."
+    },
+    {
+      "date": "2026-06-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 154658,
+      "basis": "carpet",
+      "source_name": "Oberoi Realty disclosures via ICICI Direct Q1FY27 result update",
+      "source_url": "https://mailcontent.icicidirect.com/mailcontent/idirect_oberoirealty_q1fy27.pdf",
+      "confidence": "medium",
+      "note": "Q1FY27 (Apr to Jun 2026) developer average realisation: 7,139 sq ft for Rs 110 crore. This matches the single 62nd-floor sale registered in Jul 2026."
+    },
+    {
+      "date": "2026-07-29",
+      "date_precision": "day",
+      "stage": "completion",
+      "price_psf": 151184,
+      "basis": "carpet",
+      "source_name": "Free Press Journal (citing Zapkey registration data)",
+      "source_url": "https://www.freepressjournal.in/mumbai/mumbai-real-estate-ex-promoter-family-of-zandu-pharmaceuticals-buys-11041-crore-luxury-apartment-in-worli",
+      "confidence": "high",
+      "note": "Computed: Rs 110.41 crore / 7,303 sq ft RERA carpet (663.27 sq m carpet plus 15.23 sq m adjacent area), on the 62nd floor of Tower B. The seller is Oberoi Realty. On 7,139 sq ft carpet alone the rate is about Rs 1.55 lakh/sq ft."
+    },
+    {
+      "date": "2026-09-11",
+      "date_precision": "day",
+      "stage": "completion",
+      "price_psf": 76792,
+      "basis": "carpet",
+      "source_name": "Business Today (citing Business Standard / Liases Foras documents)",
+      "source_url": "https://www.businesstoday.in/real-estate/story/reliance-industries-purchases-9781-sq-ft-luxury-duplex-in-mumbais-worli-for-rs75-11-crore-557600-2026-09-24",
+      "confidence": "high",
+      "note": "Computed: Rs 75.11 crore / 9,781 sq ft RERA carpet. Reliance Industries bought a 49th/50th-floor duplex in Tower B. The sellers were landowner partners Skylark Buildcon and Moon Rays Realty, which explains the rate far below Oberoi's own realisations."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 90600,
+      "basis": "unknown",
+      "source_name": "Square Yards (listing asking-price index, Q3 2026)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-three-sixty-west/64854/project",
+      "confidence": "low",
+      "note": "Average asking price. The same page reports registered sales from Nov 2025 to Oct 2026 averaging about Rs 1.30 lakh/sq ft, so portal asking prices sit below recent registered deals."
+    }
+  ],
+  "news": [
+    {
+      "date": "2011-08-23",
+      "title": "Oberoi Realty signs Samsung C&T for Worli project",
+      "url": "http://www.indiaprwire.com/pressrelease/real-estate/2011082395573.htm",
+      "source": "India PR Wire",
+      "event_type": "other",
+      "summary": "Samsung C&T appointed main contractor for Oberoi's Worli mixed-use towers, later named Three Sixty West. Construction began in June 2011."
+    },
+    {
+      "date": "2019-03-30",
+      "title": "Full moon finale for Mumbai's newest icon",
+      "url": "http://www.mumbaimirror.indiatimes.com/mumbai/cover-story/full-moon-finale-for-mumbais-newest-icon/articleshow/68642917.cms",
+      "source": "Mumbai Mirror",
+      "event_type": "other",
+      "summary": "Topping out of Three Sixty West, with the spire capped by a bronze Ashoka Chakra finial and a ceremony attended by CM Devendra Fadnavis. The date is approximate: March 2019 per Wikipedia."
+    },
+    {
+      "date": "2021-08-10",
+      "title": "Abhishek Bachchan, Aishwarya sell luxurious Mumbai apartment for Rs 45 crore",
+      "url": "https://www.indiatvnews.com/amp/entertainment/celebrities/abhishek-bachchan-aishwarya-sell-luxurious-mumbai-apartment-for-rs-45-crore-726181",
+      "source": "India TV News",
+      "event_type": "deal",
+      "summary": "Abhishek Bachchan sells his 7,527 sq ft 37th-floor apartment for Rs 45.75 crore. He bought it in Nov 2014 for Rs 41.14 crore."
+    },
+    {
+      "date": "2025-02-07",
+      "title": "Akshay Kumar and Twinkle Khanna Sell Oberoi 360 West Apartment for ₹80 Crore",
+      "url": "https://therealtytoday.com/news/akshay-kumar-and-twinkle-khanna-sell-oberoi-360-west-apartment-for-80-crore",
+      "source": "The Realty Today",
+      "event_type": "deal",
+      "summary": "A 6,830 sq ft (RERA carpet) 39th-floor Tower B unit sells for Rs 80 crore, about Rs 1.17 lakh/sq ft. The agreement was dated 31 Jan 2025, and the article date is approximate."
+    },
+    {
+      "date": "2025-10-22",
+      "title": "Siddhartha Sacheti, Brother of CaratLane Founder, Purchases ₹160-Crore Residences in Oberoi 360 West, Mumbai",
+      "url": "https://therealtytoday.com/news/residential/siddhartha-sacheti-brother-of-caratlane-founder-purchases-160-crore-residences-in-oberoi-360-west-mumbai/",
+      "source": "The Realty Today",
+      "event_type": "deal",
+      "summary": "Two units of 6,130 sq ft carpet each sell for Rs 80 crore apiece, about Rs 1.3 lakh/sq ft, per Zapkey."
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Oberoi Realty Q1FY27 result update: lower sales velocity at 360 West",
+      "url": "https://mailcontent.icicidirect.com/mailcontent/idirect_oberoirealty_q1fy27.pdf",
+      "source": "ICICI Direct Research",
+      "event_type": "other",
+      "summary": "Three Sixty West bookings fall to Rs 110 crore in Q1FY27, down 48% YoY. The company says landowner-share inventory has been exhausted, Ritz-Carlton interiors are targeted for completion by Q4FY27, and 360 West carries the highest margins in its portfolio."
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Mumbai Real Estate: Ex-Promoter Family Of Zandu Pharmaceuticals Buys ₹110.41 Crore Luxury Apartment In Worli",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-real-estate-ex-promoter-family-of-zandu-pharmaceuticals-buys-11041-crore-luxury-apartment-in-worli",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "A 62nd-floor Tower B unit of 7,303 sq ft RERA carpet is bought from Oberoi Realty for Rs 110.41 crore, about Rs 1.51 lakh/sq ft. It was registered on 29 Jul 2026."
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Reliance Industries purchases 9,781-sq-ft luxury duplex in Mumbai's Worli for Rs 75.11 crore",
+      "url": "https://www.businesstoday.in/real-estate/story/reliance-industries-purchases-9781-sq-ft-luxury-duplex-in-mumbais-worli-for-rs75-11-crore-557600-2026-09-24",
+      "source": "Business Today",
+      "event_type": "deal",
+      "summary": "Reliance Industries buys a 49th/50th-floor duplex from Oasis Realty's landowner partners for Rs 75.11 crore, about Rs 76,800/sq ft of carpet. It was registered on 11 Sep 2026."
+    }
+  ]
+}

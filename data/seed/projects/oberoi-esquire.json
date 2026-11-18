@@ -1,0 +1,156 @@
+{
+  "slug": "oberoi-esquire",
+  "name": "Oberoi Esquire",
+  "developer": "oberoi-realty",
+  "micro_market": "goregaon-east",
+  "address": "Oberoi Garden City, off Western Express Highway, Goregaon East, Mumbai 400063",
+  "lat": 19.1695,
+  "lng": 72.8605,
+  "towers": 3,
+  "total_units": 882,
+  "rera_ids": ["P51800005229"],
+  "status": "completed",
+  "launch_date": "2010-09-01",
+  "possession_promised": "2018-06-30",
+  "possession_actual": "2018-03-01",
+  "amenities": [
+    "Landscaped gardens",
+    "Swimming pool and kids' pool",
+    "Multipurpose hall",
+    "Gymnasium",
+    "Tennis / multipurpose court",
+    "Squash courts",
+    "Yoga room",
+    "Skating rink",
+    "Futsal court",
+    "Jogging track",
+    "Children's play area"
+  ],
+  "description": "Three high-rise residential towers (A, B and C) with 882 apartments in Oberoi Realty's Oberoi Garden City township in Goregaon East. Homes are 3 BHK and 4 BHK in Superior, Supreme and Royale configurations. Oberoi was ready to hand over possession in early 2018.",
+  "notes": "MahaRERA P51800005229 (registered 11 Aug 2017, completion date 30 Jun 2018; 882 units: Tower A 296, B 294, C 292). Launch date conflicts: Sep 2010 (Aurum PropTech), Oct 2010 (Housing.com), Feb 2011 (Mumbai Property Exchange, quoting the developer). possession_actual is approximate (month only), taken from a 16 Mar 2018 report that Oberoi was ready to hand over possession; Square Yards says 'ready to move since Dec 2017'. Floor count conflicts: Mumbai Property Exchange cites MahaRERA as up to 70 (A 70, B 70, C 69, probably including podium/parking levels), while its developer description says 51 storeys, so floors_max is omitted. Land area is also unclear: RERA shows 3,306.78 (units unspecified) and Aurum gives 0.82 acres, so it is omitted. Booking status varies by snapshot: 616 sold (PropScience), 609 of 882 (Square Yards, Apr 2026). Brokerage and Business Standard coverage (2015, 2017) credited Esquire with driving Oberoi's sales volumes and margins. No launch-era per-sq-ft price was found. Do not confuse this project with the older Oberoi Exquisite next door (2009 launch at Rs 9,500/sq ft).",
+  "sources": [
+    "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-suburban/esquire-P51800005229",
+    "https://www.mumbaipropertyexchange.com/project/oberoi-esquire-goregaon-east-by-oberoi-realty-ltd/5122",
+    "https://www.squareyards.com/mumbai-residential-property/oberoi-realty-esquire/2847/project",
+    "https://realtynmore.com/oberoi-realtys-premium-residential-project-esquire-at-goregaon-mumbai-ready-for-possession",
+    "https://www.sharekhan.com/MediaGalary/Equity/Oberoi-3R-Sept03_2021.pdf",
+    "https://housingman.com/projects/oberoi-esquire-mumbai"
+  ],
+  "unit_types": [
+    {
+      "config": "3 BHK (Superior / Supreme)",
+      "carpet_sqft_min": 1366,
+      "carpet_sqft_max": 1496,
+      "price_min_cr": 8.1,
+      "price_max_cr": 8.87,
+      "notes": "MahaRERA carpet areas are 1,367-1,496 sq ft. Prices are Square Yards asking prices (Sep 2026). A Mumbai Property Exchange price list dated 9 Jul 2026 shows Rs 5.3-6.6 Cr for 3 BHK, which conflicts with this."
+    },
+    {
+      "config": "4 BHK (Royale)",
+      "carpet_sqft_min": 2053,
+      "carpet_sqft_max": 2068,
+      "price_min_cr": 12.17,
+      "price_max_cr": 12.17,
+      "notes": "Square Yards asking price, Sep 2026."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2018-06-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 28350,
+      "basis": "unknown",
+      "source_name": "HousingMan project page",
+      "source_url": "https://housingman.com/projects/oberoi-esquire-mumbai",
+      "confidence": "low",
+      "note": "Rate shown on a project page last updated June 2018; it may be a developer or listing asking rate."
+    },
+    {
+      "date": "2021-06-30",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 22838,
+      "basis": "unknown",
+      "source_name": "Sharekhan research (Oberoi Realty inventory table, 3 Sep 2021)",
+      "source_url": "https://www.sharekhan.com/MediaGalary/Equity/Oberoi-3R-Sept03_2021.pdf",
+      "confidence": "medium",
+      "note": "Computed: unsold Esquire inventory of 197,919 sq ft valued at Rs 452 crore as of Q1 FY22, with the project 100% complete (source: company / Sharekhan). The table doesn't state the area basis; Oberoi reports on RERA carpet since FY18, so this may be carpet. It is lower than the 2018 HousingMan figure, and the gap is unexplained."
+    },
+    {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 57600,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-realty-esquire/2847/project",
+      "confidence": "low",
+      "note": "Quarterly average asking price; basis inferred as carpet because the unit prices divided by carpet area match."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 59300,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-realty-esquire/2847/project",
+      "confidence": "low",
+      "note": "Average asking price for the Sep 2026 quarter; the Goregaon East average was Rs 32,800."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 51500,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-realty-esquire/2847/project",
+      "confidence": "medium",
+      "note": "Average registered rate from 6 sale registrations, Nov 2025-Oct 2026 (gross value Rs 47 Cr)."
+    }
+  ],
+  "news": [
+    {
+      "date": "2015-01-19",
+      "title": "Oberoi Realty retains good quarter, strong launch momentum",
+      "url": "https://www.business-standard.com/article/companies/oberoi-realty-retains-good-quarter-strong-launch-momentum-115011900232_1.html",
+      "source": "Business Standard",
+      "event_type": "other",
+      "summary": "Contribution from the high-margin Esquire project helped lift Oberoi Realty's profit margins."
+    },
+    {
+      "date": "2017-08-11",
+      "title": "Esquire registered with MahaRERA (P51800005229)",
+      "url": "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-suburban/esquire-P51800005229",
+      "source": "MahaRERA data via Aurum PropTech",
+      "event_type": "rera",
+      "summary": "Registered as an ongoing project with 882 apartments across Towers A, B and C, with completion declared for 30 June 2018."
+    },
+    {
+      "date": "2017-10-19",
+      "title": "Strong earnings growth ahead for Oberoi Realty",
+      "url": "https://www.business-standard.com/article/companies/strong-earnings-growth-ahead-for-oberoi-realty-117101900242_1.html",
+      "source": "Business Standard",
+      "event_type": "other",
+      "summary": "Oberoi's sales volumes rose 77% quarter-on-quarter, led by Sky City (Borivali) and Esquire, which together made up 58% of volumes."
+    },
+    {
+      "date": "2018-03-16",
+      "title": "Oberoi Realty's premium residential project Esquire at Goregaon, Mumbai ready for possession",
+      "url": "https://realtynmore.com/oberoi-realtys-premium-residential-project-esquire-at-goregaon-mumbai-ready-for-possession",
+      "source": "Realty n More",
+      "event_type": "possession",
+      "summary": "Oberoi Realty announced the three-tower Esquire project was ready for possession."
+    },
+    {
+      "date": "2021-09-03",
+      "title": "Oberoi Realty: unsold inventory in completed projects (Sharekhan research)",
+      "url": "https://www.sharekhan.com/MediaGalary/Equity/Oberoi-3R-Sept03_2021.pdf",
+      "source": "Sharekhan",
+      "event_type": "other",
+      "summary": "Esquire still had about 197,919 sq ft of unsold inventory valued at Rs 452 crore as of Q1 FY22, three years after completion."
+    }
+  ]
+}

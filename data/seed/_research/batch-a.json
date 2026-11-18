@@ -1,0 +1,149 @@
+{
+  "developers": [
+    {
+      "slug": "lodha",
+      "name": "Lodha Developers Ltd (formerly Macrotech Developers)",
+      "founded_year": 1980,
+      "website": "https://www.lodhagroup.com",
+      "delivery_track_record": "Large Mumbai developer with a mixed record on flagship towers. Lodha The World Towers was marketed in 2010 as a 117-storey tower for 2015 delivery, but was capped at 76 floors by AAI height limits and completed around 2020. That led to MahaRERA complaints in 2018. Separately, a Maharashtra appellate tribunal ordered Lodha to register its New Cuffe Parade project with MahaRERA and pay delay interest.",
+      "notes": "Founded by Mangal Prabhat Lodha. Wikipedia gives 1980 and one source gives 1981. Macrotech Developers Ltd was renamed Lodha Developers Ltd on 16 Jun 2025. Sources: https://en.wikipedia.org/wiki/Lodha_Group ; https://www.dnaindia.com/business/report-dna-money-exclusive-lodha-world-one-buyers-move-rera-over-tallest-claim-2662522 ; https://therealtytoday.com/news/regulatory/maharashtra-tribunal-rules-in-favour-of-buyers-orders-lodha-group-to-register-new-cuffe-parade-project-with-maharera/"
+    },
+    {
+      "slug": "oberoi-realty",
+      "name": "Oberoi Realty Ltd",
+      "website": "https://www.oberoirealty.com",
+      "delivery_track_record": "Premium Mumbai developer. Three Sixty West (Worli), built through the Oasis Realty JV with the Sahana Group, started in 2011, topped out in 2019 and is listed as completed in 2023, against a MahaRERA completion date of 30 Jun 2022. Developer realisations there were Rs 1.18 to 1.55 lakh per sq ft of carpet in FY25 to FY27, per company data reported by ICICI Direct.",
+      "notes": "Founder and chairman Vikas Oberoi. Founding year not confirmed from a source, so it is left out. Brokers note it held prices in Goregaon and Borivali through FY26. Its first NCR project, Three Sixty North in Gurugram, booked about Rs 8,109 crore in 2026. Sources: https://en.wikipedia.org/wiki/Three_Sixty_West ; https://www.icicidirect.com/mailcontent/idirect_oberoirealty_q3fy26.pdf ; https://mailcontent.icicidirect.com/mailcontent/idirect_oberoirealty_q1fy27.pdf"
+    },
+    {
+      "slug": "omkar-realtors",
+      "name": "Omkar Realtors & Developers Pvt Ltd",
+      "delivery_track_record": "Slum-redevelopment (SRA) focused developer with a weak delivery record. Omkar 1973 Tower C, promised for 2019-2020, led to MahaRERA and appellate tribunal refund and interest orders as late as 2026. The Bombay High Court halted Omkar 1973 free-sale agreements in 2021 over unpaid rent to slum dwellers. MahaRERA consumer and recovery actions also cover other Omkar projects, such as Alta Monte in Malad.",
+      "notes": "Promoters: Kamal Kishore Gupta (chairman) and Babulal Varma (MD). One report says the firm was formed in 2003 by Gujarat-based contractors, but this is unverified, so founded_year is left out. The ED arrested both promoters in Jan 2021 in a Yes Bank loan / SRA money-laundering case and later charge-sheeted them; a later report says a special court discharged them. Sources: https://www.pressreader.com/india/hindustan-times-st-mumbai/20210128/281663962677092 ; https://www.freepressjournal.in/mumbai/mumbai-posh-worli-project-under-scanner-further-sales-on-hold ; https://squarefeatindia.com/omkar-1973-builder-delayed-possession-maharera-denied-interest-cut-2-tribunal-grants-full-refund-interest/"
+    },
+    {
+      "slug": "indiabulls-real-estate",
+      "name": "Indiabulls Real Estate Ltd (renamed Equinox India Developments in 2024, now Embassy Developments Ltd)",
+      "website": "https://embassyindia.com",
+      "delivery_track_record": "Legacy Indiabulls projects were delayed. Indiabulls Blu (Worli) received occupation certificates in phases between 2018 and 2022, against MahaRERA completion dates of Dec 2021 and Jun 2022. In Oct 2025 Embassy said it had delivered six long-stalled legacy projects to about 3,000 families. MahaRERA ordered delay interest on Indiabulls Park 2 (Panvel).",
+      "notes": "Renamed Equinox India Developments (BSE filing 20 Jun 2024). NAM Estates (Embassy Group) merged in effective 24 Jan 2025, making Embassy the promoter with 41.4%. Renamed Embassy Developments Ltd from 13 Feb 2025. Sources: https://www.angelone.in/news/share-market/indiabulls-real-estate-will-be-renamed-equinox-india-developments ; https://nsearchives.nseindia.com/corporate/IBREL_24012025193828_EMBDL_PressRelease.pdf ; https://realtynmore.com/embassy-developments-delivers-six-long-stalled-legacy-projects-to-3000-families/ ; https://www.livelaw.in/consumer-cases/maharashtra-rera-orders-builder-interest-homebuyers-indiabulls-park-2-delayed-possession-264058"
+    },
+    {
+      "slug": "k-raheja-corp",
+      "name": "K Raheja Corp",
+      "website": "https://www.krahejacorp.com",
+      "delivery_track_record": "Delivered the five-tower Raheja Vivarea (Mahalaxmi) in phases: Vivarea 1 from 2008 to 2012, Vivarea 4 from 2014 to 2018, Building 2 with a RERA completion of Jun 2019, and Tower E with a RERA completion of Jun 2024. Raheja Modern Vivarea drew Rs 1,100 crore of pre-launch sales in 2023.",
+      "notes": "Residential arm: K Raheja Corp Homes. Founding year not confirmed from a source, so it is left out. Sources: https://www.krahejacorphomes.com/project/3-bhk-flats-in-mahalaxmi-south-mumbai/ ; https://www.skyscrapercenter.com/building/raheja-vivarea-1/12648 ; https://www.business-standard.com/companies/news/k-raheja-corp-sells-luxury-homes-worth-rs-1-100-cr-in-single-project-123060900706_1.html"
+    }
+  ],
+  "micro_markets": [
+    {
+      "slug": "worli",
+      "name": "Worli",
+      "region": "South Central Mumbai",
+      "catalysts": [
+        {
+          "name": "Mumbai Coastal Road (Marine Drive to Worli, linked to Bandra-Worli Sea Link)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://indianinfrastructure.com/2025/01/27/mumbai-coastal-roads-northbound-bridge-to-bandra-worli-sea-link-gets-inaugurated/"
+        },
+        {
+          "name": "Mumbai Metro Line 3 (Aqua Line), Cuffe Parade to Aarey, fully open; Worli stretch to Cuffe Parade opened Oct 2025",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+        },
+        {
+          "name": "Worli-Sewri Elevated Connector (links Worli to Atal Setu at Sewri, incl. Elphinstone double-decker bridge)",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://propnewstime.com/latestnewsstories/MzM3NzE=/sewri-worli-connector-opening-pushed-to-early-2027-as-construction-timeline-extends"
+        },
+        {
+          "name": "Atal Setu / Mumbai Trans Harbour Link (Sewri to Nhava Sheva)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2024,
+          "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+        }
+      ],
+      "notes": "Anarock data reported in Dec 2025 put Worli at about Rs 5,500 crore of ultra-luxury deals over two years, making it India's largest ultra-luxury housing market (https://www.business-standard.com/industry/news/worli-leads-indias-ultra-luxury-housing-boom-125120401114_1.html). Premium towers are quoted at Rs 65,000 to over Rs 1 lakh per sq ft. Coastal Road timeline: the southbound arm (Worli to Marine Drive) opened on 11 Mar 2024, the northbound connector to the Sea Link opened in Sep 2024 and Jan 2025, and full opening awaited the Prabhadevi connector, targeted for Feb 2025 (https://theprint.in/india/coastal-road-to-be-fully-open-to-mumbaikars-on-completion-of-prabhadevi-connector-in-feb-fadnavis/2464216/). Worli-Sewri connector: earlier targets were Sep 2026 and end-2026, and a Jul 2026 report says early 2027. No official MMRDA date was found."
+    },
+    {
+      "slug": "lower-parel",
+      "name": "Lower Parel",
+      "region": "South Central Mumbai",
+      "catalysts": [
+        {
+          "name": "Worli-Sewri Elevated Connector (incl. new double-decker Elphinstone/Prabhadevi bridge between Lower Parel and Parel)",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://propnewstime.com/latestnewsstories/MzM3NzE=/sewri-worli-connector-opening-pushed-to-early-2027-as-construction-timeline-extends"
+        },
+        {
+          "name": "Mumbai Metro Line 3 (Aqua Line), fully operational",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+        },
+        {
+          "name": "Atal Setu / Mumbai Trans Harbour Link (Sewri to Nhava Sheva)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2024,
+          "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+        },
+        {
+          "name": "Mumbai Coastal Road (Marine Drive to Worli / Bandra-Worli Sea Link)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://indianinfrastructure.com/2025/01/27/mumbai-coastal-roads-northbound-bridge-to-bandra-worli-sea-link-gets-inaugurated/"
+        }
+      ],
+      "notes": "A former mill district (for example the Shrinivas Mills site under Lodha The World Towers) redeveloped into offices and luxury towers along Senapati Bapat Marg. A Homebazaar locality series shows Senapati Bapat Marg asking rates rising from about Rs 30,600/sq ft (2016) to Rs 52,450/sq ft (2025) (https://www.homebazaar.com/lodha-world-towers-lower-parel-274); these are listing data with low confidence. Several Lower Parel towers, including World One and Indiabulls Blu, are marketed as 'Worli'."
+    },
+    {
+      "slug": "mahalaxmi",
+      "name": "Mahalaxmi",
+      "region": "South Mumbai",
+      "catalysts": [
+        {
+          "name": "Mumbai Metro Line 3 (Aqua Line), fully operational, with a station at Mahalaxmi",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+        },
+        {
+          "name": "Mumbai Coastal Road (Marine Drive to Worli / Bandra-Worli Sea Link)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://indianinfrastructure.com/2025/01/27/mumbai-coastal-roads-northbound-bridge-to-bandra-worli-sea-link-gets-inaugurated/"
+        },
+        {
+          "name": "Atal Setu / Mumbai Trans Harbour Link (Sewri to Nhava Sheva)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2024,
+          "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+        },
+        {
+          "name": "Worli-Sewri Elevated Connector",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://propnewstime.com/latestnewsstories/MzM3NzE=/sewri-worli-connector-opening-pushed-to-early-2027-as-construction-timeline-extends"
+        }
+      ],
+      "notes": "A racecourse-facing luxury pocket around Jacob Circle and Sane Guruji Marg, including Raheja Vivarea and the newer Raheja Modern Vivarea on former Modern Mills land. Portal asking averages for Mahalaxmi range from about Rs 60,600 to 73,000/sq ft in 2026 (Square Yards, Mumbai Property Exchange; low confidence). Mumbai Property Exchange cites a government ready reckoner rate of about Rs 19,800/sq ft carpet (https://www.mumbaipropertyexchange.com/project/vivarea-a-b-c-mahalaxmi-by-k-raheja-corp/3240). The Metro 3 station name is from general line maps and was not separately verified in a fetched source."
+    }
+  ]
+}

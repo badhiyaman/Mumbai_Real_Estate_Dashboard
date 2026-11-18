@@ -1,0 +1,172 @@
+{
+  "slug": "lodha-altamount",
+  "name": "Lodha Altamount",
+  "developer": "lodha",
+  "micro_market": "altamount-road",
+  "address": "Washington House site, S.K. Barodawalla Marg (Altamount Road), opposite Antilia, Cumballa Hill, Mumbai 400026",
+  "lat": 18.96831,
+  "lng": 72.81042,
+  "land_acres": 0.67,
+  "towers": 1,
+  "floors_max": 40,
+  "total_units": 52,
+  "rera_ids": [],
+  "status": "completed",
+  "launch_date": "2013-06-01",
+  "possession_promised": "2017-04-01",
+  "amenities": [
+    "Gymnasium",
+    "Spa",
+    "Outdoor infinity pool",
+    "Movie lounge",
+    "Boardroom",
+    "24x7 residence manager, valet, bellboy and doorman",
+    "In-house Lodha hospitality team",
+    "Multi-level podium parking"
+  ],
+  "description": "A black-glass luxury tower on Altamount Road, built on the former Washington House plot that Lodha bought from the US government in 2012, directly opposite Mukesh Ambani's Antilia. It has about 52 residences, roughly one per floor, as four-bedroom homes, five-bedroom duplexes and villas. Architect Hadi Teherani designed the tower. In 2015 it set India's per-sq-ft price record at Rs 1.6 lakh/sq ft.",
+  "notes": "Land: Lodha bought the 2,702 sq m Washington House plot from the US Consulate in December 2012 for about Rs 341.8 crore, outbidding Mahindra Lifespaces and Tata Housing (Domain-B instead reports Rs 375 crore). land_acres is converted from 2,702 sq m; listing sites say 'half an acre'. Height: DNA/Domain-B say 40 storeys including 8 podium levels; Wikipedia says 43 floors including 8 podium floors, 195 m. Units: 52 (Wikipedia) vs 53 (Domain-B, 2015). Launch date is from a listing site (June 2013); another listing says February 2013. Domain-B (Nov 2015) said completion was expected in April 2017. Wikipedia gives 2017 as the completion year, and DNA (June 2019) reported the occupation certificate had been received and families were doing interiors, so actual possession was around 2019; no exact date found. In September 2016 the Indian Express reported a dispute with the BMC over a Public Parking Lot FSI incentive; the state Urban Development department allowed Lodha to build the 38th floor. Notable deals: a ~10,000 sq ft duplex sold for Rs 160 crore in Nov 2015 (buyer reported as the Jindal family of Jindal Drugs, unconfirmed); Deven Mehta reportedly paid Rs 114.35 crore for flats on the 30th and 31st floors (DNA, 2017); MSwipe founder Manish Patel paid Rs 38.08 crore in 2019. No MahaRERA ID was found for this project.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lodha_Altamount",
+    "https://www.domain-b.com/industry/Real_estate/20151126_building.html",
+    "https://www.dnaindia.com/mumbai/report-altamount-rd-flat-goes-for-record-rs-135-l-per-sq-ft-2497975/amp",
+    "https://dnaindia.com/mumbai/report-in-2019-s-priciest-deal-tech-firm-founder-pays-rs129-lsq-ft-for-sobo-flat-2762096",
+    "https://www.lodhagroup.com/lodha-luxury/lodha-altamount",
+    "https://www.mumbaipropertyexchange.com/project/lodha-altamount-altamount-road-by-504/19221",
+    "https://www.homebazaar.com/lodha-altamount-tardeo-1147",
+    "https://realestatemumbai.com/3-bhk-flat-for-sale-in-lodha-altamount-tardeo-9712555"
+  ],
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1782,
+      "carpet_sqft_max": 2300,
+      "price_min_cr": 22.14,
+      "price_max_cr": 29,
+      "notes": "1,782 sq ft carpet at Rs 22.14 Cr onwards (HomeBazaar, undated); a 2,300 sq ft carpet 3 BHK was listed at Rs 29 Cr in Nov 2026 (realestatemumbai.com asking price)."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 2952,
+      "carpet_sqft_max": 4600,
+      "price_min_cr": 38.08,
+      "price_max_cr": 58,
+      "notes": "2,952 sq ft flat sold for Rs 38.08 Cr in 2019 (DNA; area basis not stated). A 4,600 sq ft carpet 4 BHK was listed at Rs 58 Cr in Nov 2026 (asking price)."
+    },
+    {
+      "config": "5 BHK duplex / villa",
+      "carpet_sqft_min": 10000,
+      "carpet_sqft_max": 10000,
+      "price_min_cr": 160,
+      "price_max_cr": 160,
+      "notes": "The ~10,000 sq ft duplex on floors 34-35 sold for Rs 160 Cr in Nov 2015 (Domain-B/ET); area basis not stated."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2015-01-01",
+      "date_precision": "year",
+      "stage": "under_construction",
+      "price_psf": 141543,
+      "basis": "unknown",
+      "source_name": "Wikipedia (Lodha Altamount)",
+      "source_url": "https://en.wikipedia.org/wiki/Lodha_Altamount",
+      "confidence": "low",
+      "note": "Wikipedia says this was the previous record sale in the same building before the Nov 2015 Rs 1.6 lakh/sq ft deal. The exact date isn't given; it may be the Oct 2015 Rs 40 crore sale reported by Mint (not verified)."
+    },
+    {
+      "date": "2015-11-26",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 160000,
+      "basis": "unknown",
+      "source_name": "Domain-B / Economic Times",
+      "source_url": "https://www.domain-b.com/industry/Real_estate/20151126_building.html",
+      "confidence": "medium",
+      "note": "Rs 160 crore for a ~10,000 sq ft duplex on the 34th and 35th floors, reported as India's biggest apartment deal at the time. ET story: https://economictimes.indiatimes.com/wealth/real-estate/news/lodha-group-sells-super-luxury-duplex-apartment-in-mumbai-for-rs-160-crore/articleshow/49928324.cms"
+    },
+    {
+      "date": "2017-07-11",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 135176,
+      "basis": "carpet",
+      "source_name": "DNA India",
+      "source_url": "https://www.dnaindia.com/mumbai/report-altamount-rd-flat-goes-for-record-rs-135-l-per-sq-ft-2497975/amp",
+      "confidence": "medium",
+      "note": "Computed: Rs 57.45 crore for two flats totalling 4,250 sq ft carpet (DNA rounds this to Rs 1.35 lakh/sq ft). Stamp duty of Rs 2.87 crore was paid, per registration documents cited by DNA."
+    },
+    {
+      "date": "2019-06-18",
+      "date_precision": "day",
+      "stage": "completion",
+      "price_psf": 129000,
+      "basis": "unknown",
+      "source_name": "DNA India",
+      "source_url": "https://dnaindia.com/mumbai/report-in-2019-s-priciest-deal-tech-firm-founder-pays-rs129-lsq-ft-for-sobo-flat-2762096",
+      "confidence": "medium",
+      "note": "Rs 38.08 crore for a 2,952 sq ft bare-shell flat on the 15th floor of A-wing (Manish Patel, MSwipe). Stamp duty Rs 2.28 crore. The building had received its OC. A broker quoted in the same story put typical rates in the building at Rs 70,000 to 1 lakh/sq ft."
+    },
+    {
+      "date": "2026-11-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 126087,
+      "basis": "carpet",
+      "source_name": "realestatemumbai.com listing",
+      "source_url": "https://realestatemumbai.com/3-bhk-flat-for-sale-in-lodha-altamount-tardeo-9712555",
+      "confidence": "low",
+      "note": "Computed from asking prices: 4 BHK of 4,600 sq ft carpet at Rs 58 Cr, and 3 BHK of 2,300 sq ft carpet at Rs 29 Cr (both work out to the same rate). These are listings, not transactions."
+    }
+  ],
+  "news": [
+    {
+      "date": "2012-12-01",
+      "title": "Prime Altamount Road property of US consulate sells for Rs 342 crore",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/Prime-Altamont-Road-property-of-US-consulate-sells-for-Rs-342-crore/articleshow/17577670.cms",
+      "source": "Times of India",
+      "event_type": "other",
+      "summary": "Lodha won the US Consulate's Washington House plot on Altamount Road for about Rs 341.8 crore, outbidding Mahindra Lifespaces and Tata Housing. The day of the month is approximate."
+    },
+    {
+      "date": "2015-10-21",
+      "title": "Lodha sells super luxury apartment in South Mumbai for Rs40 crore",
+      "url": "https://www.livemint.com/Companies/7aZbWLCnrw9kgxiVIwxM7O/Lodha-sells-super-luxury-apartment-in-South-Mumbai-for-Rs40.html",
+      "source": "Mint",
+      "event_type": "deal",
+      "summary": "Mint reported a Rs 40 crore apartment sale in the under-construction Altamount tower (article body not retrieved)."
+    },
+    {
+      "date": "2015-11-26",
+      "title": "Lodha Group sells super luxury duplex apartment in Mumbai for Rs 160 crore",
+      "url": "https://economictimes.indiatimes.com/wealth/real-estate/news/lodha-group-sells-super-luxury-duplex-apartment-in-mumbai-for-rs-160-crore/articleshow/49928324.cms",
+      "source": "The Economic Times",
+      "event_type": "deal",
+      "summary": "A ~10,000 sq ft duplex on the 34th and 35th floors sold for Rs 160 crore (Rs 1.6 lakh/sq ft), a national per-sq-ft record at the time. The buyer was reported to be the Jindal family of Jindal Drugs."
+    },
+    {
+      "date": "2016-09-01",
+      "title": "Mumbai: Altamount Road project in tussle with BMC, Lodha firm gets support of CM-led dept",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-altamount-road-project-in-tussle-with-bmc-lodha-firm-gets-support-of-cm-led-dept-3031578/",
+      "source": "The Indian Express",
+      "event_type": "litigation",
+      "summary": "In a dispute with the BMC over a Public Parking Lot FSI incentive, the state Urban Development department allowed Lodha to build the 38th floor. The day of the month is approximate."
+    },
+    {
+      "date": "2017-07-11",
+      "title": "Mumbai: Altamount Road flat goes for record Rs 1.35 L per sq ft",
+      "url": "https://www.dnaindia.com/mumbai/report-altamount-rd-flat-goes-for-record-rs-135-l-per-sq-ft-2497975/amp",
+      "source": "DNA India",
+      "event_type": "deal",
+      "summary": "A tax-advisory CEO paid Rs 57.45 crore for two flats totalling 4,250 sq ft carpet. The same report says Deven Mehta paid Rs 114.35 crore for flats on the 30th and 31st floors."
+    },
+    {
+      "date": "2019-06-18",
+      "title": "In 2019's priciest deal, tech firm founder pays Rs 1.29 L/sq ft for SoBo flat",
+      "url": "https://dnaindia.com/mumbai/report-in-2019-s-priciest-deal-tech-firm-founder-pays-rs129-lsq-ft-for-sobo-flat-2762096",
+      "source": "DNA India",
+      "event_type": "possession",
+      "summary": "MSwipe's Manish Patel bought a 2,952 sq ft flat for Rs 38.08 crore. The report says the tower had received its occupation certificate and residents were starting interiors."
+    }
+  ]
+}

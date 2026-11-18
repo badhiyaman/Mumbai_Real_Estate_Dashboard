@@ -1,0 +1,166 @@
+{
+  "slug": "indiabulls-blu",
+  "name": "Indiabulls Blu (Blu Estate & Club)",
+  "developer": "indiabulls-real-estate",
+  "micro_market": "worli",
+  "address": "Dr E Moses Road / Ganpatrao Kadam Marg, Worli Naka, Worli, Mumbai 400018",
+  "land_acres": 10.8,
+  "towers": 4,
+  "total_units": 374,
+  "rera_ids": ["P51900000469", "P51900000473", "P51900000843", "P51900000871"],
+  "status": "completed",
+  "launch_date": "2012-05-01",
+  "possession_promised": "2021-12-30",
+  "possession_actual": "2022-01-01",
+  "amenities": [
+    "Swimming pool",
+    "Indoor pool",
+    "Gymnasium",
+    "Spa",
+    "Yoga and pilates rooms",
+    "Tennis and squash courts",
+    "Badminton court",
+    "Cricket net",
+    "Kids' play area",
+    "Jogging / walking track",
+    "Banquet hall",
+    "Café",
+    "Chihuly art installation"
+  ],
+  "description": "A four-tower luxury residential estate (Towers A to D) at Worli Naka by Indiabulls Real Estate. The company is now Embassy Developments, renamed Equinox India Developments in 2024 and Embassy Developments in 2025. Launched around 2012 and since marketed as Blu Estate & Club, it offers 2 to 5 BHK homes and large sea-view residences. Embassy says the 374 residences received occupation certificates in phases between 2018 and 2022.",
+  "notes": "Developer entity on MahaRERA: Indiabulls Infraestate Ltd. The 53rd-floor sale to Madhuri Dixit was by Calleis Land Development Pvt Ltd. RERA IDs: Tower A P51900000469 and Tower B P51900000473 (aggregators say OC received), Tower C P51900000843 and Tower D P51900000871. Tower D is a 72-unit wing of up to 41 floors with proposed completion in Jun 2022. Original RERA completion dates were 30 Dec 2021 for Towers A to C and 30 Jun 2022 for Tower D. possession_actual is year-only and is the last OC phase per Embassy (Oct 2025). Land: 10.8 acres and 1.4 mn sq ft per Embassy's Oct 2025 release (likely the whole estate). Square Yards says 10 acres and HomeBazaar says 0.9 acres. Units: 374 per Embassy and 384 per Square Yards. Floors are left out: Madhuri Dixit's unit is on the 53rd floor of Tower C, while forum and listing sources variously cite 53, 50, 46, 31 and 56 storeys. Launch: listing portals give May 2012 (Aurum, ClicBrics) and June 2012 for Towers A and C (Prophunt), and no contemporaneous launch price was found. Price conflict: portal asking prices (about Rs 78,500 to 86,550/sq ft in 2025-26) are more than double the registered medians shown by Property Butler and Square Yards (about Rs 37,400/sq ft). That suggests the registered figures use a different area basis or a different unit mix. An Aug 2020 Embassy-IBREL merger deck lists Blu Estate & Club with about 0.2 mn sq ft completed (OC received) and about 0.1 mn sq ft under development. Madhuri Dixit previously leased a 29th-floor flat here for Rs 12.5 lakh a month.",
+  "sources": [
+    "https://realtynmore.com/embassy-developments-delivers-six-long-stalled-legacy-projects-to-3000-families/",
+    "https://www.squareyards.com/mumbai-residential-property/indiabulls-blu/2820/project",
+    "https://www.mumbaipropertyexchange.com/maharera-project/indiabulls-blu-tower-d/P51900000871",
+    "https://business-standard.com/amp/article/entertainment/madhuri-dixit-buys-apartment-worth-rs-48-crore-in-mumbai-s-lower-parel-122100500692_1.html",
+    "https://homebazaar.com/knowledge/madhuri-dixit-nenes-new-luxurious-sea-view-apartment-in-mumbai/",
+    "https://propertybutler.in/building/indiabulls-blu",
+    "https://financialfilings.com/de/filings/embassy-developments-limited/investor-presentation/2021/56659119/"
+  ],
+  "unit_types": [
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 809,
+      "carpet_sqft_max": 1295,
+      "price_min_cr": 7.0,
+      "price_max_cr": 11.21,
+      "notes": "Square Yards asking prices, Sep 2026, excluding charges."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1007,
+      "carpet_sqft_max": 1577,
+      "price_min_cr": 8.72,
+      "price_max_cr": 13.65,
+      "notes": "Square Yards asking prices, Sep 2026, excluding charges."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1627,
+      "carpet_sqft_max": 2128,
+      "price_min_cr": 14.08,
+      "price_max_cr": 19.15,
+      "notes": "1,627 sq ft at Rs 14.08 crore (Square Yards) and 2,128 sq ft at Rs 19.15 crore (Property Butler listing, Nov 2026). These are asking prices."
+    },
+    {
+      "config": "Large sea-view residence",
+      "carpet_sqft_min": 5384,
+      "carpet_sqft_max": 5384,
+      "price_min_cr": 48,
+      "price_max_cr": 48,
+      "notes": "Madhuri Dixit's 53rd-floor Tower C unit with 7 parking spaces, registered Sep 2022. The area basis is not stated."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2020-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 63579,
+      "basis": "unknown",
+      "source_name": "Property Butler (registered-deed quarterly median)",
+      "source_url": "https://propertybutler.in/building/indiabulls-blu",
+      "confidence": "low",
+      "note": "2020-Q1 median of registered sale deeds. Property Butler says many quarters rest on only 1 to 6 deals, so the series is volatile."
+    },
+    {
+      "date": "2022-09-28",
+      "date_precision": "day",
+      "stage": "completion",
+      "price_psf": 89153,
+      "basis": "unknown",
+      "source_name": "Business Standard (citing registration documents via Zapkey)",
+      "source_url": "https://business-standard.com/amp/article/entertainment/madhuri-dixit-buys-apartment-worth-rs-48-crore-in-mumbai-s-lower-parel-122100500692_1.html",
+      "confidence": "high",
+      "note": "Computed: Rs 48 crore / 5,384 sq ft. Madhuri Dixit-Nene's 53rd-floor Tower C unit, bought from Calleis Land Development (a developer-side entity) with Rs 2.4 crore stamp duty. Reports differ on whether it was booked on 8 Sep or registered on 28 Sep 2022. One report rounds the rate to about Rs 90,000/sq ft."
+    },
+    {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 78500,
+      "basis": "unknown",
+      "source_name": "Square Yards (listing asking-price index)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/indiabulls-blu/2820/project",
+      "confidence": "low",
+      "note": "Average asking price for Dec 2025, from the page's quarterly trend table."
+    },
+    {
+      "date": "2026-03-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 37389,
+      "basis": "unknown",
+      "source_name": "Property Butler (registered-deed median, trailing 12 months)",
+      "source_url": "https://propertybutler.in/building/indiabulls-blu",
+      "confidence": "low",
+      "note": "Median of 136 registered sales over the trailing 12 months, with outliers trimmed (range Rs 35,936 to 50,183/sq ft), labelled 2026-Q1. Square Yards reports a similar average registered rate of Rs 37,400/sq ft (2 deals, Nov 2025 to Oct 2026). Both conflict sharply with asking prices of about Rs 80,000+, probably because the area basis or unit mix differs. Use with caution."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 86550,
+      "basis": "unknown",
+      "source_name": "Square Yards (listing asking-price index, Q3 2026)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/indiabulls-blu/2820/project",
+      "confidence": "low",
+      "note": "Average asking price, down 1.1% QoQ from Rs 87,550 in Jun 2026. Unit asking prices (for example a 2 BHK of 809 sq ft carpet at Rs 7 crore, about Rs 86,500/sq ft) suggest a carpet basis."
+    }
+  ],
+  "news": [
+    {
+      "date": "2022-10-05",
+      "title": "Madhuri Dixit buys apartment worth Rs 48 crore in Mumbai's Lower Parel",
+      "url": "https://business-standard.com/amp/article/entertainment/madhuri-dixit-buys-apartment-worth-rs-48-crore-in-mumbai-s-lower-parel-122100500692_1.html",
+      "source": "Business Standard",
+      "event_type": "deal",
+      "summary": "Madhuri Dixit-Nene buys a 5,384 sq ft 53rd-floor sea-view apartment in Indiabulls Blu for Rs 48 crore, with seven parking spaces."
+    },
+    {
+      "date": "2024-06-20",
+      "title": "Indiabulls Real Estate Will Be Renamed Equinox India Developments",
+      "url": "https://www.angelone.in/news/share-market/indiabulls-real-estate-will-be-renamed-equinox-india-developments",
+      "source": "Angel One",
+      "event_type": "other",
+      "summary": "Indiabulls Real Estate, the developer of Blu, is renamed Equinox India Developments. The BSE filing is dated 20 Jun 2024, and one report gives 8 Jul 2024 as the effective date."
+    },
+    {
+      "date": "2025-01-24",
+      "title": "Completion of merger of NAM Estates (Embassy Group entity) with the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/IBREL_24012025193828_EMBDL_PressRelease.pdf",
+      "source": "NSE filing (company press release)",
+      "event_type": "other",
+      "summary": "The Embassy Group's NAM Estates merges into Equinox India, with Embassy becoming promoter at a 41.4% stake. The company is renamed Embassy Developments from 13 Feb 2025."
+    },
+    {
+      "date": "2025-10-07",
+      "title": "Embassy Developments Delivers Six Long-Stalled Legacy Projects to 3,000 Families",
+      "url": "https://realtynmore.com/embassy-developments-delivers-six-long-stalled-legacy-projects-to-3000-families/",
+      "source": "Realty n More",
+      "event_type": "possession",
+      "summary": "Embassy says Blu Estate & Club, Worli (10.8 acres, 1.4 mn sq ft, 374 residences) received OCs in phases between 2018 and 2022, and that condominium elections are being scheduled for handover to residents."
+    }
+  ]
+}

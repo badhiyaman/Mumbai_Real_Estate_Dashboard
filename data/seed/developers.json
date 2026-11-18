@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "indiabulls-real-estate",
+    "name": "Indiabulls Real Estate Ltd (renamed Equinox India Developments in 2024, now Embassy Developments Ltd)",
+    "website": "https://embassyindia.com",
+    "delivery_track_record": "Legacy Indiabulls projects were delayed. Indiabulls Blu (Worli) received occupation certificates in phases between 2018 and 2022, against MahaRERA completion dates of Dec 2021 and Jun 2022. In Oct 2025 Embassy said it had delivered six long-stalled legacy projects to about 3,000 families. MahaRERA ordered delay interest on Indiabulls Park 2 (Panvel).",
+    "notes": "Renamed Equinox India Developments (BSE filing 20 Jun 2024). NAM Estates (Embassy Group) merged in effective 24 Jan 2025, making Embassy the promoter with 41.4%. Renamed Embassy Developments Ltd from 13 Feb 2025. Sources: https://www.angelone.in/news/share-market/indiabulls-real-estate-will-be-renamed-equinox-india-developments ; https://nsearchives.nseindia.com/corporate/IBREL_24012025193828_EMBDL_PressRelease.pdf ; https://realtynmore.com/embassy-developments-delivers-six-long-stalled-legacy-projects-to-3000-families/ ; https://www.livelaw.in/consumer-cases/maharashtra-rera-orders-builder-interest-homebuyers-indiabulls-park-2-delayed-possession-264058"
+  },
+  {
+    "slug": "k-raheja-corp",
+    "name": "K Raheja Corp",
+    "website": "https://www.krahejacorp.com",
+    "delivery_track_record": "Delivered the five-tower Raheja Vivarea (Mahalaxmi) in phases: Vivarea 1 from 2008 to 2012, Vivarea 4 from 2014 to 2018, Building 2 with a RERA completion of Jun 2019, and Tower E with a RERA completion of Jun 2024. Raheja Modern Vivarea drew Rs 1,100 crore of pre-launch sales in 2023.",
+    "notes": "Residential arm: K Raheja Corp Homes. Founding year not confirmed from a source, so it is left out. Sources: https://www.krahejacorphomes.com/project/3-bhk-flats-in-mahalaxmi-south-mumbai/ ; https://www.skyscrapercenter.com/building/raheja-vivarea-1/12648 ; https://www.business-standard.com/companies/news/k-raheja-corp-sells-luxury-homes-worth-rs-1-100-cr-in-single-project-123060900706_1.html"
+  },
+  {
+    "slug": "kalpataru",
+    "name": "Kalpataru Ltd",
+    "founded_year": 1969,
+    "website": "https://www.kalpataru.com",
+    "notes": "Mumbai developer founded in 1969; listed on the exchanges after a June 2025 IPO (Business Standard: https://www.business-standard.com/markets/capital-market-news/kalpataru-ipo-ends-with-2-26x-subscription-125062700241_1.html). Free Press Journal has reported homebuyer protests over delayed deliveries on some Kalpataru projects (https://www.freepressjournal.in/mumbai/mumbai-after-homebuyers-protest-against-kalpataru-industry-insiders-say-realtor-under-stress-unable-to-deliver-projects-on-time). Kalpataru Avana's RERA completion date was Dec 2022, and older listings had quoted Dec 2020-21."
+  },
+  {
+    "slug": "lodha",
+    "name": "Lodha Developers (Macrotech Developers Ltd)",
+    "founded_year": 1980,
+    "website": "https://www.lodhagroup.com",
+    "notes": "Founded by Mangal Prabhat Lodha; listed as Macrotech Developers, later renamed Lodha Developers. In Mumbai it is the seller of record on the ultra-luxury Lodha Altamount (completed around 2017-19, against an April 2017 target) and Lodha Malabar (RERA possession June 2026). Founding year is per Wikipedia (https://en.wikipedia.org/wiki/Lodha_Group). No sourced on-time delivery score was found, so on_time_score is omitted.",
+    "delivery_track_record": "Large Mumbai developer with a mixed record on flagship towers. Lodha The World Towers was marketed in 2010 as a 117-storey tower for 2015 delivery, but was capped at 76 floors by AAI height limits and completed around 2020. That led to MahaRERA complaints in 2018. Separately, a Maharashtra appellate tribunal ordered Lodha to register its New Cuffe Parade project with MahaRERA and pay delay interest."
+  },
+  {
+    "slug": "oberoi-realty",
+    "name": "Oberoi Realty Ltd",
+    "website": "https://www.oberoirealty.com",
+    "notes": "Formerly Oberoi Constructions; listed on BSE/NSE. Developer of the Oberoi Garden City township in Goregaon East (Exquisite, Esquire, Elysian and others). Esquire's RERA completion date was 30 June 2018 and it was reported ready for possession in March 2018. No founding year was confirmed from a reliable source, so it is omitted.",
+    "delivery_track_record": "Premium Mumbai developer. Three Sixty West (Worli), built through the Oasis Realty JV with the Sahana Group, started in 2011, topped out in 2019 and is listed as completed in 2023, against a MahaRERA completion date of 30 Jun 2022. Developer realisations there were Rs 1.18 to 1.55 lakh per sq ft of carpet in FY25 to FY27, per company data reported by ICICI Direct."
+  },
+  {
+    "slug": "omkar-realtors",
+    "name": "Omkar Realtors & Developers Pvt Ltd",
+    "delivery_track_record": "Slum-redevelopment (SRA) focused developer with a weak delivery record. Omkar 1973 Tower C, promised for 2019-2020, led to MahaRERA and appellate tribunal refund and interest orders as late as 2026. The Bombay High Court halted Omkar 1973 free-sale agreements in 2021 over unpaid rent to slum dwellers. MahaRERA consumer and recovery actions also cover other Omkar projects, such as Alta Monte in Malad.",
+    "notes": "Promoters: Kamal Kishore Gupta (chairman) and Babulal Varma (MD). One report says the firm was formed in 2003 by Gujarat-based contractors, but this is unverified, so founded_year is left out. The ED arrested both promoters in Jan 2021 in a Yes Bank loan / SRA money-laundering case and later charge-sheeted them; a later report says a special court discharged them. Sources: https://www.pressreader.com/india/hindustan-times-st-mumbai/20210128/281663962677092 ; https://www.freepressjournal.in/mumbai/mumbai-posh-worli-project-under-scanner-further-sales-on-hold ; https://squarefeatindia.com/omkar-1973-builder-delayed-possession-maharera-denied-interest-cut-2-tribunal-grants-full-refund-interest/"
+  },
+  {
+    "slug": "rustomjee",
+    "name": "Rustomjee Group (Keystone Realtors Ltd)",
+    "founded_year": 1996,
+    "website": "https://www.rustomjee.com",
+    "notes": "The Rustomjee brand was launched in 1996 by Boman Rustom Irani; the listed entity, Keystone Realtors, was incorporated in 1995 (Gupta & Sen: https://www.guptasen.com/?p=32273). Rustomjee manages Crown, Prabhadevi under a development management agreement. Crown Phase I received its OC about 4.5 years after its original RERA completion date (June 2020 vs ready-to-move from Dec 2024). ET Realty (via the Rustomjee newsroom) reports Q2 FY27 pre-sales of Rs 1,423 crore."
+  }
+]

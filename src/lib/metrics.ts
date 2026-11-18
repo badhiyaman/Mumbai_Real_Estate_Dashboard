@@ -4,7 +4,7 @@ const YEAR_MS = 365.25 * 24 * 3600 * 1000;
 
 /** Compound annual growth rate between two values over `years`. Returns null if not computable. */
 export function cagr(start: number, end: number, years: number): number | null {
-  if (!(start > 0) || !(end > 0) || !(years > 0.25)) return null;
+  if (!(start > 0) || !(end > 0) || !(years >= MIN_CAGR_YEARS)) return null;
   return Math.pow(end / start, 1 / years) - 1;
 }
 
@@ -16,16 +16,28 @@ export function sortedPrices(points: PricePoint[]): PricePoint[] {
   return [...points].sort((a, b) => a.date.localeCompare(b.date));
 }
 
+/** Yearly growth over shorter periods than this is too noisy to show. */
+export const MIN_CAGR_YEARS = 2;
+
 /**
- * Picks the price basis (carpet / saleable) with the most data points, so growth is
- * never computed by comparing a carpet price against a saleable one.
+ * Picks the price basis (carpet / saleable / unknown) that covers the longest stretch of time,
+ * so growth is never computed by comparing a carpet price against a saleable one.
+ * Ties go to the basis with more data points.
  */
 export function dominantBasisPoints(points: PricePoint[]): PricePoint[] {
   const groups = new Map<string, PricePoint[]>();
   for (const p of points) groups.set(p.basis, [...(groups.get(p.basis) ?? []), p]);
   let best: PricePoint[] = [];
-  for (const g of groups.values()) if (g.length > best.length) best = g;
-  return sortedPrices(best);
+  let bestSpan = -1;
+  for (const g of groups.values()) {
+    const s = sortedPrices(g);
+    const span = s.length > 1 ? yearsBetween(s[0].date, s[s.length - 1].date) : 0;
+    if (span > bestSpan || (span === bestSpan && s.length > best.length)) {
+      best = s;
+      bestSpan = span;
+    }
+  }
+  return best;
 }
 
 export interface Growth {
@@ -87,6 +99,20 @@ export function launchYear(p: Project): number | null {
 export const fmtPsf = (n: number) => `₹${Math.round(n).toLocaleString("en-IN")}/sq ft`;
 export const fmtPct = (n: number, digits = 0) => `${n >= 0 ? "+" : ""}${(n * 100).toFixed(digits)}%`;
 export const fmtCr = (n: number) => `₹${n % 1 === 0 ? n : n.toFixed(1)} Cr`;
+export const fmtYears = (y: number) => (y < 1 ? "<1 yr" : `${y.toFixed(y < 10 ? 1 : 0)} yrs`);
+
+/** "Lodha Developers (Macrotech Developers Ltd)" → "Lodha Developers" */
+export const shortName = (name: string) => name.replace(/\s*\(.*\)\s*$/, "").trim() || name;
+
+/** Groups free-text unit labels like "5 BHK duplex / villa" into simple filter buckets. */
+export function configBucket(config: string): string {
+  const c = config.toLowerCase();
+  if (/penthouse|triplex/.test(c)) return "Penthouse";
+  if (/duplex|villa/.test(c)) return "Duplex";
+  const bhk = c.match(/(\d)\s*bhk/);
+  if (bhk) return `${bhk[1]} BHK`;
+  return "Other";
+}
 
 export function fmtDate(d: string | null, precision: "day" | "month" | "year" = "month"): string {
   if (!d) return "—";

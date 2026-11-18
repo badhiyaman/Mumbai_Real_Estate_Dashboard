@@ -1,0 +1,160 @@
+{
+  "slug": "omkar-1973",
+  "name": "Omkar 1973",
+  "developer": "omkar-realtors",
+  "micro_market": "worli",
+  "address": "Near Neelam Centre, off Dr Annie Besant Road, Worli, Mumbai 400030",
+  "lat": 19.0167,
+  "lng": 72.8167,
+  "towers": 3,
+  "rera_ids": ["P51900003316"],
+  "status": "completed",
+  "launch_date": "2013-10-01",
+  "possession_promised": "2019-06-30",
+  "amenities": [
+    "Swimming pool",
+    "Gym",
+    "Jogging track",
+    "Kids' play area",
+    "Yoga zone",
+    "Fitness corner",
+    "Three basement parking levels per tower"
+  ],
+  "description": "A three-tower luxury development (Towers A, B and C) off Annie Besant Road in Worli. It is the free-sale part of an SRA slum-redevelopment scheme by Omkar Realtors & Developers. Foster + Partners did the original design and Larsen & Toubro built it. The towers have large sea-facing 3 to 5 BHK 'sky bungalows' and duplexes, with buyers including several cricketers and industrialists.",
+  "notes": "SRA link: the free-sale towers are tied to the Mahalaxmi SRA CHS slum scheme. In Sept 2021 the Bombay High Court barred new sale agreements in the free-sale building after slum dwellers said rent had not been paid since 2016; Omkar had promised in Aug 2015 that the rehab would be ready by July 2016. Wikipedia still says sales are on hold. Promoter troubles: the ED arrested chairman Kamal Kishore Gupta and MD Babulal Varma in Jan 2021 in a Yes Bank loan/SRA money-laundering case (a different Omkar SRA scheme), and a later report says a special court discharged them. Delays: a Tower C allotment (Apr 2016) promised possession by 30 Jun 2019, extendable to 30 Jun 2020, which is the possession_promised date. MahaRERA's registered completion date is 30 Dec 2021. In April 2026 the appellate tribunal (MREAT) ordered a full refund with interest to a Tower C 35th-floor buyer, citing delay attributable to the builder. Status conflicts: MahaRERA aggregators and Square Yards say completed / ready to move, while Wikipedia says topped out with completion expected 2024. Floors: Wikipedia says 73 floors per tower (about 267 m), the MahaRERA phase lists Tower 2 at 54 pt to 79th floor (likely podium-inclusive numbering), HomeBazaar says 75 storeys and CTBUH lists 212 m for Tower C, so floors_max is left out. Units: Wikipedia says '400-plus', an aggregator says 517 launched, and the MahaRERA phase P51900003316 shows only the 136 units still registered (Tower 2: 33, Tower 3: 103) on 3,372 sq m, so total_units and land_acres are left out. Sales: Piramal Fund Management invested about Rs 1,400 crore and in 2018 appointed Anarock to sell 70 apartments valued at Rs 1,100 crore. Buyers reported by PTI (2018) include Yuvraj Singh (Rs 64 crore), the DY Patil family (Rs 49.1 crore) and Baba Kalyani (Rs 21.3 crore). Virat Kohli booked a Tower C flat in 2016 and cancelled it in March 2018.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Omkar_1973",
+    "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-city/omkar-1973-worli-P51900003316",
+    "https://www.tribuneindia.com/news/archive/sport/kohli-cancels-rs-34-cr-flat-booking-with-omkar-developers-562452",
+    "https://www.freepressjournal.in/mumbai/mumbai-posh-worli-project-under-scanner-further-sales-on-hold",
+    "https://squarefeatindia.com/omkar-1973-builder-delayed-possession-maharera-denied-interest-cut-2-tribunal-grants-full-refund-interest/",
+    "https://www.squareyards.com/mumbai-residential-property/omkar-1973/2821/project",
+    "https://www.homebazaar.com/omkar-1973-worli-2594",
+    "https://omkarmeridia.blogspot.com/2014/03/resale-omkar-1973-worli-omkar-1973.html"
+  ],
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1335,
+      "carpet_sqft_max": 2497,
+      "price_min_cr": 8.08,
+      "price_max_cr": 15.11,
+      "notes": "Square Yards asking prices, Sep 2026, excluding charges. The same page also shows Rs 6.82 crore for the 1,335 sq ft unit."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 3600,
+      "carpet_sqft_max": 3700,
+      "price_min_cr": 21.79,
+      "price_max_cr": 22.39,
+      "notes": "Square Yards asking prices, Sep 2026. Kohli's 2016 Tower C 4 BHK booking was 7,171 sq ft for Rs 34 crore."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 4300,
+      "carpet_sqft_max": 4700,
+      "price_min_cr": 26.03,
+      "price_max_cr": 28.45,
+      "notes": "Square Yards asking prices, Sep 2026. MahaRERA also lists duplexes and triplexes, and Wikipedia describes units of 2,500 to 18,200 sq ft."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2014-03-26",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 40000,
+      "basis": "unknown",
+      "source_name": "Broker blog listing (omkarmeridia.blogspot.com)",
+      "source_url": "https://omkarmeridia.blogspot.com/2014/03/resale-omkar-1973-worli-omkar-1973.html",
+      "confidence": "low",
+      "note": "'Builder Quoting Rs 40000 Per Sq Ft + Rs 250 Floor Rise', per a broker's resale post. This is anecdotal and the basis is unclear."
+    },
+    {
+      "date": "2014-03-26",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 29000,
+      "basis": "unknown",
+      "source_name": "Broker blog listing (omkarmeridia.blogspot.com)",
+      "source_url": "https://omkarmeridia.blogspot.com/2014/03/resale-omkar-1973-worli-omkar-1973.html",
+      "confidence": "low",
+      "note": "Investor resale asking price: a 4 BHK of 3,665 sq ft built-up on the 32nd floor of A Wing at Rs 29,000/sq ft all-inclusive. It shows the discount investor units traded at against the builder's quote."
+    },
+    {
+      "date": "2016-06-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 47413,
+      "basis": "unknown",
+      "source_name": "The Tribune (PTI)",
+      "source_url": "https://www.tribuneindia.com/news/archive/sport/kohli-cancels-rs-34-cr-flat-booking-with-omkar-developers-562452",
+      "confidence": "medium",
+      "note": "Computed: Rs 34 crore / 7,171 sq ft. Virat Kohli's June 2016 booking of a 35th-floor Tower C sea-view flat, cancelled in March 2018 (cancellation deed dated 20 Mar)."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 59300,
+      "basis": "unknown",
+      "source_name": "Square Yards (listing asking-price index, Q3 2026)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/omkar-1973/2821/project",
+      "confidence": "low",
+      "note": "Average asking price. The project card on the same page shows Rs 60,526/sq ft."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 44750,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered-transaction summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/omkar-1973/2821/project",
+      "confidence": "medium",
+      "note": "Average registered rate across 15 transactions (about Rs 194 crore) from Nov 2025 to Oct 2026. Another section of the page says 7 transactions worth Rs 110 crore. Property Butler reports a 12-month registered median of about Rs 39,938/sq ft."
+    }
+  ],
+  "news": [
+    {
+      "date": "2016-06-15",
+      "title": "Virat Kohli just bought a Rs 34-crore luxury property in Mumbai",
+      "url": "https://www.businessinsider.in/virat-kohli-just-bought-a-rs-34-crore-worth-luxury-property-in-mumbai/articleshow/52793386.cms",
+      "source": "Business Insider India",
+      "event_type": "deal",
+      "summary": "Kohli books a 7,171 sq ft 4 BHK on the 35th floor of Tower C for about Rs 34 crore. The date is approximate (June 2016)."
+    },
+    {
+      "date": "2018-03-24",
+      "title": "Kohli cancels Rs 34-cr flat booking with Omkar Developers",
+      "url": "https://www.tribuneindia.com/news/archive/sport/kohli-cancels-rs-34-cr-flat-booking-with-omkar-developers-562452",
+      "source": "The Tribune (PTI)",
+      "event_type": "deal",
+      "summary": "Kohli cancels the Tower C booking. The report also says Piramal Fund had appointed Anarock to sell 70 units worth Rs 1,100 crore, and names buyers including Yuvraj Singh (Rs 64 crore) and the DY Patil family (Rs 49.1 crore)."
+    },
+    {
+      "date": "2021-01-28",
+      "title": "Omkar grp MD, chairman held",
+      "url": "https://www.pressreader.com/india/hindustan-times-st-mumbai/20210128/281663962677092",
+      "source": "Hindustan Times",
+      "event_type": "litigation",
+      "summary": "The ED arrests Omkar Realtors chairman Kamal Kishore Gupta and MD Babulal Varma in a money-laundering probe over Yes Bank loans and an SRA project."
+    },
+    {
+      "date": "2021-09-19",
+      "title": "Mumbai: Posh Worli project under scanner, further sales on hold",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-posh-worli-project-under-scanner-further-sales-on-hold",
+      "source": "Free Press Journal",
+      "event_type": "litigation",
+      "summary": "The Bombay High Court bars Omkar from new sale agreements in the Omkar 1973 free-sale building after Mahalaxmi SRA CHS says slum dwellers have not been paid rent since 2016."
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Omkar 1973 builder delayed possession: MahaRERA denied interest, cut 2%; Tribunal grants full refund + interest",
+      "url": "https://squarefeatindia.com/omkar-1973-builder-delayed-possession-maharera-denied-interest-cut-2-tribunal-grants-full-refund-interest/",
+      "source": "SquareFeatIndia",
+      "event_type": "rera",
+      "summary": "MREAT orders a full refund of Rs 7.69 crore with interest for flat 3502 in Tower C, which was promised by 30 Jun 2019 (latest 30 Jun 2020), overturning MahaRERA's 2% deduction. The date is the judgment date."
+    }
+  ]
+}
