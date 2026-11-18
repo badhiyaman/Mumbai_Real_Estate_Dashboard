@@ -28,7 +28,7 @@
     "Kids' play area"
   ],
   "description": "A 5.75-acre gated estate of three sea-facing towers on Gokhale Road, Prabhadevi, designed by Hafeez Contractor with interiors by PIA Interiors (Bangkok) and built by L&T. Towers A and B (Phase I) hold 4 and 5 BHK homes and have their Occupancy Certificate. Tower C (Phase II) holds 3 BHK homes and is still under construction.",
-  "notes": "Rustomjee runs the project under a development management agreement. Listing sites also call the site 'DB Crown' / 'Rustomjee Orchid Crown' (DB Realty, now Valor Estate), and Housing.com maps P51900006367 to 'DB Crown Phase 2'. Phase I (Towers A and B) is MahaRERA P51900003268. Its RERA data shows 708 units, 450 sold (undated snapshot), proposed completion 30 Jun 2020 revised to 30 Dec 2022. Rustomjee says ready-to-move units have been available since December 2024, so the Phase I OC came about 4.5 years after the original RERA date. Phase II (Tower C) is P51900006367; Housiey lists its RERA possession as Dec 2026, and owners on PropertyButler say possession starts Sep 2026 (not confirmed by the developer). total_units is omitted because only the Phase I count (708) was found. Heights conflict: the 2019 launch release says Towers A and B are 68 storeys and Tower C 65; the developer site now says two towers of 68 and one of 67; Housiey lists 3B+G+9P+53. The launch release projected about Rs 5,800 crore of revenue. A Dec 2021 ANI/Business Standard release said 105 of the 282 premium-luxury registrations in the period were at Crown, with about Rs 42 crore stamp duty, and Rs 1,000 crore of sales. No launch-era (2019) per-sq-ft price was found.",
+  "notes": "Rustomjee runs the project under a development management agreement. Listing sites also call the site 'DB Crown' / 'Rustomjee Orchid Crown' (DB Realty, now Valor Estate), and Housing.com maps P51900006367 to 'DB Crown Phase 2'. Phase I (Towers A and B) is MahaRERA P51900003268. Its RERA data shows 708 units, 450 sold (undated snapshot), proposed completion 30 Jun 2020 revised to 30 Dec 2022. Rustomjee says ready-to-move units have been available since December 2024, so the Phase I OC came about 4.5 years after the original RERA date. Phase II (Tower C) is P51900006367; Housiey lists its RERA possession as Dec 2026, and owners on PropertyButler say possession starts Sep 2026 (not confirmed by the developer). total_units is omitted because only the Phase I count (708) was found. Heights conflict: the 2019 launch release says Towers A and B are 68 storeys and Tower C 65; the developer site now says two towers of 68 and one of 67; Housiey lists 3B+G+9P+53. The launch release projected about Rs 5,800 crore of revenue. A Dec 2021 ANI/Business Standard release said 105 of the 282 premium-luxury registrations in the period were at Crown, with about Rs 42 crore stamp duty, and Rs 1,000 crore of sales. No launch-era (2019) per-sq-ft price was found. Enrichment (Nov 2026): Origins: a 2023 report says the project was launched in 2009 (as DB Realty's Orchid Crown) and taken over by Rustomjee in 2018; the existing launch_date is Rustomjee's 29 Jan 2019 relaunch and is kept. An undated DB Realty marketing deck on SlideShare (image files suggest Sep 2016) quotes an 'attractive launch price' of Rs 26,000/sq ft for limited apartments, two 68-storey towers and one 72-storey tower, and possession in July 2019. OC: part OC for Tower A (182 homes) in Aug 2023 and Tower B (182 homes) in Mar 2024; the Mar 2024 release also says all 186 Tower A homes then had OC. Tower C has no OC yet, so oc_received is false for the project as a whole. Housiey gives Tower C's RERA possession as Dec 2026 and 95% completion as of May 2026. Units: Mumbai Property Exchange's MahaRERA extract gives Phase I as 372 units (186 per tower, 71 floors each); CTBUH lists Tower C as 67 floors with 326 apartments, and Square Yards says 348 (or 336) for Phase 2, so total_units stays out. Specs: flats_per_floor and lifts_per_tower are from Housiey ('4 flats, 7 lifts and 2 staircases on each floor'). Ceiling heights are 11 ft 9 in in two towers and 10 ft 6 in in one (developer site; PropertyButler); 11.75 is recorded. Payment plan is from Rustomjee's July 2026 buyer guide; Housiey also lists construction-linked and subvention plans. transactions_12m is PropertyButler's count of 88 registered sales from Aug 2025 to Jul 2026 (median ticket Rs 11.15 crore). nearest_metro_km is straight-line (Mumbai Property Exchange); Prabhadevi rail station is about 0.6 km. Project-specific BKC and airport distances were not found (Rustomjee's Prabhadevi pages give about 13 km to the airport for the locality). A Jun 2026 registered Tower C sale of 1,570 sq ft carpet on a 41st+ floor at Rs 16.16 crore (about Rs 1.03 lakh/sq ft, computed) is an outlier and is not used as a price point.",
   "sources": [
     "https://prnewswire.com/in/news-releases/rustomjee-launches-uber-luxury-project-rustomjee-crown-in-prabhadevi-875147736.html",
     "https://www.rustomjee.com/projects/residential/rustomjee-crown-prabhadevi/",
@@ -37,8 +37,26 @@
     "https://propscience.com/building_flat/UDUxOTAwMDAzMjY4/Mumbai-City/South-Mumbai/Prabhadevi/SVS-Marg/Rustomjee-Crown-Phase-1",
     "https://housiey.com/projects/rustomjee-crown",
     "https://propertybutler.in/building/rustomjee-crown",
-    "https://www.squareyards.com/mumbai-residential-property/rustomjee-crown-phase-2/29295/project"
+    "https://www.squareyards.com/mumbai-residential-property/rustomjee-crown-phase-2/29295/project",
+    "https://www.slideshare.net/slideshow/db-crown-prabhadevi/66244944",
+    "https://business-news-today.com/rustomjee-group-completes-rustomjee-crown-a-wing-project-in-south-mumbai/",
+    "https://www.devdiscourse.com/article/science-environment/2861824-rustomjee-crown-receives-part-occupation-certificate-for-tower-b-comprising-182-homes",
+    "https://www.rustomjee.com/blog/rustomjee-crown-payment-plan-prabhadevi-luxury-guide-2026/",
+    "https://www.skyscrapercenter.com/building/rustomjee-crown-tower-c/9957",
+    "https://www.mumbaipropertyexchange.com/project/rustomjee-crown-prabhadevi-by-rustomjee/24966"
   ],
+  "architect": "Hafeez Contractor",
+  "contractor": "Larsen & Toubro",
+  "flats_per_floor": 4,
+  "lifts_per_tower": 7,
+  "ceiling_height_ft": 11.75,
+  "views": ["sea"],
+  "jv_partner": "DB Realty (now Valor Estate), the original promoter; Rustomjee took the project over in 2018",
+  "oc_received": false,
+  "payment_plan": "10% on booking, 10% as OC nears, 75% via home loan released against construction milestones, 5% at closing; a developer-funded loan-interest (subvention) option is also offered",
+  "transactions_12m": 88,
+  "nearest_metro": "Siddhivinayak (Metro Line 3 / Aqua Line)",
+  "nearest_metro_km": 0.6,
   "unit_types": [
     {
       "config": "3 BHK",
@@ -67,6 +85,17 @@
   ],
   "price_points": [
     {
+      "date": "2016-01-01",
+      "date_precision": "year",
+      "stage": "launch",
+      "price_psf": 26000,
+      "basis": "unknown",
+      "source_name": "DB Crown marketing deck (SlideShare, uploaded by a broker)",
+      "source_url": "https://www.slideshare.net/slideshow/db-crown-prabhadevi/66244944",
+      "confidence": "low",
+      "note": "'Attractive launch price of 26,000 psf (limited no. of apts)' in an undated DB Realty-era deck. The date is approximate (image file names suggest Sep 2016) and the deck lists total areas of 2,122 sq ft (3 BHK) and 2,976 sq ft (4 BHK) without saying carpet or saleable. Pre-RERA, so probably saleable. This predates Rustomjee's 2018 takeover and 2019 relaunch."
+    },
+    {
       "date": "2024-09-01",
       "date_precision": "month",
       "stage": "under_construction",
@@ -87,6 +116,28 @@
       "source_url": "https://www.rustomjee.com/blog/rustomjee-crown-spacious-residences/",
       "confidence": "medium",
       "note": "Computed: the developer's 3 BHK starting price of Rs 9.45 Cr divided by the smallest 3 BHK carpet area (1,335 sq ft). Same post: 4 BHK from Rs 13.50 Cr (1,700 sq ft carpet min, about Rs 79,400/sq ft). Towers A and B had OC by then."
+    },
+    {
+      "date": "2026-04-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 73239,
+      "basis": "carpet",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/rustomjee-crown",
+      "confidence": "medium",
+      "note": "Computed: Rs 18.09 crore / 2,470 sq ft carpet, Tower A (OC received), floors 21 to 40, registered Apr 2026. Another Tower A 2,470 sq ft unit that month sold for Rs 17.34 crore (about Rs 70,200). PropertyButler says deeds state carpet area only."
+    },
+    {
+      "date": "2026-05-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 66718,
+      "basis": "carpet",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/rustomjee-crown",
+      "confidence": "medium",
+      "note": "Computed: Rs 8.74 crore / 1,310 sq ft carpet, Tower C (no OC yet), 41st floor or above, registered May 2026. Other Tower C 3 BHK deeds in Mar to Jun 2026 range from Rs 8.17 to 9.71 crore for 1,310 to 1,570 sq ft."
     },
     {
       "date": "2026-06-01",
@@ -122,6 +173,54 @@
       "note": "Median asking rate across 52 sale listings (range Rs 59,615 to 1,01,573/sq ft). PropertyButler uses 'total area' (carpet plus private foyer); elsewhere the same page gives a carpet median of Rs 80,814."
     }
   ],
+  "rental_points": [
+    {
+      "date": "2026-05-01",
+      "config": "Not stated (2,000-2,600 sq ft)",
+      "monthly_rent": 425000,
+      "furnishing": "unknown",
+      "kind": "registered",
+      "source_name": "PropertyButler (registered lease deeds)",
+      "source_url": "https://propertybutler.in/building/rustomjee-crown",
+      "confidence": "medium",
+      "note": "Median of 7 registered leases for 2,000 to 2,600 sq ft units, Feb 2025 to May 2026; the date is the end of that window. Across all 22 leases the median is Rs 5.12 lakh (middle half Rs 4.5 to 5.75 lakh)."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1338,
+      "monthly_rent": 275000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "PropertyButler",
+      "source_url": "https://propertybutler.in/building/rustomjee-crown",
+      "confidence": "low",
+      "note": "Tower C, 17th floor. Listing seen 18 Nov 2026."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4 BHK",
+      "carpet_sqft": 1700,
+      "monthly_rent": 550000,
+      "furnishing": "unfurnished",
+      "kind": "asking",
+      "source_name": "PropertyButler",
+      "source_url": "https://propertybutler.in/building/rustomjee-crown",
+      "confidence": "low",
+      "note": "Tower C, 20th floor, builder finish (recorded as unfurnished). The page does not say whether 1,700 sq ft is carpet; it matches the developer's smallest 4 BHK carpet size."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4 BHK",
+      "monthly_rent": 700000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "PropertyButler",
+      "source_url": "https://propertybutler.in/building/rustomjee-crown",
+      "confidence": "low",
+      "note": "Tower A (OC received), above the 50th floor, area on request."
+    }
+  ],
   "news": [
     {
       "date": "2019-01-29",
@@ -138,6 +237,22 @@
       "source": "Business Standard (ANI press release)",
       "event_type": "other",
       "summary": "Rs 1,000 crore of sales; 105 of 282 premium-luxury registrations in the period were at Crown, with about Rs 42 crore stamp duty."
+    },
+    {
+      "date": "2023-08-23",
+      "title": "Rustomjee Group completes Rustomjee Crown A Wing project in South Mumbai",
+      "url": "https://business-news-today.com/rustomjee-group-completes-rustomjee-crown-a-wing-project-in-south-mumbai/",
+      "source": "Business News Today",
+      "event_type": "possession",
+      "summary": "Rustomjee receives a part Occupation Certificate for 182 homes in Tower A. The report says the project was launched in 2009 and taken over by Rustomjee in 2018."
+    },
+    {
+      "date": "2024-03-18",
+      "title": "Rustomjee Crown Receives Part Occupation Certificate for Tower B Comprising 182 Homes",
+      "url": "https://www.devdiscourse.com/article/science-environment/2861824-rustomjee-crown-receives-part-occupation-certificate-for-tower-b-comprising-182-homes",
+      "source": "Devdiscourse (press release)",
+      "event_type": "possession",
+      "summary": "Tower B (68 storeys) gets a part OC for 182 homes, after Tower A's part OC in Aug 2023. Rustomjee says most apartments in Towers A and B sold before the OC."
     },
     {
       "date": "2025-05-01",

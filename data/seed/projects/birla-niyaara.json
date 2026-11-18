@@ -1,0 +1,234 @@
+{
+  "slug": "birla-niyaara",
+  "name": "Birla Niyaara",
+  "developer": "birla-estates",
+  "micro_market": "worli",
+  "address": "Pandurang Budhkar Marg, opposite Kamala Mills, Worli, Mumbai 400030",
+  "lat": 19.0069,
+  "lng": 72.8261,
+  "land_acres": 14,
+  "towers": 2,
+  "floors_max": 87,
+  "total_units": 562,
+  "rera_ids": ["P51900031916", "P51900054455"],
+  "status": "under_construction",
+  "launch_date": "2022-02-01",
+  "possession_promised": "2029-03-31",
+  "amenities": [
+    "Swimming pool",
+    "Kids' pool",
+    "Indoor pool",
+    "Gymnasium",
+    "Multi-purpose court",
+    "Cricket pitch",
+    "High-end retail and offices within the 14-acre development"
+  ],
+  "description": "The flagship residential project of Birla Estates (Aditya Birla Group) within a 14-acre integrated development at Worli, a mix of high-rise homes, retail and offices designed by Foster + Partners. Tower A (Phase 1, 414 homes from 2 to 6 BHK) opened for bookings in February 2022 and was Mumbai's top-selling project of CY2022 with Rs 1,915 crore of bookings. The second tower, Silas (148 homes of 4 and 5 BHK), launched in March 2024 with over Rs 2,500 crore of sales. Cumulative sales passed Rs 5,700 crore by September 2024.",
+  "notes": "MahaRERA (Square Yards snapshots read 18 Nov 2026): Tower A, P51900031916, 414 apartments, 87 floors (74 habitable), start 22 Nov 2021, completion 31 Mar 2028. Silas / Wing TB, P51900054455, 148 apartments, 48 floors, completion 31 Mar 2029, 80 sold + 36 booked + 32 unsold, 39% construction progress. total_units = 414 + 148. possession_promised is the later (Silas) date. Mumbai Property Exchange lists Jul 2028 / Jul 2029, Housiey a target of Sep 2028 and RERA Mar 2029, and 60% overall completion as of Oct 2026. Mumbai Property Exchange's MahaRERA data shows Tower A's structure 100% complete (55% overall). Units sold: Tower A was 58% of launched units by Q1 FY23 and 93% by June 2024 (Century Textiles); Square Yards says 400 of 415 launched units were booked as of Nov 2025. Silas was 46% sold by June 2024. Because the counts come from different dates, units_sold is not set. Floors: the developer describes 75 storeys, MahaRERA 87. Land: 14 acres for the full integrated development (IIFL / developer); Housiey says 10 acres; Square Yards refers to eight towers in two clusters across the masterplan. Registered price history (computed from MahaRERA agreement values): Tower A 2-3 BHK about Rs 45,000-53,000/sq ft carpet in Mar-Apr 2022, rising to about Rs 74,000-77,000 by mid-2024 and Jan 2025 (about +45-60%). Silas registered at about Rs 90,000-115,000/sq ft carpet from Mar 2024 and about Rs 98,000-110,000 by Oct 2025. Birla Estates itself cited about Rs 80,000/sq ft carpet for Silas at launch. An RP Realty Plus line quoting a launch price of 'Rs 9,000 per sq ft' is clearly wrong and is ignored. Square Yards: 15 registered sales worth Rs 478 crore at an average of Rs 1.01 lakh/sq ft (Nov 2025 - Oct 2026); asking about Rs 1.10 lakh/sq ft in Sep 2026. Listing asking prices are Rs 1.17-1.25 lakh/sq ft for large units. Parent Century Textiles and Industries was renamed Aditya Birla Real Estate Ltd. In Sep 2024 it bought an adjacent 10-acre Worli parcel for Rs 1,100 crore, creating a 30-acre contiguous holding. MahaRERA architect of record: Umeshchandra Powar. No floor-rise schedule or maintenance rate was found.",
+  "sources": [
+    "https://www.indiainfoline.com/news/markets/century-textiles-led-birla-niyaara-clocks-record-sales-booking-of-rs1000-crore-stock-hits-6-higher",
+    "https://propnewstime.com/latestnewsstories/NjkxMg==/birla-estates-silas-tower-at-birla-niyaara-records-sales-of-inr-2500-crore-at-launch",
+    "https://valoremadvisors.com/assets/admin/earnings_presentation/1691409791_Q1-FY23.pdf",
+    "https://valoremadvisors.com/assets/admin/fact_file/1718779797_CTIL_Fact_Sheet_v2.pdf",
+    "https://www.angelone.in/news/share-market/century-textiles-acquires-prime-worli-land",
+    "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project",
+    "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900031916",
+    "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900054455",
+    "https://www.mumbaipropertyexchange.com/project/birla-niyaara-worli-by-9361/28357",
+    "https://housiey.com/projects/birla-niyaara"
+  ],
+  "architect": "Foster + Partners (design); Sasaki and Coopers Hill (masterplan and landscape)",
+  "green_certification": "LEED pre-certified Platinum (Silas tower)",
+  "views": ["sea", "city"],
+  "land_tenure": "unknown",
+  "oc_received": false,
+  "payment_plan": "Construction-linked, slab-wise payments, per Housiey listing",
+  "transactions_12m": 15,
+  "unit_types": [
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 849,
+      "carpet_sqft_max": 854,
+      "price_min_cr": 3.83,
+      "price_max_cr": 8.5,
+      "notes": "Tower A. Registered Rs 3.83-4.16 crore in Mar-Apr 2022 and Rs 6.29-6.56 crore in Jul 2024 - Jan 2025; Housiey lists Rs 8.50 crore all-inclusive (sold out). Early 2 BHKs were below the Rs 5 crore band."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1151,
+      "carpet_sqft_max": 1841,
+      "price_min_cr": 5.66,
+      "price_max_cr": 12,
+      "notes": "Tower A MahaRERA range. Registered Rs 5.66-6.25 crore in 2022 and Rs 7.87-9.03 crore in 2024-25 for about 1,150-1,205 sq ft; Housiey asks Rs 12 crore for 1,200 sq ft. Silas also has 3 BHK rows of 191.96 sq m (about 2,066 sq ft) at Rs 19.4-21.0 crore."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1864,
+      "carpet_sqft_max": 3231,
+      "price_min_cr": 25.48,
+      "price_max_cr": 45.63,
+      "notes": "Tower A has a 1,864 sq ft 4 BHK; Silas 4 BHKs are 258.91-278.93 sq m (about 2,787-3,002 sq ft) and registered at Rs 25.5-33.7 crore in 2024-25. Housiey asks Rs 42.77-45.63 crore for 3,028-3,231 sq ft."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 2472,
+      "carpet_sqft_max": 4291,
+      "price_min_cr": 34.87,
+      "price_max_cr": 60.61,
+      "notes": "Silas 5 BHKs are 337.65-381.01 sq m (about 3,634-4,101 sq ft) and registered at Rs 34.9-46.3 crore in 2024-25. Housiey asks Rs 56.11-60.61 crore for 3,973-4,291 sq ft."
+    },
+    {
+      "config": "6 BHK duplex",
+      "carpet_sqft_min": 3744,
+      "carpet_sqft_max": 3800,
+      "price_max_cr": 45.6,
+      "notes": "Tower A duplexes; Mumbai Property Exchange asks Rs 44.34 crore for 3,776 sq ft (Nov 2026)."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2022-03-17",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 52909,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Tower A)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900031916",
+      "confidence": "high",
+      "note": "Computed: unit TA-3103 (3 BHK, 31st floor), Rs 6.21 crore / 109.05 sq m (1,174 sq ft). Same-day 2 BHK TA-2008 was about Rs 47,900/sq ft."
+    },
+    {
+      "date": "2022-03-24",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 44919,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Tower A)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900031916",
+      "confidence": "high",
+      "note": "Computed: unit TA-1204 (2 BHK, 12th floor), Rs 3.83 crore / 79.2 sq m (853 sq ft)."
+    },
+    {
+      "date": "2022-04-06",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 51885,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Tower A)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900031916",
+      "confidence": "high",
+      "note": "Computed: unit TA-2505 (3 BHK), Rs 6.25 crore / 111.9 sq m (1,204 sq ft)."
+    },
+    {
+      "date": "2024-03-11",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 89949,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Silas / Wing TB)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900054455",
+      "confidence": "high",
+      "note": "Computed: Silas unit 901 (4 BHK), Rs 27.01 crore / 278.93 sq m (3,002 sq ft). Silas launch-month deals ranged from about Rs 90,000 to 115,000/sq ft (unit 3604 on 31 Mar 2024)."
+    },
+    {
+      "date": "2024-05-02",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 80000,
+      "basis": "carpet",
+      "source_name": "PropNewsTime (Birla Estates statement)",
+      "source_url": "https://propnewstime.com/latestnewsstories/NjkxMg==/birla-estates-silas-tower-at-birla-niyaara-records-sales-of-inr-2500-crore-at-launch",
+      "confidence": "medium",
+      "note": "Silas was reported to be selling at about Rs 80,000/sq ft carpet when it recorded Rs 2,500 crore of launch sales. This is lower than the Silas MahaRERA agreement values above."
+    },
+    {
+      "date": "2024-07-15",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 74004,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Tower A)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900031916",
+      "confidence": "high",
+      "note": "Computed: unit TA-2301 (2 BHK), Rs 6.29 crore / 78.95 sq m (850 sq ft). TA-3406 on 2 Aug 2024 was about Rs 77,300/sq ft."
+    },
+    {
+      "date": "2025-01-17",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 75001,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Tower A)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900031916",
+      "confidence": "high",
+      "note": "Computed: unit TA-0705 (3 BHK, 7th floor), Rs 9.03 crore / 1,204 sq ft. A 2 BHK (TA-1201) the same day was about Rs 74,700/sq ft."
+    },
+    {
+      "date": "2025-10-10",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 110555,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Silas / Wing TB)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project/rera/p51900054455",
+      "confidence": "high",
+      "note": "Computed: Silas unit 4203 (5 BHK, 42nd floor), Rs 40.19 crore / 337.72 sq m (3,635 sq ft). Unit 2401 (4 BHK) on 1 Oct 2025 was about Rs 98,600/sq ft."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 101000,
+      "basis": "unknown",
+      "source_name": "Square Yards (average registered rate, Nov 2025 - Oct 2026)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/birla-niyaara/113859/project",
+      "confidence": "medium",
+      "note": "Average of 15 registered sales worth Rs 478 crore, mostly large Silas units. Square Yards' average asking price was Rs 1,10,400/sq ft in Sep 2026."
+    },
+    {
+      "date": "2026-11-18",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 117426,
+      "basis": "carpet",
+      "source_name": "Mumbai Property Exchange (indicative asking price)",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/birla-niyaara-worli-by-9361/28357",
+      "confidence": "low",
+      "note": "Listing: 6 BHK 3,776 sq ft carpet at Rs 44.34 crore (the page headlines Rs 1.25 lakh/sq ft)."
+    }
+  ],
+  "news": [
+    {
+      "date": "2022-03-10",
+      "title": "Century Textiles-led Birla Niyaara clocks record sales booking of Rs 1,000 crore; stock hits 6% higher",
+      "url": "https://www.indiainfoline.com/news/markets/century-textiles-led-birla-niyaara-clocks-record-sales-booking-of-rs1000-crore-stock-hits-6-higher",
+      "source": "IIFL / India Infoline",
+      "event_type": "launch",
+      "summary": "Over 150 Phase 1 units sold for about Rs 1,000 crore in the 14-acre Worli development designed by Foster + Partners."
+    },
+    {
+      "date": "2022-07-25",
+      "title": "Century Textiles and Industries earnings presentation, Q1 FY23",
+      "url": "https://valoremadvisors.com/assets/admin/earnings_presentation/1691409791_Q1-FY23.pdf",
+      "source": "Century Textiles investor presentation",
+      "event_type": "other",
+      "summary": "Birla Niyaara reached about Rs 1,594-1,600 crore of cumulative bookings, about 58% of launched units, by the end of Q1 FY23."
+    },
+    {
+      "date": "2024-05-02",
+      "title": "Birla Estates' Silas tower at Birla Niyaara records sales of INR 2,500 crore at launch",
+      "url": "https://propnewstime.com/latestnewsstories/NjkxMg==/birla-estates-silas-tower-at-birla-niyaara-records-sales-of-inr-2500-crore-at-launch",
+      "source": "PropNewsTime",
+      "event_type": "launch",
+      "summary": "148 4-5 BHK homes, about Rs 80,000/sq ft carpet; cumulative Niyaara sales over Rs 5,400 crore; Phase 1 over 85% sold; CY2022 bookings of Rs 1,915 crore."
+    },
+    {
+      "date": "2024-09-10",
+      "title": "Century Textiles acquires prime Worli land: potential booking value to Rs 14,000 crore",
+      "url": "https://www.angelone.in/news/share-market/century-textiles-acquires-prime-worli-land",
+      "source": "Angel One",
+      "event_type": "other",
+      "summary": "A 10-acre adjacent Worli parcel bought for Rs 1,100 crore, creating a 30-acre contiguous holding; Birla Niyaara cumulative sales over Rs 5,700 crore."
+    }
+  ]
+}

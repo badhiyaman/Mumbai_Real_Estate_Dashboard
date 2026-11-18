@@ -1,0 +1,116 @@
+{
+  "developers": [],
+  "micro_markets": [
+    {
+      "slug": "bandra-east",
+      "name": "Bandra East / BKC Annexe (Kala Nagar, Gandhi Nagar)",
+      "region": "Western Suburbs",
+      "lat": 19.058,
+      "lng": 72.85,
+      "catalysts": [
+        {
+          "name": "Metro Line 3 (Aqua Line) with BKC station, Cuffe Parade - Aarey JVLR, fully operational",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+        },
+        {
+          "name": "Metro Line 2B (Yellow Line) DN Nagar - Mandale: Bandra and Income Tax Office (BKC interchange) stations",
+          "type": "metro",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://en.wikipedia.org/wiki/Line_2_(Mumbai_Metro)"
+        },
+        {
+          "name": "Mumbai-Ahmedabad bullet train, underground BKC terminal station",
+          "type": "rail",
+          "status": "under_construction",
+          "expected_year": 2029,
+          "source_url": "https://en.wikipedia.org/wiki/Mumbai–Ahmedabad_high-speed_rail_corridor"
+        },
+        {
+          "name": "Bandra Kurla Complex business district (offices, Jio World Centre)",
+          "type": "commercial",
+          "status": "operational"
+        }
+      ],
+      "typical_rent_yield_pct": 4.23,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/bandra-east-mumbai",
+      "notes": "A redevelopment-led luxury pocket between the Western Express Highway and BKC; older MHADA / MIG colonies are being rebuilt as gated towers such as Rustomjee Seasons, Rustomjee Oriana and Kalpataru Magnus. Keystone's 2022 DRHP (citing MahaRERA) says 82% of Bandra East launches in 2017-2021 (1,378 units) were redevelopment. Square Yards (Sep 2026): average asking price about Rs 56,150/sq ft, average rent Rs 198/sq ft, gross rental yield 4.23%; its government-registration average is shown as Rs 37,700 or Rs 32,400 in different places. Mumbai Property Exchange cites a ready reckoner rate of about Rs 26,000/sq ft (2025-26). Line 2B's Mandale-Diamond Garden section opened in Apr 2026, but the Bandra / BKC stations are listed for Dec 2027. The bullet train's first stretch (Surat-Bilimora) is planned for Aug 2027 and the full line for 2029."
+    },
+    {
+      "slug": "khar-west",
+      "name": "Khar West",
+      "region": "Western Suburbs",
+      "lat": 19.071,
+      "lng": 72.835,
+      "catalysts": [
+        {
+          "name": "Metro Line 2B (Yellow Line) along S.V. Road, DN Nagar - Bandra - Mandale",
+          "type": "metro",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://en.wikipedia.org/wiki/Line_2_(Mumbai_Metro)"
+        },
+        {
+          "name": "Versova-Bandra Sea Link (with Carter Road and Juhu Koliwada connectors)",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://en.wikipedia.org/wiki/Versova–Bandra_Sea_Link"
+        },
+        {
+          "name": "Mumbai Coastal Road linked to Bandra-Worli Sea Link (fast access to Worli and South Mumbai)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://indianinfrastructure.com/2025/01/27/mumbai-coastal-roads-northbound-bridge-to-bandra-worli-sea-link-gets-inaugurated/"
+        }
+      ],
+      "typical_rent_yield_pct": 4.19,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/khar-west-mumbai",
+      "notes": "Upscale residential pocket between Bandra and Santacruz, with low new supply: Keystone's 2022 DRHP (citing MahaRERA) counts only 331 units launched in 2017-2021, 101 of them redevelopment. Square Yards (Sep 2026): average asking price about Rs 62,150/sq ft, government-registration average Rs 44,200/sq ft (Nov 2025-Oct 2026), rent about Rs 217/sq ft, gross yield 4.19%. Line 2B stations from Juhu through Bandra are listed for Dec 2026 to Dec 2027. The Versova-Bandra Sea Link was only about 8% complete in May 2023 and has an Aug 2027 target opening, so further slippage is likely."
+    },
+    {
+      "slug": "andheri-west",
+      "name": "Andheri West (Oshiwara, Lokhandwala, Four Bungalows)",
+      "region": "Western Suburbs",
+      "lat": 19.136,
+      "lng": 72.83,
+      "catalysts": [
+        {
+          "name": "Metro Line 2A (Yellow Line) Dahisar - DN Nagar along New Link Road",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2023,
+          "source_url": "https://www.freepressjournal.in/mumbai/modi-in-mumbai-pm-flags-off-metro-lines-2a-7-on-andheri-dahisar-route"
+        },
+        {
+          "name": "Metro Line 2B (Yellow Line) extension DN Nagar - Bandra - Mandale",
+          "type": "metro",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://en.wikipedia.org/wiki/Line_2_(Mumbai_Metro)"
+        },
+        {
+          "name": "Versova-Bandra Sea Link (Versova landing)",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://en.wikipedia.org/wiki/Versova–Bandra_Sea_Link"
+        },
+        {
+          "name": "Metro Line 6 (Pink Line) Swami Samarth Nagar - Vikhroli",
+          "type": "metro",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://www.mumbaipropertyexchange.com/project/oberoi-springs-andheri-west-by-oberoi-realty-ltd/1321"
+        }
+      ],
+      "typical_rent_yield_pct": 3.77,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/andheri-west-mumbai",
+      "notes": "A large, mixed suburb popular with the film industry. Luxury stock is concentrated in Oshiwara / New Link Road (e.g. Oberoi Springs) and Lokhandwala. Square Yards (Sep 2026): average asking price about Rs 41,400/sq ft, government-registration average Rs 27,900/sq ft (Nov 2025-Oct 2026), rent Rs 130/sq ft (Rs 150 in another table), gross yield 3.77%. Mumbai Property Exchange gives an Andheri West gross yield of about 3.9% and a ready reckoner of Rs 33,200/sq ft carpet. The Metro Line 6 date is from a property portal only, not an official MMRDA source."
+    }
+  ]
+}

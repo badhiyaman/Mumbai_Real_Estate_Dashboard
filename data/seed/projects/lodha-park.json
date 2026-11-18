@@ -1,0 +1,288 @@
+{
+  "slug": "lodha-park",
+  "name": "Lodha Park (incl. Trump Tower Mumbai, Lodha Kiara, Marquise, Allura, Parkside, Adrina)",
+  "developer": "lodha",
+  "micro_market": "worli",
+  "address": "Pandurang Budhkar Marg, Worli (Lower Parel side), Mumbai 400013",
+  "lat": 19.0067,
+  "lng": 72.8272,
+  "land_acres": 17,
+  "towers": 6,
+  "floors_max": 76,
+  "total_units": 2612,
+  "rera_ids": ["P51900001339", "P51900014937", "P51900016526"],
+  "status": "completed",
+  "launch_date": "2013-08-19",
+  "possession_promised": "2021-12-31",
+  "amenities": [
+    "7-acre private park on a raised podium",
+    "The Jewel clubhouse, 50,000 sq ft over two storeys (interiors by Patricia Urquiola)",
+    "Seven swimming pools incl. indoor and kids' pools",
+    "Evander Holyfield gym with boxing ring",
+    "Full-size cricket pitch, football ground, 200 m athletics track, 1 km jogging track",
+    "Multi-purpose sports court, putting green",
+    "Spa, Turkish hammam pool, yoga studio, meditation court",
+    "Private theatre, amphitheatre, library, temple",
+    "Restaurants, cafes, banqueting",
+    "Kids' play areas, treehouse, rock-climbing wall",
+    "Pet garden, organic vegetable and herb gardens"
+  ],
+  "description": "Lodha's flagship gated complex in Worli, built on about 17 acres of former mill land that Lodha bought from DLF in 2012. Six residential towers (Allura, Parkside, Trump Tower Mumbai, Marquise, Kiara and the final tower, Adrina) surround a 7-acre private park, with town houses and some retail and office space. Singapore's WOHA designed it. Trump Tower Mumbai, a licensing tie-up with the Trump Organization, sold at a reported premium of about 20-30% over the other towers.",
+  "notes": "Scope: this file treats the whole Lodha Park complex as one project. Land: Lodha bought Jawala Real Estate (DLF's subsidiary owning the former NTC mill land, which DLF had won at auction in 2005 for about Rs 702 crore) for about Rs 2,725-2,750 crore in 2012; reports say 17 to 17.5 acres, Wikipedia says 18.5 acres, Lodha's site says a 17-acre neighbourhood. Towers: Wikipedia lists five 268 m, 76-floor towers (Trump Tower, Marquise, Allura, Parkside, Kiara); Lodha's site calls Adrina 'the final tower', so six in all. DNA (Feb 2018) called Trump Tower 78 storeys; HomeBazaar says Marquise is 67 storeys; floors_max uses Wikipedia's 76. total_units (2,612) and units sold (2,165 of 2,210 launched units booked, Nov 2025) are from Square Yards and are low confidence. MahaRERA: P51900001339 covers Lodha Park wings 1-5 (commenced 27 Jul 2017, original completion 31 Dec 2021, revised 30 Dec 2023); P51900014937 is Lodha Adrina (original completion 31 Jul 2024, revised 30 Jun 2026); P51900016526 is Lodha Park Town Houses. Square Yards also lists Lodha Park Signet (P51900046367) and Lodha Signet (P51900029416), which look like commercial wings and are left out of rera_ids. Possession: Lodha's site lists Adrina as ready to move in; no sourced OC date for the earlier towers was found (a listing site says Trump Tower possession began around June 2019, unverified). Launch: Lodha launched 'The Park' on 19 Aug 2013 (Business Standard) and reported about Rs 2,500 crore of day-one bookings in Sep 2013; Aishwarya Rai Bachchan was brand ambassador. Square Yards says 85% of the site is open/green and the buildings are IGBC certified (level not stated). Registered sales: Square Yards counts 35 registered sales worth Rs 269 crore between Nov 2025 and Oct 2026. Housing.com lists the project under Lower Parel. Price conflict: Square Yards' Sep 2026 asking average (Rs 62,550/sq ft) is well above its registered average (Rs 51,900/sq ft); the basis of both is not stated.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Park_(residential_project)",
+    "https://www.lodhagroup.com/projects/residential-property-in-worli/lodha-park",
+    "https://www.squareyards.com/mumbai-residential-property/lodha-the-park/27816/project",
+    "https://www.business-standard.com/article/companies/we-did-highest-net-sales-in-real-estate-segment-last-year-abhisheck-lodha-113081900597_1.html",
+    "https://www.business-standard.com/article/companies/selling-a-17-acre-project-lodha-style-113092200504_1.html",
+    "https://www.dnaindia.com/mumbai/report-in-mumbai-trump-card-rakes-in-realty-moolah-2587649",
+    "https://openthemagazine.com/shorts/trump-towers-over-india",
+    "https://www.businesstoday.in/magazine/features/story/trumping-india-82929-2017-09-06",
+    "https://www.homebazaar.com/lodha-marquise-worli-2238",
+    "https://rentu.in/property/3-bhk-apartment-rent-lodha-park-worli-pandurang-budhkar-marg/9734297",
+    "https://www.realestatemumbai.com/3-bhk-flat-in-worli-on-rent-in-lodha-adrina-9735274",
+    "https://www.realestatemumbai.com/3-bhk-flat-in-worli-on-rent-in-lodha-parkside-9862477"
+  ],
+  "architect": "WOHA (Singapore); local architect Kapadia Associates; landscape PLA",
+  "branded_residence": "Trump (Trump Tower Mumbai)",
+  "clubhouse_sqft": 50000,
+  "open_space_pct": 85,
+  "views": ["city", "sea"],
+  "land_type": "mill_land",
+  "land_tenure": "unknown",
+  "units_sold": 2165,
+  "units_sold_as_of": "2025-11-01",
+  "transactions_12m": 35,
+  "unit_types": [
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 857,
+      "carpet_sqft_max": 893,
+      "price_min_cr": 4.97,
+      "price_max_cr": 4.97,
+      "notes": "Square Yards asking price for an 857 sq ft carpet unit (2026), before charges. Below the Rs 5 Cr threshold; included for completeness."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1092,
+      "carpet_sqft_max": 1348,
+      "price_min_cr": 6.44,
+      "price_max_cr": 7.47,
+      "notes": "Square Yards lists 1,111 sq ft carpet at Rs 6.44 Cr (2026 asking). HomeBazaar quotes Marquise from Rs 7.47 Cr (3 BHK 1,348 sq ft). DNA (Feb 2018) cited a 1,322 sq ft carpet Trump Tower 3 BHK at Rs 7.34 Cr."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1471,
+      "carpet_sqft_max": 1526,
+      "price_min_cr": 8.53,
+      "price_max_cr": 9.0,
+      "notes": "Square Yards: 1,471 sq ft carpet at Rs 8.53 Cr (2026 asking). Business Today (2017): Trump Tower 3 and 4 BHKs started at Rs 9 Cr."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 2255,
+      "carpet_sqft_max": 2255,
+      "price_min_cr": 13.08,
+      "price_max_cr": 13.08,
+      "notes": "Square Yards asking price (2026), before charges."
+    },
+    {
+      "config": "Trump Tower duplex penthouse",
+      "price_min_cr": 18,
+      "price_max_cr": 18,
+      "units": 6,
+      "notes": "Business Today (2017): six duplex penthouses priced at Rs 18 Cr each. DNA (2018) mentioned a 2,600 sq ft duplex sold for Rs 15 Cr."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2013-08-19",
+      "date_precision": "day",
+      "stage": "pre_launch",
+      "price_psf": 28000,
+      "basis": "unknown",
+      "source_name": "Business Standard (interview with Abhisheck Lodha)",
+      "source_url": "https://www.business-standard.com/article/companies/we-did-highest-net-sales-in-real-estate-segment-last-year-abhisheck-lodha-113081900597_1.html",
+      "confidence": "medium",
+      "note": "Average sales realisation of Rs 28,000/sq ft in the pre-launch of the first towers on the ex-DLF land. The article was blocked (HTTP 403); the quote was read from search snippets, and a CNBC-TV18 transcript gave 'a little over Rs 28,000'."
+    },
+    {
+      "date": "2013-09-22",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 23700,
+      "basis": "unknown",
+      "source_name": "Business Standard",
+      "source_url": "https://www.business-standard.com/article/companies/selling-a-17-acre-project-lodha-style-113092200504_1.html",
+      "confidence": "medium",
+      "note": "Apartments 'priced around Rs 23,700 a sq ft or Rs 3.2 crore' (implies about 1,350 sq ft, so probably saleable area). Article blocked (HTTP 403); figure read from search snippets. Probably a different tower or inventory from the Rs 28,000 pre-launch average."
+    },
+    {
+      "date": "2016-11-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 45000,
+      "basis": "unknown",
+      "source_name": "Open Magazine",
+      "source_url": "https://openthemagazine.com/shorts/trump-towers-over-india",
+      "confidence": "medium",
+      "note": "Trump Tower Mumbai only: 'sells for Rs 45,000 per square foot', about a 30% premium over other towers in the complex. Page last updated 10 Nov 2016; original publication date not shown."
+    },
+    {
+      "date": "2018-02-23",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 46000,
+      "basis": "unknown",
+      "source_name": "DNA",
+      "source_url": "https://www.dnaindia.com/mumbai/report-in-mumbai-trump-card-rakes-in-realty-moolah-2587649",
+      "confidence": "medium",
+      "note": "The Park (non-Trump towers) at Rs 46,000/sq ft, versus Rs 38,000-40,000 for other developers in the locality."
+    },
+    {
+      "date": "2018-02-23",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 55000,
+      "basis": "unknown",
+      "source_name": "DNA",
+      "source_url": "https://www.dnaindia.com/mumbai/report-in-mumbai-trump-card-rakes-in-realty-moolah-2587649",
+      "confidence": "medium",
+      "note": "Trump Tower Mumbai only, 'around Rs 55,000 per sq-ft'. The same article cites a 1,322 sq ft carpet 3 BHK at Rs 7.34 Cr (about Rs 55,520/sq ft carpet, computed), which suggests the figure is on carpet area."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 62550,
+      "basis": "unknown",
+      "source_name": "Square Yards (asking-price trend)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-the-park/27816/project",
+      "confidence": "low",
+      "note": "Average listing price, Sep 2026 quarter (Dec 2025: 62,000; Mar 2026: 63,750; Jun 2026: 63,450). Worli average on the same page: Rs 65,700."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 51900,
+      "basis": "unknown",
+      "source_name": "Square Yards (IGR registered transactions)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-the-park/27816/project",
+      "confidence": "high",
+      "note": "Average registered rate across 35 sales (Rs 269 Cr) registered Nov 2025 to Oct 2026, all towers. Area basis not stated."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1092,
+      "monthly_rent": 280000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Rentu",
+      "source_url": "https://rentu.in/property/3-bhk-apartment-rent-lodha-park-worli-pandurang-budhkar-marg/9734297",
+      "confidence": "low",
+      "note": "Listed 18 Nov (year not shown; page reviewed Oct 2026). The same page lists 17 Lodha Park rentals: 2 BHK Rs 2.3-3.1 lakh, 3 BHK Rs 2.7-4.0 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1092,
+      "monthly_rent": 350000,
+      "furnishing": "furnished",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-in-worli-on-rent-in-lodha-parkside-9862477",
+      "confidence": "low",
+      "note": "Lodha Parkside tower, fully furnished. Listing 'checked' 18 Nov 2026."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "2 BHK",
+      "carpet_sqft": 893,
+      "monthly_rent": 275000,
+      "furnishing": "unfurnished",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-in-worli-on-rent-in-lodha-parkside-9862477",
+      "confidence": "low",
+      "note": "Lodha Parkside tower. Listing 'checked' 18 Nov 2026."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1193,
+      "monthly_rent": 370000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-in-worli-on-rent-in-lodha-adrina-9735274",
+      "confidence": "low",
+      "note": "Lodha Adrina tower, described as 'builder-furnished'. Listing 'checked' 18 Nov 2026."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4.5 BHK",
+      "carpet_sqft": 2235,
+      "monthly_rent": 450000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Rentu",
+      "source_url": "https://rentu.in/property/3-bhk-apartment-rent-lodha-park-worli-pandurang-budhkar-marg/9734297",
+      "confidence": "low",
+      "note": "From the list of Lodha Park rentals on the same page; date shown only as 18 Nov."
+    }
+  ],
+  "news": [
+    {
+      "date": "2012-11-02",
+      "title": "Lodha buys DLF's Mumbai land for Rs 2,725 cr",
+      "url": "https://www.business-standard.com/article/companies/lodha-buys-dlf-s-mumbai-land-for-rs-2-725-cr-112110200063_1.html",
+      "source": "Business Standard",
+      "event_type": "deal",
+      "summary": "Lodha completes its purchase of DLF's 17-acre former textile-mill land (via DLF's subsidiary Jawala Real Estate), the site of Lodha Park. Other reports put the deal at Rs 2,727-2,750 crore, including about Rs 1,500 crore of liabilities taken over."
+    },
+    {
+      "date": "2013-08-19",
+      "title": "Lodha launches new project in Worli",
+      "url": "https://www.business-standard.com/article/companies/lodha-launches-new-project-in-worli-113081900676_1.html",
+      "source": "Business Standard",
+      "event_type": "launch",
+      "summary": "Lodha announces 'The Park' on the ex-DLF land, with Aishwarya Rai Bachchan as brand ambassador. Article not retrieved directly (HTTP 403); details are from search snippets."
+    },
+    {
+      "date": "2013-09-17",
+      "title": "Donald Trump back in Mumbai, this time with Lodha group",
+      "url": "https://www.business-standard.com/article/companies/donald-trump-back-in-mumbai-this-time-with-lodha-group-113091700640_1.html",
+      "source": "Business Standard",
+      "event_type": "other",
+      "summary": "Lodha signs a branding tie-up with the Trump Organization for one tower at The Park, later marketed as Trump Tower Mumbai. Article not retrieved directly; cited by Wikipedia."
+    },
+    {
+      "date": "2014-08-12",
+      "title": "Trump's second bid to tower over Mumbai",
+      "url": "https://www.business-standard.com/article/management/trump-s-second-bid-to-tower-over-mumbai-114081201053_1.html",
+      "source": "Business Standard",
+      "event_type": "launch",
+      "summary": "Coverage of Donald Trump's visit to launch Trump Tower Mumbai at Lodha's Worli project. Article not retrieved directly (HTTP 403). Contemporary reports said about a third of roughly 300 apartments were pre-sold at around Rs 9.5 crore each."
+    },
+    {
+      "date": "2017-09-06",
+      "title": "Trumping India",
+      "url": "https://www.businesstoday.in/magazine/features/story/trumping-india-82929-2017-09-06",
+      "source": "Business Today",
+      "event_type": "other",
+      "summary": "Feature on Trump-branded towers in India. Trump Tower Mumbai's 3 and 4 BHKs started at Rs 9 crore, and six duplex penthouses were priced at Rs 18 crore each."
+    },
+    {
+      "date": "2018-02-23",
+      "title": "In Mumbai, Trump card rakes in realty moolah",
+      "url": "https://www.dnaindia.com/mumbai/report-in-mumbai-trump-card-rakes-in-realty-moolah-2587649",
+      "source": "DNA",
+      "event_type": "other",
+      "summary": "Trump Tower apartments at about Rs 55,000/sq ft against Rs 46,000 in the rest of The Park and Rs 38,000-40,000 for other developers nearby. The tower was described as 78 storeys with 51 built."
+    }
+  ]
+}

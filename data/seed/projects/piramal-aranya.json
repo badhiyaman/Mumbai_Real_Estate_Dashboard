@@ -1,0 +1,230 @@
+{
+  "slug": "piramal-aranya",
+  "name": "Piramal Aranya",
+  "developer": "piramal-realty",
+  "micro_market": "byculla",
+  "address": "E.S. Patanwala Marg, behind Rani Baug (Byculla Zoo), Byculla East, Mumbai 400027",
+  "lat": 18.978,
+  "lng": 72.835,
+  "land_acres": 7,
+  "towers": 3,
+  "floors_max": 72,
+  "rera_ids": ["P51900003324", "P51900018039", "P51900020330", "P51900051735"],
+  "status": "under_construction",
+  "launch_date": "2016-03-03",
+  "amenities": [
+    "About 2 lakh sq ft of amenity space with 40+ amenities",
+    "Podium: viewing terrace, yoga lawn, lap pool, events lawn, kids' zone, outdoor cafe/barbeque, outdoor gym, dog park, jacuzzi",
+    "Recreation ground: multipurpose court, cricket field, rock climbing, lap pool, kids' pool, amphitheatre, walking track",
+    "Clubhouse: badminton, squash, golf simulator, theatre, library, indoor games, spa treatment rooms, salon, creche, fitness centre",
+    "Tower-level fitness centre, library/reading lounge and rooftop observation deck"
+  ],
+  "description": "A three-tower luxury development on about 7 acres beside Rani Baug (Jijamata Udyan, Byculla Zoo), with views of the 60-acre botanical garden to the west and Mumbai Harbour to the east. Avyan and the 72-storey Arav have been delivered; Ahan has two wings, Ahan I (OC received) and Ahan II (launched July 2025, topped out). The March 2016 launch offered large 3 and 4 BHK residences at Rs 8-12 crore; later towers moved to smaller 2 and 3 BHK homes from about Rs 2.6-2.75 crore.",
+  "notes": "Phases: Avyan (Wing A, P51900003324), Arav (Wing B, P51900018039, 72 storeys), Ahan I (Wing C, P51900020330) and Ahan II (P51900051735). Piramal's site describes the project as 41 to 72 storeys and mortgaged to ICICI Bank. The 2016 launch release said 'approximately 70-storey', 3.7 million sq ft of construction and a Rs 4,300 crore investment; the Aug 2016 release said Rs 4,450 crore incl. land. Track2Realty's Oct 2018 headline called it a Rs 7,500 crore project. Product shift: the 2016 launch sold 1,700-2,600 sq ft carpet 3/4 BHKs at about Rs 46,000-47,000/sq ft carpet, while Arav (2018) and Ahan (2020) were 2/3 BHKs from 613-763 sq ft, so later per-sq-ft figures compare different products. Delivery: Piramal says 700+ homes were delivered in Avyan and Arav by Jul 2025, and that Avyan got its OC 21 months ahead of schedule (no date given). Piramal Realty announced OCs for Aranya, Vaikunth and Revanta on 11 May 2023 (tower not specified). Sales: Square Yards says 212 of 337 launched Ahan II units were booked by Nov 2025 (another entry on the same page says 36 of 292, so treat as uncertain). Total units are not confirmed: Square Yards gives 480 for Arav and 641 for Ahan. Price conflict: Housing.com shows the project's average price per sq ft falling about 6.7% (and Wing B about 8.7%) over a year to 2025, while Square Yards asking prices were roughly flat at Rs 48,000-49,000 in 2026. Land area: official 7 acres; Square Yards says 7.63 acres. Distances: the 2016 release put BKC at 11.4 km and the domestic airport at 16 km; Piramal's current site gives the international airport (T2) as about 17.3 km and Atal Setu about 3 km.",
+  "sources": [
+    "https://www.piramal.com/wp-content/uploads/2020/04/Aranya_Launch_Release_20160303122214-1-2.pdf",
+    "https://piramalrealty.com/pdf/aug-19-press-release-piramal-aranya-3bhk-launch.pdf",
+    "https://www.piramalrealty.com/piramal-aranya",
+    "https://www.track2realty.track2media.com/?p=59278",
+    "https://www.tribuneindia.com/news/business/piramal-realty-launches-ahan-ii-in-an-ecosystem-a-community-in-full-bloom-at-piramal-aranya-in-rani-baug-byculla",
+    "https://www.squareyards.com/mumbai-residential-property/piramal-aranya-ahan/30246/project",
+    "https://www.squareyards.com/mumbai-residential-property/piramal-aranya-arav/10299/project",
+    "https://www.realestatemumbai.com/3-bhk-flat-on-rent-in-piramal-aranya-byculla-9714967"
+  ],
+  "architect": "Make Architects (UK); interiors Hirsch Bedner Associates; structure/MEP BuroHappold; landscape EDSA",
+  "contractor": "Larsen & Toubro (core and shell civil works, contract over Rs 700 crore, awarded Aug 2016)",
+  "views": ["Rani Baug botanical garden", "harbour", "city"],
+  "distance_bkc_km": 11.4,
+  "distance_airport_km": 17.3,
+  "unit_types": [
+    {
+      "config": "3 & 4 BHK (2016 launch)",
+      "carpet_sqft_min": 1700,
+      "carpet_sqft_max": 2600,
+      "price_min_cr": 8,
+      "price_max_cr": 12,
+      "notes": "March 2016 pre-launch inventory per Piramal's press release. An Aug 2016 release added 3 BHK harbour-facing suites of 1,258-1,272 sq ft carpet (no price given)."
+    },
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 613,
+      "carpet_sqft_max": 800,
+      "price_min_cr": 3.75,
+      "price_max_cr": 4.38,
+      "notes": "Ahan asking prices on Square Yards (2026), before charges; Arav 788 sq ft listed at Rs 3.87 Cr. Below the Rs 5 Cr threshold."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 860,
+      "carpet_sqft_max": 1420,
+      "price_min_cr": 5.26,
+      "price_max_cr": 7,
+      "notes": "Ahan 860-920 sq ft at Rs 5.26-5.63 Cr (Square Yards asking, before charges); Arav resale listings of 1,080-1,420 sq ft carpet at Rs 6.5-7 Cr."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 1908,
+      "carpet_sqft_max": 1908,
+      "price_min_cr": 10.89,
+      "price_max_cr": 12.4,
+      "notes": "Arav resale asking prices on Square Yards (2026)."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2016-03-03",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 46600,
+      "basis": "carpet",
+      "source_name": "Piramal Realty launch press release",
+      "source_url": "https://www.piramal.com/wp-content/uploads/2020/04/Aranya_Launch_Release_20160303122214-1-2.pdf",
+      "confidence": "medium",
+      "note": "Computed: 3/4 BHK of 1,700-2,600 sq ft carpet priced Rs 8-12 Cr, i.e. Rs 46,154-47,059/sq ft; midpoint shown. The first 25 units got a Rs 30-40 lakh discount on the pre-launch price."
+    },
+    {
+      "date": "2018-10-18",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 36040,
+      "basis": "carpet",
+      "source_name": "Track2Realty (Arav tower launch)",
+      "source_url": "https://www.track2realty.track2media.com/?p=59278",
+      "confidence": "medium",
+      "note": "Computed: starting price Rs 2.75 Cr divided by the smallest size, 763 sq ft carpet. Arav offered smaller 2/3 BHK homes (763 to about 1,400 sq ft), so this is not like-for-like with the 2016 launch."
+    },
+    {
+      "date": "2020-01-30",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 40790,
+      "basis": "carpet",
+      "source_name": "Business Standard / ANI (Ahan tower launch)",
+      "source_url": "https://www.business-standard.com/article/news-ani/piramal-realty-launches-ahan-at-piramal-aranya-120013000517_1.html",
+      "confidence": "low",
+      "note": "Computed: launch starting price Rs 2.59 Cr (ANI) divided by 635 sq ft, the smallest Ahan I carpet size given in a 2026 Piramal blog. The two inputs come from different sources and dates; article not retrieved directly (HTTP 403)."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 49050,
+      "basis": "unknown",
+      "source_name": "Square Yards (Arav asking-price trend)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-aranya-arav/10299/project",
+      "confidence": "low",
+      "note": "Arav tower average listing price, Sep 2026 quarter (Dec 2025: 51,200). Byculla average on the same page: Rs 44,750."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 48150,
+      "basis": "unknown",
+      "source_name": "Square Yards (Ahan asking-price trend)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-aranya-ahan/30246/project",
+      "confidence": "low",
+      "note": "Ahan average listing price, Sep 2026 quarter (Dec 2025: 51,150)."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "2 BHK",
+      "carpet_sqft": 771,
+      "monthly_rent": 135000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-on-rent-in-piramal-aranya-byculla-9714967",
+      "confidence": "low",
+      "note": "Listing 'checked' 18 Nov 2026; tower not stated."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 920,
+      "monthly_rent": 200000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-on-rent-in-piramal-aranya-byculla-9714967",
+      "confidence": "low",
+      "note": "Listing 'checked' 18 Nov 2026. The page gives a building-wide range of 3 BHK Rs 1.7-5 lakh and 4 BHK Rs 4.25-5.5 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1000,
+      "monthly_rent": 170000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-on-rent-in-piramal-aranya-byculla-9714967",
+      "confidence": "low",
+      "note": "Listing 'checked' 18 Nov 2026."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK + servant room",
+      "carpet_sqft": 1200,
+      "monthly_rent": 180000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards (Arav rentals)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-aranya-arav/10299/project",
+      "confidence": "low",
+      "note": "Arav tower; listing date not shown (page read 18 Nov 2026)."
+    }
+  ],
+  "news": [
+    {
+      "date": "2016-03-03",
+      "title": "Piramal Realty launches its signature project Piramal Aranya at Byculla",
+      "url": "https://www.piramal.com/wp-content/uploads/2020/04/Aranya_Launch_Release_20160303122214-1-2.pdf",
+      "source": "Piramal Group (press release)",
+      "event_type": "launch",
+      "summary": "Launch of a 7-acre, roughly 70-storey development with 1,700-2,600 sq ft carpet 3/4 BHKs at Rs 8-12 crore, via an EOI pre-launch with a Rs 10 lakh token."
+    },
+    {
+      "date": "2016-08-19",
+      "title": "Piramal Realty inks milestone partnership with L&T Construction; launches exclusive inventory of elite harbour facing suites",
+      "url": "https://piramalrealty.com/pdf/aug-19-press-release-piramal-aranya-3bhk-launch.pdf",
+      "source": "Piramal Realty (press release)",
+      "event_type": "other",
+      "summary": "L&T wins the core-and-shell contract worth over Rs 700 crore; new 3 BHK harbour-facing suites of 1,258-1,272 sq ft carpet; project investment put at Rs 4,450 crore incl. land."
+    },
+    {
+      "date": "2018-10-18",
+      "title": "Piramal Realty launches INR 7500 crore project in Byculla",
+      "url": "https://www.track2realty.track2media.com/?p=59278",
+      "source": "Track2Realty",
+      "event_type": "launch",
+      "summary": "Launch of Arav, the second tower: more than 300 units of 2/3 BHK, 763 to about 1,400 sq ft carpet, from Rs 2.75 crore."
+    },
+    {
+      "date": "2020-01-30",
+      "title": "Piramal Realty launches \"Ahan\" at Piramal Aranya",
+      "url": "https://www.business-standard.com/article/news-ani/piramal-realty-launches-ahan-at-piramal-aranya-120013000517_1.html",
+      "source": "Business Standard / ANI",
+      "event_type": "launch",
+      "summary": "Third tower, Ahan, launched with 2 and 3 bed homes from Rs 2.59 crore (per search snippets; article blocked)."
+    },
+    {
+      "date": "2023-05-11",
+      "title": "Piramal Realty receives Occupancy Certificate (OC) for three luxury projects in MMR",
+      "url": "https://www.realtynmore.com/piramal-realty-receives-occupancy-certificate-oc-for-three-luxury-projects-in-mmr/",
+      "source": "Realty n More",
+      "event_type": "possession",
+      "summary": "Piramal announces OCs for Aranya (Byculla), Vaikunth (Thane) and Revanta (Mulund). Which Aranya tower is not stated in the coverage found; article body not retrieved."
+    },
+    {
+      "date": "2025-07-31",
+      "title": "Piramal Realty Launches Ahan II In An Ecosystem & A Community In Full Bloom At Piramal Aranya In Rani Baug, Byculla",
+      "url": "https://www.tribuneindia.com/news/business/piramal-realty-launches-ahan-ii-in-an-ecosystem-a-community-in-full-bloom-at-piramal-aranya-in-rani-baug-byculla",
+      "source": "The Tribune (ANI / VMPL advertorial)",
+      "event_type": "launch",
+      "summary": "Final phase, Ahan II (2, 3 and 4 bed), launched; over 700 homes already delivered in Avyan and Arav."
+    }
+  ]
+}

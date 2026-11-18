@@ -1,0 +1,186 @@
+{
+  "slug": "lodha-bellevue",
+  "name": "Lodha Bellevue",
+  "developer": "lodha",
+  "micro_market": "mahalaxmi",
+  "address": "Opposite Raheja Vivarea, near Jacob Circle (off Arthur Road / N M Joshi Marg, Dagdi Chawl), Mahalaxmi, Mumbai 400011",
+  "lat": 18.9782,
+  "lng": 72.8272,
+  "land_acres": 5,
+  "towers": 2,
+  "floors_max": 59,
+  "rera_ids": ["P51900046567", "P51900046594"],
+  "status": "under_construction",
+  "launch_date": "2022-08-01",
+  "possession_promised": "2028-09-30",
+  "amenities": [
+    "Club Bellevue (residents only)",
+    "Urban forest",
+    "Pools",
+    "Gym",
+    "Sports courts",
+    "Banquet and party hall",
+    "Outdoor cafe",
+    "Play village",
+    "Focus lounges and work-from-home cabanas",
+    "Themed gardens",
+    "Shikharbandh Jain temple",
+    "Retail zone"
+  ],
+  "description": "A Lodha joint-development project on about 5 acres at Jacob Circle, Mahalaxmi, opposite Raheja Vivarea, developed with Terraform Realty. It offers 3, 4 and 5 BHK homes and penthouses with private decks and views over Mahalaxmi Racecourse and the sea. Lodha's Q3 FY23 investor presentation lists it as a 2QFY23 launch of about 0.7 million sq ft with an estimated GDV of about Rs 2,000 crore and OC expected in FY28. Lodha says over 85% of the land is open space.",
+  "notes": "RERA: Lodha's project page lists P51900046567 and P51900046594 for Bellevue. P51900046567 (Wing 1) has 360 sanctioned apartments, 59 floors (57 habitable), MahaRERA start 13 Aug 2022 and completion 30 Sep 2028 (Square Yards MahaRERA snapshot). Square Yards labels P51900046594 as 'Lodha Solitaire', Tower 3, with completion 31 Dec 2027, and also bundles P51900046424 ('Signet', completion 31 Aug 2027) into the same complex page, so tower count and totals across sources are muddled. towers=2 follows Housiey and Lodha's two RERA IDs; total_units is left out (Square Yards says 627, Housing.com 364, Wing 1 alone 360). Possession conflict: Lodha's own FAQ said delivery in 2026, Housiey shows target Dec 2026 vs RERA Sep 2028, Mumbai Property Exchange says Jan 2029 in places, and Lodha's investor presentation expected OC in FY28. Construction: Mumbai Property Exchange (MahaRERA) shows 84% average progress with the structure 100% complete; Housiey says 100% complete as of Sep 2026. Land area: Lodha says 5 acres, Square Yards 7 acres in places, one listing 1.57 acres. Investor presentation (Jan 2023) figures: 0.7 mn sq ft, GDV Rs 20 bn, which works out to about Rs 28,600 per sq ft of whatever area Lodha reports (computed; much lower than registered carpet rates, so the basis may differ). Registered rates have risen from about Rs 40,500-48,100/sq ft carpet in Oct 2022-Jan 2023 to about Rs 56,000-63,000 in May-Jun 2026. Square Yards shows 69 registered sales worth Rs 468 crore at an average of Rs 50,400/sq ft from Nov 2025 to Oct 2026, but that page mixes Bellevue with the Solitaire and Signet registrations, so transactions_12m is not set. Lowest ticket sizes (about Rs 6-7 crore for 3 BHK) sit at the bottom of the Rs 5 crore+ band. Lat/lng are Mumbai Property Exchange's indicative coordinates. No floor-rise schedule or maintenance rate was found. Very little mainstream news coverage of this project was found.",
+  "sources": [
+    "https://www.lodhagroup.com/projects/residential-property-in-mahalaxmi/lodha-bellevue",
+    "https://files.tijorifinance.com/india/company/6258/8048/IP-Dec22.pdf",
+    "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project/rera/p51900046567",
+    "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project",
+    "https://www.mumbaipropertyexchange.com/project/lodha-bellevue-mahalaxmi-by-lodha-group/28582",
+    "https://housiey.com/projects/lodha-bellevue"
+  ],
+  "architect": "Pradeepmkamble and associates (MahaRERA architect of record, as listed by Mumbai Property Exchange)",
+  "open_space_pct": 85,
+  "views": ["racecourse", "sea", "city"],
+  "land_tenure": "unknown",
+  "jv_partner": "Terraform Realty (joint development)",
+  "oc_received": false,
+  "payment_plan": "Construction-linked plan, per Housiey listing",
+  "nearest_metro": "Mahalaxmi (Metro Line 3)",
+  "nearest_metro_km": 0.2,
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 879,
+      "carpet_sqft_max": 1206,
+      "price_min_cr": 6.29,
+      "price_max_cr": 9.52,
+      "notes": "Housiey lists 879-1,162 sq ft at Rs 7.34-9.52 crore all-inclusive (Sep 2026); Mumbai Property Exchange lists 1,111 sq ft at Rs 8.71 crore and 1,206 sq ft at Rs 6.29 crore (Nov 2026). MahaRERA-filed 3 BHK carpet is 795-1,480 sq ft. The common registered layout is 95.22 sq m (about 1,025 sq ft)."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1480,
+      "carpet_sqft_max": 2400,
+      "price_min_cr": 10.41,
+      "price_max_cr": 17.98,
+      "notes": "Registered 4 BHK layout of 137.5 sq m (about 1,480 sq ft). Listings: 1,603 sq ft at Rs 10.41-12.22 crore, up to 2,400 sq ft at Rs 17.98 crore (Housiey)."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 2749,
+      "carpet_sqft_max": 2960,
+      "price_min_cr": 17.8,
+      "price_max_cr": 27.3,
+      "notes": "Listing data only: 2,749 sq ft at Rs 27.3 crore (Mumbai Property Exchange); 5.5 BHK 2,762-2,960 sq ft at Rs 17.80-22.27 crore (Housiey, internally inconsistent)."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2022-10-06",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 45134,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, P51900046567)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project/rera/p51900046567",
+      "confidence": "high",
+      "note": "Computed: unit A-4401, Rs 4.63 crore / 95.22 sq m (1,025 sq ft). Agreement values exclude stamp duty and GST."
+    },
+    {
+      "date": "2022-10-11",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 48102,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, P51900046567)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project/rera/p51900046567",
+      "confidence": "high",
+      "note": "Computed: unit A-2901, Rs 4.93 crore / 1,025 sq ft."
+    },
+    {
+      "date": "2022-12-06",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 40529,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, P51900046567)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project/rera/p51900046567",
+      "confidence": "high",
+      "note": "Computed: unit A-301 (3rd floor), Rs 4.15 crore / 1,025 sq ft. Low floor."
+    },
+    {
+      "date": "2023-01-09",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 42299,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, P51900046567)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project/rera/p51900046567",
+      "confidence": "high",
+      "note": "Computed: unit B-4203, Rs 4.34 crore / 1,025 sq ft."
+    },
+    {
+      "date": "2026-05-08",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 63131,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, P51900046567)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project/rera/p51900046567",
+      "confidence": "high",
+      "note": "Computed: unit A-5701 (57th floor), Rs 6.47 crore / 1,025 sq ft. Same layout as the Oct 2022 rows, so it shows about 30-40% appreciation, though the higher floor accounts for part of it."
+    },
+    {
+      "date": "2026-05-13",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 56243,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, P51900046567)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project/rera/p51900046567",
+      "confidence": "high",
+      "note": "Computed: unit A-3902 (4 BHK), Rs 8.32 crore / 137.5 sq m (1,480 sq ft). A-2802 on 8 May 2026 was about Rs 56,900/sq ft."
+    },
+    {
+      "date": "2026-06-24",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 61981,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, P51900046567)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project/rera/p51900046567",
+      "confidence": "high",
+      "note": "Computed: unit B-3102 (4 BHK), Rs 9.17 crore / 1,480 sq ft. B-3302 on 4 Jun 2026 was only Rs 7.25 crore (about Rs 49,000/sq ft), so same-month deals vary widely."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 50400,
+      "basis": "unknown",
+      "source_name": "Square Yards (average registered rate, Nov 2025 - Oct 2026)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-mahalaxmi-bellevue/165090/project",
+      "confidence": "medium",
+      "note": "Average of 69 registered sales worth Rs 468 crore. The page combines Bellevue with the Solitaire (Tower 3) and Signet registrations, so it is not Bellevue-only. Square Yards' average asking price was Rs 54,800/sq ft in Sep 2026."
+    },
+    {
+      "date": "2026-11-11",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 65000,
+      "basis": "carpet",
+      "source_name": "Mumbai Property Exchange (indicative asking price)",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/lodha-bellevue-mahalaxmi-by-lodha-group/28582",
+      "confidence": "low",
+      "note": "Listing rate of about Rs 65,000/sq ft carpet (Rs 64,000 elsewhere on the page). Indicative; the page's own unit prices are internally inconsistent."
+    }
+  ],
+  "news": [
+    {
+      "date": "2023-01-24",
+      "title": "Macrotech Developers investor presentation, Q3 FY23 (new launches in 9MFY23)",
+      "url": "https://files.tijorifinance.com/india/company/6258/8048/IP-Dec22.pdf",
+      "source": "Macrotech Developers (Lodha) stock exchange filing",
+      "event_type": "launch",
+      "summary": "Lists Bellevue, Mahalaxmi as a South Central JDA project launched in 2QFY23: about 0.7 million sq ft, estimated GDV Rs 20 billion, estimated OC in FY28."
+    }
+  ]
+}

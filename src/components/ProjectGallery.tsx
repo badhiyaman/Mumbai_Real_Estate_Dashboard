@@ -5,7 +5,7 @@ import { useMemo, useState } from "react";
 import type { ProjectCard } from "@/lib/cards";
 import { fmtCr, fmtPct, fmtPsf, fmtYears, STATUS_LABEL } from "@/lib/metrics";
 
-type SortKey = "cagr" | "growth" | "launch" | "price" | "name";
+type SortKey = "cagr" | "growth" | "yield" | "launch" | "price" | "name";
 
 const uniqueSorted = (xs: string[]) => [...new Set(xs.filter(Boolean))].sort();
 
@@ -20,10 +20,12 @@ export default function ProjectGallery({ cards }: { cards: ProjectCard[] }) {
   const [minTicket, setMinTicket] = useState("");
   const [minAcres, setMinAcres] = useState("");
   const [minCagr, setMinCagr] = useState("");
+  const [view, setView] = useState("");
   const [sort, setSort] = useState<SortKey>("cagr");
 
   const areas = useMemo(() => uniqueSorted(cards.map((c) => c.area)), [cards]);
   const developers = useMemo(() => uniqueSorted(cards.map((c) => c.developer)), [cards]);
+  const viewOptions = useMemo(() => uniqueSorted(cards.flatMap((c) => c.views.map((v) => v.toLowerCase()))), [cards]);
   const configs = useMemo(() => uniqueSorted(cards.flatMap((c) => c.configs)), [cards]);
   const years = useMemo(
     () => [...new Set(cards.map((c) => c.launchYear).filter((y): y is number => y != null))].sort(),
@@ -43,12 +45,14 @@ export default function ProjectGallery({ cards }: { cards: ProjectCard[] }) {
       if (minTicket && (c.minTicketCr == null || c.minTicketCr < +minTicket)) return false;
       if (minAcres && (c.landAcres == null || c.landAcres < +minAcres)) return false;
       if (minCagr && (c.cagr == null || c.cagr * 100 < +minCagr)) return false;
+      if (view && !c.views.some((v) => v.toLowerCase() === view)) return false;
       return true;
     });
     const val = (c: ProjectCard): number | string => {
       switch (sort) {
         case "cagr": return c.cagr ?? -Infinity;
         case "growth": return c.totalGrowth ?? -Infinity;
+        case "yield": return c.rentYield ?? -Infinity;
         case "launch": return c.launchYear ?? -Infinity;
         case "price": return c.latestPsf ?? -Infinity;
         case "name": return c.name;
@@ -59,11 +63,11 @@ export default function ProjectGallery({ cards }: { cards: ProjectCard[] }) {
       if (typeof va === "string" && typeof vb === "string") return va.localeCompare(vb);
       return (vb as number) - (va as number);
     });
-  }, [cards, query, area, developer, status, config, fromYear, toYear, minTicket, minAcres, minCagr, sort]);
+  }, [cards, query, area, developer, status, config, fromYear, toYear, minTicket, minAcres, minCagr, view, sort]);
 
   const reset = () => {
     setQuery(""); setArea(""); setDeveloper(""); setStatus(""); setConfig("");
-    setFromYear(""); setToYear(""); setMinTicket(""); setMinAcres(""); setMinCagr("");
+    setFromYear(""); setToYear(""); setMinTicket(""); setMinAcres(""); setMinCagr(""); setView("");
   };
 
   const field = "w-full rounded-md border border-border bg-surface px-2 py-1.5 text-sm";
@@ -105,6 +109,13 @@ export default function ProjectGallery({ cards }: { cards: ProjectCard[] }) {
           </select>
         </label>
         <label className={label}>
+          <span>View</span>
+          <select className={field} value={view} onChange={(e) => setView(e.target.value)}>
+            <option value="">Any</option>
+            {viewOptions.map((v) => <option key={v} value={v} className="capitalize">{v}</option>)}
+          </select>
+        </label>
+        <label className={label}>
           <span>Launched from</span>
           <select className={field} value={fromYear} onChange={(e) => setFromYear(e.target.value)}>
             <option value="">Any</option>
@@ -135,6 +146,7 @@ export default function ProjectGallery({ cards }: { cards: ProjectCard[] }) {
           <select className={field} value={sort} onChange={(e) => setSort(e.target.value as SortKey)}>
             <option value="cagr">Yearly growth (CAGR)</option>
             <option value="growth">Total growth</option>
+            <option value="yield">Rental yield</option>
             <option value="launch">Newest launch</option>
             <option value="price">Price per sq ft</option>
             <option value="name">Name</option>
@@ -190,7 +202,12 @@ function Card({ c }: { c: ProjectCard }) {
           <dl className="mt-auto grid grid-cols-2 gap-2 text-sm">
             <div>
               <dt className="text-xs text-muted">Latest price</dt>
-              <dd>{c.latestPsf ? fmtPsf(c.latestPsf) : "—"}</dd>
+              <dd>
+                {c.latestPsf ? fmtPsf(c.latestPsf) : "—"}
+                {c.latestPsf && c.latestBasis && (
+                  <div className="text-xs text-muted">{c.latestBasis === "unknown" ? "area basis unclear" : `${c.latestBasis} area`}</div>
+                )}
+              </dd>
             </div>
             <div>
               <dt className="text-xs text-muted">From</dt>
@@ -208,6 +225,14 @@ function Card({ c }: { c: ProjectCard }) {
               <dd className={growthColor(c.cagr)}>
                 {c.cagr != null ? fmtPct(c.cagr, 1) : <span className="text-xs text-muted">Under 2 yrs of data</span>}
               </dd>
+            </div>
+            <div>
+              <dt className="text-xs text-muted">Rental yield</dt>
+              <dd>{c.rentYield != null ? `${(c.rentYield * 100).toFixed(1)}%` : "—"}</dd>
+            </div>
+            <div>
+              <dt className="text-xs text-muted">Possession</dt>
+              <dd>{c.possession ?? "—"}</dd>
             </div>
           </dl>
         </div>

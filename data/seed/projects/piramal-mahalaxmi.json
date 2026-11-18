@@ -1,0 +1,212 @@
+{
+  "slug": "piramal-mahalaxmi",
+  "name": "Piramal Mahalaxmi",
+  "developer": "piramal-realty",
+  "micro_market": "mahalaxmi",
+  "address": "Sane Guruji Marg, near Jacob Circle, Mahalaxmi, Mumbai 400011 (access from Arthur Road and E. Moses Road)",
+  "land_acres": 4,
+  "towers": 3,
+  "floors_max": 66,
+  "rera_ids": ["P51900015854", "P51900016482", "P51900021057"],
+  "status": "under_construction",
+  "launch_date": "2018-04-02",
+  "possession_promised": "2025-12-30",
+  "amenities": [
+    "Shared 4-acre podium: grand lawn, 5-lane lap pool, children's adventure meadow, jogging/bicycle track, half basketball court, cricket pitch, amphitheatre, jacuzzi, meditation garden",
+    "Clubhouse: gymnasium, spa, yoga, theatre, squash court, table tennis, indoor games, toddlers' room, residents' lounge, banquet hall, party terrace",
+    "Each tower: fitness centre, library/co-working space, rooftop observatory deck",
+    "Central Tower: dedicated swimming pool",
+    "Infinity-edged swimming pool (per 2018 launch release)"
+  ],
+  "description": "A three-tower development (South, Central, North; 49 to 66 storeys) on a 4-acre site in Mahalaxmi, marketed on 'lifetime views' of the Mahalaxmi Racecourse, the Arabian Sea and Willingdon golf course. It is a joint development between Piramal Realty and Omkar Realtors. The South Tower (2/3 BHK) launched in April 2018 and has been handed over; the Central Tower (3/4 BHK and penthouses, four flats a floor) has its OC; the North Tower was topped out with finishing under way in 2026.",
+  "notes": "Joint development: Piramal's 2018 press releases say the project is a joint development between Piramal Realty and Omkar Realtors (Omkar has a weak delivery record elsewhere, e.g. Omkar 1973). No dispute between them over this project was found. Launch: Tower 1 (South, P51900015854) launched 2 Apr 2018 from Rs 3.4 crore; Piramal reported about Rs 1,500 crore of bookings and 200 units booked on day one (19 Apr 2018 release). Central Tower (P51900016482) launched 12 Jul 2018 with 150 units released, from Rs 6.64 crore for 1,441 sq ft carpet. North Tower is P51900021057. Heights: the 2018 releases said 63 storeys and 'up to 70 storeys'; a 2026 Piramal blog says 49-66 storeys. MahaRERA completion: South 30 Dec 2025 (Square Yards shows it ready from Dec 2025); Central 30 Jun 2026 (OC received per Piramal). Scale: about 2 million sq ft of development (developer); Square Yards gives 1,055 total units and 6.84 or 10.51 acres, which conflict with Piramal's 4 acres. Sales: Central Tower 145 of 183 launched units booked (Nov 2025, Square Yards); 307 of 376 launched units booked project-wide (Feb 2025, Square Yards). Square Yards counts 49 registered sales worth Rs 339 crore between Nov 2025 and Oct 2026. Price conflict: Square Yards' registered average (Rs 46,550/sq ft) is far below its asking average (Rs 72,000/sq ft) and below the 2025 penthouse deal (about Rs 77,000/sq ft carpet); the registered figure's area basis is not stated and may be on a larger (saleable) area.",
+  "sources": [
+    "https://www.piramalrealty.com/pdf/press-release-piramal-realty-launches-piramal-mahalaxmi-its-flagship-project-in-south-mumbai.pdf",
+    "https://piramalrealty.com/pdf/press-release-piramal-mahalaxmi-successful-launch-190418.pdf",
+    "https://www.piramalrealty.com/pdf/piramal-realty-launches-central-tower-at-piramal-mahalaxmi-an-inr-2600-crore-project.pdf",
+    "https://www.piramalrealty.com/blogs/choosing-between-south-tower-central-tower-and-north-tower-at-piramal-mahalaxmi",
+    "https://www.theweek.in/wire-updates/business/2025/07/10/dcm93-biz-realty-piramal.html",
+    "https://www.squareyards.com/mumbai-residential-property/piramal-mahalaxmi/10037/project",
+    "https://www.squareyards.com/mumbai-residential-property/piramal-mahalaxmi-central-tower/10420/project"
+  ],
+  "flats_per_floor": 4,
+  "views": ["racecourse", "sea", "golf course", "harbour", "city"],
+  "jv_partner": "Omkar Realtors (joint development)",
+  "units_sold": 307,
+  "units_sold_as_of": "2025-02-01",
+  "transactions_12m": 49,
+  "unit_types": [
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 739,
+      "carpet_sqft_max": 859,
+      "price_min_cr": 3.4,
+      "price_max_cr": 5.64,
+      "notes": "From Rs 3.4 Cr at the Apr 2018 launch (South Tower); Square Yards lists 740 sq ft at Rs 5.64 Cr (2026 asking, before charges). North Tower 2 BHKs are about 721-802 sq ft on listing sites."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1041,
+      "carpet_sqft_max": 1575,
+      "price_min_cr": 6.64,
+      "price_max_cr": 12,
+      "notes": "South Tower 3 BHK about 1,041-1,575 sq ft; Central Tower from about 1,290 sq ft (Piramal blog). Rs 6.64 Cr was the Central Tower starting price in Jul 2018 (1,441 sq ft). Square Yards lists 1,451 sq ft at Rs 12 Cr (2026 asking)."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1850,
+      "carpet_sqft_max": 1878,
+      "price_min_cr": 14.23,
+      "price_max_cr": 15.63,
+      "notes": "Central Tower; Square Yards asking prices (2026), before charges."
+    },
+    {
+      "config": "Penthouse / duplex",
+      "carpet_sqft_min": 13000,
+      "price_min_cr": 100,
+      "units": 3,
+      "notes": "Jul 2025: a sea-facing penthouse plus two duplexes on the top floors of one tower sold to a single buyer for over Rs 100 Cr; over 13,000 sq ft carpet combined (PTI). Area and price are for the three units together."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2018-04-02",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 46010,
+      "basis": "carpet",
+      "source_name": "Piramal Realty press releases (2 Apr and 19 Apr 2018)",
+      "source_url": "https://www.piramalrealty.com/pdf/press-release-piramal-realty-launches-piramal-mahalaxmi-its-flagship-project-in-south-mumbai.pdf",
+      "confidence": "medium",
+      "note": "Computed: South Tower starting price Rs 3.4 Cr divided by the smallest unit, 739 sq ft carpet (size from the 19 Apr 2018 release)."
+    },
+    {
+      "date": "2018-07-12",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 46080,
+      "basis": "carpet",
+      "source_name": "Piramal Realty press release (Central Tower launch)",
+      "source_url": "https://www.piramalrealty.com/pdf/piramal-realty-launches-central-tower-at-piramal-mahalaxmi-an-inr-2600-crore-project.pdf",
+      "confidence": "medium",
+      "note": "Computed: Central Tower starting price Rs 6.64 Cr for 1,441 sq ft carpet."
+    },
+    {
+      "date": "2025-07-10",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 76920,
+      "basis": "carpet",
+      "source_name": "PTI via The Week",
+      "source_url": "https://www.theweek.in/wire-updates/business/2025/07/10/dcm93-biz-realty-piramal.html",
+      "confidence": "medium",
+      "note": "Computed lower bound: 'over Rs 100 crore' divided by 'over 13,000 sq ft' carpet for a penthouse and two duplexes on the top floors, sold to one buyer. Developer announcement, not a registration record."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 72000,
+      "basis": "unknown",
+      "source_name": "Square Yards (asking-price trend)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-mahalaxmi/10037/project",
+      "confidence": "low",
+      "note": "Average listing price, Sep 2026 quarter (Dec 2025: 73,650). Mahalaxmi average on the same page: Rs 64,500. The Central Tower page shows Rs 73,650."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 46550,
+      "basis": "unknown",
+      "source_name": "Square Yards (IGR registered transactions)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-mahalaxmi/10037/project",
+      "confidence": "medium",
+      "note": "Average registered rate across 49 sales (Rs 339 Cr) registered Nov 2025 to Oct 2026, all towers. It conflicts with the asking prices and the 2025 deal, and its area basis is not stated, so confidence is medium."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "2 BHK",
+      "carpet_sqft": 740,
+      "monthly_rent": 220000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-mahalaxmi/10037/project",
+      "confidence": "low",
+      "note": "Listing date not shown (page read 18 Nov 2026). Another 740 sq ft 2 BHK was listed at Rs 2.5 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1152,
+      "monthly_rent": 300000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-mahalaxmi/10037/project",
+      "confidence": "low",
+      "note": "Listing date not shown. Another 1,152 sq ft 3 BHK was listed at Rs 3.5 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1451,
+      "monthly_rent": 400000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-mahalaxmi/10037/project",
+      "confidence": "low",
+      "note": "Listing date not shown."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4 BHK + servant room",
+      "carpet_sqft": 1900,
+      "monthly_rent": 350000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards (Central Tower rentals)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/piramal-mahalaxmi-central-tower/10420/project",
+      "confidence": "low",
+      "note": "Central Tower; listed twice at the same rent. Listing date not shown."
+    }
+  ],
+  "news": [
+    {
+      "date": "2018-04-02",
+      "title": "Piramal Realty Launches Piramal Mahalaxmi, its Flagship Project in South Mumbai",
+      "url": "https://www.piramalrealty.com/pdf/press-release-piramal-realty-launches-piramal-mahalaxmi-its-flagship-project-in-south-mumbai.pdf",
+      "source": "Piramal Realty (press release)",
+      "event_type": "launch",
+      "summary": "Tower 1 (South) launched with 2 and 3 BHK homes from Rs 3.4 crore; Piramal to invest Rs 2,600 crore in a 2 million sq ft development."
+    },
+    {
+      "date": "2018-04-19",
+      "title": "Piramal Mahalaxmi Draws Strong Customer Response at Launch",
+      "url": "https://piramalrealty.com/pdf/press-release-piramal-mahalaxmi-successful-launch-190418.pdf",
+      "source": "Piramal Realty (press release)",
+      "event_type": "launch",
+      "summary": "About Rs 1,500 crore of bookings and 200 units booked on day one for Tower 1 (739 to 1,400+ sq ft); project described as a joint development with Omkar Realtors."
+    },
+    {
+      "date": "2018-07-12",
+      "title": "Piramal Realty Launches 'Central Tower' at Piramal Mahalaxmi, an INR 2600 crore project",
+      "url": "https://www.piramalrealty.com/pdf/piramal-realty-launches-central-tower-at-piramal-mahalaxmi-an-inr-2600-crore-project.pdf",
+      "source": "Piramal Realty (press release)",
+      "event_type": "launch",
+      "summary": "Second tower launched with 150 units of 3 and 4 BHK homes from 1,441 sq ft carpet and Rs 6.64 crore."
+    },
+    {
+      "date": "2025-07-10",
+      "title": "Piramal Realty sells penthouse, 2 duplex flats to single buyer in Mumbai for over Rs 100 cr",
+      "url": "https://www.theweek.in/wire-updates/business/2025/07/10/dcm93-biz-realty-piramal.html",
+      "source": "The Week (PTI)",
+      "event_type": "deal",
+      "summary": "A sea-facing penthouse and two duplexes on the top floors of a Piramal Mahalaxmi tower, over 13,000 sq ft carpet combined, sold for over Rs 100 crore to one unnamed buyer."
+    }
+  ]
+}

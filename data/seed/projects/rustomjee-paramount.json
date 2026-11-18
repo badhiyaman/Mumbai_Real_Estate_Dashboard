@@ -1,0 +1,275 @@
+{
+  "slug": "rustomjee-paramount",
+  "name": "Rustomjee Paramount",
+  "developer": "rustomjee",
+  "micro_market": "khar-west",
+  "address": "18th Road, Vithaldas Nagar, Khar West, Mumbai 400052",
+  "lat": 19.0712,
+  "lng": 72.8345,
+  "land_acres": 3.5,
+  "towers": 6,
+  "rera_ids": ["P51800000481", "P51800000619", "P51800000862", "P51800020843"],
+  "status": "completed",
+  "launch_date": "2014-01-01",
+  "possession_actual": "2018-08-01",
+  "amenities": [
+    "Saltwater swimming pool",
+    "Kids' pool with anti-current flow",
+    "Aqua gym",
+    "Walking trails",
+    "Gymnasium",
+    "Business centre",
+    "Concierge services",
+    "Party lawn",
+    "Mini theatre",
+    "Toddler studio",
+    "Yoga deck",
+    "Kids' rock-climbing wall",
+    "Rooftop sky lounge with sea-view dining",
+    "Star-gazing deck",
+    "Pool deck and cabanas",
+    "Senior citizens' zone",
+    "Indoor games room",
+    "RFID tags for children and pets; CCTV in children's zone"
+  ],
+  "description": "Gated community of several wings (A to F) in Khar West, built by Rustomjee (Keystone Realtors) and designed to be senior-friendly. It has 2 to 5 BHK homes with sun decks, two homes per floor in the early wings, and interiors by Sanjay Puri. Wings A and B received their occupation certificate in Sep 2017 and Wings D and E in Nov 2018. Wing F was still under construction in 2026.",
+  "notes": "Keystone's DRHP (June 2022) says Paramount was launched in 2014 on 3.50 acres. Its average price rose 2.06x, from Rs 17,535 to Rs 36,129 per sq ft saleable at OC, with a lifetime average of Rs 28,153. Cumulative sales were Rs 1,357 crore, with 91.17% of inventory sold as of 31 Dec 2021. The DRHP also says 39 of Khar's 101 redevelopment units launched in 2017-2021 were in Paramount, so at least part of it (likely Wing F) is redevelopment; land_type is left out. Land area conflicts: the DRHP gives 3.50 acres, while Square Yards and Free Press Journal (2024) give 1.65 acres, perhaps for the RERA-registered phases only. Wings A and B: commencement certificate Nov 2015, handover from Aug 2018 (DRHP). The OC for Wings D and E was reported on 2 Nov 2018. Wing F (P51800020843): commencement 15 May 2019, original completion 30 Dec 2025, revised to 30 Dec 2026, with internal finishing at 87-96% in Apr 2026 (Square Yards). Floors are given as 22 or 24 storeys in listings (units are registered up to the 22nd floor), so floors_max is omitted. flats_per_floor = 2 comes from the 2017 OC release for the early wings. Notable owners: Tiger Shroff bought two flats from Keystone in 2018 and sold them in 2025 and 2026. Square Yards' 12-month registered tally (2 sales, Rs 5 Cr, Nov 2025-Oct 2026) doesn't seem to include Shroff's Rs 9 Cr sale registered on 22 Oct 2026.",
+  "sources": [
+    "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
+    "https://www.prnewswire.com/in/news-releases/rustomjee-paramount-receives-occupancy-certificate-for-a-and-b-wing-646708393.html",
+    "https://www.business-standard.com/article/pti-stories/rustomjee-paramount-receives-occupancy-certificate-for-d-and-e-wing-118110201035_1.html",
+    "https://www.squareyards.com/mumbai-residential-property/rustomjee-paramount/3038/project",
+    "https://therealtytoday.com/news/residential/tiger-shroff-sells-khar-apartment-for-1560-crore-records-34-value-gain/",
+    "https://www.aurumproptech.in/pulse/media/tiger-shroff-sells-mumbai-flat-for-rs-9-crore",
+    "https://www.freepressjournal.in/amp/entertainment/mumbai-marathi-filmmaker-avadhoot-gupte-acquires-77-crore-apartment-in-bandras-rustomjee-paramount"
+  ],
+  "architect": "Sanjay Puri Architects (Mumbai) with Patty Mak (Suying Metropolitan, Singapore)",
+  "flats_per_floor": 2,
+  "views": ["sea"],
+  "oc_received": true,
+  "oc_date": "2017-09-22",
+  "transactions_12m": 2,
+  "unit_types": [
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 860,
+      "carpet_sqft_max": 860,
+      "price_min_cr": 5.19,
+      "price_max_cr": 6.38,
+      "notes": "Square Yards asking prices, Nov 2026; its table and floor-plan section disagree on the price."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1076,
+      "carpet_sqft_max": 1340,
+      "price_min_cr": 7.99,
+      "price_max_cr": 9.95,
+      "notes": "Square Yards asking prices, Nov 2026, excluding charges."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1730,
+      "carpet_sqft_max": 1990,
+      "price_min_cr": 12.85,
+      "price_max_cr": 16.5,
+      "notes": "Square Yards asking prices, Nov 2026; Rs 16.5 Cr is a resale listing for a 1,990 sq ft 16th-floor unit."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 2594,
+      "carpet_sqft_max": 2594,
+      "price_min_cr": 19.26,
+      "price_max_cr": 19.26,
+      "notes": "Square Yards asking price, Nov 2026 (Wing E)."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2014-01-01",
+      "date_precision": "year",
+      "stage": "launch",
+      "price_psf": 17535,
+      "basis": "saleable",
+      "source_name": "Keystone Realtors DRHP (June 2022)",
+      "source_url": "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
+      "confidence": "high",
+      "note": "Company figure: 'Average Starting Price' at project commencement (Rs 17,535.20/sq ft saleable). The year is from the DRHP's 2014 launch milestone."
+    },
+    {
+      "date": "2017-01-01",
+      "date_precision": "year",
+      "stage": "completion",
+      "price_psf": 36129,
+      "basis": "saleable",
+      "source_name": "Keystone Realtors DRHP (June 2022)",
+      "source_url": "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
+      "confidence": "high",
+      "note": "Company figure: average price on receipt of the occupancy certificate (Rs 36,129.08/sq ft saleable), 2.06x the start. The year is approximate: Wings A and B received their OC in Sep 2017. The lifetime average was Rs 28,153."
+    },
+    {
+      "date": "2018-01-01",
+      "date_precision": "year",
+      "stage": "under_construction",
+      "price_psf": 58400,
+      "basis": "carpet",
+      "source_name": "The Realty Today (Square Yards / IGR documents)",
+      "source_url": "https://therealtytoday.com/news/residential/tiger-shroff-sells-khar-apartment-for-1560-crore-records-34-value-gain/",
+      "confidence": "high",
+      "note": "Computed: Tiger Shroff's 2018 purchase price of Rs 11.62 Cr ÷ 1,989.72 sq ft carpet (22nd-floor flat, 3 car parks)."
+    },
+    {
+      "date": "2018-07-17",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 58940,
+      "basis": "carpet",
+      "source_name": "Aurum PropTech (CRE Matrix registration documents)",
+      "source_url": "https://www.aurumproptech.in/pulse/media/tiger-shroff-sells-mumbai-flat-for-rs-9-crore",
+      "confidence": "high",
+      "note": "Computed: Rs 7.61 Cr paid to Keystone Realtors on 17 Jul 2018 ÷ 1,291.14 sq ft carpet (9th floor). Possession was 30 Nov 2019."
+    },
+    {
+      "date": "2024-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 57079,
+      "basis": "carpet",
+      "source_name": "Free Press Journal (Square Yards / IGR documents)",
+      "source_url": "https://www.freepressjournal.in/amp/entertainment/mumbai-marathi-filmmaker-avadhoot-gupte-acquires-77-crore-apartment-in-bandras-rustomjee-paramount",
+      "confidence": "high",
+      "note": "Computed: Rs 7.75 Cr ÷ 1,357.77 sq ft carpet (1,609.53 sq ft built-up, 3 car parks), registered Oct 2024; the buyer was Avadhoot Gupte. The seller wasn't reported, so it may have been developer inventory."
+    },
+    {
+      "date": "2025-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 78403,
+      "basis": "carpet",
+      "source_name": "The Realty Today (Square Yards / IGR documents)",
+      "source_url": "https://therealtytoday.com/news/residential/tiger-shroff-sells-khar-apartment-for-1560-crore-records-34-value-gain/",
+      "confidence": "high",
+      "note": "Computed: Rs 15.60 Cr ÷ 1,989.72 sq ft carpet (2,189 sq ft built-up). Reported 9 Sep 2025, so the registration month is approximate. That is about a 34% gain on the 2018 price."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 74150,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-paramount/3038/project",
+      "confidence": "low",
+      "note": "Average asking price for the Sep 2026 quarter (Dec 2025: Rs 73,200; Mar 2026: Rs 75,300). The Khar West average was Rs 62,850. Basis inferred as carpet from the unit prices."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 58850,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-paramount/3038/project",
+      "confidence": "medium",
+      "note": "Average registered rate from only 2 registrations, Nov 2025-Oct 2026 (gross value Rs 5 Cr), including a 758 sq ft Wing F unit; it is not representative of the larger flats."
+    },
+    {
+      "date": "2026-10-22",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 69706,
+      "basis": "carpet",
+      "source_name": "Aurum PropTech (CRE Matrix registration documents)",
+      "source_url": "https://www.aurumproptech.in/pulse/media/tiger-shroff-sells-mumbai-flat-for-rs-9-crore",
+      "confidence": "high",
+      "note": "Computed: Rs 9 Cr ÷ 1,291.14 sq ft carpet (9th floor, 2 car parks), registered 22 Oct 2026. The article's Rs 64,891 also counts the 95.80 sq ft exclusive area. It is the same flat bought for Rs 7.61 Cr in Jul 2018."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "2 BHK",
+      "carpet_sqft": 860,
+      "monthly_rent": 250000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-paramount/3038/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026; the posting date isn't shown."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1272,
+      "monthly_rent": 350000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-paramount/3038/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026. 3 BHK listings range from Rs 2.9 to 3.5 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4 BHK",
+      "carpet_sqft": 1862,
+      "monthly_rent": 515000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-paramount/3038/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026."
+    }
+  ],
+  "news": [
+    {
+      "date": "2017-09-22",
+      "title": "Rustomjee Paramount receives occupancy certificate for A and B wing",
+      "url": "https://www.prnewswire.com/in/news-releases/rustomjee-paramount-receives-occupancy-certificate-for-a-and-b-wing-646708393.html",
+      "source": "PR Newswire",
+      "event_type": "possession",
+      "summary": "Wings A and B received their OC. Rustomjee offered ready homes for a 15% payment, with the balance due by Oct 2018."
+    },
+    {
+      "date": "2018-08-07",
+      "title": "Rustomjee Paramount welcomes Tiger Shroff to the 'League of Extraordinary Gentleman'",
+      "url": "https://prnewswire.com/in/news-releases/rustomjee-paramount-welcomes-tiger-shroff-to-the-league-of-extraordinary-gentleman-690217611.html",
+      "source": "PR Newswire",
+      "event_type": "deal",
+      "summary": "Rustomjee announced actor Tiger Shroff as a buyer. He registered a Rs 7.61 Cr flat purchase on 17 Jul 2018 and bought a second flat for Rs 11.62 Cr in 2018."
+    },
+    {
+      "date": "2018-11-02",
+      "title": "Rustomjee Paramount receives occupancy certificate for D and E wing",
+      "url": "https://www.business-standard.com/article/pti-stories/rustomjee-paramount-receives-occupancy-certificate-for-d-and-e-wing-118110201035_1.html",
+      "source": "Business Standard (PTI)",
+      "event_type": "possession",
+      "summary": "Wings D and E received their occupation certificate."
+    },
+    {
+      "date": "2024-11-05",
+      "title": "Marathi filmmaker Avadhoot Gupte acquires Rs 7.7 crore apartment in Bandra's Rustomjee Paramount",
+      "url": "https://www.freepressjournal.in/amp/entertainment/mumbai-marathi-filmmaker-avadhoot-gupte-acquires-77-crore-apartment-in-bandras-rustomjee-paramount",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "Rs 7.75 Cr for 1,357.77 sq ft carpet with 3 car parks, registered Oct 2024 (Square Yards documents)."
+    },
+    {
+      "date": "2025-09-09",
+      "title": "Tiger Shroff sells Khar apartment for Rs 15.60 crore, records 34% value gain",
+      "url": "https://therealtytoday.com/news/residential/tiger-shroff-sells-khar-apartment-for-1560-crore-records-34-value-gain/",
+      "source": "The Realty Today",
+      "event_type": "deal",
+      "summary": "A 1,989.72 sq ft carpet flat bought for Rs 11.62 Cr in 2018 was resold for Rs 15.60 Cr, about Rs 78,400/sq ft carpet."
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Tiger Shroff sells Mumbai flat for Rs 9 crore",
+      "url": "https://www.aurumproptech.in/pulse/media/tiger-shroff-sells-mumbai-flat-for-rs-9-crore",
+      "source": "Aurum PropTech (CRE Matrix data)",
+      "event_type": "deal",
+      "summary": "A 9th-floor 1,291 sq ft carpet flat bought from Keystone for Rs 7.61 Cr in 2018 was sold for Rs 9 Cr. The date given is the registration date; the article's publication date isn't shown."
+    }
+  ]
+}

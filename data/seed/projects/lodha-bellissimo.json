@@ -1,0 +1,229 @@
+{
+  "slug": "lodha-bellissimo",
+  "name": "Lodha Bellissimo",
+  "developer": "lodha",
+  "micro_market": "mahalaxmi",
+  "address": "Apollo Mills Compound, N M Joshi Marg, Mahalaxmi, Mumbai 400011",
+  "lat": 18.9872,
+  "lng": 72.8286,
+  "towers": 3,
+  "floors_max": 48,
+  "total_units": 266,
+  "rera_ids": [],
+  "status": "completed",
+  "launch_date": "2006-01-01",
+  "possession_promised": "2009-01-01",
+  "possession_actual": "2012-01-31",
+  "amenities": [
+    "Air-conditioned main lobby with water walls",
+    "Sky gardens every fourth floor",
+    "Sun-decks",
+    "Landscape gardens and water bodies",
+    "Swimming pool and kids' pool",
+    "Gymnasium",
+    "Spa, sauna and jacuzzi",
+    "Yoga pavilion",
+    "Business centre",
+    "Squash, tennis, badminton and basketball courts",
+    "Clubhouse and party hall",
+    "Home automation"
+  ],
+  "description": "A three-wing, 48-storey (about 198 m) luxury residential complex on the former Apollo Mills land on N M Joshi Marg, Mahalaxmi. Lodha bought the land from the National Textile Corporation, and JP Morgan's real estate arm invested about $60 million in 2006. When Wings A and B were completed in 2010, it was briefly Mumbai's tallest building. It offers 3 and 4 BHK apartments, 5 and 6 BHK duplexes and penthouses, with 11 ft 6 in ceilings, homes open on both sides, and sea and racecourse views.",
+  "notes": "Timeline: construction began in 2006 (Wikipedia); the 2006 DNA report expected completion in 2009 (used as possession_promised, year only). Construction World says Wings A and B were completed Nov 2010 and Wing C Mar 2012. Square Yards gives possession 31 Jan 2012 and a launch of Jan 2006 (month-level, listing data). No OC date was found. It is a pre-RERA completed building, so there is no MahaRERA ID. Square Yards prints A51800000454, but that is Square Yards' own agent registration, which also appears on other projects. Plan vs built: the Dec 2006 DNA report described 132 flats of 3,000-4,000 sq ft in a 57-storey building on 20,000 sq m of developable area. Square Yards now lists 3 towers and 266 units on 3 acres, and Mumbai Property Exchange gives carpet areas of 1,921-4,921 sq ft, so the unit mix changed after launch. Height and floors conflict: 48 storeys / 198 m (Lodha, CTBUH, Construction World, Wikipedia body) vs 53 floors / 222 m (Wikipedia infobox and list). Land: Lodha bought Apollo Mills from NTC for Rs 180 crore about two years before Dec 2006 (DNA). Architect: Kapadia Associates (Wikipedia). Each wing has four 4 m/s Mitsubishi lifts (Wikipedia). The early 2006-07 prices below are Mumbai Property Exchange's own broker quote records, not registered deals. Ready reckoner (2025-26) is about Rs 19,800/sq ft carpet (Mumbai Property Exchange). Computed gross yield: a 3 BHK of 1,935 sq ft asks Rs 3.3 lakh/month (Mumbai Property Exchange). At the Square Yards registered average of Rs 43,000/sq ft (about Rs 8.3 crore), that is about 4.8%; at the Rs 55,800 asking average it is about 3.7%. Mumbai Property Exchange gives a Mahalaxmi-wide median gross yield of 4.1%. Do not confuse with Lodha Bellissimo in Matunga / Sion or Lodha Bellevue (Mahalaxmi), which portals often mix up.",
+  "sources": [
+    "https://www.lodhagroup.com/projects/residential-property-in-mumbai/lodha-bellissimo",
+    "https://en.wikipedia.org/wiki/Lodha_Bellissimo",
+    "https://www.dnaindia.com/business/report-jp-morgan-romps-home-with-rs274-cr-investment-1068111/amp",
+    "https://business-standard.com/article/finance/jp-morgan-pumps-60-mn-in-lodha-project-106120801104_1.html",
+    "https://www.constructionworld.in/gold/latest-construction-news/real-estate-news/success-storeys-/10977",
+    "https://www.skyscrapercenter.com/complex/733",
+    "https://www.squareyards.com/mumbai-residential-property/lodha-bellissimo/2897/project",
+    "https://www.squareyards.com/reviews/project/lodha-bellissimo/2897",
+    "https://www.mumbaipropertyexchange.com/project/lodha-bellissimo-mahalaxmi/2448",
+    "https://www.mumbaipropertyexchange.com/project/lodha-bellissimo-mahalaxmi-by-lodha-group/2448",
+    "https://www.prlog.org/10189655-lodha-bellissimo-is-the-only-residential-project-from-india-in-the-list.html"
+  ],
+  "architect": "Kapadia Associates",
+  "lifts_per_tower": 4,
+  "ceiling_height_ft": 11.5,
+  "views": ["sea", "racecourse", "city"],
+  "land_type": "mill_land",
+  "jv_partner": "JP Morgan real estate fund (about $60 million project-level investment, Dec 2006)",
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1921,
+      "notes": "Mumbai Property Exchange carpet area. Listings also quote 2,394-3,000 sq ft, which is probably saleable area. Resale asking prices are about Rs 8-12 crore (portals, 2025-26)."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 2132,
+      "notes": "Mumbai Property Exchange carpet area. A Square Yards registration of 2,703 sq ft in May 2025 was Rs 13.55 crore."
+    },
+    {
+      "config": "5 BHK duplex",
+      "carpet_sqft_min": 3674,
+      "notes": "Mumbai Property Exchange carpet area."
+    },
+    {
+      "config": "6 BHK duplex / penthouse",
+      "carpet_sqft_min": 3780,
+      "carpet_sqft_max": 4921,
+      "notes": "Mumbai Property Exchange carpet areas for 6 BHK (4,519 and 4,921 sq ft) and penthouses (3,780 and 4,790 sq ft)."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2006-07-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 12500,
+      "basis": "unknown",
+      "source_name": "Mumbai Property Exchange (own quote records)",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/lodha-bellissimo-mahalaxmi/2448",
+      "confidence": "low",
+      "note": "Broker's recorded quote, not a registered deal. Its monthly series runs from Rs 12,500 (Jul 2006) through Rs 12,906 (Sep 2006), Rs 13,000 (Oct 2006) and Rs 13,500 (Nov 2006)."
+    },
+    {
+      "date": "2006-12-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 15000,
+      "basis": "unknown",
+      "source_name": "DNA India",
+      "source_url": "https://www.dnaindia.com/business/report-jp-morgan-romps-home-with-rs274-cr-investment-1068111/amp",
+      "confidence": "medium",
+      "note": "An 'estimated' sale price of Rs 15,000/sq ft, quoted in the report on JP Morgan's Rs 274 crore investment (dated Dec 2006 by the matching ET and Business Standard reports). Mumbai Property Exchange's own record for Dec 2006 is Rs 14,000."
+    },
+    {
+      "date": "2007-07-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 17100,
+      "basis": "unknown",
+      "source_name": "Mumbai Property Exchange (own quote records)",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/lodha-bellissimo-mahalaxmi/2448",
+      "confidence": "low",
+      "note": "Broker's recorded quote. The series shows Rs 15,300 (Jan 2007) and Rs 16,200 (Mar 2007) before this point, and Rs 18,108 (Nov 2007) after it."
+    },
+    {
+      "date": "2007-12-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 22000,
+      "basis": "unknown",
+      "source_name": "Mumbai Property Exchange (own quote records)",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/lodha-bellissimo-mahalaxmi/2448",
+      "confidence": "low",
+      "note": "Broker's recorded quote, the last in its series. No sourced data points were found between 2008 and 2023."
+    },
+    {
+      "date": "2024-07-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 31920,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transaction)",
+      "source_url": "https://www.squareyards.com/reviews/project/lodha-bellissimo/2897",
+      "confidence": "medium",
+      "note": "Computed: a 2,052 sq ft property registered in Jul 2024 for Rs 6.55 crore. The area basis is not stated. It is much lower than the May 2025 deal below, so the two may use different area bases."
+    },
+    {
+      "date": "2025-05-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 50129,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transaction)",
+      "source_url": "https://www.squareyards.com/reviews/project/lodha-bellissimo/2897",
+      "confidence": "medium",
+      "note": "Computed: a 2,703 sq ft property registered in May 2025 for Rs 13.55 crore. The area basis is not stated."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 55800,
+      "basis": "unknown",
+      "source_name": "Square Yards (average asking price)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-bellissimo/2897/project",
+      "confidence": "low",
+      "note": "Listing average, compared with Rs 64,500 for Mahalaxmi. Earlier quarters were Rs 58,600 (Dec 2025) and Rs 57,250 (Mar 2026). Mumbai Property Exchange's 'indicative' 2026 rate is Rs 42,000, and Housing.com shows about Rs 38,700."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 43000,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-bellissimo/2897/project",
+      "confidence": "medium",
+      "note": "Average registered rate of 5 sales from Nov 2025 to Oct 2026 (gross value Rs 42 crore). Registered units ranged from 720 to 3,003 sq ft."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-01",
+      "config": "3 BHK",
+      "carpet_sqft": 1935,
+      "monthly_rent": 330000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Mumbai Property Exchange rental listing",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/lodha-bellissimo-mahalaxmi/2448",
+      "confidence": "low",
+      "note": "Live listing seen in Nov 2026; the listing date is not shown and the area basis is not stated. Other 3 BHK listings ask Rs 3.5 lakh (1,710 and 1,750 sq ft) and Rs 4 lakh (1,900 sq ft)."
+    },
+    {
+      "date": "2026-11-01",
+      "config": "4 BHK",
+      "carpet_sqft": 2250,
+      "monthly_rent": 500000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Mumbai Property Exchange rental listing",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/lodha-bellissimo-mahalaxmi/2448",
+      "confidence": "low",
+      "note": "Live listing seen in Nov 2026. A second 4 BHK (2,300 sq ft) also asks Rs 5 lakh. Square Yards puts Sep 2026 3 and 4 BHK rents at Rs 4-5 lakh."
+    },
+    {
+      "date": "2026-11-01",
+      "config": "3 BHK",
+      "carpet_sqft": 1900,
+      "monthly_rent": 400000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Mumbai Property Exchange rental listing",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/lodha-bellissimo-mahalaxmi/2448",
+      "confidence": "low",
+      "note": "Live listing seen in Nov 2026."
+    }
+  ],
+  "news": [
+    {
+      "date": "2006-12-08",
+      "title": "JP Morgan pumps $60 mn in Lodha project",
+      "url": "https://business-standard.com/article/finance/jp-morgan-pumps-60-mn-in-lodha-project-106120801104_1.html",
+      "source": "Business Standard",
+      "event_type": "other",
+      "summary": "JP Morgan's real estate arm invests about $60 million (about Rs 270 crore) in Lodha's premium residential tower on the former Apollo Mills (NTC) site in Mahalaxmi."
+    },
+    {
+      "date": "2006-12-01",
+      "title": "JP Morgan romps home with Rs274 cr investment",
+      "url": "https://www.dnaindia.com/business/report-jp-morgan-romps-home-with-rs274-cr-investment-1068111/amp",
+      "source": "DNA India",
+      "event_type": "other",
+      "summary": "Rs 274 crore from JP Morgan for Lodha Bellissimo: 132 flats of 3,000-4,000 sq ft in a planned 57-storey building at an estimated Rs 15,000/sq ft, due in 2009. Apollo Mills was bought from NTC for Rs 180 crore two years earlier. The page shows no publication date; Dec 2006 comes from the matching ET and BS reports."
+    },
+    {
+      "date": "2009-02-26",
+      "title": "Lodha Bellissimo is the only residential project from India in the list",
+      "url": "https://www.prlog.org/10189655-lodha-bellissimo-is-the-only-residential-project-from-india-in-the-list.html",
+      "source": "PRLog (developer press release)",
+      "event_type": "other",
+      "summary": "The 648 ft, 48-storey project is listed in Braun Publications' '1000x Landscape Architecture'."
+    }
+  ]
+}

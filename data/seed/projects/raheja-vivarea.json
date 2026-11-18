@@ -31,7 +31,7 @@
   ],
   "description": "A five-tower, low-density luxury complex on about 14 acres at Jacob Circle, overlooking Mahalaxmi Racecourse and the Arabian Sea. K Raheja Corp developed it through Genext Hardware & Parks Pvt Ltd, and the developer says it set a South Mumbai luxury benchmark when it launched around 2009. It offers spacious 3 and 4 BHK homes and duplexes with 3.8 m floor-to-floor heights and an IGBC Green Home Gold certification. The fifth and final tower (Tower E of Building 3, 44 floors) launched in August 2019.",
   "image_url": "https://www.krahejacorphomes.com/project/wp-content/uploads/2021/07/raheja-vivarea-mumbai-03-12-2024.jpg",
-  "notes": "Phasing: per CTBUH, Raheja Vivarea 1 (193.8 m, 45 floors) was built 2008 to 2012 and Raheja Vivarea 4 (45 floors) 2014 to 2018. Building 2 (MahaRERA P51900008014) has 110 units with proposed completion 30 Jun 2019, and aggregators show it completed. Tower E of Building 3 (P51900019931) has 122 units (75 3BHK, 44 4BHK, 3 duplex) and is 44 floors, registered 13 Mar 2019 with proposed completion 30 Jun 2024. That date is the possession_promised value. Its status is 'Completed' on an aggregator but 'Under Construction / Advanced Stage' on Square Yards, so status='completed' is not fully confirmed for Tower E. Towers A, B and C appear as completed, sold out and not RERA-registered on Mumbai Property Exchange. launch_date is year-only, from the developer's 2019 statement that Vivarea 'set the benchmark for luxe residences as way back as 2009'. Units: the 2019 release says about 400 families, so total_units is left out. Promoter: Genext Hardware & Parks Pvt Ltd (K Raheja Corp group). HDFC Ltd financed the project. Do not confuse it with Raheja Modern Vivarea (a separate two-tower project on about 3 acres of the former Modern Mills land nearby, pre-launched in 2023, MahaRERA P51900034289) or Raheja Vivarea in Koramangala, Bengaluru. Several portal pages mix them up. Price conflicts: Square Yards' Tower E page shows an average asking price of Rs 42,650/sq ft, but its own unit asking prices imply about Rs 90,000/sq ft carpet, and its project-level page says Rs 59,300. Notable buyers: Rahul Bajaj family members and Manish Kejriwal's family trust bought five Tower E units for about Rs 104 crore in Oct to Nov 2022.",
+  "notes": "Phasing: per CTBUH, Raheja Vivarea 1 (193.8 m, 45 floors) was built 2008 to 2012 and Raheja Vivarea 4 (45 floors) 2014 to 2018. Building 2 (MahaRERA P51900008014) has 110 units with proposed completion 30 Jun 2019, and aggregators show it completed. Tower E of Building 3 (P51900019931) has 122 units (75 3BHK, 44 4BHK, 3 duplex) and is 44 floors, registered 13 Mar 2019 with proposed completion 30 Jun 2024. That date is the possession_promised value. Its status is 'Completed' on an aggregator but 'Under Construction / Advanced Stage' on Square Yards, so status='completed' is not fully confirmed for Tower E. Towers A, B and C appear as completed, sold out and not RERA-registered on Mumbai Property Exchange. launch_date is year-only, from the developer's 2019 statement that Vivarea 'set the benchmark for luxe residences as way back as 2009'. Units: the 2019 release says about 400 families, so total_units is left out. Promoter: Genext Hardware & Parks Pvt Ltd (K Raheja Corp group). HDFC Ltd financed the project. Do not confuse it with Raheja Modern Vivarea (a separate two-tower project on about 3 acres of the former Modern Mills land nearby, pre-launched in 2023, MahaRERA P51900034289) or Raheja Vivarea in Koramangala, Bengaluru. Several portal pages mix them up. Price conflicts: Square Yards' Tower E page shows an average asking price of Rs 42,650/sq ft, but its own unit asking prices imply about Rs 90,000/sq ft carpet, and its project-level page says Rs 59,300. Notable buyers: Rahul Bajaj family members and Manish Kejriwal's family trust bought five Tower E units for about Rs 104 crore in Oct to Nov 2022. Enrichment (Nov 2026): the developer's project page lists Atul Desai Consultants as consulting architect, Site Techtonics (landscape), Sterling Engineering (structure), BES (facade) and Pankaj Dharkar & Associates (MEP); Mumbai Property Exchange's MahaRERA extract names Sambaprasad Pinge as architect for Tower E. No main contractor was found. Clubhouse: the amenities section says 24,000 sq ft, but a highlights image says 40,000 sq ft. The page gives 3.8 m floor-to-floor height (an image label says 12 ft floor to ceiling), so ceiling_height_ft is left out. Distances: BKC 13.5 km and international airport 17.2 km (domestic 16.6 km) are the developer's figures; Square Yards says about 16 km to the airport. nearest_metro_km is a straight-line figure from Mumbai Property Exchange; Mahalaxmi suburban rail station is about 0.6 to 0.7 km. Units: Square Yards' project page says 486 units on 14.84 acres and shows a stale 'expected possession' of 15 Jul 2010, which loosely supports a 2009-10 launch, but no launch-era price was found in news archives, portals or developer material. Tower E floors conflict (44 per the developer, 67 per Mumbai Property Exchange's MahaRERA extract). PropertyButler shows 19 registered lease deeds for 'Raheja Vivarea' in the last 12 months, several with implausible rents for their area, so only one plausible deed is used as a rental point.",
   "sources": [
     "https://www.krahejacorphomes.com/project/3-bhk-flats-in-mahalaxmi-south-mumbai/",
     "https://www.covaipost.com/vivarea-by-k-raheja-corp-now-a-pentacle-in-mumbais-skyline-2",
@@ -41,8 +41,21 @@
     "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-suburban/building-2-phase-of-project-named-vivarea-constructed-on-portion-of-the-project-land-P51900008014",
     "https://squarefeatindia.com/bajaj-family-members-and-trust-buys-apartments-for-rs-103-73-crore/",
     "https://www.freepressjournal.in/mumbai/mumbai-news-parle-products-promoter-ambika-aibara-buys-sea-view-units-for-473-crore-in-mahalaxmi",
-    "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea-building-no-3-tower-e/11244/project"
+    "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea-building-no-3-tower-e/11244/project",
+    "https://www.mumbaipropertyexchange.com/project/vivarea-tower-e-mahalaxmi-by-k-raheja-corp/25009",
+    "https://www.realestatemumbai.com/property/9839060",
+    "https://propertybutler.in/building/raheja-vivarea",
+    "https://www.rentu.in/property/9839199/3-bhk-flat-for-rent-in-raheja-vivarea-tower-e-mahalaxmi",
+    "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea-mumbai/3470/project"
   ],
+  "architect": "Atul Desai Consultants (consulting architect)",
+  "clubhouse_sqft": 24000,
+  "green_certification": "IGBC Green Home Gold",
+  "views": ["racecourse", "sea"],
+  "nearest_metro": "Mahalaxmi (Metro Line 3 / Aqua Line)",
+  "nearest_metro_km": 0.3,
+  "distance_bkc_km": 13.5,
+  "distance_airport_km": 17.2,
   "unit_types": [
     {
       "config": "3 BHK",
@@ -111,6 +124,55 @@
       "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea-building-no-3-tower-e/11244/project",
       "confidence": "low",
       "note": "Computed from a listed 3 BHK of 1,740 sq ft carpet at Rs 15.73 crore. Other listed units work out similarly (for example 4 BHK 2,259 sq ft at Rs 20.43 crore, about Rs 90,400). The same page's headline 'average' of Rs 42,650/sq ft is inconsistent and was not used."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2025-11-04",
+      "config": "Not stated (2,210 sq ft)",
+      "monthly_rent": 600000,
+      "furnishing": "unknown",
+      "kind": "registered",
+      "source_name": "PropertyButler (registered lease deeds)",
+      "source_url": "https://propertybutler.in/building/raheja-vivarea",
+      "confidence": "medium",
+      "note": "Registered lease deed of 4 Nov 2025 for 2,210 sq ft (basis not stated; likely a 3 BHK by size). Tower not stated. A 13 Feb 2026 deed at Rs 5.9 lakh has no area."
+    },
+    {
+      "date": "2026-11-03",
+      "config": "3 BHK",
+      "carpet_sqft": 2250,
+      "monthly_rent": 626000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "realestatemumbai.com (Tower E listings)",
+      "source_url": "https://www.realestatemumbai.com/property/9839060",
+      "confidence": "low",
+      "note": "Tower E; listing marked 'checked 3 Nov 2026'."
+    },
+    {
+      "date": "2026-11-03",
+      "config": "3 BHK",
+      "carpet_sqft": 2510,
+      "monthly_rent": 500000,
+      "furnishing": "furnished",
+      "kind": "asking",
+      "source_name": "realestatemumbai.com (Tower E listings)",
+      "source_url": "https://www.realestatemumbai.com/property/9839060",
+      "confidence": "low",
+      "note": "Tower E; listing marked 'checked 3 Nov 2026'."
+    },
+    {
+      "date": "2026-11-03",
+      "config": "4 BHK",
+      "carpet_sqft": 4000,
+      "monthly_rent": 750000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "realestatemumbai.com (Tower E listings)",
+      "source_url": "https://www.realestatemumbai.com/property/9839060",
+      "confidence": "low",
+      "note": "Tower E; 4,000 sq ft is larger than any MahaRERA 4 BHK carpet in Tower E, so it may be a combined or duplex unit. Rentu's Tower E summary (16 offers in 12 months) gives medians of Rs 5.75 lakh for 3 BHK (about Rs 280/sq ft carpet) and Rs 7.5 lakh for 4+ BHK."
     }
   ],
   "news": [

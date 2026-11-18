@@ -10,7 +10,9 @@
   "towers": 2,
   "floors_max": 66,
   "total_units": 284,
-  "rera_ids": ["P51900012115"],
+  "rera_ids": [
+    "P51900012115"
+  ],
   "status": "completed",
   "possession_promised": "2022-06-30",
   "possession_actual": "2023-05-29",
@@ -24,7 +26,7 @@
     "Jogging track"
   ],
   "description": "A two-tower mixed-use development on Annie Besant Road, Worli, built by Oasis Realty, a joint venture of Oberoi Realty and the Sahana Group, with landowner partners. Kohn Pedersen Fox designed it and Samsung C&T built it. One tower houses The Ritz-Carlton Mumbai and the other holds branded sea-facing residences. It is one of India's costliest residential addresses, with developer realisations above Rs 1.2 lakh per sq ft of carpet in 2025 and 2026.",
-  "notes": "Promoter on MahaRERA: Oasis Realty, whose members are Oberoi Constructions, Sky Lark Buildcon, Shree Vrunda Enterprises and Astir Realty LLP. MahaRERA lists 284 units: Tower A 28 (carpet 817.48 to 1,084.73 sq m) and Tower B 256 (304.86 to 1,025.32 sq m). Land is 6,405.56 sq m, about 1.58 acres. Floors: CTBUH and Wikipedia give the residential Tower B as 260 m with 66 floors and Tower A as 255.6 m with 52 floors. Wikipedia's text is inconsistent about which tower holds the hotel, while news reports place the residences in Tower B. Construction started on 18 Jun 2011, the tower topped out in March 2019, and Wikipedia gives completion as 29 May 2023. possession_actual uses that completion date; the OC date itself was not found. possession_promised is the MahaRERA proposed completion date. launch_date is omitted because no dated launch was found. Units were selling by Nov 2014, when Abhishek Bachchan bought, and Square Yards' 'Sep 2017' looks like the RERA registration date. Total carpet area per Oberoi disclosures (via ICICI Direct) is 549,191 sq ft. Price spread: landowner-share inventory sells well below the developer's own sales. For example, Reliance's Sep 2026 duplex from the landowner partners came to about Rs 76,800/sq ft, against Oberoi's Rs 1.5 lakh+ in the same quarter. ICICI Direct notes that Q1FY27 had many resale and landowner sales, and that landowner inventory is now exhausted. Notable buyers and sellers: Abhishek Bachchan (bought 2014, sold 2021), Akshay Kumar and Twinkle Khanna (sold for Rs 80 crore in 2025), Siddhartha Sacheti (two units, Rs 160 crore, 2025), a Zandu promoter-family firm (Rs 110.41 crore, 2026) and Reliance Industries (Rs 75.11 crore duplex, 2026).",
+  "notes": "Promoter on MahaRERA: Oasis Realty, whose members are Oberoi Constructions, Sky Lark Buildcon, Shree Vrunda Enterprises and Astir Realty LLP. MahaRERA lists 284 units: Tower A 28 (carpet 817.48 to 1,084.73 sq m) and Tower B 256 (304.86 to 1,025.32 sq m). Land is 6,405.56 sq m, about 1.58 acres. Floors: CTBUH and Wikipedia give the residential Tower B as 260 m with 66 floors and Tower A as 255.6 m with 52 floors. Wikipedia's text is inconsistent about which tower holds the hotel, while news reports place the residences in Tower B. Construction started on 18 Jun 2011, the tower topped out in March 2019, and Wikipedia gives completion as 29 May 2023. possession_actual uses that completion date; the OC date itself was not found. possession_promised is the MahaRERA proposed completion date. launch_date is omitted because no dated launch was found. Units were selling by Nov 2014, when Abhishek Bachchan bought, and Square Yards' 'Sep 2017' looks like the RERA registration date. Total carpet area per Oberoi disclosures (via ICICI Direct) is 549,191 sq ft. Price spread: landowner-share inventory sells well below the developer's own sales. For example, Reliance's Sep 2026 duplex from the landowner partners came to about Rs 76,800/sq ft, against Oberoi's Rs 1.5 lakh+ in the same quarter. ICICI Direct notes that Q1FY27 had many resale and landowner sales, and that landowner inventory is now exhausted. Notable buyers and sellers: Abhishek Bachchan (bought 2014, sold 2021), Akshay Kumar and Twinkle Khanna (sold for Rs 80 crore in 2025), Siddhartha Sacheti (two units, Rs 160 crore, 2025), a Zandu promoter-family firm (Rs 110.41 crore, 2026) and Reliance Industries (Rs 75.11 crore duplex, 2026). Enrichment (Nov 2026): Oberoi's earnings calls give quarterly bookings for the project, which are recorded as computed price points. The areas in those calls are cumulative 4.32 lakh sq ft (Dec 2017), 5.5 lakh (Mar 2019), about 6 lakh (Dec 2019) and 6.6 lakh sq ft (Mar 2021) against a stated total of about 22 lakh sq ft, so they are not on the 549,191 sq ft RERA-carpet basis of the ICICI Direct series and are marked basis unknown. The cumulative booking value of Rs 1,716 crore over 4.32 lakh sq ft to Dec 2017 implies an average of about Rs 39,700/sq ft across all bookings since sales began (computed), which is the closest figure found to a launch-era price; no dated launch price list was found. Oberoi says it receives 80% of the receivables and its partner 20% until Oberoi recovers its investment, after which the split becomes proportionate (Q3FY20 call, 10 Feb 2020). OC: management expected part OC by Sep 2019 and full OC by end-2019 (May 2019 call), then OC by April 2020 (Feb 2020 call). Broker and portal pages say the OC has been received, but no OC date was found, so oc_date is left out. units_sold (71 of 284) is Square Yards' MahaRERA snapshot, which it also shows for June 2022 and Nov 2025; it is stale and only roughly matches Oberoi's 'about 30% sold' by area in 2020. transactions_12m (6, Nov 2025 to Oct 2026) is from Square Yards, whose page elsewhere cites 9 or 10 deals. maintenance_psf_month is computed from a broker listing's 'about Rs 3 lakh a month' divided by the 5,235 sq ft carpet of the listed 4 BHK (low confidence). clubhouse_sqft (Residents' Club of about 80,000 sq ft) is also from that broker listing (Gupta & Sen). Car parks vary by unit: 3 for the 5,395 sq ft carpet unit and 4 for the 6,830 and 7,527 sq ft units in reported deals, so car_parks_per_unit is not set. A consultant portfolio (Meinhardt) lists an Oberoi Worli KPF project as LEED Gold, but it does not name Three Sixty West, so green_certification is not set. CTBUH lists LERA as structural engineer, KONE elevators and a LEED consultant (En3), and gives Tower B as 66 floors above ground plus 4 basements. Shahid Kapoor and Mira Rajput separately bought a 42nd/43rd-floor duplex here for a reported Rs 56 crore, registered 12 Jul 2018 (area not reported). Nearest metro: Square Yards' metro guide places the Aqua Line's Worli station under Dr Annie Besant Road, the project's road; no distance is sourced. No sourced road distances to BKC or the airport were found.",
   "sources": [
     "https://en.wikipedia.org/wiki/Three_Sixty_West",
     "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-suburban/three-sixty-west-P51900012115",
@@ -33,8 +35,42 @@
     "https://icicidirect.com/research/equity/trending-news/oberoi-realty-reports-healthy-sales-value",
     "https://www.businesstoday.in/real-estate/story/reliance-industries-purchases-9781-sq-ft-luxury-duplex-in-mumbais-worli-for-rs75-11-crore-557600-2026-09-24",
     "https://www.freepressjournal.in/mumbai/mumbai-real-estate-ex-promoter-family-of-zandu-pharmaceuticals-buys-11041-crore-luxury-apartment-in-worli",
-    "https://www.squareyards.com/mumbai-residential-property/oberoi-three-sixty-west/64854/project"
+    "https://www.squareyards.com/mumbai-residential-property/oberoi-three-sixty-west/64854/project",
+    "https://www.skyscrapercenter.com/building/three-sixty-west-tower-b/532",
+    "https://www.guptasen.com/?p=8473",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q3-2018",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q4-2018",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q1-2019",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q2-2019",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q4-2019",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q3-2020",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q2-2021",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q3-2021",
+    "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q4-2021",
+    "https://www.businesstoday.in/real-estate/story/actor-shahid-kapoor-rents-out-luxury-apartment-in-mumbai-for-rs-20-lakh-per-month-453441-2024-11-12",
+    "https://www.freepressjournal.in/mumbai/mumbai-6831-sq-ft-worli-luxury-flat-leased-for-285-lakh-monthly-rent",
+    "https://www.rentu.in/property/9737788/4-bhk-flat-for-rent-in-oberoi-360-west-worli",
+    "https://propertybutler.in/building/oberoi-three-sixty-west",
+    "https://www.thequint.com/entertainment/celebrities/shahid-kapoor-mira-rajput-buy-duplex-worth-rs-56-crore-in-worli",
+    "https://www.squareyards.com/blog/worli-nearest-metro-station"
   ],
+  "architect": "Kohn Pedersen Fox (design); Wesymor Consultants and A+I Design (architects of record)",
+  "contractor": "Samsung C&T",
+  "branded_residence": "The Ritz-Carlton (serviced residences)",
+  "clubhouse_sqft": 80000,
+  "views": [
+    "sea",
+    "city"
+  ],
+  "jv_partner": "Sahana Group (landowner partners Sky Lark Buildcon, Shree Vrunda Enterprises and Astir Realty LLP in Oasis Realty)",
+  "oc_received": true,
+  "units_sold": 71,
+  "units_sold_as_of": "2022-06-01",
+  "floor_rise_notes": "Prices include a floor-rise component, so per-sq-ft realisations swing with the floors sold (Vikas Oberoi, Jan 2018 earnings call). The rate itself is not disclosed.",
+  "maintenance_psf_month": 57,
+  "payment_plan": "Ready to move: full payment (broker listing). Oberoi moved to an all-inclusive ticket price, GST included, in 2019.",
+  "transactions_12m": 6,
+  "nearest_metro": "Worli (Metro Line 3 / Aqua Line)",
   "unit_types": [
     {
       "config": "4 BHK",
@@ -80,6 +116,94 @@
       "note": "Computed: Rs 41.14 crore / 7,527 sq ft, Abhishek Bachchan's purchase on the 37th floor in Nov 2014, as reported when he resold in 2021. The area basis is not stated and is pre-RERA."
     },
     {
+      "date": "2017-12-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 45053,
+      "basis": "unknown",
+      "source_name": "Oberoi Realty earnings call (Q3FY18) via AlphaSpread transcript",
+      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q3-2018",
+      "confidence": "medium",
+      "note": "Computed: Rs 214 crore booked / 47,500 sq ft in Q3FY18 (Oct to Dec 2017), as stated by management. Cumulative to date: 4.32 lakh sq ft for Rs 1,716 crore, about Rs 39,700/sq ft (computed). Area basis not stated; see notes."
+    },
+    {
+      "date": "2018-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 45263,
+      "basis": "unknown",
+      "source_name": "Oberoi Realty earnings call (Q4FY18) via AlphaSpread transcript",
+      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q4-2018",
+      "confidence": "medium",
+      "note": "Computed: Rs 43 crore booked / 9,500 sq ft in Q4FY18 (Jan to Mar 2018), as stated by management."
+    },
+    {
+      "date": "2018-06-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 47025,
+      "basis": "unknown",
+      "source_name": "Oberoi Realty earnings call (Q1FY19) via AlphaSpread transcript",
+      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q1-2019",
+      "confidence": "low",
+      "note": "Computed: 35,300 sq ft booked in Q1FY19 (Apr to Jun 2018). The quarter's value is garbled in the transcript, so it is taken as the change in cumulative booking value, Rs 1,759 crore (Mar 2018) to Rs 1,925 crore (Jun 2018) = Rs 166 crore."
+    },
+    {
+      "date": "2018-09-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 43301,
+      "basis": "unknown",
+      "source_name": "Oberoi Realty earnings call (Q2FY19) via AlphaSpread transcript",
+      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q2-2019",
+      "confidence": "medium",
+      "note": "Computed: Rs 223 crore booked / 51,500 sq ft in Q2FY19 (Jul to Sep 2018), as stated by management."
+    },
+    {
+      "date": "2019-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 42998,
+      "basis": "unknown",
+      "source_name": "Oberoi Realty earnings call (Q4FY19) via AlphaSpread transcript",
+      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q4-2019",
+      "confidence": "medium",
+      "note": "Computed: Rs 105 crore booked / 24,420 sq ft in Q4FY19 (Jan to Mar 2019), as stated by management. Cumulative: about 5.5 lakh sq ft for Rs 2,240 crore."
+    },
+    {
+      "date": "2019-12-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 51923,
+      "basis": "unknown",
+      "source_name": "Oberoi Realty earnings call (Q3FY20) via AlphaSpread transcript",
+      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q3-2020",
+      "confidence": "medium",
+      "note": "Computed: Rs 54 crore booked / 10,400 sq ft in Q3FY20 (Oct to Dec 2019), as stated by management. Cumulative: nearly 6 lakh sq ft for Rs 2,456 crore."
+    },
+    {
+      "date": "2020-09-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 51220,
+      "basis": "unknown",
+      "source_name": "Oberoi Realty earnings call (Q2FY21) via AlphaSpread transcript",
+      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q2-2021",
+      "confidence": "medium",
+      "note": "Computed: Rs 126 crore booked / 24,600 sq ft in Q2FY21 (Jul to Sep 2020), as stated by management. Consistent with ICICI Direct's statement that Q2FY23's Rs 83,181 was 63% above the last FY21 sale."
+    },
+    {
+      "date": "2020-12-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 49187,
+      "basis": "unknown",
+      "source_name": "Oberoi Realty earnings call (Q3FY21) via AlphaSpread transcript",
+      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q3-2021",
+      "confidence": "medium",
+      "note": "Computed: Rs 121 crore booked / 24,600 sq ft in Q3FY21 (Oct to Dec 2020), as stated by management."
+    },
+    {
       "date": "2021-08-10",
       "date_precision": "day",
       "stage": "under_construction",
@@ -100,6 +224,28 @@
       "source_url": "https://icicidirect.com/research/equity/trending-news/oberoi-realty-reports-healthy-sales-value",
       "confidence": "medium",
       "note": "Developer average realisation for Q2FY23 (Jul to Sep 2022): 8 units for Rs 610 crore, about 63% above the last sale recorded in FY21. ICICI Direct's Q2FY23 result PDF (https://www.icicidirect.com/mailimages/IDirect_OberoiRealty_Q2FY23.pdf, now 404) reportedly printed Rs 82,181, but Rs 83,181 matches the ICICI news note and HDFC Securities, and Rs 610 crore over 73,281 sq ft works out to about Rs 83,200."
+    },
+    {
+      "date": "2023-02-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 65523,
+      "basis": "unknown",
+      "source_name": "Property Butler (registered-deed quarterly median)",
+      "source_url": "https://propertybutler.in/building/oberoi-three-sixty-west",
+      "confidence": "low",
+      "note": "2023-Q1 median of 19 registered sale deeds, mostly registered 16 to 21 Feb 2023 (e.g. 7,139 sq ft on the 56th floor for Rs 46.78 crore). The cluster is far below Oberoi's own Rs 83,000+ realisations of the period, so these may be landowner-share or earlier bookings being registered; the area basis is not stated."
+    },
+    {
+      "date": "2024-05-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 108619,
+      "basis": "carpet",
+      "source_name": "Business Today (documents; areas via Square Yards)",
+      "source_url": "https://www.businesstoday.in/real-estate/story/actor-shahid-kapoor-rents-out-luxury-apartment-in-mumbai-for-rs-20-lakh-per-month-453441-2024-11-12",
+      "confidence": "high",
+      "note": "Computed: Rs 58.6 crore / 5,395 sq ft carpet (6,175 sq ft built-up), bought by Shahid Kapoor and Mira Rajput in May 2024 with 3 parking spaces. Seller not named. On built-up area the rate is about Rs 94,900/sq ft."
     },
     {
       "date": "2024-12-01",
@@ -212,17 +358,6 @@
       "note": "Computed: Rs 110.41 crore / 7,303 sq ft RERA carpet (663.27 sq m carpet plus 15.23 sq m adjacent area), on the 62nd floor of Tower B. The seller is Oberoi Realty. On 7,139 sq ft carpet alone the rate is about Rs 1.55 lakh/sq ft."
     },
     {
-      "date": "2026-09-11",
-      "date_precision": "day",
-      "stage": "completion",
-      "price_psf": 76792,
-      "basis": "carpet",
-      "source_name": "Business Today (citing Business Standard / Liases Foras documents)",
-      "source_url": "https://www.businesstoday.in/real-estate/story/reliance-industries-purchases-9781-sq-ft-luxury-duplex-in-mumbais-worli-for-rs75-11-crore-557600-2026-09-24",
-      "confidence": "high",
-      "note": "Computed: Rs 75.11 crore / 9,781 sq ft RERA carpet. Reliance Industries bought a 49th/50th-floor duplex in Tower B. The sellers were landowner partners Skylark Buildcon and Moon Rays Realty, which explains the rate far below Oberoi's own realisations."
-    },
-    {
       "date": "2026-09-01",
       "date_precision": "month",
       "stage": "resale",
@@ -232,6 +367,55 @@
       "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-three-sixty-west/64854/project",
       "confidence": "low",
       "note": "Average asking price. The same page reports registered sales from Nov 2025 to Oct 2026 averaging about Rs 1.30 lakh/sq ft, so portal asking prices sit below recent registered deals."
+    },
+    {
+      "date": "2026-09-11",
+      "date_precision": "day",
+      "stage": "completion",
+      "price_psf": 76792,
+      "basis": "carpet",
+      "source_name": "Business Today (citing Business Standard / Liases Foras documents)",
+      "source_url": "https://www.businesstoday.in/real-estate/story/reliance-industries-purchases-9781-sq-ft-luxury-duplex-in-mumbais-worli-for-rs75-11-crore-557600-2026-09-24",
+      "confidence": "high",
+      "note": "Computed: Rs 75.11 crore / 9,781 sq ft RERA carpet. Reliance Industries bought a 49th/50th-floor duplex in Tower B. The sellers were landowner partners Skylark Buildcon and Moon Rays Realty, which explains the rate far below Oberoi's own realisations."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2024-11-07",
+      "config": "4 BHK",
+      "carpet_sqft": 5395,
+      "monthly_rent": 2050000,
+      "furnishing": "unknown",
+      "kind": "registered",
+      "source_name": "Business Today (registration documents)",
+      "source_url": "https://www.businesstoday.in/real-estate/story/actor-shahid-kapoor-rents-out-luxury-apartment-in-mumbai-for-rs-20-lakh-per-month-453441-2024-11-12",
+      "confidence": "high",
+      "note": "Shahid Kapoor's unit. 60-month lease starting at Rs 20.5 lakh, rising to Rs 23.98 lakh; deposit Rs 1.23 crore; 10 months rent-free. Registered 7 Nov 2024 per other reports. The article does not give the configuration; 4 BHK is inferred from rental listings for the building that show 4 BHK units of 5,395 sq ft carpet."
+    },
+    {
+      "date": "2026-09-28",
+      "config": "4/5 BHK (not stated)",
+      "carpet_sqft": 6831,
+      "monthly_rent": 2850000,
+      "furnishing": "unknown",
+      "kind": "registered",
+      "source_name": "Free Press Journal (citing Zapkey)",
+      "source_url": "https://www.freepressjournal.in/mumbai/mumbai-6831-sq-ft-worli-luxury-flat-leased-for-285-lakh-monthly-rent",
+      "confidence": "high",
+      "note": "19th floor, Tower B, leased by a Radhakishan Damani-linked entity to IVL Dhunseri Petrochem for 36 months: Rs 28.5 lakh, Rs 29.92 lakh and Rs 31.42 lakh a month; deposit Rs 1.71 crore. The article does not say whether 6,831 sq ft is carpet; it matches the 6,830 sq ft RERA carpet unit sold by Akshay Kumar."
+    },
+    {
+      "date": "2026-10-01",
+      "config": "4+ BHK",
+      "carpet_sqft": 6400,
+      "monthly_rent": 3000000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Rentu (building summary of 15 rental offers, last 12 months)",
+      "source_url": "https://www.rentu.in/property/9737788/4-bhk-flat-for-rent-in-oberoi-360-west-worli",
+      "confidence": "low",
+      "note": "Median asking rent; typical range Rs 27 to 30 lakh, about Rs 450/sq ft carpet; 6,400 sq ft is the typical carpet. Page last reviewed Oct 2026. Final rents are often lower."
     }
   ],
   "news": [
@@ -244,6 +428,14 @@
       "summary": "Samsung C&T appointed main contractor for Oberoi's Worli mixed-use towers, later named Three Sixty West. Construction began in June 2011."
     },
     {
+      "date": "2018-07-23",
+      "title": "Shahid Kapoor, Mira Rajput buy duplex worth Rs 56 crore in Worli",
+      "url": "https://www.thequint.com/entertainment/celebrities/shahid-kapoor-mira-rajput-buy-duplex-worth-rs-56-crore-in-worli",
+      "source": "The Quint (citing DNA)",
+      "event_type": "deal",
+      "summary": "A 42nd/43rd-floor duplex in Three Sixty West with six parking spaces, registered on 12 Jul 2018 for a reported Rs 56 crore with Rs 2.91 crore stamp duty. The area was not reported."
+    },
+    {
       "date": "2019-03-30",
       "title": "Full moon finale for Mumbai's newest icon",
       "url": "http://www.mumbaimirror.indiatimes.com/mumbai/cover-story/full-moon-finale-for-mumbais-newest-icon/articleshow/68642917.cms",
@@ -252,12 +444,28 @@
       "summary": "Topping out of Three Sixty West, with the spire capped by a bronze Ashoka Chakra finial and a ceremony attended by CM Devendra Fadnavis. The date is approximate: March 2019 per Wikipedia."
     },
     {
+      "date": "2020-02-10",
+      "title": "Oberoi Realty Q3FY20 earnings call: Three Sixty West OC expected in April",
+      "url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q3-2020",
+      "source": "Oberoi Realty earnings call (AlphaSpread transcript)",
+      "event_type": "other",
+      "summary": "About 6 lakh sq ft booked out of roughly 22 lakh sq ft; OC expected by April 2020. Vikas Oberoi says construction is now funded from collections and receivables are split 80:20 with the partner until Oberoi recovers its investment."
+    },
+    {
       "date": "2021-08-10",
       "title": "Abhishek Bachchan, Aishwarya sell luxurious Mumbai apartment for Rs 45 crore",
       "url": "https://www.indiatvnews.com/amp/entertainment/celebrities/abhishek-bachchan-aishwarya-sell-luxurious-mumbai-apartment-for-rs-45-crore-726181",
       "source": "India TV News",
       "event_type": "deal",
       "summary": "Abhishek Bachchan sells his 7,527 sq ft 37th-floor apartment for Rs 45.75 crore. He bought it in Nov 2014 for Rs 41.14 crore."
+    },
+    {
+      "date": "2024-11-12",
+      "title": "Actor Shahid Kapoor rents out luxury apartment in Mumbai for Rs 20 lakh per month",
+      "url": "https://www.businesstoday.in/real-estate/story/actor-shahid-kapoor-rents-out-luxury-apartment-in-mumbai-for-rs-20-lakh-per-month-453441-2024-11-12",
+      "source": "Business Today",
+      "event_type": "deal",
+      "summary": "The 5,395 sq ft carpet unit bought for Rs 58.6 crore in May 2024 is leased for five years from Rs 20.5 lakh a month, with a Rs 1.23 crore deposit."
     },
     {
       "date": "2025-02-07",
@@ -298,6 +506,14 @@
       "source": "Business Today",
       "event_type": "deal",
       "summary": "Reliance Industries buys a 49th/50th-floor duplex from Oasis Realty's landowner partners for Rs 75.11 crore, about Rs 76,800/sq ft of carpet. It was registered on 11 Sep 2026."
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Mumbai: 6,831 Sq Ft Worli Luxury Flat Leased For ₹28.5 Lakh Monthly Rent",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-6831-sq-ft-worli-luxury-flat-leased-for-285-lakh-monthly-rent",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "A Damani family-office entity leases a 19th-floor Tower B flat to IVL Dhunseri Petrochem for three years from Rs 28.5 lakh a month, per Zapkey."
     }
   ]
 }

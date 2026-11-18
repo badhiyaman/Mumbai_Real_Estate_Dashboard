@@ -1,0 +1,212 @@
+{
+  "slug": "rustomjee-seasons",
+  "name": "Rustomjee Seasons",
+  "developer": "rustomjee",
+  "micro_market": "bandra-east",
+  "address": "Madhusudan Kalelkar Road, near MIG Colony, Kala Nagar, Bandra East (marketed as BKC Annexe), Mumbai 400051",
+  "lat": 19.0569,
+  "lng": 72.8503,
+  "land_acres": 3.82,
+  "towers": 6,
+  "rera_ids": ["P51800001433", "P51800000605", "P51800000309", "P51800021028"],
+  "status": "completed",
+  "launch_date": "2015-11-19",
+  "possession_promised": "2021-12-30",
+  "possession_actual": "2020-04-01",
+  "amenities": [
+    "Mini theatre",
+    "Maze garden",
+    "Alfresco dining",
+    "Forest walk (Miyawaki forest)",
+    "Performance zone",
+    "Open-to-sky podium",
+    "Senior citizens' zone",
+    "Toddlers' creative studio",
+    "Multipurpose courts",
+    "Indoor games zone",
+    "Gymnasium",
+    "Swimming pool",
+    "Koi lagoon",
+    "Yoga deck",
+    "Banquet hall"
+  ],
+  "description": "Gated community of six towers on about 3.8 acres in Kala Nagar, Bandra East, next to the Bandra Kurla Complex. Rustomjee (Keystone Realtors) built it as a MHADA-colony redevelopment and sells 3, 3.5 and 4 BHK homes with sun decks. Handover began in April 2020, and the last tower received its occupation certificate by March 2023.",
+  "notes": "Redevelopment of a MHADA layout: Keystone's DRHP describes lender security as 'development rights of MHADA redevelopment Project Rustomjee Seasons'. It followed Rustomjee's nearby Oriana redevelopment. Launch date conflicts: the DRHP milestone list says 'Launched our redevelopment project Seasons in Bandra East' in 2013, while Rustomjee's press launch is dated 19 Nov 2015. The DRHP gives price appreciation from project start to OC as 2.13x (Rs 17,773 to Rs 37,934 per sq ft saleable), with a lifetime average of Rs 28,208. Cumulative sales were Rs 1,951 crore, with 72.39% of inventory sold as of 31 Dec 2021. Commencement certificate for Wings B, C, E and F: Sep 2016; handover of those wings began April 2020. In 2020 Keystone intervened in a Supreme Court property-tax case after MCGM refused the no-dues certificate needed for the Seasons OC. Free Press Journal (24 Mar 2023) reported the OC for the last tower and said the project was fully ready, but gave no OC date. Square Yards still showed Wing D (P51800021028) with a completion date of 30 Dec 2025, so Wing D's OC timing is unclear. Unit count and floors conflict: Square Yards lists 442 units; Free Press Journal says over 400 families; Mumbai Property Exchange cites 86 units for Wing A alone and gives 22 or 26 storeys. floors_max and total_units are therefore omitted. Architect credits conflict: Sanjay Puri in the 2015 launch release; design concepts by Alfaz Miller per the 2023 OC report; landscape by Site Concepts International per the DRHP. Awards: CNBC Best Residential Project Ultra-Luxury Segment (2018-19); ET Now Best Redevelopment Project (2019). Mumbai Property Exchange lists the BKC metro station 0.6 km away (straight line) and Metro Line 3 / Line 2B stations 2.1 km away. The labels are inconsistent, so nearest_metro is omitted.",
+  "sources": [
+    "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
+    "https://mccoymart.com/post/rustomjee-launches-yet-another-premium-project-in-bkc",
+    "https://www.freepressjournal.in/corporate-gallery/keystone-realtors-receives-full-occupancy-certificate-for-rustomjee-seasons",
+    "https://www.mumbaipropertyexchange.com/project/rustomjee-seasons-bandra-east-by-rustomjee/5179",
+    "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project"
+  ],
+  "architect": "Sanjay Puri (per 2015 launch release); design concepts by Alfaz Miller (per 2023 OC report); landscape by Site Concepts International",
+  "land_type": "redevelopment",
+  "oc_received": true,
+  "transactions_12m": 5,
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 944,
+      "carpet_sqft_max": 1400,
+      "price_min_cr": 6.35,
+      "price_max_cr": 9.41,
+      "notes": "Square Yards asking prices, Nov 2026, excluding charges. Mumbai Property Exchange's price list of 9 Jul 2026 shows Rs 5.52-6.24 Cr for 944-1,096 sq ft."
+    },
+    {
+      "config": "3.5 BHK",
+      "carpet_sqft_min": 1414,
+      "carpet_sqft_max": 1414,
+      "price_min_cr": 10.75,
+      "price_max_cr": 10.75,
+      "notes": "One resale listing on Mumbai Property Exchange, Nov 2026."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1646,
+      "carpet_sqft_max": 1839,
+      "price_min_cr": 11.06,
+      "price_max_cr": 12.34,
+      "notes": "Square Yards asking prices, Nov 2026. MahaRERA carpet range is 1,650-1,839 sq ft. A Mumbai Property Exchange listing of 1,923 sq ft asks Rs 18 Cr."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2015-01-01",
+      "date_precision": "year",
+      "stage": "launch",
+      "price_psf": 17773,
+      "basis": "saleable",
+      "source_name": "Keystone Realtors DRHP (June 2022)",
+      "source_url": "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
+      "confidence": "high",
+      "note": "Company figure: 'Average Starting Price' at project commencement (Rs 17,773.11/sq ft saleable). The DRHP doesn't date it. The DRHP dates the launch to 2013 and the press launch was Nov 2015, so the year is approximate."
+    },
+    {
+      "date": "2020-01-01",
+      "date_precision": "year",
+      "stage": "completion",
+      "price_psf": 37934,
+      "basis": "saleable",
+      "source_name": "Keystone Realtors DRHP (June 2022)",
+      "source_url": "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
+      "confidence": "high",
+      "note": "Company figure: average price on receipt of the occupancy certificate (Rs 37,934.08/sq ft saleable), 2.13x the starting price. The year is approximate: handover of Wings B, C, E and F began in April 2020. The lifetime average was Rs 28,208/sq ft."
+    },
+    {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 66050,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project",
+      "confidence": "low",
+      "note": "Quarterly average asking price. Basis inferred as carpet because unit prices divided by carpet area match (e.g. 945 sq ft at Rs 6.35 Cr = Rs 67,196)."
+    },
+    {
+      "date": "2026-07-09",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 57704,
+      "basis": "carpet",
+      "source_name": "Mumbai Property Exchange price list",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/rustomjee-seasons-bandra-east-by-rustomjee/5179",
+      "confidence": "low",
+      "note": "Indicative rate from a price list dated 9 Jul 2026 (3 BHK Rs 5.52-6.24 Cr, about Rs 56,900-58,500/sq ft carpet). It is below Square Yards' asking trend for the same quarter."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 67200,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project",
+      "confidence": "low",
+      "note": "Average asking price for the Sep 2026 quarter, up 6% QoQ. The Bandra East average was Rs 55,550."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 51550,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project",
+      "confidence": "medium",
+      "note": "Average registered rate from 5 sale registrations, Nov 2025-Oct 2026 (gross value Rs 48 Cr). The page's registry table lists 10 registrations from Sep 2025 to Mar 2026, which conflicts with the count of 5."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1096,
+      "monthly_rent": 280000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026; the posting date isn't shown."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1236,
+      "monthly_rent": 220000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026. Other listings for the same carpet area ask Rs 2.8 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1400,
+      "monthly_rent": 300000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026. Square Yards estimates project rents at Rs 2.7 lakh (3 BHK) and Rs 4.5 lakh (4 BHK)."
+    }
+  ],
+  "news": [
+    {
+      "date": "2015-11-19",
+      "title": "Rustomjee launches yet another premium project in BKC",
+      "url": "https://mccoymart.com/post/rustomjee-launches-yet-another-premium-project-in-bkc",
+      "source": "McCoy Mart (Rustomjee press release)",
+      "event_type": "launch",
+      "summary": "Rustomjee announced the launch of Seasons at BKC Annexe, with 3, 3.5 and 4 BHK homes with sun decks, designed by Sanjay Puri."
+    },
+    {
+      "date": "2020-03-06",
+      "title": "Keystone intervenes in Supreme Court property-tax case to obtain Seasons OC (disclosed in DRHP)",
+      "url": "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
+      "source": "Keystone Realtors DRHP (BSE)",
+      "event_type": "litigation",
+      "summary": "MCGM refused a no-dues certificate and P-Form approval needed for the Seasons occupation certificate, despite tax being paid under a Supreme Court interim order. Keystone filed an intervention application on 6 Mar 2020, and the matter was pending in 2022."
+    },
+    {
+      "date": "2022-06-15",
+      "title": "Keystone Realtors DRHP: Seasons prices rose 2.13x from launch to OC",
+      "url": "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
+      "source": "Keystone Realtors DRHP (BSE)",
+      "event_type": "other",
+      "summary": "The IPO filing shows Seasons' average price rising from Rs 17,773 to Rs 37,934 per sq ft saleable, with Rs 1,951 crore of sales and 72% of inventory sold as of Dec 2021."
+    },
+    {
+      "date": "2023-03-24",
+      "title": "Keystone Realtors receives full occupancy certificate for Rustomjee Seasons",
+      "url": "https://www.freepressjournal.in/corporate-gallery/keystone-realtors-receives-full-occupancy-certificate-for-rustomjee-seasons",
+      "source": "Free Press Journal",
+      "event_type": "possession",
+      "summary": "The OC for the last tower made the six-tower, 3.8-acre BKC Annexe project fully ready, with over 400 families in residence."
+    }
+  ]
+}

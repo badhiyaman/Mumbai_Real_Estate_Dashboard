@@ -1,0 +1,19 @@
+{
+  "developers": [
+    {
+      "slug": "peninsula-land",
+      "name": "Peninsula Land Ltd",
+      "website": "https://www.peninsulaland.in",
+      "listed_ticker": "NSE: PENINLAND",
+      "delivery_track_record": "Delivered Ashok Towers (Parel, about 1.08 million sq ft, four towers) in FY2009-10 and 2010. Work began in 2004, and three of the four towers were handed over during FY2009-10. Ashok Gardens (Sewri, about 0.8 million sq ft) was due for completion by the end of FY2010-11. Commercial deliveries include Peninsula Corporate Park, Peninsula Business Park and Peninsula Technopark in Mumbai.",
+      "notes": "Entered real estate development in 1997 (Crossroads mall, 1999). In 2001 it became the first company allowed to commercially develop private textile mill land in Mumbai, and it merged with Dawn Mills Company in 2006 (company milestones, Annual Report 2009-10). Chairperson in 2010: Urvi Piramal. BSE scrip 503031. Founding year of the company itself not confirmed, so founded_year is left out. Sources: https://www.bseindia.com/bseplus/AnnualReport/503031/5030310310.pdf ; https://www.bseindia.com/bseplus/AnnualReport/503031/5030310311.pdf ; https://files.tijorifinance.com/insight/india/517/Investor%20Presentation/IP-Dec12.pdf"
+    },
+    {
+      "slug": "raheja-universal",
+      "name": "Raheja Universal (Pvt) Ltd",
+      "website": "https://www.rahejauniversal.com",
+      "notes": "Mumbai developer, separate from K Raheja Corp. Its website lists current projects including Raheja Imperia II (The Riviere) in Worli and Raheja Tesla II, the Raheja Solaris series and Raheja Exotica in Navi Mumbai and Mumbai. Square Yards' developer profile claims 39 years of experience, 67 projects and 58 delivered; this is unverified portal data, so it is kept out of the structured fields. No sourced delivery record or founding year was found. Sources: https://www.rahejauniversal.com/ ; https://squareyards.com/mumbai-residential-property/raheja-imperia/3312/project"
+    }
+  ],
+  "micro_markets": []
+}

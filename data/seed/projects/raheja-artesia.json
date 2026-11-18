@@ -1,0 +1,228 @@
+{
+  "slug": "raheja-artesia",
+  "name": "K Raheja Artesia",
+  "developer": "k-raheja-corp",
+  "micro_market": "worli",
+  "address": "Pandurang Budhkar Marg / Hind Cycle Marg, Hanuman Nagar, near Doordarshan Centre, Worli, Mumbai 400030",
+  "land_acres": 4.97,
+  "towers": 1,
+  "floors_max": 45,
+  "total_units": 133,
+  "rera_ids": ["P51900000841"],
+  "status": "completed",
+  "possession_promised": "2023-12-30",
+  "amenities": [
+    "23,000 sq ft drop-off lobby, 8.5 m high, designed by Martin Kemp Design",
+    "In-house spa",
+    "Swimming pool",
+    "Gymnasium",
+    "Landscaped podium (Burega Farnell)",
+    "Children's play area",
+    "Clubhouse",
+    "Sauna and jacuzzi",
+    "Tennis, badminton and basketball courts",
+    "Golf simulator",
+    "Snooker / billiards and indoor games",
+    "Party hall"
+  ],
+  "description": "A single ultra-luxury residential tower on a roughly 5-acre plot near the Worli sea face, built by K. Raheja Private Limited (a K Raheja Corp group company). It has limited-edition 4 BHK residences, three to a floor, with views of the Arabian Sea and the Bandra-Worli Sea Link, and Art Deco-inspired interiors by London's Martin Kemp Design. Mint described it in 2018 as an upcoming 45-storey tower selling 3,000 sq ft homes by invitation at around Rs 30 crore. Since 2021, Raheja family members have bought and then resold several top-floor apartments, which set Worli records of Rs 1.55 to 1.82 lakh/sq ft of carpet in 2025-26.",
+  "notes": "Status: Square Yards lists it ready to move since Jun 2019, and Wikipedia's list of tallest Mumbai buildings gives completion in 2019. MahaRERA (P51900000841, registered 23 Jul 2017) still showed it as ongoing with a proposed completion of 30 Dec 2023 (GeoSquare, verified Sep 2026). No OC date was found, so oc_received is left out. Floors conflict between sources: 45 storeys (Mint 2018 / Construction World 2021, which matches duplexes on floors 44-45), 49 (MGS Architecture), 54 (a RERA listing) and 58 floors / 210 m (Wikipedia list). Land: 4.97 acres per the developer; 5.2 acres per MGS; MahaRERA plot area 19,640.99 sq m. Units: 133 per MahaRERA / Zapkey, with 130 booked as of Nov 2025 (Square Yards); the 129 elsewhere on Square Yards conflicts. Mortgaged to HDFC Ltd (developer site). Design team: RSP (India) design consultants, Sterling Engineering (structure concept), Burega Farnell (landscape), BES (facade), AECOM (MEP), Martin Kemp Design and JPA Design (show apartments). Floor height is 3.9 m floor-to-floor (the developer page also captions it as floor-to-ceiling). Related-party deals: in Dec 2020 Neel, Chandru and Ravi Raheja and their wives bought three duplexes (18 flats, 42 car parks) for Rs 427.81 crore at the 2% Covid-era stamp duty, and from 2025 they resold some of these units. The two Feb 2026 sales (Rs 123.51 crore to Radha Tanti and Rs 121 crore to Shree Dhootapapeshwar) are both 44th-floor, 6,772 sq ft carpet units sold by Ravi and Sumati Raheja. Reported stamp duties differ (Rs 6.18 crore vs Rs 7.28 crore), and Square Yards lists the 26 Feb 2026 sale as unit 4402, so they are treated as two separate flats. This is not confirmed. Earlier buyers include Smita Parekh (Rs 50 crore), Keki Mistry (Rs 41.23 crore) and the Relli family (Rs 30.31 crore), all reported around 2021 with no area or date. Rent: Square Yards gave Rs 5-6 lakh/month for a 4 BHK in Sep 2025, but Nov 2026 listings ask Rs 16-17 lakh for 3,064 sq ft. These figures conflict. Computed gross yield: Rs 16 lakh x 12 / (3,064 sq ft x Rs 1,49,200 Square Yards asking) = about 4.2%; at registered rates of Rs 1.55-1.82 lakh it is about 3.4-4.0%. Both use asking rents.",
+  "sources": [
+    "https://www.krahejacorphomes.com/project/?p=6778",
+    "https://krahejacorp.com/newsroom/new-in-luxury-apartments-designer-lobby-in-house-spa",
+    "https://www.mgsarchitecture.in/architecture-design/projects/reclaiming-luxury.html",
+    "https://www.geosquare.in/artesia-worli-mumbai-real-estate-project.html",
+    "https://www.squareyards.com/mumbai-residential-property/k-raheja-artesia/13648/project",
+    "https://squarefeatindia.com/3-duplexes-comprising-of-18-flats-42-parking-sold-in-worli-for-rs-427-crore/",
+    "https://www.constructionworld.in/latest-construction-news/real-estate-news/-raheja-s-purchase-three-duplexes-at-rs-427-cr-from-own-project-in-worli-/27417",
+    "https://www.freepressjournal.in/mumbai/mumbai-real-estate-news-blue-jet-healthcare-promoters-acquire-3-luxury-worli-properties-worth-over-202-crore",
+    "https://www.geosquare.in/ideal-cures-pharma-promoters-invest-rs-1901-crore-in-mumbais-luxury-real-estate-34535-news.html",
+    "https://www.crematrix.com/blog/suzlon-vice-chairman-girish-tantis-wife-buys-rs-123-5-crore-luxury-home-in-worli/",
+    "https://www.freepressjournal.in/mumbai/mumbai-based-ayurvedic-firm-shree-dhootapapeshwar-buys-121-crore-luxury-apartment-in-worlis-raheja-artesia",
+    "https://www.geosquare.in/mumbais-worli-sees-another-mega-apartment-sale-at-17-lakh-per-sq-ft-38436-news.html",
+    "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Mumbai",
+    "https://www.realestatemumbai.com/rent/raheja-artesia-worli"
+  ],
+  "architect": "RSP (India) (design consultants); Martin Kemp Design (lobby, show apartment and common areas)",
+  "flats_per_floor": 3,
+  "views": ["sea", "city"],
+  "units_sold": 130,
+  "units_sold_as_of": "2025-11-01",
+  "unit_types": [
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 2964,
+      "carpet_sqft_max": 3781,
+      "price_min_cr": 44.22,
+      "price_max_cr": 56.41,
+      "notes": "Square Yards carpet areas and asking prices (Sep 2026, excluding charges). Mint (2018) described the typical home as a 3,000 sq ft 4 BHK at about Rs 30 crore."
+    },
+    {
+      "config": "Large residence (combined / upper-floor units)",
+      "carpet_sqft_min": 5342,
+      "carpet_sqft_max": 7747,
+      "price_min_cr": 85.2,
+      "price_max_cr": 123.51,
+      "notes": "Registered deals from 2025-26: 5,342 and 6,772 sq ft carpet on the 43rd floor, 6,772 sq ft on the 44th, and a 7,747 sq ft resale unit (area basis not stated). These come with five or six car parks each."
+    },
+    {
+      "config": "Duplex (6 flats combined)",
+      "notes": "Three duplexes on floors 41-45 of 1,989.71 to 2,138.25 sq m each (registered area, basis not stated), bought by Raheja family members in Dec 2020 for Rs 137.78 to 146.40 crore each."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2018-05-01",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 100000,
+      "basis": "unknown",
+      "source_name": "Mint (Madhurima Nandy), reposted on the K Raheja Corp newsroom",
+      "source_url": "https://krahejacorp.com/newsroom/new-in-luxury-apartments-designer-lobby-in-house-spa",
+      "confidence": "low",
+      "note": "Computed: Mint says the upcoming tower's 3,000 sq ft 4 BHK homes are 'priced at around Rs30 crore' and sold by invitation. Rs 30 crore / 3,000 sq ft is about Rs 1 lakh/sq ft. Both figures are approximate."
+    },
+    {
+      "date": "2020-12-31",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 64033,
+      "basis": "unknown",
+      "source_name": "SquareFeatIndia (registration documents)",
+      "source_url": "https://squarefeatindia.com/3-duplexes-comprising-of-18-flats-42-parking-sold-in-worli-for-rs-427-crore/",
+      "confidence": "high",
+      "note": "Computed: Rs 427.81 crore / 66,811 sq ft (6,202 sq m) for three duplexes on floors 41-45 (18 flats, 42 car parks). Deal made 31 Dec 2020, documents filed Apr 2021. This is a related-party purchase by the Raheja promoter families at 2% stamp duty, so it may not reflect an arm's-length price. Construction World reports Rs 427 crore."
+    },
+    {
+      "date": "2025-07-28",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 113631,
+      "basis": "unknown",
+      "source_name": "Free Press Journal (Zapkey registration data)",
+      "source_url": "https://www.freepressjournal.in/mumbai/mumbai-real-estate-news-blue-jet-healthcare-promoters-acquire-3-luxury-worli-properties-worth-over-202-crore",
+      "confidence": "high",
+      "note": "Computed: Rs 88.03 crore / 7,747 sq ft. Shiven Akshay Arora (MD, Blue Jet Healthcare) bought the unit from Tanya Tayal, with six car parks. The area basis is not stated."
+    },
+    {
+      "date": "2025-12-24",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 154903,
+      "basis": "carpet",
+      "source_name": "GeoSquare (Zapkey registration data)",
+      "source_url": "https://www.geosquare.in/ideal-cures-pharma-promoters-invest-rs-1901-crore-in-mumbais-luxury-real-estate-34535-news.html",
+      "confidence": "high",
+      "note": "Computed: unit 4302, Rs 104.9 crore / 6,772 sq ft carpet, plus a 629 sq ft balcony and 367 sq ft terrace. Sellers were Chandru and Jyoti Raheja; buyers were Suresh and Veena Pareek (Ideal Cures). The same-day sale of unit 4303 was Rs 85.2 crore for 5,342 sq ft carpet (about Rs 1,59,491/sq ft); Square Yards lists 4303 at 5,433 sq ft. Including balconies and terraces, both units average about Rs 1,35,970/sq ft."
+    },
+    {
+      "date": "2026-02-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 182376,
+      "basis": "carpet",
+      "source_name": "CRE Matrix",
+      "source_url": "https://www.crematrix.com/blog/suzlon-vice-chairman-girish-tantis-wife-buys-rs-123-5-crore-luxury-home-in-worli/",
+      "confidence": "high",
+      "note": "Computed: Rs 123.51 crore / 6,772.28 sq ft RERA carpet, plus 367.05 sq ft of balcony / terrace, on the 44th floor. Ravi and Sumati Raheja sold it to Radha Tanti, wife of Suzlon's Girish Tanti, with six car parks and about Rs 6.18 crore stamp duty. The article is dated 5 Feb 2026 and the exact registration day is not given."
+    },
+    {
+      "date": "2026-02-26",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 178670,
+      "basis": "carpet",
+      "source_name": "Free Press Journal (CRE Matrix registration documents, via Hindustan Times)",
+      "source_url": "https://www.freepressjournal.in/mumbai/mumbai-based-ayurvedic-firm-shree-dhootapapeshwar-buys-121-crore-luxury-apartment-in-worlis-raheja-artesia",
+      "confidence": "high",
+      "note": "Computed: Rs 121 crore / 6,772.28 sq ft RERA carpet on the 44th floor, with six car parks and Rs 7.28 crore stamp duty. Ravi and Sumati Raheja sold it to Shree Dhootapapeshwar Ltd. GeoSquare puts it at about Rs 1.7 lakh/sq ft including the 367 sq ft outdoor area."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 149200,
+      "basis": "carpet",
+      "source_name": "Square Yards (project average asking price)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-artesia/13648/project",
+      "confidence": "low",
+      "note": "Listing average for Sep 2026, consistent with its unit asking prices (for example a 2,964 sq ft carpet 4 BHK at Rs 44.22 crore). Earlier Square Yards quarters showed only Rs 59,550 to 66,900, so the series is unstable. The same page reports 3 registered sales from Nov 2025 to Oct 2026 averaging Rs 65,350/sq ft, which conflicts with the reported deals above."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 3064,
+      "monthly_rent": 1600000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai rental listing (ID 10071046)",
+      "source_url": "https://www.realestatemumbai.com/rent/raheja-artesia-worli",
+      "confidence": "low",
+      "note": "Deposit Rs 48 lakh. Rentu shows the same listing (ID 10071046). The date is the listing record update date."
+    },
+    {
+      "date": "2026-11-17",
+      "config": "4 BHK",
+      "carpet_sqft": 3064,
+      "monthly_rent": 1700000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai rental listing (ID 10046582)",
+      "source_url": "https://www.realestatemumbai.com/rent/raheja-artesia-worli",
+      "confidence": "low",
+      "note": "Deposit Rs 51 lakh. Same carpet area as the 3 BHK listing, so it may be the same flat type labelled differently. Square Yards gave a much lower 4 BHK range of Rs 5-6 lakh/month in Sep 2025."
+    }
+  ],
+  "news": [
+    {
+      "date": "2018-05-01",
+      "title": "New in luxury apartments: Designer lobby, in-house spa",
+      "url": "https://krahejacorp.com/newsroom/new-in-luxury-apartments-designer-lobby-in-house-spa",
+      "source": "Mint (reposted by K Raheja Corp)",
+      "event_type": "launch",
+      "summary": "It describes Artesia as an upcoming 45-storey Worli tower of about 3,000 sq ft 4 BHK homes at around Rs 30 crore, sold by invitation only. Martin Kemp Design did the lobby and show apartment, and the tower has an in-house spa."
+    },
+    {
+      "date": "2021-05-31",
+      "title": "Raheja's purchase three duplexes at Rs 427 cr from own project in Worli",
+      "url": "https://www.constructionworld.in/latest-construction-news/real-estate-news/-raheja-s-purchase-three-duplexes-at-rs-427-cr-from-own-project-in-worli-/27417",
+      "source": "Construction World",
+      "event_type": "deal",
+      "summary": "Raheja family members bought three duplexes on floors 41-45 (66,811 sq ft) for Rs 427 crore on 31 Dec 2020, paying 2% stamp duty. Other buyers named are Smita Parekh (Rs 50 crore) and Keki Mistry (Rs 41.23 crore)."
+    },
+    {
+      "date": "2025-08-08",
+      "title": "Mumbai Real Estate News: Blue Jet Healthcare Promoters Acquire 3 Luxury Worli Properties Worth Over ₹202 Crore",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-real-estate-news-blue-jet-healthcare-promoters-acquire-3-luxury-worli-properties-worth-over-202-crore",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "On 28 Jul 2025 Blue Jet MD Shiven Arora bought a 7,747 sq ft Raheja Artesia resale apartment from Tanya Tayal for Rs 88.03 crore, with six car parks."
+    },
+    {
+      "date": "2026-01-06",
+      "title": "Ideal Cures Pharma Promoters Invest Rs 190.1 Crore in Mumbai's Luxury Real Estate",
+      "url": "https://www.geosquare.in/ideal-cures-pharma-promoters-invest-rs-1901-crore-in-mumbais-luxury-real-estate-34535-news.html",
+      "source": "GeoSquare (Zapkey data)",
+      "event_type": "deal",
+      "summary": "On 24 Dec 2025 Suresh and Veena Pareek bought units 4302 and 4303 on the 43rd floor (12,114 sq ft carpet) from Chandru and Jyoti Raheja for a combined Rs 190.1 crore."
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Suzlon Vice Chairman Girish Tanti's Wife Buys Rs 123.5 Crore Luxury Home in Worli",
+      "url": "https://www.crematrix.com/blog/suzlon-vice-chairman-girish-tantis-wife-buys-rs-123-5-crore-luxury-home-in-worli/",
+      "source": "CRE Matrix",
+      "event_type": "deal",
+      "summary": "Radha Tanti bought a 6,772 sq ft carpet, 44th-floor Artesia apartment from Ravi and Sumati Raheja for Rs 123.5 crore (about Rs 1.82 lakh/sq ft of carpet)."
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Mumbai-Based Ayurvedic Firm Shree Dhootapapeshwar Buys ₹121 Crore Luxury Apartment In Worli's Raheja Artesia",
+      "url": "https://www.freepressjournal.in/mumbai/mumbai-based-ayurvedic-firm-shree-dhootapapeshwar-buys-121-crore-luxury-apartment-in-worlis-raheja-artesia",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "Registered on 26 Feb 2026: a 6,772 sq ft carpet, 44th-floor apartment sold by Ravi and Sumati Raheja for Rs 121 crore, with Rs 7.28 crore stamp duty and six car parks."
+    }
+  ]
+}

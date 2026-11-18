@@ -8,7 +8,7 @@
   "lng": 72.81042,
   "land_acres": 0.67,
   "towers": 1,
-  "floors_max": 40,
+  "floors_max": 43,
   "total_units": 52,
   "rera_ids": [],
   "status": "completed",
@@ -25,7 +25,7 @@
     "Multi-level podium parking"
   ],
   "description": "A black-glass luxury tower on Altamount Road, built on the former Washington House plot that Lodha bought from the US government in 2012, directly opposite Mukesh Ambani's Antilia. It has about 52 residences, roughly one per floor, as four-bedroom homes, five-bedroom duplexes and villas. Architect Hadi Teherani designed the tower. In 2015 it set India's per-sq-ft price record at Rs 1.6 lakh/sq ft.",
-  "notes": "Land: Lodha bought the 2,702 sq m Washington House plot from the US Consulate in December 2012 for about Rs 341.8 crore, outbidding Mahindra Lifespaces and Tata Housing (Domain-B instead reports Rs 375 crore). land_acres is converted from 2,702 sq m; listing sites say 'half an acre'. Height: DNA/Domain-B say 40 storeys including 8 podium levels; Wikipedia says 43 floors including 8 podium floors, 195 m. Units: 52 (Wikipedia) vs 53 (Domain-B, 2015). Launch date is from a listing site (June 2013); another listing says February 2013. Domain-B (Nov 2015) said completion was expected in April 2017. Wikipedia gives 2017 as the completion year, and DNA (June 2019) reported the occupation certificate had been received and families were doing interiors, so actual possession was around 2019; no exact date found. In September 2016 the Indian Express reported a dispute with the BMC over a Public Parking Lot FSI incentive; the state Urban Development department allowed Lodha to build the 38th floor. Notable deals: a ~10,000 sq ft duplex sold for Rs 160 crore in Nov 2015 (buyer reported as the Jindal family of Jindal Drugs, unconfirmed); Deven Mehta reportedly paid Rs 114.35 crore for flats on the 30th and 31st floors (DNA, 2017); MSwipe founder Manish Patel paid Rs 38.08 crore in 2019. No MahaRERA ID was found for this project.",
+  "notes": "Land: Lodha bought the 2,702 sq m Washington House plot from the US Consulate in December 2012 for about Rs 341.8 crore, outbidding Mahindra Lifespaces and Tata Housing (Domain-B instead reports Rs 375 crore). land_acres is converted from 2,702 sq m; listing sites say 'half an acre'. Height: DNA/Domain-B say 40 storeys including 8 podium levels; Wikipedia says 43 floors including 8 podium floors, 195 m. Units: 52 (Wikipedia) vs 53 (Domain-B, 2015). Launch date is from a listing site (June 2013); another listing says February 2013. Domain-B (Nov 2015) said completion was expected in April 2017. Wikipedia gives 2017 as the completion year, and DNA (June 2019) reported the occupation certificate had been received and families were doing interiors, so actual possession was around 2019; no exact date found. In September 2016 the Indian Express reported a dispute with the BMC over a Public Parking Lot FSI incentive; the state Urban Development department allowed Lodha to build the 38th floor. Notable deals: a ~10,000 sq ft duplex sold for Rs 160 crore in Nov 2015 (buyer reported as the Jindal family of Jindal Drugs, unconfirmed); Deven Mehta reportedly paid Rs 114.35 crore for flats on the 30th and 31st floors (DNA, 2017); MSwipe founder Manish Patel paid Rs 38.08 crore in 2019. No MahaRERA ID was found for this project. Enrichment (Nov 2026): floors_max changed from 40 to 43, because CTBUH's Skyscraper Center (43 floors above ground, 195 m, construction 2013 to 2018) and Wikipedia (43 floors including 8 podium floors) both give 43; the earlier 40 came from DNA/Domain-B. CTBUH gives completion as 2018, and DNA (June 2019) reported the OC as received, so oc_received is true; no OC date was found. CTBUH also lists Access Architects as architect of record, Sterling Engineering as structural engineer with Magnusson Klemencic peer review, and Barker Mohandas for vertical transport; no main contractor is listed. Square Yards credits interiors to Rajiv Saini. lifts_per_tower = 6 is per Wikipedia. flats_per_floor = 1 and the sea and city views (a 180-degree panorama of the Arabian Sea, Queen's Necklace and skyline) are per Lodha's Altamount page. land_type is private: the plot was bought from the US government at auction in 2012; tenure was not found. transactions_12m = 10 registered sales from Nov 2025 to Oct 2026 per Square Yards (registry dates on the page run from 16 Apr to 28 Sep 2026). Square Yards also gives the land as 1 acre, against 0.67 acres converted from the 2,702 sq m Washington House plot, which is kept. Nearest metro: mumbaimetroroute.com puts Jagannath Shankar Sheth (the Grant Road station on Line 3) 0.9 km from Antilia, which faces the tower; another page on the same site says 1.3 km, so the figure is approximate and straight-line. Distances to BKC and the airport were not found.",
   "sources": [
     "https://en.wikipedia.org/wiki/Lodha_Altamount",
     "https://www.domain-b.com/industry/Real_estate/20151126_building.html",
@@ -34,8 +34,22 @@
     "https://www.lodhagroup.com/lodha-luxury/lodha-altamount",
     "https://www.mumbaipropertyexchange.com/project/lodha-altamount-altamount-road-by-504/19221",
     "https://www.homebazaar.com/lodha-altamount-tardeo-1147",
-    "https://realestatemumbai.com/3-bhk-flat-for-sale-in-lodha-altamount-tardeo-9712555"
+    "https://realestatemumbai.com/3-bhk-flat-for-sale-in-lodha-altamount-tardeo-9712555",
+    "https://www.skyscrapercenter.com/building/lodha-altamount/16493",
+    "https://www.squareyards.com/mumbai-residential-property/lodha-altamount/26656/project",
+    "https://www.realestatemumbai.com/4-bhk-flat-in-tardeo-on-rent-in-lodha-altamount-9840177",
+    "https://rentu.in/property/9840177/4-bhk-for-rent-in-altamount-road-lodha-altamount",
+    "https://mumbaimetroroute.com/places/antilia-ambani-residence-viewpoint"
   ],
+  "architect": "Hadi Teherani (design architect); Access Architects (architect of record)",
+  "flats_per_floor": 1,
+  "lifts_per_tower": 6,
+  "views": ["sea", "city"],
+  "land_type": "private",
+  "oc_received": true,
+  "transactions_12m": 10,
+  "nearest_metro": "Jagannath Shankar Sheth / Grant Road (Metro Line 3)",
+  "nearest_metro_km": 0.9,
   "unit_types": [
     {
       "config": "3 BHK",
@@ -108,6 +122,28 @@
       "note": "Rs 38.08 crore for a 2,952 sq ft bare-shell flat on the 15th floor of A-wing (Manish Patel, MSwipe). Stamp duty Rs 2.28 crore. The building had received its OC. A broker quoted in the same story put typical rates in the building at Rs 70,000 to 1 lakh/sq ft."
     },
     {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 106100,
+      "basis": "unknown",
+      "source_name": "Square Yards (listing asking-price index, Q3 2026)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-altamount/26656/project",
+      "confidence": "low",
+      "note": "Average asking price, up 18.5% from Rs 89,500 in Jun 2026. Earlier quarters: Rs 1,00,600 (Dec 2025) and Rs 1,00,400 (Mar 2026). These are listing data."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 89500,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered-transaction summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-altamount/26656/project",
+      "confidence": "low",
+      "note": "Average registered rate across 10 transactions from Nov 2025 to Oct 2026, per Square Yards. Confidence is low because the page's registry table leaves deal values and rates blank, and the average equals Square Yards' Jun 2026 asking figure."
+    },
+    {
       "date": "2026-11-01",
       "date_precision": "month",
       "stage": "resale",
@@ -117,6 +153,32 @@
       "source_url": "https://realestatemumbai.com/3-bhk-flat-for-sale-in-lodha-altamount-tardeo-9712555",
       "confidence": "low",
       "note": "Computed from asking prices: 4 BHK of 4,600 sq ft carpet at Rs 58 Cr, and 3 BHK of 2,300 sq ft carpet at Rs 29 Cr (both work out to the same rate). These are listings, not transactions."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-09-01",
+      "config": "4 BHK",
+      "carpet_sqft": 2500,
+      "monthly_rent": 1730000,
+      "furnishing": "unfurnished",
+      "kind": "asking",
+      "source_name": "realestatemumbai.com / rentu.in listing",
+      "source_url": "https://www.realestatemumbai.com/4-bhk-flat-in-tardeo-on-rent-in-lodha-altamount-9840177",
+      "confidence": "low",
+      "note": "4 BHK, 2,500 sq ft carpet, Rs 17.3 lakh/month asking, listed Sep 2026 and no longer on the market. rentu.in shows the same listing (ID 9840177) as unfurnished with a Rs 69.2 lakh deposit. The rent is high for the area, so treat it with caution."
+    },
+    {
+      "date": "2026-10-01",
+      "config": "4 BHK",
+      "carpet_sqft": 3700,
+      "monthly_rent": 1750000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "rentu.in (Lodha Altamount building rent summary)",
+      "source_url": "https://rentu.in/property/9840177/4-bhk-for-rent-in-altamount-road-lodha-altamount",
+      "confidence": "low",
+      "note": "Median asking rent of Rs 17.5 lakh/month for 4+ BHK homes of a typical 3,700 sq ft carpet, from 7 rental offers in the 12 months to Oct 2026 (typical range Rs 17.3-19 lakh). This is a summary of asking rents; rentu notes that final rents are often a little lower."
     }
   ],
   "news": [

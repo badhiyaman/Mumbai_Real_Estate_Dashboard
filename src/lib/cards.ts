@@ -1,4 +1,14 @@
-import { configBucket, growth, latestPrice, launchYear, minTicketCr, shortName } from "./metrics";
+import {
+  configBucket,
+  growth,
+  latestPrice,
+  launchYear,
+  minTicketCr,
+  possessionLabel,
+  rentalYields,
+  shortName,
+  typicalYield,
+} from "./metrics";
 import type { Project } from "./types";
 
 /** Small, precomputed summary of a project for gallery cards and filters. */
@@ -22,11 +32,16 @@ export interface ProjectCard {
   cagr: number | null;
   growthYears: number | null;
   pricePoints: number;
+  rentYield: number | null; // median gross yield
+  views: string[];
+  possession: string | null; // "On time", "14 months late", "Due Mar 2028"
+  floors: number | null;
 }
 
 export function toCard(p: Project): ProjectCard {
   const g = growth(p.price_points);
-  const last = latestPrice(p.price_points);
+  // Use the point growth ends on, so "latest price" and "growth" on a card agree.
+  const last = g?.last ?? latestPrice(p.price_points);
   return {
     slug: p.slug,
     name: p.name,
@@ -47,5 +62,9 @@ export function toCard(p: Project): ProjectCard {
     cagr: g?.cagr ?? null,
     growthYears: g?.years ?? null,
     pricePoints: p.price_points.length,
+    rentYield: typicalYield(rentalYields(p)),
+    views: p.views ?? [],
+    possession: possessionLabel(p),
+    floors: p.floors_max,
   };
 }

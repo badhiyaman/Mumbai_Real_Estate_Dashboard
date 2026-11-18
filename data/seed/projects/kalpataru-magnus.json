@@ -1,0 +1,240 @@
+{
+  "slug": "kalpataru-magnus",
+  "name": "Kalpataru Magnus",
+  "developer": "kalpataru",
+  "micro_market": "bandra-east",
+  "address": "Near MIG Club, Gandhi Nagar, Kala Nagar, Bandra East, Mumbai 400051",
+  "lat": 19.0598,
+  "lng": 72.8516,
+  "land_acres": 2.24,
+  "towers": 3,
+  "rera_ids": ["P51800004029"],
+  "status": "under_construction",
+  "launch_date": "2018-05-28",
+  "possession_promised": "2024-06-30",
+  "amenities": [
+    "Double-height air-conditioned lobby",
+    "Clubhouse with gymnasium",
+    "Spa with steam and massage room",
+    "Swimming pool and children's pool with pool deck",
+    "Children's play area",
+    "Party hall with lawn",
+    "Multipurpose hall",
+    "Landscaped garden",
+    "Basketball court",
+    "Jogging track",
+    "Senior citizens' area",
+    "Multi-tier security",
+    "Wastewater recycling and rainwater harvesting"
+  ],
+  "description": "Three-tower (Wings A-C) luxury redevelopment on 2.24 acres in Kala Nagar, Bandra East, next to the Bandra Kurla Complex and Western Express Highway. Kalpataru launched it in May 2018 with 2, 3, 4 and 4.5 BHK homes designed by Sanjay Puri. Its saleable area is 0.52 million sq ft. In 2026 it was nearing completion, past its original MahaRERA date.",
+  "notes": "Kalpataru's IPO RHP (June 2025) lists Magnus as a 100%-owned redevelopment (development agreement) held by subsidiary Kalpataru Properties Pvt Ltd, with construction commenced 19 May 2017. The RHP gives an estimated RERA completion of 30 Jun 2025 and lists 28 MahaRERA complaints from buyers over alleged possession delays, which KPPL contests. The RHP also lists Magnus among projects that have made lifecycle losses. Square Yards' MahaRERA data: original completion 30 Jun 2024, revised to 31 Mar 2026. Construction progress in Dec 2025: external works 82%, internal finishing 78%, MEP 93%. Housiey (Nov 2026) says construction is 100% complete, and Mumbai Property Exchange says OC and possession were underway for Towers A and B. No OC date was confirmed, so status is kept as under_construction. Unit count conflicts: 250 launched units on Square Yards (178 booked by Dec 2025) vs 364 units on Mumbai Property Exchange's MahaRERA summary; total_units is omitted. Floors conflict: registrations go up to the 30th floor, listings say 26-31 floors and MahaRERA says up to 34; floors_max is omitted. A Jan 2024 plan to demerge 'Project Magnus' into Kalpataru Ltd was withdrawn on 2 Jun 2026. Housiey lists Bombay High Court writ petitions (2015, 2017), NGT appeals (2016) and a Lokayukta matter (2016) involving the project. Awards: Franchise India 'Luxury Project of the Year (West)' 2020; Asia Pacific Property Awards 2020 (redevelopment). No launch-price list was found; the earliest price is the RHP's FY22 average. Mumbai Property Exchange gives the BKC metro station 0.3 km away but Line 3 1.9 km away (straight line), so nearest_metro is omitted.",
+  "sources": [
+    "https://www.sebi.gov.in/filings/public-issues/jun-2025/kalpataru-limited-rhp_94679.html",
+    "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+    "https://business-standard.com/article/news-ani/kalpataru-launches-its-luxury-project-kalpataru-magnus-in-bandra-east-118052800622_1.html",
+    "https://www.punekarnews.in/?p=23455",
+    "https://www.squareyards.com/mumbai-residential-property/kalpataru-magnus/11344/project",
+    "https://www.mumbaipropertyexchange.com/project/kalpataru-magnus-bandra-east-by-kalpataru-limited/23759",
+    "https://housiey.com/projects/kalpataru-magnus",
+    "https://www.geosquare.in/kalpataru-withdraws-demerger-scheme-for-project-magnus-strategic-shift-explained-42120-news.html"
+  ],
+  "architect": "Sanjay Puri (concept); Burega Farnell (landscape and interiors); Jethe & Associates (architect on MahaRERA record)",
+  "flats_per_floor": 4,
+  "lifts_per_tower": 3,
+  "land_type": "redevelopment",
+  "rera_complaints": 28,
+  "units_sold": 178,
+  "units_sold_as_of": "2025-12-01",
+  "payment_plan": "Construction-linked",
+  "transactions_12m": 16,
+  "unit_types": [
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 781,
+      "carpet_sqft_max": 925,
+      "price_min_cr": 5.03,
+      "price_max_cr": 5.91,
+      "notes": "Square Yards (Rs 5.03 Cr, excluding charges) and Housiey (all-inclusive, marked sold out), Nov 2026. 37 of 41 sold by Dec 2025."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1121,
+      "carpet_sqft_max": 1321,
+      "price_min_cr": 7.21,
+      "price_max_cr": 8.75,
+      "notes": "Square Yards and Housiey asking prices, Nov 2026. 93 of 125 sold by Dec 2025."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1657,
+      "carpet_sqft_max": 1805,
+      "price_min_cr": 10.66,
+      "price_max_cr": 11.73,
+      "notes": "Square Yards and Mumbai Property Exchange, Nov 2026. 16 of 29 sold by Dec 2025."
+    },
+    {
+      "config": "4.5 BHK",
+      "carpet_sqft_min": 1800,
+      "carpet_sqft_max": 1945,
+      "price_min_cr": 11.58,
+      "price_max_cr": 15,
+      "notes": "Square Yards and Housiey asking prices; one Mumbai Property Exchange resale listing at Rs 15 Cr. 32 of 52 sold by Dec 2025."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2022-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 27105,
+      "basis": "saleable",
+      "source_name": "Kalpataru Ltd RHP (June 2025)",
+      "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "confidence": "high",
+      "note": "Company figure: average price per sq ft of saleable area over FY2022 (Apr 2021-Mar 2022); dated to the end of the period."
+    },
+    {
+      "date": "2023-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 27475,
+      "basis": "saleable",
+      "source_name": "Kalpataru Ltd RHP (June 2025)",
+      "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "confidence": "high",
+      "note": "Company figure: average over FY2023."
+    },
+    {
+      "date": "2024-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 31147,
+      "basis": "saleable",
+      "source_name": "Kalpataru Ltd RHP (June 2025)",
+      "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "confidence": "high",
+      "note": "Company figure: average over FY2024."
+    },
+    {
+      "date": "2024-12-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 31852,
+      "basis": "saleable",
+      "source_name": "Kalpataru Ltd RHP (June 2025)",
+      "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "confidence": "high",
+      "note": "Company figure: average over the nine months Apr-Dec 2024."
+    },
+    {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 66550,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-magnus/11344/project",
+      "confidence": "low",
+      "note": "Quarterly average asking price; basis inferred as carpet from the unit prices (781 sq ft at Rs 5.03 Cr = Rs 64,400)."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 62700,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-magnus/11344/project",
+      "confidence": "low",
+      "note": "Average asking price for the Sep 2026 quarter, up 1.5% QoQ. The Bandra East average was Rs 55,550. Mumbai Property Exchange estimates about Rs 68,800 (Nov 2026)."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 54150,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-magnus/11344/project",
+      "confidence": "medium",
+      "note": "Average registered rate from 16 sale registrations, Nov 2025-Oct 2026 (gross value Rs 108 Cr). Registered unit areas of 894-1,614 sq ft are below the advertised carpet areas, so the basis is unclear."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "2 BHK",
+      "carpet_sqft": 781,
+      "monthly_rent": 148000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-magnus/11344/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026. Mumbai Property Exchange shows a 781 sq ft 2 BHK at Rs 2 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1149,
+      "monthly_rent": 240000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-magnus/11344/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026."
+    },
+    {
+      "date": "2026-11-13",
+      "config": "3 BHK",
+      "carpet_sqft": 1321,
+      "monthly_rent": 300000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Mumbai Property Exchange rental listing",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/kalpataru-magnus-bandra-east-by-kalpataru-limited/23759",
+      "confidence": "low",
+      "note": "Listing seen Nov 2026."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4 BHK",
+      "carpet_sqft": 1657,
+      "monthly_rent": 380000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/kalpataru-magnus/11344/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026 (4 BHK + servant room). Mumbai Property Exchange lists the same carpet area at Rs 6 lakh."
+    }
+  ],
+  "news": [
+    {
+      "date": "2018-05-28",
+      "title": "Kalpataru launches its luxury project Kalpataru Magnus in Bandra (East)",
+      "url": "https://business-standard.com/article/news-ani/kalpataru-launches-its-luxury-project-kalpataru-magnus-in-bandra-east-118052800622_1.html",
+      "source": "Business Standard (ANI)",
+      "event_type": "launch",
+      "summary": "Kalpataru launched 2, 3, 4 and 4.5 BHK homes at Kala Nagar near BKC and the proposed Metro Line 3 BKC station, designed by Sanjay Puri with landscape and interiors by Burega Farnell."
+    },
+    {
+      "date": "2025-06-19",
+      "title": "Kalpataru RHP lists 28 MahaRERA complaints over Magnus possession delays",
+      "url": "https://www.sebi.gov.in/filings/public-issues/jun-2025/kalpataru-limited-rhp_94679.html",
+      "source": "Kalpataru Ltd RHP (SEBI)",
+      "event_type": "rera",
+      "summary": "28 complaints by Magnus buyers sought refunds or interest for alleged possession delays, which the developer contests. The RHP gives an estimated RERA completion of 30 Jun 2025."
+    },
+    {
+      "date": "2026-06-02",
+      "title": "Kalpataru withdraws demerger scheme for Project Magnus",
+      "url": "https://www.geosquare.in/kalpataru-withdraws-demerger-scheme-for-project-magnus-strategic-shift-explained-42120-news.html",
+      "source": "Geosquare",
+      "event_type": "other",
+      "summary": "Kalpataru withdrew the Jan 2024 scheme to demerge Magnus from its subsidiary Kalpataru Properties into the parent, saying the benefits were 'no longer relevant'. The scheme had been filed with NCLT in Sep 2024."
+    }
+  ]
+}

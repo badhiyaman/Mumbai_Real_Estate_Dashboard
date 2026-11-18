@@ -1,0 +1,267 @@
+{
+  "slug": "oberoi-springs",
+  "name": "Oberoi Springs",
+  "developer": "oberoi-realty",
+  "micro_market": "andheri-west",
+  "address": "Off New Link Road, near Citi Mall, Oshiwara, Andheri West, Mumbai 400053",
+  "lat": 19.143,
+  "lng": 72.8325,
+  "land_acres": 6.97,
+  "towers": 3,
+  "floors_max": 35,
+  "total_units": 645,
+  "rera_ids": [],
+  "status": "completed",
+  "possession_promised": "2010-03-01",
+  "possession_actual": "2009-10-01",
+  "amenities": [
+    "Double-height entrance lobby",
+    "Clubhouse",
+    "Gymnasium",
+    "Aerobics centre",
+    "Yoga room",
+    "Swimming pool",
+    "Tennis court",
+    "Jacuzzi",
+    "Indoor and outdoor children's play areas",
+    "Landscaped gardens"
+  ],
+  "description": "Three 35-storey towers with 645 apartments on about 7 acres off New Link Road in Oshiwara, Andheri West, built by Oberoi Realty's subsidiary with Larsen & Toubro as civil contractor. Construction started in November 2005 and the occupation certificate came in October 2009. Homes run from 2.5 BHK (about 850 sq ft carpet) to large 4-5 BHK units, and several film personalities live there.",
+  "notes": "Per Oberoi Realty's Jan 2010 DRHP: development rights over 6.83 acres were acquired in Feb 2005 from Excel Industries (3.61 acres) and the Shroff Family Charitable Trust (3.22 acres), plus 0.14 acres bought from Oshiwara Land Development Co in Apr 2005, for Rs 31.72 crore in total. The DRHP gives a saleable area of 643,065 sq ft, 620 of 645 units sold by 30 Sep 2009, construction from Nov 2005, OC in Oct 2009, and a target market of the 'upper middle income segment'. A buyer's July 2009 notice claimed possession was due from 1 Jul 2008, so handover may have run late against some agreements. Conflicts: Square Yards gives 16.49 acres and 630 units, and listings give 17 acres; DRHP figures are used here. Mumbai Property Exchange says 36 storeys and Square Yards 'up to 22', while the DRHP says 35. No launch date was found: Mumbai Property Exchange's earliest price record is Apr 2005 and the name 'Oberoi Springs' dates from Oct 2005. Hema Malini's Aug 2025 sale works out to Rs 73,790/sq ft on 847 sq ft carpet, or Rs 61,455 on 1,017 sq ft built-up. That is well above Square Yards' 12-month registered average of Rs 42,200 and asking average of about Rs 46,000, so per-flat premiums (high floor, views) may explain the gap. The 2005-2007 rates (Rs 5,250, 7,750, 11,756) come from Mumbai Property Exchange's historical series and are unverified. Mumbai Property Exchange gives the Metro 2A/2B Yellow Line 1.7 km away and the under-construction Line 6 0.5 km away (straight line).",
+  "sources": [
+    "https://www.sebi.gov.in/sebi_data/attachdocs/1294984013064.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar11.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar12.pdf",
+    "https://www.mumbaipropertyexchange.com/project/oberoi-springs-andheri-west-by-oberoi-realty-ltd/1321",
+    "https://www.squareyards.com/mumbai-residential-property/oberoi-springs/27853/project",
+    "https://realtynmore.com/hema-malini-sells-2-apartments-for-%E2%82%B912-50-cr-in-mumbai/",
+    "https://propnewstime.com/latestnewsstories/NTU5MA==/bollywood-star-mrunal-thakur-purchases-luxury-apartment-in-oberoi-springs-for-inr-10-crore"
+  ],
+  "contractor": "Larsen & Toubro",
+  "land_type": "private",
+  "jv_partner": "Development rights from Excel Industries Ltd and Shroff Family Charitable Trust (Feb 2005)",
+  "oc_received": true,
+  "oc_date": "2009-10-01",
+  "units_sold": 620,
+  "units_sold_as_of": "2009-09-30",
+  "transactions_12m": 7,
+  "nearest_metro": "Metro Line 2A/2B (Yellow Line) on New Link Road",
+  "nearest_metro_km": 1.7,
+  "unit_types": [
+    {
+      "config": "2.5 BHK",
+      "carpet_sqft_min": 847,
+      "carpet_sqft_max": 1000,
+      "price_min_cr": 5.0,
+      "price_max_cr": 6.25,
+      "notes": "Rs 5 Cr per flat in Feb 2024 (Mrunal Thakur deal) and Rs 6.25 Cr per flat in Aug 2025 (Hema Malini deal, 847 sq ft carpet / 1,017 built-up). Mumbai Property Exchange lists a 1,000 sq ft 2.5 BHK at Rs 5.20 Cr."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1800,
+      "carpet_sqft_max": 1900,
+      "price_min_cr": 14.5,
+      "price_max_cr": 14.5,
+      "notes": "One Mumbai Property Exchange resale listing (1,900 sq ft, area basis not stated), Nov 2026."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 2000,
+      "carpet_sqft_max": 2089,
+      "price_min_cr": 9.5,
+      "price_max_cr": 11.45,
+      "notes": "Square Yards resale listings, Nov 2026 (2,000 sq ft carpet at Rs 9.5-11 Cr; a 2,089 sq ft carpet unit at Rs 11.45 Cr)."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2005-01-01",
+      "date_precision": "year",
+      "stage": "launch",
+      "price_psf": 5250,
+      "basis": "unknown",
+      "source_name": "Mumbai Property Exchange historical rates",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/oberoi-springs-andheri-west-by-oberoi-realty-ltd/1321",
+      "confidence": "low",
+      "note": "Historical project rate shown by the portal; it is not a dated transaction or price list."
+    },
+    {
+      "date": "2006-01-01",
+      "date_precision": "year",
+      "stage": "under_construction",
+      "price_psf": 7750,
+      "basis": "unknown",
+      "source_name": "Mumbai Property Exchange historical rates",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/oberoi-springs-andheri-west-by-oberoi-realty-ltd/1321",
+      "confidence": "low"
+    },
+    {
+      "date": "2007-01-01",
+      "date_precision": "year",
+      "stage": "under_construction",
+      "price_psf": 11756,
+      "basis": "unknown",
+      "source_name": "Mumbai Property Exchange historical rates",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/oberoi-springs-andheri-west-by-oberoi-realty-ltd/1321",
+      "confidence": "low"
+    },
+    {
+      "date": "2011-03-31",
+      "date_precision": "day",
+      "stage": "completion",
+      "price_psf": 24920,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY11",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar11.pdf",
+      "confidence": "high",
+      "note": "Company 'base price of last transaction' for completed projects, footnoted as calculated on built-up area. Only 5,982 sq ft was left in inventory."
+    },
+    {
+      "date": "2012-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 25019,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY12",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar12.pdf",
+      "confidence": "high",
+      "note": "Company average price for Q4 FY12 (4,985 sq ft, 5 units, Rs 12.47 crore), the project's final inventory. Built-up basis, as footnoted for Springs in the FY11 presentation. Lifetime sales: 643,065 sq ft for Rs 687.73 crore (about Rs 10,695/sq ft on average)."
+    },
+    {
+      "date": "2024-02-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 49652,
+      "basis": "unknown",
+      "source_name": "Propnewstime (Zapkey-accessed documents)",
+      "source_url": "https://propnewstime.com/latestnewsstories/NTU5MA==/bollywood-star-mrunal-thakur-purchases-luxury-apartment-in-oberoi-springs-for-inr-10-crore",
+      "confidence": "high",
+      "note": "Computed: Rs 10 Cr ÷ 2,014 sq ft for two adjoining flats (1,017 and 997 sq ft, Rs 5 Cr each) bought by Mrunal Thakur. The area type isn't stated; 1,017 sq ft matches the built-up area of an 847 sq ft carpet unit. Month approximate (article updated 29 Feb 2024)."
+    },
+    {
+      "date": "2025-08-29",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 61455,
+      "basis": "saleable",
+      "source_name": "Realty n More (Square Yards / IGR documents)",
+      "source_url": "https://realtynmore.com/hema-malini-sells-2-apartments-for-%E2%82%B912-50-cr-in-mumbai/",
+      "confidence": "high",
+      "note": "Computed: Rs 6.25 Cr ÷ 1,017 sq ft built-up per flat (two identical 31st-floor flats, Rs 12.5 Cr in total). On 847 sq ft carpet it is Rs 73,790/sq ft. Registration date per other reports; this article says only 'August'."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 45950,
+      "basis": "unknown",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-springs/27853/project",
+      "confidence": "low",
+      "note": "Average asking price for the Sep 2026 quarter (Dec 2025: Rs 45,750). The Andheri West average was Rs 42,050."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 42200,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-springs/27853/project",
+      "confidence": "medium",
+      "note": "Average registered rate from 7 sale registrations, Nov 2025-Oct 2026 (gross value Rs 21 Cr); registered unit areas were 847-997 sq ft."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK + study",
+      "carpet_sqft": 1000,
+      "monthly_rent": 175000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-springs/27853/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026. Other 1,000 sq ft carpet listings ask Rs 1.41-1.70 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "2.5 BHK",
+      "carpet_sqft": 950,
+      "monthly_rent": 280000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-springs/27853/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026. It is high for the size: Rentu's 12-month median for 2 BHK is Rs 1.8 lakh."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4 BHK",
+      "carpet_sqft": 1800,
+      "monthly_rent": 410000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/oberoi-springs/27853/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026."
+    },
+    {
+      "date": "2026-11-13",
+      "config": "5 BHK",
+      "carpet_sqft": 2000,
+      "monthly_rent": 450000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Mumbai Property Exchange rental listing",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/oberoi-springs-andheri-west-by-oberoi-realty-ltd/1321",
+      "confidence": "low",
+      "note": "Listing seen Nov 2026; the area basis isn't stated. Square Yards shows a 2,000 sq ft carpet 5 BHK at Rs 3.51 lakh."
+    }
+  ],
+  "news": [
+    {
+      "date": "2005-02-10",
+      "title": "Oberoi acquires development rights for Oberoi Springs land from Excel Industries and Shroff Family Charitable Trust",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1294984013064.pdf",
+      "source": "Oberoi Realty DRHP (SEBI)",
+      "event_type": "other",
+      "summary": "Development agreements covering 6.83 of the 6.97 acres were signed on 10 Feb 2005 for Rs 31.71 crore; the remaining 0.14 acres was bought in Apr 2005."
+    },
+    {
+      "date": "2009-07-28",
+      "title": "Buyer notice alleges delayed possession at Oberoi Springs (disclosed in DRHP)",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1294984013064.pdf",
+      "source": "Oberoi Realty DRHP (SEBI)",
+      "event_type": "delay",
+      "summary": "A buyer claimed Rs 2.2 million plus 24% interest from 1 Jul 2008 for delayed handover. Oberoi denied the allegations, and no proceedings had started."
+    },
+    {
+      "date": "2009-10-01",
+      "title": "Oberoi Springs receives occupation certificate",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1294984013064.pdf",
+      "source": "Oberoi Realty DRHP (SEBI)",
+      "event_type": "possession",
+      "summary": "Oberoi's IPO filing says the three-tower, 645-unit project received its OC in October 2009, with 620 units sold."
+    },
+    {
+      "date": "2024-02-29",
+      "title": "Bollywood star Mrunal Thakur purchases luxury apartment in Oberoi Springs for INR 10 crore",
+      "url": "https://propnewstime.com/latestnewsstories/NTU5MA==/bollywood-star-mrunal-thakur-purchases-luxury-apartment-in-oberoi-springs-for-inr-10-crore",
+      "source": "Propnewstime",
+      "event_type": "deal",
+      "summary": "Mrunal Thakur and her father bought two adjoining flats from Kangana Ranaut's brother and father for Rs 5 Cr each (Zapkey documents)."
+    },
+    {
+      "date": "2025-09-01",
+      "title": "Hema Malini sells 2 apartments for Rs 12.50 cr in Mumbai",
+      "url": "https://realtynmore.com/hema-malini-sells-2-apartments-for-%E2%82%B912-50-cr-in-mumbai/",
+      "source": "Realty n More",
+      "event_type": "deal",
+      "summary": "Two 31st-floor flats of 847 sq ft carpet each sold for Rs 6.25 Cr each, registered in Aug 2025 (IGR documents via Square Yards)."
+    }
+  ]
+}

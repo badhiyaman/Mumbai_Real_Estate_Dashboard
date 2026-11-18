@@ -1,0 +1,207 @@
+{
+  "slug": "indiabulls-sky-forest",
+  "name": "Indiabulls Sky Forest",
+  "developer": "indiabulls-real-estate",
+  "micro_market": "lower-parel",
+  "address": "Jupiter 841 (CTS 841), Senapati Bapat Marg, Elphinstone Road (West), Lower Parel, Mumbai 400013",
+  "lat": 19.00747,
+  "lng": 72.832769,
+  "towers": 2,
+  "floors_max": 51,
+  "total_units": 438,
+  "rera_ids": ["P51900000467", "P51900000616"],
+  "status": "completed",
+  "launch_date": "2013-03-01",
+  "possession_promised": "2018-12-31",
+  "amenities": [
+    "Clubhouse",
+    "Swimming pool",
+    "Gymnasium and health club",
+    "Spa",
+    "Badminton and tennis courts",
+    "Basketball",
+    "Jogging / cycle track",
+    "Kids' play area",
+    "Landscaped garden",
+    "Cafe, library / reading room and conference room",
+    "Multi-level parking",
+    "High-speed elevators"
+  ],
+  "description": "Two high-rise residential towers (A2 and A3), about 210-220 m and 51-52 storeys, on Senapati Bapat Marg at Elphinstone Road, Lower Parel. They were built by Indiabulls Properties Pvt Ltd (later Sky Forest Projects Pvt Ltd) and designed by Anupam De & Associates. The 438 apartments range from 2 BHK to 6 BHK with Italian marble flooring. Construction began around 2010 and bookings date from 2013. Deliveries slipped from a promised Dec 2018 to an OC in Nov 2023. Indiabulls Real Estate (now Embassy Developments) bought full ownership of the project company from Blackstone in 2024.",
+  "notes": "Ownership: the 'Sky projects' (Sky and Sky Forest) sat in IPPL (Indiabulls Properties Pvt Ltd), owned by third parties, with IBREL holding a right to buy it (IBREL investor updates, 2022-23). IBREL had an obligation of about Rs 644 crore to buy SFPPL from Blackstone Real Estate Fund, and Indiabulls Constructions completed the purchase of 100% on 30 Apr 2024 at an enterprise value of about Rs 646.71 crore. Delivery: buyer agreements promised possession by 31 Dec 2018, with a grace period to 30 Sep 2019. MahaRERA completion dates are 30 Sep 2023 (A3; A2 originally 30 Sep 2019, revised 30 Mar 2023). A part OC was issued on 20 Apr 2022 (MahaREAT case), and Embassy says Towers A2 and A3 received OC in Nov 2023 (day not given). The developer blamed MCGM's slow takeover of parking and Covid-19. Payment plan: buyers in the MahaREAT case paid about 20% upfront under a subvention scheme while the developer serviced pre-EMIs. Units: MahaRERA lists 219 per tower; A3 had 213 booked (GeoSquare, verified Sep 2026) and A2 196 sold (PropScience, undated), so units_sold is left out. Land area conflicts: Embassy gives 4.4 acres / 1.6 msf, PropScience 2.50 acres, Square Yards 1.31 acres, and the A3 MahaRERA plot is 2,631.71 sq m, so land_acres is left out. Floors: 51 (CTBUH, completed 2023), 52 (Wikipedia list, 2021) and 50 (Rentu). A3 MahaRERA carpet areas: 2 BHK 88-91 sq m (947-984 sq ft), 3 BHK 95-119 sq m (1,026-1,279 sq ft), 3.5 BHK 125 sq m, 4 BHK 148-151 sq m (1,597-1,623 sq ft), 5 BHK 260-289 sq m (2,797-3,105 sq ft), 6 BHK 337-353 sq m (3,631-3,804 sq ft). Portals quote much larger 'saleable' areas (3 BHK 2,908-3,668 sq ft), which implies very high loading, and many rental listings label these saleable figures as carpet. Price basis: the developer's average sales prices (Rs 16,000-21,000/sq ft in FY23-FY24) are per sq ft of area sold, probably saleable area, while portal and registered averages (about Rs 45,000-53,000) look like carpet. They should not be compared directly. Do not confuse with Indiabulls Sky (a separate 48-storey tower nearby, launched in 2009), where Zaheer Khan bought a flat in Feb 2025. Gross yield was not computed, because rent listings and sale prices use incompatible area bases. As a rough check, a Rs 4 lakh/month 3 BHK against a Rs 7.65 crore asking price is about 6.3%, which looks implausibly high.",
+  "sources": [
+    "https://www.squareyards.com/mumbai-residential-property/indiabulls-sky-forest/3151/project",
+    "https://www.geosquare.in/indiabulls-sky-forest-a3-mahalaxmi-mumbai-real-estate-project/",
+    "https://www.propscience.com/building_flat/UDUxOTAwMDAwNDY3/Mumbai-City/South-Mumbai/Lower-Parel/Senapati-Bapat-Marg/Indiabulls-Sky-Forest---A2",
+    "https://www.skyscrapercenter.com/mumbai/indiabulls-sky-forest/10735/",
+    "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Mumbai",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/258598ca-15ec-4794-971d-dc626b34f6c7.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8c1ee4cb-c023-4d22-8d05-f72ff722b16d.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3011d39e-5295-497e-88c5-e9fabd494e34.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e63510a7-c8c5-485f-b9d8-302791c8d279.pdf",
+    "https://propnewstime.com/latestnewsstories/NjgzNA==/indiabulls-real-estate-obtains-sky-forest-projects-for-inr-646-71-crore-in-mumbai",
+    "https://squarefeatindia.com/indiabulls-sky-forest-case-landmark-rera-ruling-orders-developer-to-issue-full-refunds-with-interest/",
+    "https://realtynmore.com/embassy-developments-delivers-six-long-stalled-legacy-projects-to-3000-families/",
+    "https://www.rentu.in/property/9728939/3-bhk-for-lease-in-senapati-bapat-marg-indiabulls-sky-forest"
+  ],
+  "architect": "Anupam De & Associates",
+  "views": ["city", "sea"],
+  "jv_partner": "Blackstone Real Estate Fund (owned the project company SFPPL until Indiabulls bought it in Apr 2024)",
+  "oc_received": true,
+  "oc_date": "2023-11-01",
+  "payment_plan": "Subvention scheme for some buyers (about 20% paid upfront, developer serviced pre-EMIs), per a MahaREAT case",
+  "unit_types": [
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 947,
+      "carpet_sqft_max": 984,
+      "notes": "MahaRERA carpet for Tower A3 (87.95-91.41 sq m)."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1026,
+      "carpet_sqft_max": 1279,
+      "price_min_cr": 7.65,
+      "price_max_cr": 9.65,
+      "notes": "Carpet from MahaRERA for A3 (95.36-118.79 sq m). Prices are Square Yards asking prices (Sep 2026) for 2,908-3,668 sq ft saleable units."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1597,
+      "carpet_sqft_max": 1623,
+      "price_min_cr": 8.88,
+      "price_max_cr": 11.32,
+      "notes": "Carpet from MahaRERA for A3 (148.35-150.79 sq m). Prices are Square Yards asking prices for 3,374-4,301 sq ft saleable units."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 2797,
+      "carpet_sqft_max": 3105,
+      "notes": "MahaRERA carpet for A3 (259.86-288.51 sq m)."
+    },
+    {
+      "config": "6 BHK",
+      "carpet_sqft_min": 3631,
+      "carpet_sqft_max": 3804,
+      "notes": "MahaRERA carpet for A3 (337.32-353.4 sq m). PropScience gives a project price range of Rs 4.43-30 crore."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2022-06-30",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 16784,
+      "basis": "saleable",
+      "source_name": "Indiabulls Real Estate Q1 FY2023 earnings update (BSE filing, 12 Aug 2022)",
+      "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/258598ca-15ec-4794-971d-dc626b34f6c7.pdf",
+      "confidence": "high",
+      "note": "Developer-reported average sales price, averaged over the six months to 30 Jun 2022, with 0.09 msf sold and Rs 152 crore of quarterly pre-sales. The PDF text is misaligned, so I matched the row by checking that area x ASP = pre-sales. The saleable basis is inferred from the 'Area Sold' column."
+    },
+    {
+      "date": "2023-03-31",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 16369,
+      "basis": "saleable",
+      "source_name": "Indiabulls Real Estate Q4/FY2023 earnings update (BSE filing, 30 May 2023)",
+      "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3011d39e-5295-497e-88c5-e9fabd494e34.pdf",
+      "confidence": "high",
+      "note": "Developer average sales price for FY2023 (Apr 2022 to Mar 2023), with 0.27 msf sold and Rs 450 crore of pre-sales. Q4 FY2023 alone was Rs 16,211 (0.05 msf, Rs 82 crore), and H1 FY2023 was Rs 15,999 (Nov 2022 update). The row was matched by the same area x ASP check."
+    },
+    {
+      "date": "2024-03-31",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 21128,
+      "basis": "saleable",
+      "source_name": "Indiabulls Real Estate Q4/FY2024 earnings update (BSE filing, 26 Apr 2024)",
+      "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e63510a7-c8c5-485f-b9d8-302791c8d279.pdf",
+      "confidence": "high",
+      "note": "Developer average sales price for Q4 FY2024 (Jan to Mar 2024), with 21,000 sq ft sold and Rs 44 crore of pre-sales; this was after the Nov 2023 OC. The full FY2024 figure was Rs 18,534/sq ft (79,000 sq ft, Rs 146 crore)."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 49600,
+      "basis": "unknown",
+      "source_name": "Square Yards (average asking price)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/indiabulls-sky-forest/3151/project",
+      "confidence": "low",
+      "note": "Listing average for Sep 2026, compared with Rs 54,100 for Lower Parel. Earlier quarters were Rs 44,650 (Dec 2025), Rs 51,400 (Mar 2026) and Rs 47,900 (Jun 2026). The same page's header shows Rs 40,243, and its unit asking prices work out to about Rs 26,300 per saleable sq ft, so the basis is inconsistent."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 52650,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/indiabulls-sky-forest/3151/project",
+      "confidence": "medium",
+      "note": "Average registered rate of 9 sales from Nov 2025 to Oct 2026 (about Rs 61 crore). The registered areas were 1,026-2,153 sq ft, which matches MahaRERA carpet sizes, so the rate is probably per carpet sq ft."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-10-01",
+      "config": "2 BHK",
+      "monthly_rent": 362500,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Rentu (building median asking rent)",
+      "source_url": "https://www.rentu.in/property/9728939/3-bhk-for-lease-in-senapati-bapat-marg-indiabulls-sky-forest",
+      "confidence": "low",
+      "note": "Median of listings, with a typical range of Rs 2.76-4.0 lakh. Rentu gives a 'typical carpet' of 1,065 sq ft, larger than the MahaRERA 2 BHK carpet (947-984 sq ft), so carpet_sqft is left out."
+    },
+    {
+      "date": "2026-10-01",
+      "config": "3 BHK",
+      "monthly_rent": 400000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Rentu (building median asking rent)",
+      "source_url": "https://www.rentu.in/property/9728939/3-bhk-for-lease-in-senapati-bapat-marg-indiabulls-sky-forest",
+      "confidence": "low",
+      "note": "Median 3 BHK asking rent for Oct 2026, with a typical range of Rs 3.75-4.25 lakh. The median was Rs 4 lakh in Apr 2025 and Rs 3.5 lakh in Apr 2026. Rentu's 'typical carpet' of 2,045 sq ft is probably saleable area."
+    },
+    {
+      "date": "2026-10-01",
+      "config": "4+ BHK",
+      "monthly_rent": 650000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Rentu (building median asking rent)",
+      "source_url": "https://www.rentu.in/property/9728939/3-bhk-for-lease-in-senapati-bapat-marg-indiabulls-sky-forest",
+      "confidence": "low",
+      "note": "Median, with a typical range of Rs 6-7 lakh and a listed typical area of 2,800 sq ft. Some furnished 4 BHK listings ask up to Rs 14 lakh (RealEstateMumbai)."
+    }
+  ],
+  "news": [
+    {
+      "date": "2024-05-07",
+      "title": "Indiabulls Real Estate obtains Sky Forest Projects for INR 646.71 crore in Mumbai",
+      "url": "https://propnewstime.com/latestnewsstories/NjgzNA==/indiabulls-real-estate-obtains-sky-forest-projects-for-inr-646-71-crore-in-mumbai",
+      "source": "PropNewsTime",
+      "event_type": "deal",
+      "summary": "Indiabulls Constructions acquired 100% of Sky Forest Projects Pvt Ltd, which owns the Lower Parel project, at an enterprise value of about Rs 646.71 crore. Other reports name Blackstone as the seller and give the completion date as 30 Apr 2024."
+    },
+    {
+      "date": "2025-08-01",
+      "title": "Indiabulls Sky Forest Case: Landmark RERA Ruling Orders Developer to Issue Full Refunds with Interest",
+      "url": "https://squarefeatindia.com/indiabulls-sky-forest-case-landmark-rera-ruling-orders-developer-to-issue-full-refunds-with-interest/",
+      "source": "SquareFeatIndia",
+      "event_type": "litigation",
+      "summary": "MahaREAT ordered Indiabulls Properties to refund buyers of an A3 flat (bought in 2015, promised by Dec 2018) with interest at SBI MCLR + 2%, despite a part OC of 20 Apr 2022. The article and order dates are not shown; Aug 2025 is approximate, inferred from the order's 1 Sep 2025 compliance clause."
+    },
+    {
+      "date": "2025-10-07",
+      "title": "Embassy Developments delivers six long-stalled legacy projects to 3,000 families",
+      "url": "https://realtynmore.com/embassy-developments-delivers-six-long-stalled-legacy-projects-to-3000-families/",
+      "source": "Realty n More",
+      "event_type": "possession",
+      "summary": "Embassy says The Sky Forest (4.4 acres, 1.6 msf, 438 residences) received OC for Towers A2 and A3 in Nov 2023, and that handovers are largely complete."
+    }
+  ]
+}

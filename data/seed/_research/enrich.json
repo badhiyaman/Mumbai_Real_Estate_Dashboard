@@ -1,0 +1,77 @@
+{
+  "developers": [],
+  "micro_markets": [
+    {
+      "slug": "worli",
+      "name": "Worli",
+      "region": "South Central Mumbai",
+      "catalysts": [],
+      "typical_rent_yield_pct": 4.85,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/worli-mumbai",
+      "notes": "Square Yards property-rates page, Sep 2026: average asking price Rs 66,300/sq ft and average rent Rs 268/sq ft a month, which gives a gross yield of 4.85%. Square Yards' Worli overview page (https://www.squareyards.com/worli-in-mumbai-overview-911) also gives 3.89% in its text without stating a date or method. These are listing-based (asking) figures."
+    },
+    {
+      "slug": "lower-parel",
+      "name": "Lower Parel",
+      "region": "South Central Mumbai",
+      "catalysts": [],
+      "typical_rent_yield_pct": 4.29,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/lower-parel-mumbai",
+      "notes": "Square Yards property-rates page, Sep 2026: average asking price Rs 53,450/sq ft and average rent Rs 191/sq ft a month, giving a 4.29% gross yield. The same page's rental-trends section gives Rs 200/sq ft for apartments. These are listing-based (asking) figures."
+    },
+    {
+      "slug": "mahalaxmi",
+      "name": "Mahalaxmi",
+      "region": "South Mumbai",
+      "catalysts": [],
+      "typical_rent_yield_pct": 4.3,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/mahalaxmi-mumbai",
+      "notes": "Square Yards property-rates page, Sep 2026: average asking price Rs 62,000/sq ft and average rent Rs 222/sq ft a month, giving a 4.30% gross yield. These are listing-based (asking) figures."
+    },
+    {
+      "slug": "altamount-road",
+      "name": "Altamount Road",
+      "region": "South Mumbai",
+      "catalysts": [],
+      "typical_rent_yield_pct": 4.39,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/cumbala-hill-mumbai",
+      "notes": "No yield is published for Altamount Road itself. The 4.39% figure is for the surrounding Cumballa Hill locality: Square Yards, Sep 2026, average asking price Rs 65,900/sq ft and rent Rs 241/sq ft a month. The same page lists Altamount Road separately at an asking price of Rs 1,35,400/sq ft and a rent of Rs 200/sq ft a month. Computed: that implies a gross yield of only about 1.8% for Altamount Road listings, so the locality figure likely overstates yields on this street."
+    },
+    {
+      "slug": "prabhadevi",
+      "name": "Prabhadevi",
+      "region": "Central South Mumbai",
+      "catalysts": [],
+      "typical_rent_yield_pct": 3.91,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/prabhadevi-mumbai",
+      "notes": "Square Yards property-rates page, Sep 2026: average asking price Rs 67,900/sq ft and average rent Rs 221/sq ft a month, giving a 3.91% gross yield. These are listing-based (asking) figures."
+    },
+    {
+      "slug": "parel",
+      "name": "Parel",
+      "region": "Central Mumbai (Lower Parel / Parel)",
+      "catalysts": [],
+      "typical_rent_yield_pct": 4.42,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/parel-mumbai",
+      "notes": "Square Yards property-rates page, Sep 2026: average asking price Rs 45,650/sq ft and average rent Rs 168/sq ft a month, giving a 4.42% gross yield. These are listing-based (asking) figures."
+    },
+    {
+      "slug": "goregaon-east",
+      "name": "Goregaon East",
+      "region": "Western Suburbs",
+      "catalysts": [],
+      "typical_rent_yield_pct": 3.62,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/goregaon-east-mumbai",
+      "notes": "Square Yards property-rates page, Sep 2026: average asking price Rs 35,500/sq ft and average rent Rs 107/sq ft a month, giving a 3.62% gross yield. The existing micro-market note cites about Rs 32,800/sq ft from Square Yards for the same month; the two Square Yards figures differ. These are listing-based (asking) figures."
+    },
+    {
+      "slug": "malabar-hill",
+      "name": "Malabar Hill / Walkeshwar",
+      "region": "South Mumbai",
+      "catalysts": [],
+      "typical_rent_yield_pct": 3.51,
+      "rent_yield_source_url": "https://www.squareyards.com/property-rates/malabar-hill-mumbai",
+      "notes": "Square Yards property-rates page, Sep 2026: average asking price Rs 85,200/sq ft and average rent Rs 249/sq ft a month, giving a 3.51% gross yield. The page's price-trend section dates the Rs 85,200 figure to June 2026 instead. These are listing-based (asking) figures for Malabar Hill only, not Walkeshwar."
+    }
+  ]
+}

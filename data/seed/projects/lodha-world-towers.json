@@ -31,7 +31,7 @@
   ],
   "description": "A three-tower luxury complex of World One, World View and World Crest on the former Shrinivas Mills site in Lower Parel. Lodha announced it in June 2010 with World One billed as the world's tallest residential tower at 117 storeys. Aviation-height limits later capped World One at 280 m and 76 floors. The towers hold 3, 4 and 5 bedroom residences, and the interiors were designed by Giorgio Armani.",
   "image_url": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_1903X800_0.webp",
-  "notes": "Towers: World One (76 floors, 280.2 m), World View (73 floors), World Crest (57 floors), per Wikipedia and CTBUH. Land: 17 acres per Lodha's website and MahaRERA filings, which say 17.00 acres for both phases. Housing.com says 7 acres, which matches only the landscaped area. Total units are not stated because sources disagree: the MahaRERA phases show 61 units (P51900008345, World One Tier II) and 369 units (P51900008962, World One Tier III and Trinity), Square Yards says 445 units, and Dwello says 384. Possession dates: DNA (2018) reports buyers were told the project would be delivered in 2015, and the 2014 Lodha statement said completion was expected in 2016. The MahaRERA completion dates were 31 Dec 2017, revised to 30 Sep 2018 for Tier II (Square Yards also cites a later revision to 25 Feb 2020), and 30 Jun 2021 for Tier III and Trinity. possession_promised (2015) and possession_actual (2020) are year-only dates. The 2020 completion of World One is from Wikipedia and CTBUH. One MahaRERA complaint says an OC for some World One flats was obtained in July 2017, and a consumer complaint cites a Lodha letter of 24 May 2019 claiming the OC was received. Litigation: buyers (mostly corporates) moved MahaRERA in 2018, alleging the 117-storey marketing was misleading because the AAI cleared only about 285 m. Funding: HDFC Property Fund invested Rs 500 crore in 2010 for about 10% and exited in October 2016 for about Rs 1,500 crore. Piramal Fund committed Rs 2,320 crore in 2016. Notable buyers: Amrita Puri and parents (Rs 37 crore, 2025) and Nitin and Neil Nitin Mukesh (Rs 11.35 crore, 2025).",
+  "notes": "Towers: World One (76 floors, 280.2 m), World View (73 floors), World Crest (57 floors), per Wikipedia and CTBUH. Land: 17 acres per Lodha's website and MahaRERA filings, which say 17.00 acres for both phases. Housing.com says 7 acres, which matches only the landscaped area. Total units are not stated because sources disagree: the MahaRERA phases show 61 units (P51900008345, World One Tier II) and 369 units (P51900008962, World One Tier III and Trinity), Square Yards says 445 units, and Dwello says 384. Possession dates: DNA (2018) reports buyers were told the project would be delivered in 2015, and the 2014 Lodha statement said completion was expected in 2016. The MahaRERA completion dates were 31 Dec 2017, revised to 30 Sep 2018 for Tier II (Square Yards also cites a later revision to 25 Feb 2020), and 30 Jun 2021 for Tier III and Trinity. possession_promised (2015) and possession_actual (2020) are year-only dates. The 2020 completion of World One is from Wikipedia and CTBUH. One MahaRERA complaint says an OC for some World One flats was obtained in July 2017, and a consumer complaint cites a Lodha letter of 24 May 2019 claiming the OC was received. Litigation: buyers (mostly corporates) moved MahaRERA in 2018, alleging the 117-storey marketing was misleading because the AAI cleared only about 285 m. Funding: HDFC Property Fund invested Rs 500 crore in 2010 for about 10% and exited in October 2016 for about Rs 1,500 crore. Piramal Fund committed Rs 2,320 crore in 2016. Notable buyers: Amrita Puri and parents (Rs 37 crore, 2025) and Nitin and Neil Nitin Mukesh (Rs 11.35 crore, 2025). Enrichment (Nov 2026): Architect, structural engineer (LERA), landscape designer (Ken Smith) and Armani/Casa interiors are per Lodha's World Towers and World One pages. Contractors are per Wikipedia (World One): Arabian Construction Co. and Simplex built World One, and Muscovite Group built World View and World Crest. flats_per_floor = 2 is World One ('only two residences on each landing', Lodha). lifts_per_tower = 18 is the elevator count Wikipedia gives for World One only. Views: Lodha describes panoramic city views and a tower rising above the city and the Arabian Sea; the estate borders Mahalaxmi Race Course, but a racecourse view is not stated, so it is left out. land_type is mill_land because the project sits on the former Shrinivas Mills site; tenure was not found. oc_received is set to true because the towers are occupied and marketed as ready (Lodha 'Status: Ready'; Square Yards 'Ready to Move'), and earlier complaints cite a July 2017 OC for some World One flats; no consolidated OC date was found, so oc_date is left out. units_sold (298) is computed from Square Yards' MahaRERA summary (Nov 2025): 240 of 249 launched units booked in the Tier III and Trinity phase (3 BHK 141 of 147, 4 BHK 99 of 102) plus 58 of 61 '4 BHK villa' units in Tier II. Square Yards notes the Nov 2025 and Jul 2024 figures are identical, so they may be stale. transactions_12m = 10 registered sales (about Rs 157 crore) from Nov 2025 to Oct 2026, per Square Yards' IGR summary for World One. Nearest metro: mumbaimetroroute.com lists Science Museum (Line 3) at 0.9 km, Worli and Siddhivinayak at 1.1 km and Acharya Atre Chowk at 1.7 km; these look like straight-line distances. Distances to BKC and the airport by road in km were not found (Lodha gives about 30 minutes by car to the airport). Maintenance: no project-specific rate was found; a Sep 2025 RP Realty Plus article puts Lower Parel luxury towers such as World One at roughly Rs 12,000-15,000 a month per 1,000 sq ft, too vague to record as a field.",
   "sources": [
     "https://www.lodhagroup.com/projects/residential-property-in-worli/lodha-world-towers",
     "https://en.wikipedia.org/wiki/World_One",
@@ -40,8 +40,26 @@
     "https://www.deccanchronicle.com/141210/business-companies/article/lodha-sells-rs-500-crore-worth-flats-9-days-mumbai-high-rise",
     "https://www.prnewswire.com/in/news-releases/lodha-group-sells-inr-500-cr-residences-at-worlds-tallest-residential-tower-in-nine-days-285468781.html",
     "https://www.dnaindia.com/business/report-dna-money-exclusive-lodha-world-one-buyers-move-rera-over-tallest-claim-2662522",
-    "https://www.squareyards.com/mumbai-residential-property/lodha-world-one/2801/project"
+    "https://www.squareyards.com/mumbai-residential-property/lodha-world-one/2801/project",
+    "https://lodhagroup.com/projects/residential-property-in-worli/lodha-world-one",
+    "https://mumbaimetroroute.com/places/lodha-world-towers-worli",
+    "https://www.realestatemumbai.com/3-bhk-flat-in-lower-parel-on-rent-in-lodha-world-one-9835699",
+    "https://rentu.in/property/3-bhk-apartment-rent-lodha-world-one-lower-parel-senapati-bapat-marg/9730732",
+    "https://www.rprealtyplus.com/news-views/are-you-paying-too-much-inside-the-maintenance-divide-in-metro-housing-121694.html"
   ],
+  "architect": "Pei Cobb Freed & Partners",
+  "contractor": "Arabian Construction Co. and Simplex (World One); Muscovite Group (World View, World Crest)",
+  "branded_residence": "Armani/Casa (interiors)",
+  "flats_per_floor": 2,
+  "lifts_per_tower": 18,
+  "views": ["city", "sea"],
+  "land_type": "mill_land",
+  "oc_received": true,
+  "units_sold": 298,
+  "units_sold_as_of": "2025-11-01",
+  "transactions_12m": 10,
+  "nearest_metro": "Science Museum (Metro Line 3)",
+  "nearest_metro_km": 0.9,
   "unit_types": [
     {
       "config": "3 BHK",
@@ -49,7 +67,8 @@
       "carpet_sqft_max": 1553,
       "price_min_cr": 9.32,
       "price_max_cr": 9.42,
-      "notes": "Square Yards asking prices, Sep 2026, excluding charges. Other listings show 3 BHK carpet areas of 1,410 to 1,782 sq ft."
+      "notes": "Square Yards asking prices, Sep 2026, excluding charges. Other listings show 3 BHK carpet areas of 1,410 to 1,782 sq ft. units = 147 in the Tier III and Trinity MahaRERA phase (P51900008962), per Square Yards' MahaRERA summary (Nov 2025); other phases are not included.",
+      "units": 147
     },
     {
       "config": "4 BHK",
@@ -57,7 +76,8 @@
       "carpet_sqft_max": 2619,
       "price_min_cr": 11.04,
       "price_max_cr": 15.88,
-      "notes": "Square Yards asking prices, Sep 2026, excluding charges."
+      "notes": "Square Yards asking prices, Sep 2026, excluding charges. units = 163: 102 in Tier III and Trinity (P51900008962) plus 61 '4 BHK villa' units in Tier II (P51900008345), per Square Yards' MahaRERA summary (Nov 2025).",
+      "units": 163
     },
     {
       "config": "5 BHK",
@@ -110,6 +130,17 @@
       "note": "Computed: Rs 11.35 crore / 2,044 sq ft RERA carpet (189.89 sq m), 31st floor of World One, registered July 2025, with 2 parking spaces and Rs 68.10 lakh stamp duty."
     },
     {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 67800,
+      "basis": "unknown",
+      "source_name": "Square Yards (listing asking-price index, Q4 2025)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-world-one/2801/project",
+      "confidence": "low",
+      "note": "Average asking price for World One in Dec 2025. Square Yards' series then shows Rs 62,100 (Mar 2026) and Rs 59,800 (Jun 2026) before the Rs 60,650 Sep 2026 point already recorded."
+    },
+    {
       "date": "2026-09-01",
       "date_precision": "month",
       "stage": "resale",
@@ -130,6 +161,56 @@
       "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-world-one/2801/project",
       "confidence": "medium",
       "note": "Average registered rate across 10 transactions (about Rs 157 crore total) from Nov 2025 to Oct 2026, based on IGR data aggregated by Square Yards."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 2185,
+      "monthly_rent": 650000,
+      "furnishing": "furnished",
+      "kind": "asking",
+      "source_name": "realestatemumbai.com (World One rental listings)",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-in-lower-parel-on-rent-in-lodha-world-one-9835699",
+      "confidence": "low",
+      "note": "Fully furnished 3 BHK, 2,185 sq ft carpet, Rs 6.5 lakh/month asking (property ID 10073070). The date is the listing's 'checked' date on the page, not its posting date. The same listing appears on rentu.in."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 2000,
+      "monthly_rent": 657000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "realestatemumbai.com (World One rental listings)",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-in-lower-parel-on-rent-in-lodha-world-one-9835699",
+      "confidence": "low",
+      "note": "3 BHK, 2,000 sq ft carpet, Rs 6.57 lakh/month asking (property ID 10070407). The date is the page's 'checked' date. The page gives a typical World One rent of Rs 6.5 lakh/month across its listings."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4 BHK",
+      "carpet_sqft": 2357,
+      "monthly_rent": 700000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "realestatemumbai.com (World One rental listings)",
+      "source_url": "https://www.realestatemumbai.com/3-bhk-flat-in-lower-parel-on-rent-in-lodha-world-one-9835699",
+      "confidence": "low",
+      "note": "Semi-furnished 4 BHK, 2,357 sq ft carpet, Rs 7 lakh/month asking (property ID 10054894). The date is the page's 'checked' date."
+    },
+    {
+      "date": "2026-11-15",
+      "config": "3 BHK",
+      "carpet_sqft": 2080,
+      "monthly_rent": 830000,
+      "furnishing": "furnished",
+      "kind": "asking",
+      "source_name": "rentu.in (Lower Parel 3 BHK rental listings)",
+      "source_url": "https://rentu.in/property/3-bhk-apartment-rent-lodha-world-one-lower-parel-senapati-bapat-marg/9730732",
+      "confidence": "low",
+      "note": "Fully furnished 3 BHK in Lodha World View (one of the three World Towers), 2,080 sq ft, Rs 8.3 lakh/month asking. The page does not say whether the area is carpet or built-up. The date is approximate: the page summarises listings for the week ending 15 Nov 2026."
     }
   ],
   "news": [

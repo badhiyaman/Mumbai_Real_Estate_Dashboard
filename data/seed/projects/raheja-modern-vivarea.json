@@ -1,0 +1,229 @@
+{
+  "slug": "raheja-modern-vivarea",
+  "name": "Raheja Modern Vivarea",
+  "developer": "k-raheja-corp",
+  "micro_market": "mahalaxmi",
+  "address": "Sane Guruji Marg / Clerk Road, RTO Colony, near Jacob Circle, Mahalaxmi, Mumbai 400011",
+  "land_acres": 3,
+  "towers": 2,
+  "floors_max": 53,
+  "total_units": 266,
+  "rera_ids": ["P51900034288", "P51900034289"],
+  "status": "under_construction",
+  "launch_date": "2023-02-06",
+  "possession_promised": "2028-09-30",
+  "amenities": [
+    "Clubhouse",
+    "Swimming pool",
+    "Gymnasium",
+    "Amphitheatre",
+    "Landscaped gardens",
+    "Wide sundecks (developer claim)",
+    "Double-glazed glass and VRF air conditioning (developer claim)",
+    "Separate staff entry (developer claim)"
+  ],
+  "description": "A two-tower luxury project on about 3 acres of the former Modern Mills land at Jacob Circle, Mahalaxmi, developed by K Raheja Corp Homes with landowner Modern India Ltd. It offers 3, 3.5, 4 and 5 BHK west-facing homes with views over the Arabian Sea, Willingdon golf course and Mahalaxmi Racecourse. The developer reported about Rs 1,100 crore of pre-launch sales (about 2.5 lakh of 10 lakh sq ft saleable) in under 90 days in Q4 FY23. It is a separate project from the older five-tower K Raheja Vivarea next door.",
+  "notes": "Towers: South Tower (MahaRERA P51900034288, 152 apartments, 53 floors of which 41 habitable, completion 30 Sep 2028, 82% construction progress) and North Tower (P51900034289, 114 apartments, 52 floors, completion 31 Mar 2028). total_units = 152 + 114 (computed from the MahaRERA data shown on Square Yards). possession_promised is the later (South) date; ThePrint's Feb 2023 launch release said completion was expected 'by 2028'. Construction progress conflict: Square Yards' MahaRERA snapshot shows South at 82% but North at 0% (all activities 'not started'), and Mumbai Property Exchange also shows North at 0%; Housiey says 85% complete as of 30 Sep 2026, so the North figures may simply be un-updated MahaRERA filings. Units sold: South Tower 136 sold + 2 booked of 152 (Square Yards MahaRERA snapshot read 18 Nov 2026); North not disclosed. IndexTap shows 239 of 266 flats sold (undated, and it lists a wrong RERA ID), so units_sold is left out. Land: ThePrint says a 3-acre parcel; Housiey says 3.11 acres. Modern India (Jatia family) owns the land and gets a share of sales revenue; K Raheja handles design, approvals, construction and sales. Price evidence: early North Tower registrations in Nov-Dec 2022 (before the Feb 2023 launch) were about Rs 38,800/sq ft carpet, Feb-Mar 2023 launch registrations were Rs 46,800-67,800/sq ft, Dec 2023 bulk buys (Halan family, Aibara) worked out to about Rs 65,000-76,500/sq ft, and Mar-May 2026 registrations on upper floors reached Rs 84,000-96,000/sq ft carpet. Developer-side asking prices in late 2026 are higher: Mumbai Property Exchange shows about Rs 1.25 lakh/sq ft carpet (North, 6 Oct 2026), PropertyPistol a minimum of Rs 1.18 lakh/sq ft. Some MahaRERA rows look odd (South unit 902 at Rs 6.96 crore in Jan 2023, about Rs 41,700/sq ft, versus Rs 11.3 crore for the same layout weeks later), so individual rows may include special or landowner-share deals. Notable buyers: the Halan family (8 apartments, about Rs 104 crore, Dec 2023), Ambika Aibara of Parle Products (2 apartments, Rs 47.3 crore, Dec 2023), Tata Power CEO Praveer Sinha (Rs 17.5 crore, Oct 2025) and Althera CEO Sanjeev Agarwal (3 apartments, over Rs 72 crore, 2025, per Zapkey). No floor-rise schedule or maintenance rate was found; the registered deals show prices rising sharply with floor height. Not to be confused with K Raheja Vivarea (slug raheja-vivarea).",
+  "sources": [
+    "https://theprint.in/ani-press-releases/k-raheja-corp-homes-launches-raheja-modern-vivarea-in-south-mumbai/1356704",
+    "https://www.freepressjournal.in/amp/business/k-raheja-corp-unveils-rs-1100-cr-luxury-homes-pre-launch-sales-for-south-mumbai-project",
+    "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea/28107/project/rera/p51900034288",
+    "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea/28107/project/rera/p51900034289",
+    "https://www.mumbaipropertyexchange.com/project/raheja-modern-vivarea-mahalaxmi-by-k-raheja-corp/29042",
+    "https://housiey.com/projects/k-raheja-modern-vivarea",
+    "https://www.propertypistol.com/projects/raheja-modern-vivarea-mahalaxmi-east-pid-13397",
+    "https://indextap.com/properties/details/k-raheja-corp/mahalaxmi/k-raheja-modern-vivarea/63e1d7aed20e21fbb78ad269"
+  ],
+  "green_certification": "IGBC Green Homes Pre-certified Gold (developer claim, per Mumbai Property Exchange)",
+  "views": ["sea", "golf course", "racecourse"],
+  "land_type": "mill_land",
+  "land_tenure": "unknown",
+  "jv_partner": "Modern India Ltd (Jatia family), landowner on a revenue-share agreement",
+  "oc_received": false,
+  "payment_plan": "Construction-linked plan, per Housiey listing (minimum down payment about Rs 3.18 crore incl. taxes)",
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1669,
+      "carpet_sqft_max": 1740,
+      "price_max_cr": 21.24,
+      "notes": "South Tower MahaRERA carpet 155.02 sq m (about 1,669 sq ft). Housiey lists 1,740 sq ft at Rs 21.24 crore all-inclusive (Sep 2026, limited availability)."
+    },
+    {
+      "config": "3.5 BHK",
+      "carpet_sqft_min": 2364,
+      "carpet_sqft_max": 2376,
+      "price_min_cr": 26.71,
+      "price_max_cr": 29.55,
+      "notes": "North Tower MahaRERA carpet range. Rs 29.55 crore asking (Mumbai Property Exchange, Oct 2026); Rs 26.71 crore all-inclusive (Housiey FAQ)."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 2181,
+      "carpet_sqft_max": 3558,
+      "price_min_cr": 27.58,
+      "price_max_cr": 38.85,
+      "notes": "South Tower 4 BHK is 202.61 sq m (about 2,181 sq ft); North Tower MahaRERA range 2,787-3,558 sq ft. Asking Rs 38.62-38.85 crore for 3,090-3,108 sq ft (Mumbai Property Exchange, Oct 2026)."
+    },
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 2811,
+      "carpet_sqft_max": 3051,
+      "notes": "South Tower MahaRERA rows at 261.16 and 283.48 sq m (about 2,811 and 3,051 sq ft). The developer says homes go up to 8,500 sq ft carpet."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2022-11-09",
+      "date_precision": "day",
+      "stage": "pre_launch",
+      "price_psf": 38793,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, North Tower)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea/28107/project/rera/p51900034289",
+      "confidence": "high",
+      "note": "Computed: unit 3701 (4 BHK), consideration Rs 10.88 crore / 260.53 sq m (2,804 sq ft). Unit 1701 on 30 Dec 2022 was similar (Rs 11.19 crore / 2,891 sq ft = about Rs 38,700). Registered before the Feb 2023 public launch; may be early-bird or special allocations."
+    },
+    {
+      "date": "2023-02-01",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 67797,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, South Tower)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea/28107/project/rera/p51900034288",
+      "confidence": "high",
+      "note": "Computed: unit 1102 (3 BHK), Rs 11.31 crore / 155.02 sq m (1,669 sq ft). Other Feb-Mar 2023 South Tower 3 BHK rows were Rs 10.6-11.4 crore."
+    },
+    {
+      "date": "2023-02-03",
+      "date_precision": "day",
+      "stage": "launch",
+      "price_psf": 46765,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, North Tower)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea/28107/project/rera/p51900034289",
+      "confidence": "high",
+      "note": "Computed: unit 1201 (4 BHK, 12th floor), Rs 13.52 crore / 268.6 sq m (2,891 sq ft). Launch-period 4 BHK rates in the North Tower were well below the South Tower 3 BHK rate the same week."
+    },
+    {
+      "date": "2023-12-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 65000,
+      "basis": "unknown",
+      "source_name": "Construction World (citing IndexTap registration documents)",
+      "source_url": "https://www.constructionworld.in/digital-edition/Latest-Construction-News/halan-family-invests-rs-1.04-bn-in-8-sea-view-apartments-in-mumbai/49854",
+      "confidence": "high",
+      "note": "Computed: Halan family bought 8 sea-view apartments (4 at Rs 14.68 crore, 4 at Rs 11.31 crore; about Rs 104 crore) with a combined 16,000 sq ft, registered Dec 2023. Area basis not stated; the unit prices match 1,669 and 2,181 sq ft carpet layouts at about Rs 67,000-68,000/sq ft."
+    },
+    {
+      "date": "2023-12-21",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 76537,
+      "basis": "unknown",
+      "source_name": "Free Press Journal",
+      "source_url": "https://freepressjournal.in/amp/mumbai/mumbai-news-parle-products-promoter-ambika-aibara-buys-sea-view-units-for-473-crore-in-mahalaxmi",
+      "confidence": "medium",
+      "note": "Computed: Ambika Aibara bought two apartments on floors 24-25 at Rs 23.65 crore each (Rs 47.3 crore) for 6,180 sq ft total; stamp duty Rs 2.84 crore. Area basis not stated."
+    },
+    {
+      "date": "2025-10-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 80238,
+      "basis": "carpet",
+      "source_name": "GeoSquare (citing registration documents accessed by Liases Foras)",
+      "source_url": "https://www.geosquare.in/tata-power-ceo-praveer-sinha-acquires-luxury-flat-in-raheja-modern-vivarea-mahal-30505-news.html",
+      "confidence": "high",
+      "note": "Computed: Praveer Sinha's 31st-floor South Tower flat, Rs 17.5 crore / 2,181 sq ft (plus a 78 sq ft balcony; Rs 77,470/sq ft on 2,259 sq ft). 2,181 sq ft matches the MahaRERA 4 BHK carpet of 202.61 sq m. Registered Oct 2025."
+    },
+    {
+      "date": "2026-03-27",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 83912,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, South Tower)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea/28107/project/rera/p51900034288",
+      "confidence": "high",
+      "note": "Computed: unit 3502 (3 BHK, 35th floor), Rs 14.00 crore / 1,669 sq ft. A 34th-floor 3 BHK registered 22 Jan 2026 at Rs 11.31 crore (about Rs 67,800)."
+    },
+    {
+      "date": "2026-04-16",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 91452,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, North Tower)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea/28107/project/rera/p51900034289",
+      "confidence": "high",
+      "note": "Computed: unit 2601 (4 BHK), Rs 26.44 crore / 2,891 sq ft. Unit 3201 on 14 Mar 2026 was Rs 27.71 crore (about Rs 95,800/sq ft); unit 101 on 27 Jan 2026 was Rs 18.28 crore (about Rs 63,200/sq ft)."
+    },
+    {
+      "date": "2026-05-21",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 90888,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, South Tower)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/k-raheja-vivarea/28107/project/rera/p51900034288",
+      "confidence": "high",
+      "note": "Computed: unit 3801 (4 BHK, 38th floor), Rs 19.82 crore / 2,181 sq ft."
+    },
+    {
+      "date": "2026-10-06",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 125000,
+      "basis": "carpet",
+      "source_name": "Mumbai Property Exchange (indicative asking price, North Tower)",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/raheja-modern-vivarea-mahalaxmi-by-k-raheja-corp/29042",
+      "confidence": "low",
+      "note": "Listing asking price: 3.5 BHK 2,364 sq ft at Rs 29.55 crore; 4 BHK 3,090-3,108 sq ft at Rs 38.62-38.85 crore. Indicative and may change by 5-10%."
+    }
+  ],
+  "news": [
+    {
+      "date": "2023-02-06",
+      "title": "K Raheja Corp Homes launches Raheja Modern Vivarea in South Mumbai",
+      "url": "https://theprint.in/ani-press-releases/k-raheja-corp-homes-launches-raheja-modern-vivarea-in-south-mumbai/1356704",
+      "source": "ThePrint (ANI press release)",
+      "event_type": "launch",
+      "summary": "Two towers on a 3-acre parcel, 1 million sq ft, 3 and 4 bedroom homes up to 8,500 sq ft, all west-facing. Landowner Modern India gets a share of sales revenue. Completion expected by 2028."
+    },
+    {
+      "date": "2023-06-10",
+      "title": "K Raheja Corp unveils Rs 1,100 Cr luxury homes pre-launch sales for South Mumbai project",
+      "url": "https://www.freepressjournal.in/amp/business/k-raheja-corp-unveils-rs-1100-cr-luxury-homes-pre-launch-sales-for-south-mumbai-project",
+      "source": "Free Press Journal",
+      "event_type": "other",
+      "summary": "About Rs 1,100 crore of sales in under 90 days during Q4 FY23, covering about 2.5 lakh of the 10 lakh sq ft saleable area."
+    },
+    {
+      "date": "2024-01-23",
+      "title": "Halan family invests Rs 1.04 bn in 8 sea-view apartments in Mumbai",
+      "url": "https://www.constructionworld.in/digital-edition/Latest-Construction-News/halan-family-invests-rs-1.04-bn-in-8-sea-view-apartments-in-mumbai/49854",
+      "source": "Construction World",
+      "event_type": "deal",
+      "summary": "Eight apartments, about 16,000 sq ft combined, with 16 car parks; registered in Dec 2023 per IndexTap documents."
+    },
+    {
+      "date": "2024-01-30",
+      "title": "Parle Products' promoter Ambika Aibara buys sea-view units for Rs 47.3 crore in Mahalaxmi",
+      "url": "https://freepressjournal.in/amp/mumbai/mumbai-news-parle-products-promoter-ambika-aibara-buys-sea-view-units-for-473-crore-in-mahalaxmi",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "Two apartments on the 24th and 25th floors, 6,180 sq ft total, six car parks, registered 21 Dec 2023."
+    },
+    {
+      "date": "2025-11-02",
+      "title": "Tata Power CEO Praveer Sinha acquires luxury flat in Raheja Modern Vivarea, Mahalaxmi",
+      "url": "https://www.geosquare.in/tata-power-ceo-praveer-sinha-acquires-luxury-flat-in-raheja-modern-vivarea-mahal-30505-news.html",
+      "source": "GeoSquare",
+      "event_type": "deal",
+      "summary": "31st-floor South Tower flat of 2,181 sq ft plus a balcony for Rs 17.5 crore, registered Oct 2025; sellers K Raheja Corp Real Estate and Modern India."
+    }
+  ]
+}

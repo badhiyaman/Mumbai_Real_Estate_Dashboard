@@ -6,7 +6,7 @@
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { createClient } from "@supabase/supabase-js";
-import type { SeedDeveloper, SeedMicroMarket, SeedProject } from "../src/lib/seed-types";
+import type { SeedCostItem, SeedDeveloper, SeedMicroMarket, SeedProject } from "../src/lib/seed-types";
 
 const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
 const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
@@ -47,7 +47,9 @@ async function main() {
   const mmId = new Map(mmRows.map((r) => [r.slug, r.id]));
 
   for (const p of projects) {
-    const { unit_types, price_points, news, developer, micro_market, ...fields } = p;
+    const { unit_types, price_points, rental_points = [], news: rawNews, developer, micro_market, ...fields } = p;
+    // The same article can be listed twice (e.g. under two event types); keep the first.
+    const news = rawNews.filter((n, i) => rawNews.findIndex((m) => m.url === n.url) === i);
     if (!devId.has(developer)) throw new Error(`${p.slug}: unknown developer "${developer}"`);
     if (!mmId.has(micro_market)) throw new Error(`${p.slug}: unknown micro-market "${micro_market}"`);
 
@@ -80,6 +82,13 @@ async function main() {
       check(
         await db.from("price_points").insert(price_points.map((pp) => ({ ...pp, project_id: projectId }))),
         `price_points ${p.slug}`,
+      );
+
+    check(await db.from("rental_points").delete().eq("project_id", projectId), "clear rental_points");
+    if (rental_points.length)
+      check(
+        await db.from("rental_points").insert(rental_points.map((r) => ({ ...r, project_id: projectId }))),
+        `rental_points ${p.slug}`,
       );
 
     if (news.length) {
@@ -115,7 +124,14 @@ async function main() {
         `project_news ${p.slug}`,
       );
     }
-    console.log(`✓ ${p.name}: ${price_points.length} prices, ${news.length} news`);
+    console.log(`✓ ${p.name}: ${price_points.length} prices, ${rental_points.length} rents, ${news.length} news`);
+  }
+
+  const costsFile = join(seedDir, "reference", "costs.json");
+  if (existsSync(costsFile)) {
+    const costs = readJson<SeedCostItem[]>(costsFile);
+    check(await db.from("cost_items").upsert(costs, { onConflict: "key" }), "cost_items");
+    console.log(`✓ ${costs.length} buying/holding/selling cost items`);
   }
 
   console.log(`Done: ${developers.length} developers, ${markets.length} micro-markets, ${projects.length} projects.`);

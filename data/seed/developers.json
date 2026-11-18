@@ -1,5 +1,28 @@
 [
   {
+    "slug": "birla-estates",
+    "name": "Birla Estates Pvt Ltd (Aditya Birla Group; parent Aditya Birla Real Estate Ltd, formerly Century Textiles and Industries Ltd)",
+    "website": "https://www.birlaestates.com",
+    "listed_ticker": "NSE: ABREL",
+    "delivery_track_record": "Relatively new residential developer and a wholly owned subsidiary of the listed parent. Its Mumbai flagship, Birla Niyaara (Worli), is under construction with MahaRERA completion dates of Mar 2028 (Tower A) and Mar 2029 (Silas); no completed luxury project was found in the sources read. The parent's Worli commercial assets (Birla Aurora, Birla Centurion) are completed and leased.",
+    "notes": "Birla Niyaara was the top-selling MMR project of CY2022 (Rs 1,915 crore) and had cumulative sales of over Rs 5,700 crore by Sep 2024. In Sep 2024 the parent bought a 10-acre Worli parcel for Rs 1,100 crore, creating a 30-acre contiguous holding (https://www.angelone.in/news/share-market/century-textiles-acquires-prime-worli-land). Other luxury land includes Walkeshwar (Malabar Hill), acquired Apr 2023 (https://propnewstime.com/latestnewsstories/NjkxMg==/birla-estates-silas-tower-at-birla-niyaara-records-sales-of-inr-2500-crore-at-launch). The listed parent was renamed from Century Textiles to Aditya Birla Real Estate (https://www.screener.in/company/ABREL/consolidated/); the exact renaming date was not confirmed from a fetched source."
+  },
+  {
+    "slug": "godrej-properties",
+    "name": "Godrej Properties Ltd",
+    "website": "https://www.godrejproperties.com",
+    "listed_ticker": "NSE: GODREJPROP",
+    "delivery_track_record": "Large national developer and part of the Godrej group. Its Mumbai ultra-luxury flagship, Godrej Trilogy (Worli), launched in Nov 2025 with MahaRERA completion dates of Dec 2033 and Dec 2034, so it has no delivery record yet at this price point. Company-wide, it delivered about 1.7 million sq ft across 3 cities in Q3 FY26.",
+    "notes": "Q3 FY26 booking value was Rs 8,421 crore (3,973 homes, 6.43 million sq ft), with MMR contributing Rs 3,239 crore, led by Godrej Trilogy (Rs 1,742 crore, 0.31 million sq ft). Source: Q3 FY26 results presentation, https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/05022026/703e62b8-59e2-493d-83d5-321699291b9f.pdf . Founding year not confirmed from a fetched source, so it is left out."
+  },
+  {
+    "slug": "hubtown",
+    "name": "Hubtown Ltd (formerly Akruti City)",
+    "listed_ticker": "NSE: HUBTOWN",
+    "delivery_track_record": "Its 25 South project in Prabhadevi has been under construction since at least 2018, with listed possession dates ranging from Nov 2025 to Dec 2026 and the OC not yet received (Housiey, 2026). No completed-project delivery record was gathered in this batch.",
+    "notes": "Owner of 25 South (Prabhadevi) through 25 South Realty Ltd. A Hubtown NSE filing (Aug 2025) says that entity is proposed for amalgamation with Hubtown Ltd, and an Oct 2025 report says 25 West (Bandra), 25 South and 25 Downtown are being merged into the listed company. The Wadhwa Group co-marketed 25 South (Gulf News, DNA 2018) and was reportedly its development manager from 2015 (unverified search snippet). Website and founding year are omitted because they were not confirmed from a fetched source. Sources: https://nsearchives.nseindia.com/corporate/HUBTOWN_26082025155903_25Southpresentation26082025.pdf ; https://filingreader.com/news-wire/mumbai/2025-10-16/hubtown-to-merge-promoter-entities-boost-assets-and-cut-debt ; https://gulfnews.com/business/property/bespoke-living-in-mumbai-defined-1.1541674563889"
+  },
+  {
     "slug": "indiabulls-real-estate",
     "name": "Indiabulls Real Estate Ltd (renamed Equinox India Developments in 2024, now Embassy Developments Ltd)",
     "website": "https://embassyindia.com",
@@ -42,10 +65,40 @@
     "notes": "Promoters: Kamal Kishore Gupta (chairman) and Babulal Varma (MD). One report says the firm was formed in 2003 by Gujarat-based contractors, but this is unverified, so founded_year is left out. The ED arrested both promoters in Jan 2021 in a Yes Bank loan / SRA money-laundering case and later charge-sheeted them; a later report says a special court discharged them. Sources: https://www.pressreader.com/india/hindustan-times-st-mumbai/20210128/281663962677092 ; https://www.freepressjournal.in/mumbai/mumbai-posh-worli-project-under-scanner-further-sales-on-hold ; https://squarefeatindia.com/omkar-1973-builder-delayed-possession-maharera-denied-interest-cut-2-tribunal-grants-full-refund-interest/"
   },
   {
+    "slug": "peninsula-land",
+    "name": "Peninsula Land Ltd",
+    "website": "https://www.peninsulaland.in",
+    "listed_ticker": "NSE: PENINLAND",
+    "delivery_track_record": "Delivered Ashok Towers (Parel, about 1.08 million sq ft, four towers) in FY2009-10 and 2010. Work began in 2004, and three of the four towers were handed over during FY2009-10. Ashok Gardens (Sewri, about 0.8 million sq ft) was due for completion by the end of FY2010-11. Commercial deliveries include Peninsula Corporate Park, Peninsula Business Park and Peninsula Technopark in Mumbai.",
+    "notes": "Entered real estate development in 1997 (Crossroads mall, 1999). In 2001 it became the first company allowed to commercially develop private textile mill land in Mumbai, and it merged with Dawn Mills Company in 2006 (company milestones, Annual Report 2009-10). Chairperson in 2010: Urvi Piramal. BSE scrip 503031. Founding year of the company itself not confirmed, so founded_year is left out. Sources: https://www.bseindia.com/bseplus/AnnualReport/503031/5030310310.pdf ; https://www.bseindia.com/bseplus/AnnualReport/503031/5030310311.pdf ; https://files.tijorifinance.com/insight/india/517/Investor%20Presentation/IP-Dec12.pdf"
+  },
+  {
+    "slug": "piramal-realty",
+    "name": "Piramal Realty Pvt Ltd (Piramal Group)",
+    "founded_year": 2012,
+    "website": "https://www.piramalrealty.com",
+    "delivery_track_record": "At Piramal Aranya (Byculla) the Avyan and 72-storey Arav towers are delivered (700+ homes by Jul 2025), and Ahan I has its OC; Piramal says Avyan's OC came 21 months ahead of schedule. In May 2023 it announced OCs for Aranya, Vaikunth (Thane) and Revanta (Mulund). At Piramal Mahalaxmi the South Tower (MahaRERA completion Dec 2025) has been handed over and the Central Tower (completion Jun 2026) has its OC, while the North Tower is still being finished.",
+    "notes": "Real estate arm of the Piramal Group; PTI (Jul 2025) says it was founded in 2012. In 2018 the company said Goldman Sachs and Warburg Pincus had invested about US$434 million at entity level. Piramal Mahalaxmi is a joint development with Omkar Realtors. No sourced on-time score, so on_time_score is omitted. Sources: https://www.theweek.in/wire-updates/business/2025/07/10/dcm93-biz-realty-piramal.html ; https://www.piramalrealty.com/pdf/piramal-realty-launches-central-tower-at-piramal-mahalaxmi-an-inr-2600-crore-project.pdf ; https://www.realtynmore.com/piramal-realty-receives-occupancy-certificate-oc-for-three-luxury-projects-in-mmr/ ; https://www.piramalrealty.com/blogs/choosing-between-south-tower-central-tower-and-north-tower-at-piramal-mahalaxmi"
+  },
+  {
+    "slug": "raheja-universal",
+    "name": "Raheja Universal (Pvt) Ltd",
+    "website": "https://www.rahejauniversal.com",
+    "notes": "Mumbai developer, separate from K Raheja Corp. Its website lists current projects including Raheja Imperia II (The Riviere) in Worli and Raheja Tesla II, the Raheja Solaris series and Raheja Exotica in Navi Mumbai and Mumbai. Square Yards' developer profile claims 39 years of experience, 67 projects and 58 delivered; this is unverified portal data, so it is kept out of the structured fields. No sourced delivery record or founding year was found. Sources: https://www.rahejauniversal.com/ ; https://squareyards.com/mumbai-residential-property/raheja-imperia/3312/project"
+  },
+  {
     "slug": "rustomjee",
     "name": "Rustomjee Group (Keystone Realtors Ltd)",
     "founded_year": 1996,
     "website": "https://www.rustomjee.com",
     "notes": "The Rustomjee brand was launched in 1996 by Boman Rustom Irani; the listed entity, Keystone Realtors, was incorporated in 1995 (Gupta & Sen: https://www.guptasen.com/?p=32273). Rustomjee manages Crown, Prabhadevi under a development management agreement. Crown Phase I received its OC about 4.5 years after its original RERA completion date (June 2020 vs ready-to-move from Dec 2024). ET Realty (via the Rustomjee newsroom) reports Q2 FY27 pre-sales of Rs 1,423 crore."
+  },
+  {
+    "slug": "sd-corporation",
+    "name": "SD Corporation Pvt Ltd (Shapoorji Pallonji - Dilip Thacker joint venture)",
+    "founded_year": 1998,
+    "website": "https://www.sdcorp.in",
+    "delivery_track_record": "Delivered The Imperial twin towers in Tardeo (60 storeys, completed 2010, India's tallest until 2019) and The Imperial Edge (MahaRERA original completion Dec 2021, listed as ready). The Imperial i (62 storeys) is under construction with possession scheduled for Dec 2029.",
+    "notes": "HomeBazaar describes SD Corp as a JV of Shapoorji Pallonji and the Dilip Thacker group; SD Corp's site gives 1998 as its founding year. Shapoorji Pallonji was the main contractor for The Imperial. Sources: https://www.sdcorp.in/projects/the-imperial-towers ; https://www.homebazaar.com/the-imperial-edge-tardeo-3491 ; https://www.skyscrapercenter.com/building/wd/889"
   }
 ]

@@ -7,7 +7,12 @@
   "land_acres": 10.8,
   "towers": 4,
   "total_units": 374,
-  "rera_ids": ["P51900000469", "P51900000473", "P51900000843", "P51900000871"],
+  "rera_ids": [
+    "P51900000469",
+    "P51900000473",
+    "P51900000843",
+    "P51900000871"
+  ],
   "status": "completed",
   "launch_date": "2012-05-01",
   "possession_promised": "2021-12-30",
@@ -28,7 +33,7 @@
     "Chihuly art installation"
   ],
   "description": "A four-tower luxury residential estate (Towers A to D) at Worli Naka by Indiabulls Real Estate. The company is now Embassy Developments, renamed Equinox India Developments in 2024 and Embassy Developments in 2025. Launched around 2012 and since marketed as Blu Estate & Club, it offers 2 to 5 BHK homes and large sea-view residences. Embassy says the 374 residences received occupation certificates in phases between 2018 and 2022.",
-  "notes": "Developer entity on MahaRERA: Indiabulls Infraestate Ltd. The 53rd-floor sale to Madhuri Dixit was by Calleis Land Development Pvt Ltd. RERA IDs: Tower A P51900000469 and Tower B P51900000473 (aggregators say OC received), Tower C P51900000843 and Tower D P51900000871. Tower D is a 72-unit wing of up to 41 floors with proposed completion in Jun 2022. Original RERA completion dates were 30 Dec 2021 for Towers A to C and 30 Jun 2022 for Tower D. possession_actual is year-only and is the last OC phase per Embassy (Oct 2025). Land: 10.8 acres and 1.4 mn sq ft per Embassy's Oct 2025 release (likely the whole estate). Square Yards says 10 acres and HomeBazaar says 0.9 acres. Units: 374 per Embassy and 384 per Square Yards. Floors are left out: Madhuri Dixit's unit is on the 53rd floor of Tower C, while forum and listing sources variously cite 53, 50, 46, 31 and 56 storeys. Launch: listing portals give May 2012 (Aurum, ClicBrics) and June 2012 for Towers A and C (Prophunt), and no contemporaneous launch price was found. Price conflict: portal asking prices (about Rs 78,500 to 86,550/sq ft in 2025-26) are more than double the registered medians shown by Property Butler and Square Yards (about Rs 37,400/sq ft). That suggests the registered figures use a different area basis or a different unit mix. An Aug 2020 Embassy-IBREL merger deck lists Blu Estate & Club with about 0.2 mn sq ft completed (OC received) and about 0.1 mn sq ft under development. Madhuri Dixit previously leased a 29th-floor flat here for Rs 12.5 lakh a month.",
+  "notes": "Developer entity on MahaRERA: Indiabulls Infraestate Ltd. The 53rd-floor sale to Madhuri Dixit was by Calleis Land Development Pvt Ltd. RERA IDs: Tower A P51900000469 and Tower B P51900000473 (aggregators say OC received), Tower C P51900000843 and Tower D P51900000871. Tower D is a 72-unit wing of up to 41 floors with proposed completion in Jun 2022. Original RERA completion dates were 30 Dec 2021 for Towers A to C and 30 Jun 2022 for Tower D. possession_actual is year-only and is the last OC phase per Embassy (Oct 2025). Land: 10.8 acres and 1.4 mn sq ft per Embassy's Oct 2025 release (likely the whole estate). Square Yards says 10 acres and HomeBazaar says 0.9 acres. Units: 374 per Embassy and 384 per Square Yards. Floors are left out: Madhuri Dixit's unit is on the 53rd floor of Tower C, while forum and listing sources variously cite 53, 50, 46, 31 and 56 storeys. Launch: listing portals give May 2012 (Aurum, ClicBrics) and June 2012 for Towers A and C (Prophunt), and no contemporaneous launch price was found. Price conflict: portal asking prices (about Rs 78,500 to 86,550/sq ft in 2025-26) are more than double the registered medians shown by Property Butler and Square Yards (about Rs 37,400/sq ft). That suggests the registered figures use a different area basis or a different unit mix. An Aug 2020 Embassy-IBREL merger deck lists Blu Estate & Club with about 0.2 mn sq ft completed (OC received) and about 0.1 mn sq ft under development. Madhuri Dixit previously leased a 29th-floor flat here for Rs 12.5 lakh a month. Enrichment (Nov 2026): Land: Indiabulls' Jun 2016 investor presentation says it bought the Blu land for Rs 2,100 crore in 2009-10 by acquiring two mills in Worli through NTC's open bidding (in Aug 2010 it won the 8.37-acre Bharat Textile Mills near Worli Naka for Rs 1,505 crore, and days earlier the Poddar Mill land in Worli for Rs 474 crore), hence land_type mill_land. That presentation gave 10 acres, 1.21 mn sq ft saleable, about 345 units at '33 apartments per acre', no public parking or slum FSI, and first handover in Mar 2017. Price basis, which explains the conflict noted above: on the May 2022 earnings call CEO Sachin Shah said Blu's average selling price of about Rs 30,000/sq ft is on saleable area and about Rs 50,000 is the same price on RERA carpet. loading_pct (67) is computed from those rounded figures (50,000 / 30,000 - 1) and is approximate. Registered-deed rates near Rs 37,000/sq ft are therefore probably on saleable or built-up area, while portal asking rates near Rs 86,000 are on carpet. On the same call he said about seven units, mostly Tower D podium units, were left to sell; units_sold (367) is computed as 374 minus 7. The company's Sep 2020 update gave Blu 2.10 mn sq ft and total sales value Rs 8,335 crore, and its Jan 2022 update 2.83 mn sq ft saleable (1.36 mn sold), both including additional FSI for a later phase. Phase II (Blu Annex): in Apr 2024 the company agreed to buy the balance FSI rights from Blackstone Real Estate Fund for about Rs 1,150 crore and planned a 2025 launch of one 80-floor, 332-unit tower on about 1.93 acres, valued at an assumed Rs 47,000/sq ft. Building: Otis supplied 37 elevators, 18 of them 4 m/s, for three of the four towers (2016 release), so lifts_per_tower is not set. CTBUH and Property Butler give Tower A (Iris Blu) 47 floors, Tower B (Vista Blu) 51, Tower C (Sky Blu) 56 and Tower D 33. Shapoorji Pallonji's project page describes 3 towers and 305 units, so its scope may not include Tower D. Structural consultant: Thornton Tomasetti. open_space_pct (about 63% landscaped, with towers and podiums on about 20% of the ground) and the sea and racecourse views are from SSMB magazine (Dec 2021), which puts construction at almost seven years and about Rs 1,100 crore. Location: the Oct 2021 investor update says Blu abuts Acharya Atre Chowk station. nearest_metro_km (0.7), distance_bkc_km (8.98) and distance_airport_km (16.9 to T2) are from Property Butler's building review (Nov 2026). transactions_12m (2) is Square Yards' count for Nov 2025 to Oct 2026; Property Butler claims 136 trailing-12-month sales but lists only 3 dated after Nov 2025. No launch-era (2012) price was found; the earliest developer figure is the 2016 estimated GDV per sq ft.",
   "sources": [
     "https://realtynmore.com/embassy-developments-delivers-six-long-stalled-legacy-projects-to-3000-families/",
     "https://www.squareyards.com/mumbai-residential-property/indiabulls-blu/2820/project",
@@ -36,14 +41,44 @@
     "https://business-standard.com/amp/article/entertainment/madhuri-dixit-buys-apartment-worth-rs-48-crore-in-mumbai-s-lower-parel-122100500692_1.html",
     "https://homebazaar.com/knowledge/madhuri-dixit-nenes-new-luxurious-sea-view-apartment-in-mumbai/",
     "https://propertybutler.in/building/indiabulls-blu",
-    "https://financialfilings.com/de/filings/embassy-developments-limited/investor-presentation/2021/56659119/"
+    "https://financialfilings.com/de/filings/embassy-developments-limited/investor-presentation/2021/56659119/",
+    "https://bseindia.com/xml-data/corpfiling/CorpAttachment/2016/6/915328CE_3F02_4AC7_B194_57643D7463C7_113839.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/258b42f5-25aa-4dd7-9b71-55c12ea1a524.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c5360f09-17b8-4893-9dcb-d0e728708829.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/4527ac3c-3f81-43d4-a2ae-e32b066e84c1.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/39775f6e-89e8-429b-a5ca-c9891071a72c.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/27712eaa-4e33-4c24-80b7-d791bdc5e0b5.pdf",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e63510a7-c8c5-485f-b9d8-302791c8d279.pdf",
+    "https://ssmb.in/?p=8393",
+    "https://shapoorjipallonji.com/project/one_indiabulls_blu_residential_complex",
+    "https://prnewswire.com/in/news-releases/indiabulls-chooses-otis-to-provide-high-speed-elevators-for-ultra-luxury-project-blu-582466781.html",
+    "https://propertybutler.in/insights/building-deep-indiabulls-blu-worli-review-2026",
+    "https://squarefeatindia.com/madhuri-dixits-per-month-rent-is-manys-dream-yearly-salary/",
+    "https://domain-b.com/industry/Real_estate/20100807_indiabulls.html"
   ],
+  "architect": "Anupam De & Associates",
+  "contractor": "Shapoorji Pallonji (SP Engineering & Construction), civil and structural works",
+  "open_space_pct": 63,
+  "views": [
+    "sea",
+    "racecourse"
+  ],
+  "land_type": "mill_land",
+  "oc_received": true,
+  "units_sold": 367,
+  "units_sold_as_of": "2022-05-27",
+  "loading_pct": 67,
+  "transactions_12m": 2,
+  "nearest_metro": "Acharya Atre Chowk (Metro Line 3 / Aqua Line)",
+  "nearest_metro_km": 0.7,
+  "distance_bkc_km": 8.98,
+  "distance_airport_km": 16.9,
   "unit_types": [
     {
       "config": "2 BHK",
       "carpet_sqft_min": 809,
       "carpet_sqft_max": 1295,
-      "price_min_cr": 7.0,
+      "price_min_cr": 7,
       "price_max_cr": 11.21,
       "notes": "Square Yards asking prices, Sep 2026, excluding charges."
     },
@@ -74,6 +109,17 @@
   ],
   "price_points": [
     {
+      "date": "2016-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 53157,
+      "basis": "saleable",
+      "source_name": "Indiabulls Real Estate investor presentation (BSE filing, 2 Jun 2016)",
+      "source_url": "https://bseindia.com/xml-data/corpfiling/CorpAttachment/2016/6/915328CE_3F02_4AC7_B194_57643D7463C7_113839.pdf",
+      "confidence": "low",
+      "note": "Computed: estimated gross development value Rs 6,432 crore / estimated saleable area 1.21 mn sq ft. This is the developer's expected average realisation, not an achieved price. The PDF table columns are misaligned; the 6,432 figure is read from the ongoing-projects table row for Blu."
+    },
+    {
       "date": "2020-03-01",
       "date_precision": "month",
       "stage": "under_construction",
@@ -85,6 +131,28 @@
       "note": "2020-Q1 median of registered sale deeds. Property Butler says many quarters rest on only 1 to 6 deals, so the series is volatile."
     },
     {
+      "date": "2021-12-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 30000,
+      "basis": "saleable",
+      "source_name": "Indiabulls Real Estate Q4FY22 earnings call transcript (BSE filing, call of 27 May 2022)",
+      "source_url": "https://bseindia.com/xml-data/corpfiling/AttachHis/39775f6e-89e8-429b-a5ca-c9891071a72c.pdf",
+      "confidence": "medium",
+      "note": "'Around Rs 30,000' average selling price for Blu in the previous quarter's presentation, as cited by an analyst and confirmed by CEO Sachin Shah as saleable-area pricing equal to about Rs 50,000/sq ft on RERA carpet. Rounded; the quarter is taken as Q3FY22 (Oct to Dec 2021)."
+    },
+    {
+      "date": "2022-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 26000,
+      "basis": "saleable",
+      "source_name": "Indiabulls Real Estate Q4FY22 earnings call transcript (BSE filing, call of 27 May 2022)",
+      "source_url": "https://bseindia.com/xml-data/corpfiling/AttachHis/39775f6e-89e8-429b-a5ca-c9891071a72c.pdf",
+      "confidence": "medium",
+      "note": "Q4FY22 (Jan to Mar 2022) Blu average price of about Rs 26,000/sq ft as cited on the call. The CEO said it reflected the last remaining units, mainly Tower D podium flats."
+    },
+    {
       "date": "2022-09-28",
       "date_precision": "day",
       "stage": "completion",
@@ -94,6 +162,17 @@
       "source_url": "https://business-standard.com/amp/article/entertainment/madhuri-dixit-buys-apartment-worth-rs-48-crore-in-mumbai-s-lower-parel-122100500692_1.html",
       "confidence": "high",
       "note": "Computed: Rs 48 crore / 5,384 sq ft. Madhuri Dixit-Nene's 53rd-floor Tower C unit, bought from Calleis Land Development (a developer-side entity) with Rs 2.4 crore stamp duty. Reports differ on whether it was booked on 8 Sep or registered on 28 Sep 2022. One report rounds the rate to about Rs 90,000/sq ft."
+    },
+    {
+      "date": "2024-03-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 21802,
+      "basis": "saleable",
+      "source_name": "Indiabulls Real Estate Q4FY24 investor presentation (BSE filing, 26 Apr 2024)",
+      "source_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e63510a7-c8c5-485f-b9d8-302791c8d279.pdf",
+      "confidence": "medium",
+      "note": "FY2024 (Apr 2023 to Mar 2024) developer sales at Blu: about 9,000 sq ft for Rs 19 crore, average Rs 21,802/sq ft. Read from a table with misaligned columns and cross-checked as value / area. Stage set to resale only because the project was complete; these are the developer's own last units, likely low-floor or podium."
     },
     {
       "date": "2025-12-01",
@@ -129,7 +208,88 @@
       "note": "Average asking price, down 1.1% QoQ from Rs 87,550 in Jun 2026. Unit asking prices (for example a 2 BHK of 809 sq ft carpet at Rs 7 crore, about Rs 86,500/sq ft) suggest a carpet basis."
     }
   ],
+  "rental_points": [
+    {
+      "date": "2021-10-26",
+      "config": "Large residence (not stated)",
+      "carpet_sqft": 5500,
+      "monthly_rent": 1250000,
+      "furnishing": "unknown",
+      "kind": "registered",
+      "source_name": "Squarefeat India (citing Zapkey documents)",
+      "source_url": "https://squarefeatindia.com/madhuri-dixits-per-month-rent-is-manys-dream-yearly-salary/",
+      "confidence": "medium",
+      "note": "Madhuri Dixit's lease of a 29th-floor Tower C flat for 36 months: Rs 12.5 lakh, Rs 13.12 lakh and Rs 13.78 lakh a month; Rs 3 crore deposit; 5 car parks. The year is inferred (reports appeared in Nov 2021 and she showed the home in Mar 2022). This article gives no area; the 5,500 sq ft carpet figure comes from other reports of the same lease ('carpet area ... over 5,500 sq ft')."
+    },
+    {
+      "date": "2025-07-31",
+      "config": "Unknown",
+      "carpet_sqft": 1380,
+      "monthly_rent": 350000,
+      "furnishing": "unknown",
+      "kind": "registered",
+      "source_name": "Property Butler (registered leases)",
+      "source_url": "https://propertybutler.in/building/indiabulls-blu",
+      "confidence": "low",
+      "note": "Registered lease as listed by Property Butler; configuration and area basis not given."
+    },
+    {
+      "date": "2025-09-10",
+      "config": "Unknown",
+      "carpet_sqft": 1250,
+      "monthly_rent": 380000,
+      "furnishing": "unknown",
+      "kind": "registered",
+      "source_name": "Property Butler (registered leases)",
+      "source_url": "https://propertybutler.in/building/indiabulls-blu",
+      "confidence": "low",
+      "note": "Registered lease as listed by Property Butler; configuration and area basis not given."
+    },
+    {
+      "date": "2026-11-16",
+      "config": "4 BHK",
+      "monthly_rent": 750000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Property Butler building review (asking)",
+      "source_url": "https://propertybutler.in/insights/building-deep-indiabulls-blu-worli-review-2026",
+      "confidence": "low",
+      "note": "Asking rent quoted at about Rs 437/sq ft, which implies roughly 1,700 sq ft (computed). Another 4 BHK listing on the same page asks Rs 6 lakh."
+    }
+  ],
   "news": [
+    {
+      "date": "2010-08-07",
+      "title": "Indiabulls wins NTC land in Mumbai for Rs1505 crore",
+      "url": "https://domain-b.com/industry/Real_estate/20100807_indiabulls.html",
+      "source": "domain-b",
+      "event_type": "deal",
+      "summary": "Indiabulls wins the 8.37-acre Bharat Textile Mills land near Worli Naka in an NTC e-auction for Rs 1,505 crore, outbidding Lodha, after buying the Poddar Mill land in Worli for Rs 474 crore. Indiabulls later said it bought the Blu land through two Worli mills for Rs 2,100 crore."
+    },
+    {
+      "date": "2016-06-10",
+      "title": "Indiabulls Chooses Otis to Provide High-Speed Elevators for Ultra-Luxury Project BLU",
+      "url": "https://prnewswire.com/in/news-releases/indiabulls-chooses-otis-to-provide-high-speed-elevators-for-ultra-luxury-project-blu-582466781.html",
+      "source": "PR Newswire (Otis press release)",
+      "event_type": "other",
+      "summary": "Otis supplies 37 elevators, 18 of them 4 m/s SkyRise units with destination dispatch, for three Blu towers above 200 m."
+    },
+    {
+      "date": "2021-11-01",
+      "title": "Madhuri Dixit leases 29th-floor Indiabulls Blu flat for Rs 12.5 lakh a month",
+      "url": "https://squarefeatindia.com/madhuri-dixits-per-month-rent-is-manys-dream-yearly-salary/",
+      "source": "Squarefeat India",
+      "event_type": "deal",
+      "summary": "Per Zapkey documents, Madhuri Dixit leases a Tower C flat for three years at Rs 12.5 lakh a month rising 5% a year, with a Rs 3 crore deposit. The article date is approximate."
+    },
+    {
+      "date": "2022-05-27",
+      "title": "Indiabulls Real Estate Q4FY22 call: about seven Blu units left",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachHis/39775f6e-89e8-429b-a5ca-c9891071a72c.pdf",
+      "source": "BSE filing (earnings call transcript)",
+      "event_type": "other",
+      "summary": "CEO Sachin Shah says roughly seven units, mostly Tower D podium units, remain; Blu's ~Rs 30,000/sq ft saleable price equals about Rs 50,000 on RERA carpet; a fifth tower (Blu Annex) is in planning."
+    },
     {
       "date": "2022-10-05",
       "title": "Madhuri Dixit buys apartment worth Rs 48 crore in Mumbai's Lower Parel",
@@ -137,6 +297,14 @@
       "source": "Business Standard",
       "event_type": "deal",
       "summary": "Madhuri Dixit-Nene buys a 5,384 sq ft 53rd-floor sea-view apartment in Indiabulls Blu for Rs 48 crore, with seven parking spaces."
+    },
+    {
+      "date": "2024-04-05",
+      "title": "Indiabulls Real Estate investor update: Blu Phase II FSI to be bought from Blackstone for ~Rs 1,150 crore",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachHis/27712eaa-4e33-4c24-80b7-d791bdc5e0b5.pdf",
+      "source": "BSE filing (investor update)",
+      "event_type": "other",
+      "summary": "The company plans to buy an entity holding Blu Phase II FSI rights from Blackstone Real Estate Fund and launch Blu Annex (one 80-floor, 332-unit tower on ~1.93 acres) in 2025."
     },
     {
       "date": "2024-06-20",

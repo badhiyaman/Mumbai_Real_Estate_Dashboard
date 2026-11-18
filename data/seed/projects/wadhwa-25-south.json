@@ -1,0 +1,177 @@
+{
+  "slug": "wadhwa-25-south",
+  "name": "25 South (Hubtown / Wadhwa), Prabhadevi",
+  "developer": "hubtown",
+  "micro_market": "prabhadevi",
+  "address": "Yadav Patel Lane, off Veer Savarkar (S.V.S.) Road, near Siddhivinayak Temple, Prabhadevi, Mumbai 400025",
+  "land_acres": 5.3,
+  "towers": 3,
+  "floors_max": 47,
+  "rera_ids": ["P51900006860", "P51900011418", "P51900030600", "P51900030729"],
+  "status": "under_construction",
+  "possession_promised": "2026-12-01",
+  "amenities": [
+    "Swimming pool and kids' pool",
+    "Gym, squash court, wellness spa",
+    "Mini theatre, multipurpose indoor games room",
+    "Party hall with outdoor lawn, outdoor barbecue spaces",
+    "Open-air amphitheatre, themed garden, meditation corner",
+    "Children's play area, senior citizens' area",
+    "Podium parking"
+  ],
+  "description": "A sea-facing luxury development on a 5.3-acre plot in Prabhadevi, designed by Hafeez Contractor, with large 3, 4 and 6 BHK homes (typically four per floor) in towers of up to 47 habitable floors above a 10-level podium. It is a Hubtown-group project (owned by 25 South Realty Ltd); the Wadhwa Group co-marketed it as development manager. It has drawn several large registered deals, including Rs 127 crore for the top three floors of one wing in 2018.",
+  "notes": "Developer: Gulf News (2018) and DNA (2018) describe 25 South as a Wadhwa Group and Hubtown project. A Hubtown NSE filing (Aug 2025) says the project is owned by 25 South Realty Ltd and proposed for amalgamation with Hubtown Ltd. A 2021 report seen only in search snippets (not verified) said Hubtown and Singapore's Rising Straits Capital own it, with Wadhwa as development manager since 2015; Oaktree Capital was also reported to have invested. Recent registrations name it 'Hubtown Twenty Five South North', so developer is set to hubtown. Towers: sources give two 57-storey towers, three towers of 55 floors, or South/Central/North towers of G+10P+47; DNA confirms floors 45-47 are the top three floors of one wing, so floors_max = 47 habitable. MahaRERA IDs come from listing sites and were not checked on the MahaRERA portal: P51900006860 (lower floors) and P51900011418 (11th-47th floors) for the earlier Wadhwa-marketed wing(s), and P51900030600 and P51900030729 for later Hubtown phases. Possession: listings range from Nov 2025 (PropTiger) to Dec 2026 (Housiey, RERA date); Housiey says the OC will be applied for near possession and construction is about 95% complete (Sep 2026). Land: 5.3 acres (Gulf News, 'open and slum-free', clear title); Housiey says 5.11 acres. Construction World has reported Hubtown awaiting approvals for a 60+ storey five-star hotel on the same plot (date not seen). No launch date or launch price was found. PropNewsTime counted 3 registered deals in Feb 2024. No rental listings were found for this project.",
+  "sources": [
+    "https://gulfnews.com/business/property/bespoke-living-in-mumbai-defined-1.1541674563889",
+    "https://www.dnaindia.com/mumbai/report-man-buys-three-full-floors-in-prabhadevi-building-for-rs-127-cr-2679000",
+    "https://www.ghar.tv/blog/devvrat-developers-purchases-five-luxury-homes-in-25-south-prabhadevi-in-south-mumbai-for-inr-113-crores/artid601",
+    "https://propnewstime.com/latestnewsstories/NjAwNg==/prabhadevi-real-estate-market-trends-for-february-2024",
+    "https://therealtytoday.com/news/news/nadiadwala-grandson-entertainment-acquires-two-luxury-apartments-worth-3657-crore-in-mumbais-prabhadevi/",
+    "https://housiey.com/projects/hubtown-25-south",
+    "https://nsearchives.nseindia.com/corporate/HUBTOWN_26082025155903_25Southpresentation26082025.pdf"
+  ],
+  "architect": "Hafeez Contractor",
+  "flats_per_floor": 4,
+  "views": ["sea", "city"],
+  "land_tenure": "unknown",
+  "unit_types": [
+    {
+      "config": "3 & 4 BHK (2018 marketing)",
+      "carpet_sqft_min": 1464,
+      "carpet_sqft_max": 3125,
+      "notes": "Gulf News (Nov 2018) gives sizes of 136.03 to 290.30 sq m (converted here to sq ft); basis not stated. No prices given."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1721,
+      "carpet_sqft_max": 1721,
+      "price_min_cr": 20.65,
+      "price_max_cr": 20.65,
+      "notes": "Housiey all-inclusive developer price (2026); marked sold out on the same page."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 2142,
+      "carpet_sqft_max": 4321,
+      "price_min_cr": 23.56,
+      "price_max_cr": 51.85,
+      "notes": "Housiey all-inclusive developer prices (2026). Registered: 2,390 and 2,382 sq ft carpet units sold for Rs 18.57 Cr and Rs 18 Cr in Oct 2025."
+    },
+    {
+      "config": "6 BHK",
+      "carpet_sqft_min": 7300,
+      "carpet_sqft_max": 7300,
+      "price_min_cr": 100,
+      "price_max_cr": 100,
+      "notes": "Housiey all-inclusive developer price (2026)."
+    },
+    {
+      "config": "Full-floor / multi-floor residences",
+      "carpet_sqft_min": 20989,
+      "carpet_sqft_max": 20989,
+      "price_min_cr": 127.49,
+      "price_max_cr": 127.49,
+      "units": 1,
+      "notes": "Floors 45-47 of one wing bought by Welspun's Rajesh Mandawewala (DNA, Oct 2018), 20,989 sq ft carpet in total."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2018-10-25",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 60740,
+      "basis": "carpet",
+      "source_name": "DNA",
+      "source_url": "https://www.dnaindia.com/mumbai/report-man-buys-three-full-floors-in-prabhadevi-building-for-rs-127-cr-2679000",
+      "confidence": "medium",
+      "note": "Computed: over Rs 127.49 Cr divided by 20,989 sq ft carpet for the top three floors (45-47) of one wing; stamp duty over Rs 6.37 Cr. Registration date not stated. A bulk top-floor purchase, so not a typical unit rate."
+    },
+    {
+      "date": "2022-11-28",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 56720,
+      "basis": "unknown",
+      "source_name": "Ghar.tv (IndexTap registration data)",
+      "source_url": "https://www.ghar.tv/blog/devvrat-developers-purchases-five-luxury-homes-in-25-south-prabhadevi-in-south-mumbai-for-inr-113-crores/artid601",
+      "confidence": "high",
+      "note": "Computed: about Rs 113 Cr divided by about 19,922 sq ft for five units (a duplex on floors 45-46 plus four 45th-floor flats) bought by Devvrat Developers, registered 28 Nov 2022. Realty+ called the area 'built-up'; Ghar.tv does not give a basis. Single 3,355 sq ft units went for Rs 19.45 Cr (about Rs 57,970/sq ft)."
+    },
+    {
+      "date": "2024-02-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 73717,
+      "basis": "carpet",
+      "source_name": "PropNewsTime (Prabhadevi market trends, Feb 2024)",
+      "source_url": "https://propnewstime.com/latestnewsstories/NjAwNg==/prabhadevi-real-estate-market-trends-for-february-2024",
+      "confidence": "medium",
+      "note": "The most expensive Prabhadevi apartment sold in Feb 2024: Rs 29.22 Cr at Rs 73,717/sq ft in 'Hubtown 25 South'. That implies 3,965 sq ft, which matches the month's 'largest carpet area sold', so the basis is taken as carpet."
+    },
+    {
+      "date": "2025-10-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 77700,
+      "basis": "carpet",
+      "source_name": "The Realty Today (IGR documents reviewed by Square Yards)",
+      "source_url": "https://therealtytoday.com/news/news/nadiadwala-grandson-entertainment-acquires-two-luxury-apartments-worth-3657-crore-in-mumbais-prabhadevi/",
+      "confidence": "high",
+      "note": "Computed: Rs 18.57 Cr divided by 222.13 sq m (about 2,390 sq ft) carpet, in Hubtown Twenty Five South North, bought by Nadiadwala Grandson Entertainment. The second unit, Rs 18 Cr for about 2,382 sq ft, works out to about Rs 75,600/sq ft."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 110000,
+      "basis": "carpet",
+      "source_name": "Housiey (developer price sheet as listed)",
+      "source_url": "https://housiey.com/projects/hubtown-25-south",
+      "confidence": "low",
+      "note": "Computed: 4 BHK 2,142 sq ft carpet at Rs 23.56 Cr all-inclusive (about Rs 1.10 lakh/sq ft); other units range from about Rs 1.10 to 1.37 lakh. All-inclusive prices (incl. charges and possibly parking/GST), so higher than registered agreement values."
+    }
+  ],
+  "news": [
+    {
+      "date": "2018-10-25",
+      "title": "Man buys three full floors in Prabhadevi building for Rs 127 cr",
+      "url": "https://www.dnaindia.com/mumbai/report-man-buys-three-full-floors-in-prabhadevi-building-for-rs-127-cr-2679000",
+      "source": "DNA",
+      "event_type": "deal",
+      "summary": "Welspun Group MD Rajesh Mandawewala buys floors 45-47 of a 25 South wing, 20,989 sq ft carpet, for over Rs 127.49 crore."
+    },
+    {
+      "date": "2022-12-07",
+      "title": "Devvrat Developers Purchases Five Luxury Homes in 25 South, Prabhadevi in South Mumbai For INR 113 Crores",
+      "url": "https://www.ghar.tv/blog/devvrat-developers-purchases-five-luxury-homes-in-25-south-prabhadevi-in-south-mumbai-for-inr-113-crores/artid601",
+      "source": "Ghar.tv",
+      "event_type": "deal",
+      "summary": "Raigad-based Devvrat Developers registers five units (a 45th-46th floor duplex and four 45th-floor flats) for about Rs 113 crore on 28 Nov 2022, with 11 car parks."
+    },
+    {
+      "date": "2024-03-25",
+      "title": "Prabhadevi real estate market trends for February 2024",
+      "url": "https://propnewstime.com/latestnewsstories/NjAwNg==/prabhadevi-real-estate-market-trends-for-february-2024",
+      "source": "PropNewsTime",
+      "event_type": "deal",
+      "summary": "Hubtown 25 South had Prabhadevi's costliest sale of the month (Rs 29.22 crore at Rs 73,717/sq ft) and its largest carpet area (3,965 sq ft), with 3 deals in Feb 2024."
+    },
+    {
+      "date": "2025-10-16",
+      "title": "Hubtown to merge promoter entities, boost assets and cut debt",
+      "url": "https://filingreader.com/news-wire/mumbai/2025-10-16/hubtown-to-merge-promoter-entities-boost-assets-and-cut-debt",
+      "source": "FilingReader",
+      "event_type": "other",
+      "summary": "Hubtown plans to merge promoter entities holding 25 West (Bandra), 25 South (Prabhadevi) and 25 Downtown (Mahalaxmi) into the listed company. Read from search snippets only; article not retrieved."
+    },
+    {
+      "date": "2025-10-29",
+      "title": "Nadiadwala Grandson Entertainment Acquires Two Luxury Apartments Worth ₹36.57 Crore in Mumbai's Prabhadevi",
+      "url": "https://therealtytoday.com/news/news/nadiadwala-grandson-entertainment-acquires-two-luxury-apartments-worth-3657-crore-in-mumbais-prabhadevi/",
+      "source": "The Realty Today",
+      "event_type": "deal",
+      "summary": "Two apartments of about 2,390 and 2,382 sq ft carpet in Hubtown Twenty Five South North registered for Rs 18.57 crore and Rs 18 crore (Square Yards review of IGR documents)."
+    }
+  ]
+}

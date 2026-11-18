@@ -1,0 +1,21 @@
+{
+  "developers": [
+    {
+      "slug": "godrej-properties",
+      "name": "Godrej Properties Ltd",
+      "website": "https://www.godrejproperties.com",
+      "listed_ticker": "NSE: GODREJPROP",
+      "delivery_track_record": "Large national developer and part of the Godrej group. Its Mumbai ultra-luxury flagship, Godrej Trilogy (Worli), launched in Nov 2025 with MahaRERA completion dates of Dec 2033 and Dec 2034, so it has no delivery record yet at this price point. Company-wide, it delivered about 1.7 million sq ft across 3 cities in Q3 FY26.",
+      "notes": "Q3 FY26 booking value was Rs 8,421 crore (3,973 homes, 6.43 million sq ft), with MMR contributing Rs 3,239 crore, led by Godrej Trilogy (Rs 1,742 crore, 0.31 million sq ft). Source: Q3 FY26 results presentation, https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/05022026/703e62b8-59e2-493d-83d5-321699291b9f.pdf . Founding year not confirmed from a fetched source, so it is left out."
+    },
+    {
+      "slug": "birla-estates",
+      "name": "Birla Estates Pvt Ltd (Aditya Birla Group; parent Aditya Birla Real Estate Ltd, formerly Century Textiles and Industries Ltd)",
+      "website": "https://www.birlaestates.com",
+      "listed_ticker": "NSE: ABREL",
+      "delivery_track_record": "Relatively new residential developer and a wholly owned subsidiary of the listed parent. Its Mumbai flagship, Birla Niyaara (Worli), is under construction with MahaRERA completion dates of Mar 2028 (Tower A) and Mar 2029 (Silas); no completed luxury project was found in the sources read. The parent's Worli commercial assets (Birla Aurora, Birla Centurion) are completed and leased.",
+      "notes": "Birla Niyaara was the top-selling MMR project of CY2022 (Rs 1,915 crore) and had cumulative sales of over Rs 5,700 crore by Sep 2024. In Sep 2024 the parent bought a 10-acre Worli parcel for Rs 1,100 crore, creating a 30-acre contiguous holding (https://www.angelone.in/news/share-market/century-textiles-acquires-prime-worli-land). Other luxury land includes Walkeshwar (Malabar Hill), acquired Apr 2023 (https://propnewstime.com/latestnewsstories/NjkxMg==/birla-estates-silas-tower-at-birla-niyaara-records-sales-of-inr-2500-crore-at-launch). The listed parent was renamed from Century Textiles to Aditya Birla Real Estate (https://www.screener.in/company/ABREL/consolidated/); the exact renaming date was not confirmed from a fetched source."
+    }
+  ],
+  "micro_markets": []
+}

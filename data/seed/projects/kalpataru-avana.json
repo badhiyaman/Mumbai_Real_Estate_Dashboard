@@ -6,8 +6,9 @@
   "address": "Off Dr. S.S. Rao Road / Dr. Walimbe Road, behind ITC Grand Central, Parel, Mumbai 400012",
   "lat": 19.004,
   "lng": 72.8395,
-  "towers": 1,
-  "floors_max": 57,
+  "land_acres": 2.3,
+  "towers": 2,
+  "floors_max": 52,
   "total_units": 276,
   "rera_ids": ["P51900000793"],
   "status": "completed",
@@ -26,15 +27,29 @@
     "High-speed elevators"
   ],
   "description": "A single high-rise luxury residential building (North and South wings) by Kalpataru behind ITC Grand Central in Parel, with 3 BHK, 4 BHK and 5 BHK duplex homes. The developer highlights east-west orientation, 12'10\" floor-to-floor height and wide sundecks facing the eastern seaboard. Kalpataru lists it as completed with full Occupation Certificate received.",
-  "notes": "MahaRERA P51900000793 (RERA completion date 30 Dec 2022). Kalpataru's site says 'Full OC received', but no OC date was found. Listing sites say possession began around Sep-Dec 2022 and that the OC appears in Kalpataru's FY2022-23 annual report (not independently verified). Launch: Housing.com says May 2014 and Square Yards says April 2014. Older listings quoted possession of Dec 2020 or Dec 2021, which points to a delay of roughly 2 years against early marketing dates, though no news coverage of the delay was found. Floors conflict across listings (44, 50, 52, 'up to 57'; one says 2 basements + 6 podium + 40 habitable floors per tower), so floors_max of 57 is from a single aggregator citing MahaRERA. Units are 276 per RERA-derived data (Square Yards: 254 booked as of Nov 2025; another listing says 272). Land area also conflicts (2.3 / 2.4 / 0.33 acres), so it is omitted. No independent news coverage (launch, deals, litigation) was found for this project.",
   "image_url": "https://d2j4tkbto6uvqv.cloudfront.net/kalpataru/5f99366366670.jpg",
+  "notes": "MahaRERA P51900000793 (RERA completion date 30 Dec 2022). Kalpataru's site says 'Full OC received', but no OC date was found. Listing sites say possession began around Sep-Dec 2022 and that the OC appears in Kalpataru's FY2022-23 annual report (not independently verified). Launch: Housing.com says May 2014 and Square Yards says April 2014. Older listings quoted possession of Dec 2020 or Dec 2021, which points to a delay of roughly 2 years against early marketing dates, though no news coverage of the delay was found. Floors conflict across listings (44, 50, 52, 'up to 57'; one says 2 basements + 6 podium + 40 habitable floors per tower), so floors_max of 57 is from a single aggregator citing MahaRERA. Units are 276 per RERA-derived data (Square Yards: 254 booked as of Nov 2025; another listing says 272). Land area also conflicts (2.3 / 2.4 / 0.33 acres), so it is omitted. No independent news coverage (launch, deals, litigation) was found for this project. Enrichment (Nov 2026), from Kalpataru Ltd's IPO red herring prospectus (RHP, June 2025): Avana is two residential towers of 41 floors each, on 2.30 acres, with 0.58 million sq ft of saleable area; the first habitable floor is 90 ft above ground; it has only two apartments per floor and IGBC Green Homes Platinum certification; it completed in 2022 against a RERA date of 30 Dec 2022; and 86.01% of saleable area (0.50 msf) was sold before the OC. CHANGED: towers from 1 to 2 (RHP says two residential towers; the developer site calls them North and South wings), floors_max from 57 to 52 (CTBUH lists 52 floors above ground and 201 m, completed 2022; the RHP's 41 floors appear to be habitable floors above the podium), and land_acres set to 2.30 per the RHP (resolving the earlier 2.3 / 2.4 / 0.33 conflict). The RHP's 'saleable area' is carpet plus loading for common areas, services, parking and amenities, so its average realisations (Rs 25,735 to 33,057/sq ft) sit well below carpet-basis registered and asking rates. Litigation: the RHP discloses 10 appeals by Avana buyers pending before real-estate authorities, claiming interest and compensation for delayed possession, which Kalpataru contests; rera_complaints records these 10. Units: Square Yards' RERA-based breakdown (Nov 2025) is 48 3 BHK, 82 4 BHK, 4 5 BHK, 8 duplexes and 134 'studio' units (10 type 1, 124 type 2), 276 in all with 254 booked; two flats per floor across 2 x 41 floors would give only 164 large apartments (computed), so the studios may be ancillary units, and unit_types counts exclude them. The 12 under '5 BHK / duplex' are 4 5 BHK plus 8 duplexes. OC date is still not found. Views: 'sea' refers to the developer's sundecks facing open green spaces and the eastern seaboard (harbour side), not the western sea face.nearest_metro is a monorail station, straight-line distance per Mumbai Property Exchange; Currey Road rail station is about 1.2 km. Mumbai Property Exchange's MahaRERA extract names Atul Gulati as architect (unverified, so architect is left out). Liquidity conflicts: PropertyButler counts 9 registered sales and 6 leases in 12 months, Square Yards only 2 sales, so transactions_12m is left out. No launch-era (2014) price was found; the earliest sourced figures are the Sep 2020 registered deed and the RHP's FY2022 average.",
   "sources": [
     "https://www.kalpataru.com/mumbai/kalpataru-avana",
     "https://www.squareyards.com/mumbai-residential-property/kalpataru-avana/2803/project",
     "https://www.mumbaipropertyexchange.com/project/kalpataru-avana-parel-by-493/9775",
     "https://realtyhunting.com/kalpataru-avana-parel-mumbai/",
-    "https://housing.com/in/buy/resale/page/16193933-4-bhk-apartment-in-parel-for-rs-135000000"
+    "https://housing.com/in/buy/resale/page/16193933-4-bhk-apartment-in-parel-for-rs-135000000",
+    "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+    "https://www.skyscrapercenter.com/building/kalpataru-avana/22427",
+    "https://propertybutler.in/building/kalpataru-avana",
+    "https://www.squareyards.com/rent/4-bhk-flat-in-kalpataru-avana-mumbai",
+    "https://www.rentu.in/property/9809520/3-bhk-flat-for-rent-in-kalpataru-avana-parel"
   ],
+  "flats_per_floor": 2,
+  "green_certification": "IGBC Green Homes Platinum",
+  "views": ["sea"],
+  "oc_received": true,
+  "rera_complaints": 10,
+  "units_sold": 254,
+  "units_sold_as_of": "2025-11-01",
+  "nearest_metro": "Ambedkar Nagar (Mumbai Monorail)",
+  "nearest_metro_km": 0.3,
   "unit_types": [
     {
       "config": "3 BHK",
@@ -42,6 +57,7 @@
       "carpet_sqft_max": 1846,
       "price_min_cr": 11.67,
       "price_max_cr": 11.67,
+      "units": 48,
       "notes": "Square Yards asking price, Sep 2026. RealtyHunting describes a roughly 1,848 sq ft carpet unit as a 4 BHK at about Rs 13.5 Cr, so configuration labels differ between sources."
     },
     {
@@ -50,6 +66,7 @@
       "carpet_sqft_max": 2645,
       "price_min_cr": 15.52,
       "price_max_cr": 16.72,
+      "units": 82,
       "notes": "Square Yards asking price, Sep 2026."
     },
     {
@@ -58,10 +75,88 @@
       "carpet_sqft_max": 3855,
       "price_min_cr": 24.36,
       "price_max_cr": 24.36,
+      "units": 12,
       "notes": "Square Yards asking price, Sep 2026."
     }
   ],
   "price_points": [
+    {
+      "date": "2020-09-25",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 37783,
+      "basis": "unknown",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/kalpataru-avana",
+      "confidence": "medium",
+      "note": "Rs 4.98 crore for 1,317 sq ft on the 11th floor (Rs 37,783/sq ft as listed). The deed area is smaller than any listed 3 BHK carpet, so the unit type is unclear."
+    },
+    {
+      "date": "2022-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 25735,
+      "basis": "saleable",
+      "source_name": "Kalpataru Ltd RHP (June 2025), pricing-trend table",
+      "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "confidence": "high",
+      "note": "Average price per sq ft of saleable area for FY2022 (Apr 2021 to Mar 2022); dated at the end of the year. Saleable area includes loading for common areas, parking and amenities."
+    },
+    {
+      "date": "2023-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 29092,
+      "basis": "saleable",
+      "source_name": "Kalpataru Ltd RHP (June 2025), pricing-trend table",
+      "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "confidence": "high",
+      "note": "Average price per sq ft of saleable area for FY2023 (Apr 2022 to Mar 2023)."
+    },
+    {
+      "date": "2023-08-30",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 58071,
+      "basis": "unknown",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/kalpataru-avana",
+      "confidence": "medium",
+      "note": "Rs 12.29 crore for 2,116 sq ft on the 20th floor (Rs 58,071/sq ft as listed). Seller not stated, so this may be a developer sale."
+    },
+    {
+      "date": "2024-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 33057,
+      "basis": "saleable",
+      "source_name": "Kalpataru Ltd RHP (June 2025), pricing-trend table",
+      "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "confidence": "high",
+      "note": "Average price per sq ft of saleable area for FY2024 (Apr 2023 to Mar 2024)."
+    },
+    {
+      "date": "2024-11-12",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 53352,
+      "basis": "unknown",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/kalpataru-avana",
+      "confidence": "medium",
+      "note": "Rs 7.80 crore for 1,462 sq ft on the 11th floor (Rs 53,352/sq ft as listed)."
+    },
+    {
+      "date": "2024-12-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 31892,
+      "basis": "saleable",
+      "source_name": "Kalpataru Ltd RHP (June 2025), pricing-trend table",
+      "source_url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "confidence": "high",
+      "note": "Average price per sq ft of saleable area for the nine months Apr to Dec 2024."
+    },
     {
       "date": "2025-03-01",
       "date_precision": "month",
@@ -118,5 +213,64 @@
       "note": "Computed: a ~1,848 sq ft carpet 4 BHK quoted at about Rs 13.5 Cr (page updated 6 Oct 2026; described as indicative)."
     }
   ],
-  "news": []
+  "rental_points": [
+    {
+      "date": "2026-06-19",
+      "config": "4 BHK",
+      "carpet_sqft": 2224,
+      "monthly_rent": 700000,
+      "furnishing": "furnished",
+      "kind": "asking",
+      "source_name": "Square Yards (rental listings)",
+      "source_url": "https://www.squareyards.com/rent/4-bhk-flat-in-kalpataru-avana-mumbai",
+      "confidence": "low",
+      "note": "30th floor. Date is the page's last-updated date (listing dates not shown)."
+    },
+    {
+      "date": "2026-06-19",
+      "config": "4 BHK",
+      "carpet_sqft": 2450,
+      "monthly_rent": 600000,
+      "furnishing": "unfurnished",
+      "kind": "asking",
+      "source_name": "Square Yards (rental listings)",
+      "source_url": "https://www.squareyards.com/rent/4-bhk-flat-in-kalpataru-avana-mumbai",
+      "confidence": "low",
+      "note": "Date is the page's last-updated date."
+    },
+    {
+      "date": "2026-06-19",
+      "config": "4 BHK",
+      "carpet_sqft": 2455,
+      "monthly_rent": 720000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "Square Yards (rental listings)",
+      "source_url": "https://www.squareyards.com/rent/4-bhk-flat-in-kalpataru-avana-mumbai",
+      "confidence": "low",
+      "note": "Listed with 3 open parking spaces. Date is the page's last-updated date."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1842,
+      "monthly_rent": 425000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Rentu (building rent snapshot)",
+      "source_url": "https://www.rentu.in/property/9809520/3-bhk-flat-for-rent-in-kalpataru-avana-parel",
+      "confidence": "low",
+      "note": "Median 3 BHK asking rent (range Rs 4.04 to 4.25 lakh, about Rs 230/sq ft on a typical 1,842 sq ft carpet). Seen 18 Nov 2026."
+    }
+  ],
+  "news": [
+    {
+      "date": "2025-06-19",
+      "title": "Kalpataru Limited red herring prospectus discloses 10 pending RERA appeals by Avana buyers",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750397109250.pdf",
+      "source": "SEBI (Kalpataru Ltd RHP)",
+      "event_type": "rera",
+      "summary": "Kalpataru's IPO prospectus lists 10 appeals by Kalpataru Avana buyers pending before real-estate authorities, seeking interest and compensation for alleged delays in possession; the company denies any delay. It also reports FY2022 to Dec 2024 average realisations of Rs 25,735 to 33,057/sq ft of saleable area."
+    }
+  ]
 }

@@ -1,0 +1,132 @@
+{
+  "slug": "lodha-sea-face",
+  "name": "Lodha Sea Face",
+  "developer": "lodha",
+  "micro_market": "worli",
+  "address": "Worli Sea Face, Worli, Mumbai 400018",
+  "land_acres": 1.5,
+  "towers": 1,
+  "floors_max": 39,
+  "total_units": 29,
+  "rera_ids": [
+    "P51900053592"
+  ],
+  "status": "under_construction",
+  "launch_date": "2023-11-10",
+  "possession_promised": "2029-02-28",
+  "amenities": [
+    "Private swimming pool (per FPJ deal report)",
+    "Gymnasium",
+    "Concierge services",
+    "Seven car parks per large residence (per registered deals)"
+  ],
+  "description": "An ultra-luxury single tower of 29 residences on Worli Sea Face, developed and sold directly by Lodha (Macrotech Developers). Homes are 5 and 6 BHK, from about 7,200 sq ft carpet, with sea views from every residence (developer claim). It was registered with MahaRERA in Nov 2023 for completion in Feb 2029. It produced several of Mumbai's largest primary deals in 2024-25, at about Rs 1.24-1.26 lakh per sq ft on the areas cited in registration-based reports.",
+  "notes": "MahaRERA (Square Yards snapshot read 18 Nov 2026): 29 apartments in Wing A, 39 habitable floors, commencement 10 Nov 2023, completion 28 Feb 2029 (not revised), 10% overall construction (excavation 100%, superstructure slabs 12%). Square Yards' progress log shows structure works rising from 3% in Jun 2024 to 27% in Mar 2026. Sales: 3 registered + 6 booked of 29 (units_sold = 9, from the same snapshot); Square Yards said 2 of 29 were booked as of Oct 2024. Area conflict: news reports based on registration documents give 14,866 sq ft (1,381.09 sq m) for the 30th-floor (Seema Singh) and 25th-floor (SR Menon) deals and 10,538 sq ft for the 40th-floor (Anand Rathi family) deal. MahaRERA's inventory shows those units at 729.75 sq m (about 7,855 sq ft) and 1,082.78 sq m carpet, and lists the Dec 2024 sale as unit 3201 rather than 3001. On MahaRERA carpet the Rs 185-187 crore deals would be about Rs 2.36-2.39 lakh/sq ft, so the larger registered areas probably include decks or other areas. The price points use the per-sq-ft figures implied by the reports, with basis 'unknown'. Booked-but-unregistered MahaRERA rows work out to about Rs 1.50 lakh/sq ft on carpet (for example unit 1801 at Rs 118.07 crore / 729.75 sq m, and 4501 at Rs 208.95 crore / 1,290.41 sq m), matching Square Yards' listed rate of about Rs 1.5 lakh/sq ft. Land: 1.5 acres per Square Yards and press reports; Lodha's own page describes about one acre. Possession: Square Yards and MahaRERA say Feb 2029; one listing says Dec 2029. Square Yards' 'price trend' (about Rs 68,500/sq ft) and its resale and rental listings for this project clearly include other buildings (for example a 980 sq ft 2 BHK), so they are not used. No rental points are possible as the building is under construction. No floor-rise schedule, payment plan or maintenance rate was found.",
+  "sources": [
+    "https://www.squareyards.com/mumbai-residential-property/lodha-sea-face/237181/project/rera/p51900053592",
+    "https://www.squareyards.com/mumbai-residential-property/lodha-sea-face/237181/project",
+    "https://www.freepressjournal.in/business/mumbai-real-estate-alkem-labs-promoter-seema-singh-buys-luxury-apartment-in-worlis-lodha-sea-face-complex-for-185-crore",
+    "https://www.freepressjournal.in/business/luxury-apartment-in-mumbai-sold-for-187-crore-prices-in-worli-continue-to-rise",
+    "https://www.outlookbusiness.com/corporate/macrotech-developers-sells-nearly-15k-sq-ft-flat-for-rs-187-crore-in-mumbai",
+    "https://www.geosquare.in/anand-rathi-group-family-acquires-luxurious-flat-in-worli-for-1317-crore-114956218717-news",
+    "https://www.lodhagroup.com/projects/residential-property-in-mumbai/lodha-sea-face"
+  ],
+  "car_parks_per_unit": 7,
+  "views": [
+    "sea"
+  ],
+  "land_tenure": "unknown",
+  "oc_received": false,
+  "units_sold": 9,
+  "units_sold_as_of": "2026-11-18",
+  "unit_types": [
+    {
+      "config": "5 BHK",
+      "carpet_sqft_min": 7210,
+      "carpet_sqft_max": 7960,
+      "price_min_cr": 108.15,
+      "price_max_cr": 119.4,
+      "notes": "Square Yards listing (asking, about Rs 1.5 lakh/sq ft). MahaRERA's typical unit is 729.75 sq m (about 7,855 sq ft)."
+    },
+    {
+      "config": "6 BHK",
+      "carpet_sqft_min": 9538,
+      "carpet_sqft_max": 13890,
+      "price_min_cr": 143.07,
+      "price_max_cr": 208.95,
+      "notes": "Square Yards lists 9,538 sq ft at Rs 143.07 crore (asking). The largest MahaRERA rows are 1,082.78-1,290.41 sq m (about 11,655-13,890 sq ft); unit 4501 is booked at Rs 208.95 crore."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2024-12-11",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 124446,
+      "basis": "unknown",
+      "source_name": "Free Press Journal (citing IndexTap registration documents)",
+      "source_url": "https://www.freepressjournal.in/business/mumbai-real-estate-alkem-labs-promoter-seema-singh-buys-luxury-apartment-in-worlis-lodha-sea-face-complex-for-185-crore",
+      "confidence": "high",
+      "note": "Seema Singh (Alkem Laboratories) bought apartment 3001, 30th floor, A-Wing, 14,866 sq ft, for Rs 185 crore; stamp duty Rs 9.25 crore. The rate is as reported. MahaRERA lists the unit at 729.75 sq m carpet, which would imply about Rs 2.36 lakh/sq ft."
+    },
+    {
+      "date": "2025-03-13",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 126110,
+      "basis": "unknown",
+      "source_name": "Outlook Business / Free Press Journal (citing registration documents reviewed by Square Yards)",
+      "source_url": "https://www.outlookbusiness.com/corporate/macrotech-developers-sells-nearly-15k-sq-ft-flat-for-rs-187-crore-in-mumbai",
+      "confidence": "high",
+      "note": "Computed: SR Menon Properties LLP bought a 14,866 sq ft (1,381.09 sq m) apartment for Rs 187.47 crore, with seven car parks and stamp duty of Rs 11.25 crore. MahaRERA shows unit 2501 at 729.75 sq m carpet (about Rs 2.39 lakh/sq ft on that basis)."
+    },
+    {
+      "date": "2025-08-20",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 124976,
+      "basis": "unknown",
+      "source_name": "GeoSquare / Mint (citing registration documents accessed by CRE Matrix)",
+      "source_url": "https://www.geosquare.in/anand-rathi-group-family-acquires-luxurious-flat-in-worli-for-1317-crore-114956218717-news",
+      "confidence": "high",
+      "note": "Computed: Pradeep and Priti Gupta (Anand Rathi group) bought a 40th-floor 10,538 sq ft apartment for Rs 131.7 crore, with seven car parks. MahaRERA lists the Aug 2025 sale as unit 4301 with 1,082.78 sq m carpet (about Rs 1.13 lakh/sq ft on that basis)."
+    },
+    {
+      "date": "2026-11-18",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 149999,
+      "basis": "carpet",
+      "source_name": "Square Yards (listed asking rate)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/lodha-sea-face/237181/project",
+      "confidence": "low",
+      "note": "Listed rate of Rs 1,49,999/sq ft plus charges (5 BHK 7,210-7,960 sq ft at Rs 108.15-119.40 crore; 6 BHK 9,538 sq ft at Rs 143.07 crore). This matches the booked-unit agreement values on MahaRERA."
+    }
+  ],
+  "news": [
+    {
+      "date": "2024-12-13",
+      "title": "Mumbai real estate: Alkem Labs promoter Seema Singh buys luxury apartment in Worli's Lodha Sea Face complex for Rs 185 crore",
+      "url": "https://www.freepressjournal.in/business/mumbai-real-estate-alkem-labs-promoter-seema-singh-buys-luxury-apartment-in-worlis-lodha-sea-face-complex-for-185-crore",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "A 30th-floor, 14,866 sq ft, nine-bedroom apartment bought from Macrotech Developers on 11 Dec 2024 at about Rs 1.24 lakh/sq ft, per IndexTap documents."
+    },
+    {
+      "date": "2025-03-20",
+      "title": "Luxury apartment in Mumbai sold for Rs 187 crore, prices in Worli continue to rise",
+      "url": "https://www.freepressjournal.in/business/luxury-apartment-in-mumbai-sold-for-187-crore-prices-in-worli-continue-to-rise",
+      "source": "Free Press Journal",
+      "event_type": "deal",
+      "summary": "SR Menon Properties LLP bought a roughly 15,000 sq ft apartment directly from Macrotech for Rs 187.47 crore with seven car parks; stamp duty Rs 11.25 crore."
+    },
+    {
+      "date": "2025-08-22",
+      "title": "Anand Rathi Group family acquires luxurious flat in Worli for Rs 131.7 crore",
+      "url": "https://www.geosquare.in/anand-rathi-group-family-acquires-luxurious-flat-in-worli-for-1317-crore-114956218717-news",
+      "source": "GeoSquare (originally reported by Mint)",
+      "event_type": "deal",
+      "summary": "A 40th-floor 10,538 sq ft apartment in the under-construction Lodha Sea Face, registered 20 Aug, per CRE Matrix."
+    }
+  ]
+}

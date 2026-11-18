@@ -34,8 +34,8 @@ for (const f of files) {
       continue;
     }
     const merged = fillBlanks(cur, m);
-    const names = new Set(cur.catalysts.map((c) => c.name.toLowerCase()));
-    merged.catalysts = [...cur.catalysts, ...m.catalysts.filter((c) => !names.has(c.name.toLowerCase()))];
+    const names = new Set((cur.catalysts ?? []).map((c) => c.name.toLowerCase()));
+    merged.catalysts = [...(cur.catalysts ?? []), ...(m.catalysts ?? []).filter((c) => !names.has(c.name.toLowerCase()))];
     mms.set(m.slug, merged);
   }
 }

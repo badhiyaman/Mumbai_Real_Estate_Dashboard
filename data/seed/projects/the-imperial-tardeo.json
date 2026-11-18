@@ -1,0 +1,72 @@
+{
+  "slug": "the-imperial-tardeo",
+  "name": "The Imperial Towers, Tardeo",
+  "developer": "sd-corporation",
+  "micro_market": "tardeo",
+  "address": "Balkrishna Nakashe Marg, near Tardeo Road / Altamount Road junction, Tardeo, Mumbai 400034",
+  "lat": 18.9708,
+  "lng": 72.8128,
+  "towers": 2,
+  "floors_max": 60,
+  "rera_ids": [],
+  "status": "completed",
+  "possession_actual": "2010-03-01",
+  "amenities": [
+    "The Imperial Club (three levels; run with Leela hotels per Wikipedia): heated pool, private dining, fitness atelier, spa, library, golf simulator, banquet hall, guest suites",
+    "Landscaped garden and cabanas",
+    "Outdoor pool and water features",
+    "Indoor pool",
+    "Terrace lounge"
+  ],
+  "description": "Twin 60-storey residential towers (about 256 m to the spire) by SD Corporation, the Shapoorji Pallonji and Dilip Thacker group joint venture, designed by Hafeez Contractor and built by Shapoorji Pallonji. Completed in 2010, they were India's tallest buildings until 2019, when Lodha Park overtook them. The project was built on a slum-rehabilitation model: the developer rehoused slum dwellers in exchange for development rights. Residences range from about 2,500 to 10,000 sq ft, with four flats on a typical floor and duplexes above the 40th floor.",
+  "notes": "Scope: this file covers the two completed 2010 towers (CTBUH: 'The Imperial I' / SD Tower I and 'The Imperial II'). Later SD Corp phases in the same 'Imperial Collective' are separate and NOT included: The Imperial Edge (MahaRERA P51900000723, 46 units, original completion Dec 2021, ready), the new 62-storey 'The Imperial i' (P51900050473, just over 100 residences, possession Dec 2029) and Imperial T3 Wing C / C1 (PR1171012502413, PR1170002601316, completions 2033-34). Square Yards' 'Shapoorji Pallonji The Imperial' page mixes these new phases with older registrations (asking Rs 1,05,850/sq ft and one registered sale averaging Rs 53,600/sq ft, Nov 2025-Oct 2026), so its figures were not used for the 2010 towers. Timeline: CTBUH gives construction start 2002 (proposed 2001) and completion 2010; Wikipedia gives start 2005. Wikipedia cites a Mumbai Boss report (11 Mar 2010) that the towers opened for possession. Lifts: CTBUH lists 17 elevator cars for The Imperial I. Land: Wikipedia describes the slum-rehabilitation model but no SRA scheme details or land area were found. Litigation: in May 2013 flat owners took on the builder over VAT (Times of India, cited by Wikipedia; not retrieved). GAP: no sourced launch price, resale price or rental listing was found for the 2010 towers; the web-search budget ran out before targeted searches (Zapkey, Square Yards registrations, news of resale deals) could be done.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Imperial_(Mumbai)",
+    "https://www.skyscrapercenter.com/building/wd/889",
+    "https://www.sdcorp.in/projects/the-imperial-towers",
+    "https://www.sdcorp.in/projects/the-imperial-i",
+    "https://www.homebazaar.com/the-imperial-edge-tardeo-3491",
+    "https://www.squareyards.com/mumbai-residential-property/shapoorji-pallonji-the-imperial/27259/project",
+    "http://www.dnaindia.com/mumbai/report-mumbais-realty-going-vertical-with-a-vengeance-1745748"
+  ],
+  "architect": "Hafeez Contractor",
+  "contractor": "Shapoorji Pallonji & Co. Ltd",
+  "flats_per_floor": 4,
+  "lifts_per_tower": 17,
+  "views": ["sea", "city"],
+  "land_type": "sra",
+  "land_tenure": "unknown",
+  "unit_types": [
+    {
+      "config": "Large apartments and duplexes",
+      "notes": "SD Corp: residences from 2,500 to 10,000 sq ft (area basis not stated); CTBUH: four units on a typical floor, all units above the 40th floor are duplexes. No configuration-wise prices were found."
+    }
+  ],
+  "price_points": [],
+  "news": [
+    {
+      "date": "2010-03-11",
+      "title": "Imperial Towers Opens For Possession",
+      "url": "https://web.archive.org/web/20101218104254/http://mumbaiboss.com/2010/03/11/biz-news-imperial-towers-opens-for-possession/",
+      "source": "Mumbai Boss (archived)",
+      "event_type": "possession",
+      "summary": "The twin towers open for possession (cited by Wikipedia; the archived article could not be retrieved)."
+    },
+    {
+      "date": "2012-09-26",
+      "title": "Mumbai's realty: Going vertical with a vengeance",
+      "url": "http://www.dnaindia.com/mumbai/report-mumbais-realty-going-vertical-with-a-vengeance-1745748",
+      "source": "DNA",
+      "event_type": "other",
+      "summary": "The 60-storey Imperial Towers displaced Shreepati Arcade as Mumbai's tallest building in 2010."
+    },
+    {
+      "date": "2013-05-20",
+      "title": "Flat owners in country's tallest towers take on builder over VAT",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/Flat-owners-in-countrys-tallest-towers-take-on-builder-over-VAT/articleshow/20143163.cms",
+      "source": "Times of India",
+      "event_type": "litigation",
+      "summary": "Imperial flat owners dispute VAT charges with the builder (cited by Wikipedia; article not retrieved)."
+    }
+  ]
+}

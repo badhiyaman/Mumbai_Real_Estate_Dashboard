@@ -1,0 +1,259 @@
+{
+  "slug": "oberoi-exquisite",
+  "name": "Oberoi Exquisite",
+  "developer": "oberoi-realty",
+  "micro_market": "goregaon-east",
+  "address": "Oberoi Garden City, off Western Express Highway, Goregaon East, Mumbai 400063",
+  "lat": 19.1705,
+  "lng": 72.8615,
+  "towers": 3,
+  "floors_max": 50,
+  "total_units": 802,
+  "rera_ids": [],
+  "status": "completed",
+  "launch_date": "2009-10-01",
+  "possession_promised": "2013-11-01",
+  "possession_actual": "2015-03-01",
+  "amenities": [
+    "Clubhouse",
+    "Gymnasium",
+    "Health spa",
+    "Squash court",
+    "Swimming pool",
+    "Indoor and outdoor children's play areas",
+    "Jogging track",
+    "Tennis courts",
+    "Multipurpose hall"
+  ],
+  "description": "Three high-rise towers (about 50 storeys) with 802 mostly 3 BHK apartments in Oberoi Realty's Oberoi Garden City township in Goregaon East. Launched in October 2009 and built by Larsen & Toubro, it was fully complete by March 2015. Oberoi's quarterly presentations track its realised price from about Rs 11,000 to Rs 24,000 per sq ft of saleable area.",
+  "notes": "Launched Oct 2009 as 'Oberoi Exquisite - I'. The Jan 2010 DRHP described three 45-storey towers with about 774 three-bedroom units, a saleable area of 1,373,580 sq ft, construction from Dec 2009 and estimated completion in Nov 2013. 211 units were booked by 31 Dec 2009. The project later grew to 786 units / 1,506,810 sq ft (Mar 2011) and then 802 units / 1,547,610 sq ft (Mar 2016). Oberoi Esquire next door was first called 'Exquisite II'. Floors: CTBUH Skyscraper Center lists three 50-floor, 170 m towers completed in 2014; listings give 44-45 floors plus podium. Oberoi reported 93% completion in Mar 2014 and 100% (all revenue recognised) in Mar 2015; listings give possession as May or June 2015. Basis of the Oberoi price points: Oberoi's 2010 DRHP quotes Exquisite in 'Saleable Area', and its presentations footnote only the projects calculated on built-up or carpet area, leaving Exquisite unmarked. 59 units were still unsold on 31 Mar 2017, and the developer kept selling inventory at about Rs 23,500/sq ft until then. The 2009 launch price of Rs 9,500/sq ft plus 1% floor rise comes from a 2023 Mumbai Property Exchange article whose other launch figures don't reconcile. Ranveer Singh's two 43rd-floor flats (1,324 sq ft each, bought Dec 2014 for Rs 4.64 Cr each) sold for Rs 15.25 Cr in Nov 2023. The 1,324 sq ft area basis wasn't stated, but it matches the roughly 1,300 sq ft carpet quoted in listings.",
+  "sources": [
+    "https://www.sebi.gov.in/sebi_data/attachdocs/1294984013064.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar11.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar12.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar13.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar14.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar15.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar16.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar17.pdf",
+    "https://www.skyscrapercenter.com/complex/740",
+    "https://www.mumbaipropertyexchange.com/news/1166/oberoi-exquisite-sets-records-in-goregaon-east-actor-ranveer-singh-sells-jodi-flat-for-15-cr",
+    "https://www.businesstoday.in/real-estate/story/actor-ranveer-singh-sells-two-apartments-in-mumbais-goregaon-for-rs-1525-cr-says-report-405433-2023-11-10",
+    "https://squareyards.com/mumbai-residential-property/oberoi-realty-exquisite/2839/project"
+  ],
+  "contractor": "Larsen & Toubro",
+  "units_sold": 743,
+  "units_sold_as_of": "2017-03-31",
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1100,
+      "carpet_sqft_max": 1348,
+      "price_min_cr": 6.4,
+      "price_max_cr": 8.05,
+      "units": 774,
+      "notes": "Resale asking prices on Square Yards, Nov 2026. The units figure is the 2010 DRHP plan of about 774 three-bedroom units; the final count was 802 units (per Oberoi). Jodi (combined) flats exist."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2009-10-01",
+      "date_precision": "month",
+      "stage": "launch",
+      "price_psf": 9500,
+      "basis": "unknown",
+      "source_name": "Mumbai Property Exchange news (Nov 2023)",
+      "source_url": "https://www.mumbaipropertyexchange.com/news/1166/oberoi-exquisite-sets-records-in-goregaon-east-actor-ranveer-singh-sells-jodi-flat-for-15-cr",
+      "confidence": "low",
+      "note": "Launch base price of Rs 9,500/sq ft plus 1% floor rise, reported in hindsight. The article's other launch figures (Rs 13,585 built-up, Rs 22,875 psf) don't reconcile."
+    },
+    {
+      "date": "2010-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 11457,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY11 (comparative Q4 FY10)",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar11.pdf",
+      "confidence": "high",
+      "note": "Company average rate for Q4 FY10 (Jan-Mar 2010): 93,080 sq ft sold for Rs 106.65 crore. FY10 average: Rs 11,153 on 465,390 sq ft."
+    },
+    {
+      "date": "2011-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 15650,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY11",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar11.pdf",
+      "confidence": "high",
+      "note": "Company average rate for Q4 FY11 on only 9,230 sq ft (5 units). FY11 average: Rs 13,118; 'base price of last transaction': Rs 11,500. Project-to-date average at Mar 2011: Rs 11,914 on 759,320 sq ft sold."
+    },
+    {
+      "date": "2012-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 15811,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY12",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar12.pdf",
+      "confidence": "high",
+      "note": "Company average price for Q4 FY12 (27,950 sq ft, Rs 44.19 crore). The project was 47% complete, with 834,580 sq ft sold to date for Rs 1,020 crore."
+    },
+    {
+      "date": "2013-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 17778,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY13",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar13.pdf",
+      "confidence": "high",
+      "note": "Company average price for Q4 FY13 (41,600 sq ft, Rs 73.96 crore). The project was 71% complete."
+    },
+    {
+      "date": "2014-03-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 24181,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY14",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar14.pdf",
+      "confidence": "high",
+      "note": "Company average price for Q4 FY14 (14,560 sq ft, 8 units, Rs 35.21 crore). The project was 93% complete."
+    },
+    {
+      "date": "2014-12-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 35045,
+      "basis": "unknown",
+      "source_name": "Business Today (Moneycontrol-accessed documents)",
+      "source_url": "https://www.businesstoday.in/real-estate/story/actor-ranveer-singh-sells-two-apartments-in-mumbais-goregaon-for-rs-1525-cr-says-report-405433-2023-11-10",
+      "confidence": "medium",
+      "note": "Computed: Ranveer Singh's Dec 2014 purchase of two flats at Rs 4.64 Cr each ÷ 1,324 sq ft each. The area basis isn't stated and is probably carpet: it is about 45% above Oberoi's saleable-area average for the same period."
+    },
+    {
+      "date": "2015-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 24090,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY15",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar15.pdf",
+      "confidence": "high",
+      "note": "Company average price for Q4 FY15 (58,215 sq ft, 30 units, Rs 140.24 crore). The project was 100% complete, with 1,202,285 sq ft sold for Rs 1,820 crore to date."
+    },
+    {
+      "date": "2016-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 23555,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY16",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar16.pdf",
+      "confidence": "high",
+      "note": "Developer's post-completion inventory sales in Q4 FY16 (14,430 sq ft). The company average excludes Rs 3.68 crore from resale of a re-purchased flat."
+    },
+    {
+      "date": "2017-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 23553,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation Q4 FY17",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar17.pdf",
+      "confidence": "high",
+      "note": "Developer inventory sales in Q4 FY17 (6,890 sq ft, 4 units, Rs 16.23 crore); FY17 average: Rs 23,141. Lifetime average to Mar 2017: about Rs 16,145 on 1,361,745 sq ft, with 59 units unsold."
+    },
+    {
+      "date": "2023-11-06",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 57591,
+      "basis": "unknown",
+      "source_name": "Business Today (Moneycontrol-accessed documents)",
+      "source_url": "https://www.businesstoday.in/real-estate/story/actor-ranveer-singh-sells-two-apartments-in-mumbais-goregaon-for-rs-1525-cr-says-report-405433-2023-11-10",
+      "confidence": "medium",
+      "note": "Computed: Rs 15.25 Cr ÷ 2,648 sq ft (two 1,324 sq ft flats with 6 car parks). Stamp duty was Rs 45.75 lakh per flat. Mumbai Property Exchange quotes about Rs 57,700/sq ft."
+    },
+    {
+      "date": "2026-06-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 57400,
+      "basis": "carpet",
+      "source_name": "Square Yards price trend",
+      "source_url": "https://squareyards.com/mumbai-residential-property/oberoi-realty-exquisite/2839/project",
+      "confidence": "low",
+      "note": "Quarterly average asking price; basis inferred as carpet from listings (about 1,300 sq ft carpet at Rs 6.4-8.05 Cr). The series is volatile: Dec 2025 Rs 43,300, Mar 2026 Rs 53,100, Sep 2026 Rs 39,300 (-31.5% QoQ, probably a small-sample artefact)."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1300,
+      "monthly_rent": 235000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://squareyards.com/mumbai-residential-property/oberoi-realty-exquisite/2839/project",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026; the posting date isn't shown."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK + store room",
+      "monthly_rent": 225000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listing",
+      "source_url": "https://squareyards.com/mumbai-residential-property/oberoi-realty-exquisite/2839/project",
+      "confidence": "low",
+      "note": "Listed as 1,375 sq ft built-up (carpet not given). Other 1,375 sq ft built-up listings ask Rs 1.79-2.2 lakh."
+    }
+  ],
+  "news": [
+    {
+      "date": "2010-01-18",
+      "title": "Oberoi Realty DRHP: Exquisite - I launched in Oct 2009, 211 units booked",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1294984013064.pdf",
+      "source": "Oberoi Realty DRHP (SEBI)",
+      "event_type": "launch",
+      "summary": "The IPO filing describes three 45-storey towers of about 774 3 BHK units built by L&T, launched in October 2009, with 211 units booked by 31 Dec 2009 and completion estimated for Nov 2013."
+    },
+    {
+      "date": "2012-03-31",
+      "title": "Exquisite crosses Rs 1,000 crore of sales value (Oberoi Q4 FY12 presentation)",
+      "url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar12.pdf",
+      "source": "Oberoi Realty investor presentation",
+      "event_type": "other",
+      "summary": "Oberoi said Exquisite had crossed Rs 1,000 crore in sales value, with 834,580 sq ft sold by Mar 2012."
+    },
+    {
+      "date": "2013-07-16",
+      "title": "No quick gains for Oberoi Realty",
+      "url": "https://www.business-standard.com/amp/article/markets/no-quick-gains-for-oberoi-realty-113071601148_1.html",
+      "source": "Business Standard",
+      "event_type": "other",
+      "summary": "Sales at Oberoi's Goregaon projects had slowed, with about 0.5 million sq ft of Exquisite still unsold."
+    },
+    {
+      "date": "2015-11-03",
+      "title": "Strong show ahead for Oberoi Realty",
+      "url": "https://www.business-standard.com/article/opinion/strong-show-ahead-for-oberoi-realty-115110300870_1.html",
+      "source": "Business Standard",
+      "event_type": "possession",
+      "summary": "The completed Exquisite project drove sales in a seasonally weak quarter; cumulative collections were 96%."
+    },
+    {
+      "date": "2023-11-10",
+      "title": "Actor Ranveer Singh sells two apartments in Mumbai's Goregaon for Rs 15.25 cr",
+      "url": "https://www.businesstoday.in/real-estate/story/actor-ranveer-singh-sells-two-apartments-in-mumbais-goregaon-for-rs-1525-cr-says-report-405433-2023-11-10",
+      "source": "Business Today",
+      "event_type": "deal",
+      "summary": "Two 1,324 sq ft flats bought in Dec 2014 for Rs 4.64 Cr each sold for Rs 15.25 Cr in total on 6 Nov 2023, to a buyer already living in the complex."
+    }
+  ]
+}

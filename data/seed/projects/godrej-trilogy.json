@@ -1,0 +1,227 @@
+{
+  "slug": "godrej-trilogy",
+  "name": "Godrej Trilogy",
+  "developer": "godrej-properties",
+  "micro_market": "worli",
+  "address": "Off Dr Annie Besant Road, near Mahalaxmi Racecourse and the Coastal Road (Lotus Colony), Worli, Mumbai 400018",
+  "land_acres": 2.63,
+  "towers": 3,
+  "floors_max": 82,
+  "total_units": 257,
+  "rera_ids": ["PR1171012501267", "PR1171012501309"],
+  "status": "under_construction",
+  "launch_date": "2025-11-01",
+  "possession_promised": "2034-12-31",
+  "amenities": [
+    "Five-floor clubhouse (Square Yards)",
+    "Rooftop and tower-level lifestyle spaces",
+    "Gymnasium",
+    "Indoor games",
+    "Multipurpose hall",
+    "Kids' play area",
+    "Yoga and meditation zones"
+  ],
+  "description": "A three-tower ultra-luxury redevelopment on a 2.63-acre parcel off Annie Besant Road, Worli, next to Mahalaxmi Racecourse, with racecourse and Arabian Sea views. Phase 1 covers two towers, Seaturf and Seafront, with about 11 lakh sq ft of saleable area. Godrej expects the whole project to earn over Rs 10,000 crore. It launched in November 2025 and sold homes worth over Rs 2,000 crore (nearly 100 homes) in Phase 1 by early February 2026.",
+  "notes": "MahaRERA: Seaturf (Tower A, PR1171012501267) has 91 units, 47 floors (32 habitable) and completion 31 Dec 2033. Seafront (Tower B, PR1171012501309) has 166 units, 82 floors (66 habitable) and completion 31 Dec 2034. Both show about 1% construction progress (excavation 8%) on the Square Yards MahaRERA snapshot. Housiey shows 25% as of 4 Oct 2026 and a target of Dec 2031, which looks optimistic. total_units = 91 + 166 for Phase 1 only; the third tower is not yet registered. possession_promised is the later (Seafront) date. Promoters on MahaRERA: Embellish Houses Pvt Ltd and Akshay Sthapatya Pvt Ltd; the project is a joint redevelopment and the landowner was not named in the sources read. Units sold: Square Yards' MahaRERA snapshot (read 18 Nov 2026) shows Seaturf 55 sold + 10 booked and Seafront 43 sold + 28 booked, so units_sold = 136 sold or booked. Floor counts conflict: Square Yards says 44 and 77 floors, Guptasen G+43 and G+76, and Housing.com 32 floors for Seaturf; MahaRERA totals are 47 and 82. Land: 2.63 acres (Godrej / PTI), 2.61 (Housiey), 2.17 (Square Yards). Godrej's Q3 FY26 presentation reports 0.31 mn sq ft booked for Rs 1,742 crore in the launch quarter, about Rs 56,200/sq ft on Godrej's reported (saleable) area. Registered carpet rates in Jan-Jun 2026 are Rs 80,000-125,000/sq ft, rising with floor and tower (Seafront higher than Seaturf), so the implied gap between carpet and reported area is large. A ghar.tv broker post lists 10 deals from 25 Mar to 2 Apr 2026 at about Rs 82,000-108,000/sq ft (unnamed data source), with floors 18-25 at Rs 82-90k and floors 33-38 at Rs 95k-1.08 lakh. No published floor-rise schedule was found. Mumbai Property Exchange's developer copy names Hafeez Contractor as architect, but this was not confirmed. A May 2026 report of a Godrej family member buying two Worli apartments for Rs 294 crore did not name this project, so it is not attributed here.",
+  "sources": [
+    "https://www.outlookbusiness.com/corporate/godrej-properties-eyes-over-10k-cr-revenue-from-upcoming-housing-project-at-worli-mumbai",
+    "https://therealtytoday.com/news/residential/maharera-clears-phase-1-of-godrej-trilogy-project-in-worli-developer-expects-10000-crore-revenue/",
+    "https://www.freepressjournal.in/amp/business/godrej-properties-sells-over-2000-crore-worth-of-homes-in-first-phase-of-luxury-project-at-worli",
+    "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/05022026/703e62b8-59e2-493d-83d5-321699291b9f.pdf",
+    "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project",
+    "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project/rera/pr1171012501267",
+    "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project/rera/pr1171012501309",
+    "https://www.mumbaipropertyexchange.com/project/godrej-trilogy-seafront/31837",
+    "https://www.housiey.com/projects/godrej-trilogy",
+    "https://www.ghar.tv/blog/219-crore-in-9-days-inside-the-luxury-buying-momentum-at-godrej-trilogy-worli-mumbai/artid6177"
+  ],
+  "views": ["sea", "racecourse"],
+  "land_type": "redevelopment",
+  "land_tenure": "unknown",
+  "jv_partner": "Embellish Houses Pvt Ltd and Akshay Sthapatya Pvt Ltd (MahaRERA co-promoters; joint redevelopment agreement)",
+  "oc_received": false,
+  "units_sold": 136,
+  "units_sold_as_of": "2026-11-18",
+  "payment_plan": "Construction-linked plan, per Housiey listing",
+  "transactions_12m": 50,
+  "unit_types": [
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1560,
+      "carpet_sqft_max": 1765,
+      "price_min_cr": 12.48,
+      "price_max_cr": 23.03,
+      "notes": "MahaRERA layouts of 144.97-149.52 sq m (about 1,560-1,609 sq ft); listings quote 1,749-1,765 sq ft (probably including balconies). Registered Rs 12.48-16.77 crore in 2026; Housiey asks Rs 22.86-23.03 crore all-inclusive."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1973,
+      "carpet_sqft_max": 2778,
+      "price_min_cr": 15.86,
+      "price_max_cr": 37.76,
+      "notes": "MahaRERA layouts of 183.31-228.42 sq m (about 1,973-2,459 sq ft); listings quote 2,169-2,778 sq ft. Registered Rs 15.86-30.35 crore in 2026; asking Rs 29.54-37.76 crore all-inclusive (Housiey) or Rs 33.55 crore for 2,778 sq ft (Mumbai Property Exchange)."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "launch",
+      "price_psf": 56194,
+      "basis": "saleable",
+      "source_name": "Godrej Properties Q3 FY26 results presentation (BSE filing)",
+      "source_url": "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/05022026/703e62b8-59e2-493d-83d5-321699291b9f.pdf",
+      "confidence": "high",
+      "note": "Computed: booking value Rs 1,742 crore / 0.31 mn sq ft booked in Q3 FY26 (Oct-Dec 2025), the launch quarter. Godrej reports booking area, which is treated here as saleable area; it is far below registered carpet rates."
+    },
+    {
+      "date": "2026-01-16",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 95649,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Seaturf)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project/rera/pr1171012501267",
+      "confidence": "high",
+      "note": "Computed: unit 1702, Rs 22.54 crore / 218.94 sq m (2,357 sq ft)."
+    },
+    {
+      "date": "2026-01-17",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 100812,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Seaturf)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project/rera/pr1171012501267",
+      "confidence": "high",
+      "note": "Computed: unit 2803, Rs 15.76 crore / 145.28 sq m (1,564 sq ft)."
+    },
+    {
+      "date": "2026-01-18",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 112047,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Seafront)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project/rera/pr1171012501309",
+      "confidence": "high",
+      "note": "Computed: unit 2902, Rs 27.23 crore / 225.76 sq m (2,430 sq ft)."
+    },
+    {
+      "date": "2026-04-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 122222,
+      "basis": "carpet",
+      "source_name": "PropNewsTime (citing property registration records reviewed by Square Yards)",
+      "source_url": "https://propnewstime.com/latestnewsstories/Mjg2NTY=/shreya-ghoshal-family-buys-inr-29-70-crore-luxury-apartment-in-worli",
+      "confidence": "high",
+      "note": "Computed: Shreya Ghoshal's family bought a 2,430 sq ft carpet (2,750 sq ft built-up) apartment for Rs 29.70 crore, about Rs 1.08 lakh/sq ft built-up; stamp duty about Rs 1.78 crore; registered in the week before 8 Apr 2026."
+    },
+    {
+      "date": "2026-05-14",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 107036,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Seaturf)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project/rera/pr1171012501267",
+      "confidence": "high",
+      "note": "Computed: unit 3302, Rs 25.22 crore / 2,357 sq ft."
+    },
+    {
+      "date": "2026-06-18",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 79995,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Seaturf)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project/rera/pr1171012501267",
+      "confidence": "high",
+      "note": "Computed: unit 1303 (13th floor), Rs 12.48 crore / 144.97 sq m (1,560 sq ft). Lower floors register well below upper floors."
+    },
+    {
+      "date": "2026-06-23",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 124883,
+      "basis": "carpet",
+      "source_name": "MahaRERA inventory (via Square Yards RERA snapshot, Seafront)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project/rera/pr1171012501309",
+      "confidence": "high",
+      "note": "Computed: unit 3802 (38th floor), Rs 30.35 crore / 2,430 sq ft. Seafront 3303 on 29 Jun 2026 was Rs 14.17 crore / 1,609 sq ft (about Rs 88,000)."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 105000,
+      "basis": "unknown",
+      "source_name": "Square Yards (average registered rate, Nov 2025 - Oct 2026)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/godrej-trilogy/341289/project",
+      "confidence": "medium",
+      "note": "Average of 50 registered sales worth Rs 1,076 crore. Square Yards' average asking price was Rs 98,900/sq ft in Sep 2026."
+    },
+    {
+      "date": "2026-07-09",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 126137,
+      "basis": "carpet",
+      "source_name": "Mumbai Property Exchange (indicative asking price, Seafront)",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/godrej-trilogy-seafront/31837",
+      "confidence": "low",
+      "note": "Listing: 3 BHK 1,749 sq ft at Rs 23 crore and 4 BHK 2,778 sq ft at Rs 33.55 crore."
+    }
+  ],
+  "news": [
+    {
+      "date": "2025-10-27",
+      "title": "Godrej Properties eyes over Rs 10k cr revenue from upcoming housing project at Worli, Mumbai",
+      "url": "https://www.outlookbusiness.com/corporate/godrej-properties-eyes-over-10k-cr-revenue-from-upcoming-housing-project-at-worli-mumbai",
+      "source": "Outlook Business (PTI)",
+      "event_type": "rera",
+      "summary": "MahaRERA registration for Phase 1 (Seaturf and Seafront towers, about 11 lakh sq ft saleable) of a three-tower joint redevelopment on 2.63 acres; total revenue potential over Rs 10,000 crore."
+    },
+    {
+      "date": "2025-10-28",
+      "title": "MahaRERA clears Phase 1 of Godrej Trilogy project in Worli; developer expects Rs 10,000 crore revenue",
+      "url": "https://therealtytoday.com/news/residential/maharera-clears-phase-1-of-godrej-trilogy-project-in-worli-developer-expects-10000-crore-revenue/",
+      "source": "The Realty Today",
+      "event_type": "rera",
+      "summary": "Site off Dr Annie Besant Road next to Mahalaxmi Racecourse; Phase 1 launch planned in the same quarter."
+    },
+    {
+      "date": "2026-02-03",
+      "title": "Godrej Properties sells over Rs 2,000 crore worth of homes in first phase of luxury project at Worli",
+      "url": "https://www.freepressjournal.in/amp/business/godrej-properties-sells-over-2000-crore-worth-of-homes-in-first-phase-of-luxury-project-at-worli",
+      "source": "Free Press Journal (PTI)",
+      "event_type": "launch",
+      "summary": "Nearly 100 homes sold since the November 2025 launch, from about Rs 3,500 crore of inventory opened in two towers."
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Godrej Properties results presentation, Q3 FY26",
+      "url": "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/05022026/703e62b8-59e2-493d-83d5-321699291b9f.pdf",
+      "source": "Godrej Properties stock exchange filing",
+      "event_type": "other",
+      "summary": "Godrej Trilogy booked 0.31 mn sq ft worth Rs 1,742 crore in the quarter and led MMR's Rs 3,239 crore of bookings."
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Shreya Ghoshal family buys INR 29.70 crore luxury apartment in Worli",
+      "url": "https://propnewstime.com/latestnewsstories/Mjg2NTY=/shreya-ghoshal-family-buys-inr-29-70-crore-luxury-apartment-in-worli",
+      "source": "PropNewsTime",
+      "event_type": "deal",
+      "summary": "About 2,430 sq ft carpet with three car parks in Godrej Trilogy; stamp duty about Rs 1.78 crore, per registration records reviewed by Square Yards."
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Rs 219+ crore in 9 days: inside the luxury buying momentum at Godrej Trilogy, Worli, Mumbai",
+      "url": "https://www.ghar.tv/blog/219-crore-in-9-days-inside-the-luxury-buying-momentum-at-godrej-trilogy-worli-mumbai/artid6177",
+      "source": "ghar.tv",
+      "event_type": "deal",
+      "summary": "Broker blog listing 10 transactions from 25 Mar to 2 Apr 2026 at about Rs 82,000-108,000/sq ft; the data source is not named."
+    }
+  ]
+}

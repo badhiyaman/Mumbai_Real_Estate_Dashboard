@@ -21,7 +21,7 @@
     "Three basement parking levels per tower"
   ],
   "description": "A three-tower luxury development (Towers A, B and C) off Annie Besant Road in Worli. It is the free-sale part of an SRA slum-redevelopment scheme by Omkar Realtors & Developers. Foster + Partners did the original design and Larsen & Toubro built it. The towers have large sea-facing 3 to 5 BHK 'sky bungalows' and duplexes, with buyers including several cricketers and industrialists.",
-  "notes": "SRA link: the free-sale towers are tied to the Mahalaxmi SRA CHS slum scheme. In Sept 2021 the Bombay High Court barred new sale agreements in the free-sale building after slum dwellers said rent had not been paid since 2016; Omkar had promised in Aug 2015 that the rehab would be ready by July 2016. Wikipedia still says sales are on hold. Promoter troubles: the ED arrested chairman Kamal Kishore Gupta and MD Babulal Varma in Jan 2021 in a Yes Bank loan/SRA money-laundering case (a different Omkar SRA scheme), and a later report says a special court discharged them. Delays: a Tower C allotment (Apr 2016) promised possession by 30 Jun 2019, extendable to 30 Jun 2020, which is the possession_promised date. MahaRERA's registered completion date is 30 Dec 2021. In April 2026 the appellate tribunal (MREAT) ordered a full refund with interest to a Tower C 35th-floor buyer, citing delay attributable to the builder. Status conflicts: MahaRERA aggregators and Square Yards say completed / ready to move, while Wikipedia says topped out with completion expected 2024. Floors: Wikipedia says 73 floors per tower (about 267 m), the MahaRERA phase lists Tower 2 at 54 pt to 79th floor (likely podium-inclusive numbering), HomeBazaar says 75 storeys and CTBUH lists 212 m for Tower C, so floors_max is left out. Units: Wikipedia says '400-plus', an aggregator says 517 launched, and the MahaRERA phase P51900003316 shows only the 136 units still registered (Tower 2: 33, Tower 3: 103) on 3,372 sq m, so total_units and land_acres are left out. Sales: Piramal Fund Management invested about Rs 1,400 crore and in 2018 appointed Anarock to sell 70 apartments valued at Rs 1,100 crore. Buyers reported by PTI (2018) include Yuvraj Singh (Rs 64 crore), the DY Patil family (Rs 49.1 crore) and Baba Kalyani (Rs 21.3 crore). Virat Kohli booked a Tower C flat in 2016 and cancelled it in March 2018.",
+  "notes": "SRA link: the free-sale towers are tied to the Mahalaxmi SRA CHS slum scheme. In Sept 2021 the Bombay High Court barred new sale agreements in the free-sale building after slum dwellers said rent had not been paid since 2016; Omkar had promised in Aug 2015 that the rehab would be ready by July 2016. Wikipedia still says sales are on hold. Promoter troubles: the ED arrested chairman Kamal Kishore Gupta and MD Babulal Varma in Jan 2021 in a Yes Bank loan/SRA money-laundering case (a different Omkar SRA scheme), and a later report says a special court discharged them. Delays: a Tower C allotment (Apr 2016) promised possession by 30 Jun 2019, extendable to 30 Jun 2020, which is the possession_promised date. MahaRERA's registered completion date is 30 Dec 2021. In April 2026 the appellate tribunal (MREAT) ordered a full refund with interest to a Tower C 35th-floor buyer, citing delay attributable to the builder. Status conflicts: MahaRERA aggregators and Square Yards say completed / ready to move, while Wikipedia says topped out with completion expected 2024. Floors: Wikipedia says 73 floors per tower (about 267 m), the MahaRERA phase lists Tower 2 at 54 pt to 79th floor (likely podium-inclusive numbering), HomeBazaar says 75 storeys and CTBUH lists 212 m for Tower C, so floors_max is left out. Units: Wikipedia says '400-plus', an aggregator says 517 launched, and the MahaRERA phase P51900003316 shows only the 136 units still registered (Tower 2: 33, Tower 3: 103) on 3,372 sq m, so total_units and land_acres are left out. Sales: Piramal Fund Management invested about Rs 1,400 crore and in 2018 appointed Anarock to sell 70 apartments valued at Rs 1,100 crore. Buyers reported by PTI (2018) include Yuvraj Singh (Rs 64 crore), the DY Patil family (Rs 49.1 crore) and Baba Kalyani (Rs 21.3 crore). Virat Kohli booked a Tower C flat in 2016 and cancelled it in March 2018. Enrichment (Nov 2026): Wikipedia credits Foster + Partners with the original design and UHA London as executive architects, with Buro Happold as structural engineer and HBA for interiors; Mumbai Property Exchange's MahaRERA extract names Anand Dhokay as the registered architect. OC: a March 2022 Bombay High Court order notes the SRA granted a part OC for Tower A up to the 69th floor, with possession handed over up to the 64th floor; a broker page says Towers A and B have OCs. No full-project OC date was found, so oc_received is left out. units_sold (65) is Square Yards' figure for the 136 units in MahaRERA phase P51900003316 as of Mar 2026, not the whole project. Land: HomeBazaar and realestatemumbai say about 9 acres, but this is unverified and land_acres stays out. nearest_metro_km is a straight-line distance from Mumbai Property Exchange. Liquidity: PropertyButler counts 177 sale and 204 lease deeds in the last 12 months, but its sizes start at 400 sq ft, so the count likely includes non-free-sale or small units; Square Yards counts 15 sales (Nov 2025 to Oct 2026). transactions_12m is therefore left out. Bulk deal: in March 2021 Omkar registered nine A/B-wing flats (floors 30 to 68) to Mirandum Realtors for Rs 130.99 crore with 25 car parks. Resales: Jeetendra and Ekta Kapoor bought in June 2017 for Rs 11.52 crore and sold in June 2025 for Rs 12.25 crore (2,149 sq ft); Anita and Amrita Puri bought in March 2017 for Rs 19.81 crore and sold in March 2026 for Rs 27 crore (area not reported). BKC and airport road distances were not found from a project-specific source.",
   "sources": [
     "https://en.wikipedia.org/wiki/Omkar_1973",
     "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-city/omkar-1973-worli-P51900003316",
@@ -30,8 +30,25 @@
     "https://squarefeatindia.com/omkar-1973-builder-delayed-possession-maharera-denied-interest-cut-2-tribunal-grants-full-refund-interest/",
     "https://www.squareyards.com/mumbai-residential-property/omkar-1973/2821/project",
     "https://www.homebazaar.com/omkar-1973-worli-2594",
-    "https://omkarmeridia.blogspot.com/2014/03/resale-omkar-1973-worli-omkar-1973.html"
+    "https://omkarmeridia.blogspot.com/2014/03/resale-omkar-1973-worli-omkar-1973.html",
+    "https://propnewstime.com/getdetailsStories/MTkzMjI=/mumbai-property-deals-jeetendar-and-ekta-kapoor-sell-their-omkar-1973-apartment-for-inr-12-25-crore",
+    "https://www.geosquare.in/mumbai-real-estate-anita-puri-and-daughter-sell-worli-apartment-for-27-crore-40429-news.html",
+    "https://squarefeatindia.com/omkar-sells-9-flats-worth-₹131-crore-to-a-buyer/",
+    "https://www.freepressjournal.in/india/mumbai-hand-over-habitable-flat-to-buyers-hc-to-omkar-realtors",
+    "https://propertybutler.in/building/omkar-1973",
+    "https://www.mumbaipropertyexchange.com/project/omkar-1973-worli/30738",
+    "https://gharpe.com/mumbai/omkar-1973/rentals"
   ],
+  "architect": "Foster + Partners (original design); UHA London (executive architects)",
+  "contractor": "Larsen & Toubro",
+  "views": ["sea", "city"],
+  "land_type": "sra",
+  "units_sold": 65,
+  "units_sold_as_of": "2026-03-01",
+  "floor_rise_psf": 250,
+  "floor_rise_notes": "Rs 250/sq ft per floor on top of a builder quote of Rs 40,000/sq ft, per a March 2014 broker blog post (low confidence, pre-RERA).",
+  "nearest_metro": "Worli (Metro Line 3 / Aqua Line)",
+  "nearest_metro_km": 0.4,
   "unit_types": [
     {
       "config": "3 BHK",
@@ -93,6 +110,61 @@
       "note": "Computed: Rs 34 crore / 7,171 sq ft. Virat Kohli's June 2016 booking of a 35th-floor Tower C sea-view flat, cancelled in March 2018 (cancellation deed dated 20 Mar)."
     },
     {
+      "date": "2017-06-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 53606,
+      "basis": "unknown",
+      "source_name": "PropNewsTime (report on the 2025 resale)",
+      "source_url": "https://propnewstime.com/getdetailsStories/MTkzMjI=/mumbai-property-deals-jeetendar-and-ekta-kapoor-sell-their-omkar-1973-apartment-for-inr-12-25-crore",
+      "confidence": "medium",
+      "note": "Computed: Rs 11.52 crore / 2,149 sq ft, Jeetendra and Ekta Kapoor's June 2017 purchase, as reported when they resold in 2025. Area basis not stated."
+    },
+    {
+      "date": "2021-03-28",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 40996,
+      "basis": "unknown",
+      "source_name": "SquareFeatIndia (registration records)",
+      "source_url": "https://squarefeatindia.com/omkar-sells-9-flats-worth-₹131-crore-to-a-buyer/",
+      "confidence": "high",
+      "note": "Computed: Rs 130.99 crore / 31,952 sq ft (2,968.43 sq m) for nine A and B wing flats on floors 30 to 68, registered 28 Mar 2021 to Mirandum Realtors (a real-estate company) with 25 car parks. A bulk developer sale, so likely below single-unit pricing. Area basis not stated."
+    },
+    {
+      "date": "2025-06-08",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 57003,
+      "basis": "unknown",
+      "source_name": "PropNewsTime",
+      "source_url": "https://propnewstime.com/getdetailsStories/MTkzMjI=/mumbai-property-deals-jeetendar-and-ekta-kapoor-sell-their-omkar-1973-apartment-for-inr-12-25-crore",
+      "confidence": "medium",
+      "note": "Rs 12.25 crore for 2,149 sq ft (about Rs 57,003/sq ft as reported), sold by Jeetendra and Ekta Kapoor with two car parks, registered 8 Jun 2025. The article does not name its data source or the area basis."
+    },
+    {
+      "date": "2025-08-28",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 42118,
+      "basis": "unknown",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/omkar-1973",
+      "confidence": "medium",
+      "note": "Rs 28.51 crore for 6,769 sq ft on the 55th floor (Rs 42,118/sq ft as listed), one of three 55th-floor deeds that day (the others: Rs 22.70 and 22.80 crore for 5,449 sq ft each). Seller not stated, so this may be a developer sale."
+    },
+    {
+      "date": "2026-03-30",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 41964,
+      "basis": "unknown",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/omkar-1973",
+      "confidence": "medium",
+      "note": "Rs 9.40 crore for 2,240 sq ft on the 23rd floor (Rs 41,964/sq ft as listed). PropertyButler's 12-month registered median is Rs 39,938/sq ft."
+    },
+    {
       "date": "2026-09-01",
       "date_precision": "month",
       "stage": "resale",
@@ -115,6 +187,54 @@
       "note": "Average registered rate across 15 transactions (about Rs 194 crore) from Nov 2025 to Oct 2026. Another section of the page says 7 transactions worth Rs 110 crore. Property Butler reports a 12-month registered median of about Rs 39,938/sq ft."
     }
   ],
+  "rental_points": [
+    {
+      "date": "2024-12-30",
+      "config": "3 BHK",
+      "monthly_rent": 320000,
+      "furnishing": "unfurnished",
+      "kind": "asking",
+      "source_name": "Gharpe (aggregated Square Yards listing)",
+      "source_url": "https://gharpe.com/mumbai/omkar-1973/rentals",
+      "confidence": "low",
+      "note": "2,197 sq ft (basis not stated), 45th floor, posted 30 Dec 2024."
+    },
+    {
+      "date": "2025-08-06",
+      "config": "4 BHK",
+      "monthly_rent": 550000,
+      "furnishing": "unfurnished",
+      "kind": "asking",
+      "source_name": "Gharpe (aggregated listing)",
+      "source_url": "https://gharpe.com/mumbai/omkar-1973/rentals",
+      "confidence": "low",
+      "note": "3,619 sq ft (basis not stated), 36th floor, posted 6 Aug 2025."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "3 BHK",
+      "carpet_sqft": 1905,
+      "monthly_rent": 430000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "Rentu",
+      "source_url": "https://www.rentu.in/property/9868551/3-bhk-for-rent-in-worli-omkar-1973",
+      "confidence": "low",
+      "note": "Listing seen 18 Nov 2026; listing date not shown. Rentu's Worli 3 BHK median is Rs 4 lakh (about Rs 315/sq ft carpet)."
+    },
+    {
+      "date": "2026-11-18",
+      "config": "4 BHK",
+      "carpet_sqft": 2500,
+      "monthly_rent": 550000,
+      "furnishing": "semi_furnished",
+      "kind": "asking",
+      "source_name": "PropertyButler",
+      "source_url": "https://propertybutler.in/building/omkar-1973",
+      "confidence": "low",
+      "note": "Wing A, 24th floor. Another Wing A 4 BHK (23rd floor, 2,400 sq ft carpet) asks Rs 6 lakh. PropertyButler's average registered rent across all lease deeds is Rs 2.5 lakh/month, which mixes in small units."
+    }
+  ],
   "news": [
     {
       "date": "2016-06-15",
@@ -123,6 +243,14 @@
       "source": "Business Insider India",
       "event_type": "deal",
       "summary": "Kohli books a 7,171 sq ft 4 BHK on the 35th floor of Tower C for about Rs 34 crore. The date is approximate (June 2016)."
+    },
+    {
+      "date": "2017-04-12",
+      "title": "Sindhi family buys 10 flats for Rs 232 cr in Omkar's luxury Worli project",
+      "url": "https://business-standard.com/article/current-affairs/sindhi-family-buys-10-flats-for-rs-232-cr-in-omkar-s-luxury-worli-project-117041200394_1.html",
+      "source": "Business Standard",
+      "event_type": "deal",
+      "summary": "A Sindhi business family buys 10 super-premium apartments in Omkar 1973 for about Rs 232 crore. The date is taken from the article URL; the full text could not be retrieved (HTTP 403)."
     },
     {
       "date": "2018-03-24",
@@ -141,6 +269,14 @@
       "summary": "The ED arrests Omkar Realtors chairman Kamal Kishore Gupta and MD Babulal Varma in a money-laundering probe over Yes Bank loans and an SRA project."
     },
     {
+      "date": "2021-03-28",
+      "title": "Omkar sells 9 flats worth ₹131 crore to a buyer",
+      "url": "https://squarefeatindia.com/omkar-sells-9-flats-worth-₹131-crore-to-a-buyer/",
+      "source": "SquareFeatIndia",
+      "event_type": "deal",
+      "summary": "Omkar registers nine A and B wing flats (floors 30 to 68, 31,952 sq ft in all) to Mirandum Realtors for Rs 130.99 crore, with 25 car parks. The date is the registration date; the article date is not shown."
+    },
+    {
       "date": "2021-09-19",
       "title": "Mumbai: Posh Worli project under scanner, further sales on hold",
       "url": "https://www.freepressjournal.in/mumbai/mumbai-posh-worli-project-under-scanner-further-sales-on-hold",
@@ -149,12 +285,36 @@
       "summary": "The Bombay High Court bars Omkar from new sale agreements in the Omkar 1973 free-sale building after Mahalaxmi SRA CHS says slum dwellers have not been paid rent since 2016."
     },
     {
+      "date": "2022-03-26",
+      "title": "Mumbai: Hand over habitable flat to buyers, HC to Omkar Realtors",
+      "url": "https://www.freepressjournal.in/india/mumbai-hand-over-habitable-flat-to-buyers-hc-to-omkar-realtors",
+      "source": "Free Press Journal",
+      "event_type": "litigation",
+      "summary": "The Bombay High Court (order of 21 Mar 2022) directs Omkar to hand over a habitable 65th-floor Tower A flat, bought for Rs 23 crore in 2015, with private lifts. The SRA had granted a part OC up to the 69th floor and possession had been given up to the 64th floor."
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Mumbai property deals: Jeetendar and Ekta Kapoor sell their Omkar 1973 apartment for INR 12.25 crore",
+      "url": "https://propnewstime.com/getdetailsStories/MTkzMjI=/mumbai-property-deals-jeetendar-and-ekta-kapoor-sell-their-omkar-1973-apartment-for-inr-12-25-crore",
+      "source": "PropNewsTime",
+      "event_type": "deal",
+      "summary": "A 2,149 sq ft flat bought in June 2017 for Rs 11.52 crore is sold for Rs 12.25 crore (registered 8 Jun 2025), a gain of about 6% in eight years."
+    },
+    {
       "date": "2026-04-08",
       "title": "Omkar 1973 builder delayed possession: MahaRERA denied interest, cut 2%; Tribunal grants full refund + interest",
       "url": "https://squarefeatindia.com/omkar-1973-builder-delayed-possession-maharera-denied-interest-cut-2-tribunal-grants-full-refund-interest/",
       "source": "SquareFeatIndia",
       "event_type": "rera",
       "summary": "MREAT orders a full refund of Rs 7.69 crore with interest for flat 3502 in Tower C, which was promised by 30 Jun 2019 (latest 30 Jun 2020), overturning MahaRERA's 2% deduction. The date is the judgment date."
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Mumbai Real Estate: Anita Puri and Daughter Sell Worli Apartment for ₹27 Crore",
+      "url": "https://www.geosquare.in/mumbai-real-estate-anita-puri-and-daughter-sell-worli-apartment-for-27-crore-40429-news.html",
+      "source": "Geosquare (citing Liases Foras registration documents)",
+      "event_type": "deal",
+      "summary": "Anita and Amrita Puri sell a higher-floor Omkar 1973 apartment with four car parks for Rs 27 crore (registered 24 Mar 2026, Rs 1.62 crore stamp duty). They bought it in March 2017 for Rs 19.81 crore."
     }
   ]
 }

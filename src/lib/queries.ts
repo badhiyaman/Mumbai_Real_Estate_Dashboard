@@ -1,13 +1,20 @@
 import { readClient } from "./supabase";
-import type { Project, ProjectNewsItem } from "./types";
+import type { CostItem, Project, ProjectNewsItem } from "./types";
 
 const PROJECT_SELECT = `
   *,
   developer:developers(*),
   micro_market:micro_markets(*),
   unit_types(*),
-  price_points(*)
+  price_points(*),
+  rental_points(*)
 `;
+
+export async function getCostItems(): Promise<CostItem[]> {
+  const { data, error } = await readClient().from("cost_items").select("*").order("stage");
+  if (error) throw new Error(error.message);
+  return (data ?? []) as CostItem[];
+}
 
 export async function getProjects(): Promise<Project[]> {
   const { data, error } = await readClient().from("projects").select(PROJECT_SELECT).order("launch_date");

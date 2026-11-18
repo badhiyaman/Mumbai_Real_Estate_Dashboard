@@ -1,0 +1,148 @@
+{
+  "slug": "ashok-towers",
+  "name": "Peninsula Ashok Towers",
+  "developer": "peninsula-land",
+  "micro_market": "parel",
+  "address": "Dr Babasaheb Ambedkar Marg, Parel, Mumbai 400012",
+  "land_acres": 18,
+  "towers": 4,
+  "floors_max": 50,
+  "rera_ids": [],
+  "status": "completed",
+  "possession_promised": "2009-12-01",
+  "possession_actual": "2010-01-01",
+  "amenities": [
+    "Full-size cricket-cum-football ground at the centre of the complex",
+    "Landscaped walkways and parks",
+    "Clubhouse",
+    "Swimming pool and kids' pool",
+    "Gymnasium",
+    "Tennis, badminton and basketball courts",
+    "Jogging / cycle track",
+    "Spa and jacuzzi",
+    "Party hall and indoor games",
+    "Senior citizens' area"
+  ],
+  "description": "Peninsula Land's first luxury residential complex: about 1.1 million sq ft across four towers on roughly 18 acres in Parel. Three towers are about 30 storeys and Tower D is about 50 storeys (193 m), arranged around a central sports ground. Work began in 2004, and Peninsula handed over three of the four towers in FY2009-10, with the complex completed in 2010. It won the Economic Times Acetech 2010 award for premium housing amenities. Resale units today range from 2 BHK to 5 BHK duplexes, with larger flats listed above Rs 13 crore.",
+  "notes": "Developer facts are from Peninsula Land annual reports (FY2009-10 and FY2010-11 on BSE) and a Dec 2012 investor presentation (1,077,000 sq ft delivered). The FY2009-10 report describes 'three 30 storey towers and one 50 storey tower'; a later annual report (seen only in a search snippet, not opened) says three 31-storey towers. Wikipedia's list gives Ashok Towers D as 193 m / 49 floors, completed 2010. Mumbai Property Exchange lists possession Dec 2009, used as possession_promised; possession_actual is year-only (2010). No OC date was found. It is a pre-RERA completed building, so there is no MahaRERA ID; Square Yards prints A51800000454, which is Square Yards' own agent registration. Units conflict: 550 (Square Yards / NoBroker description), 782 (NoBroker panel) and 730 (a second Square Yards page), so total_units is left out. That second Square Yards page ('Ashok Towers', ID 62589) shows small units (441-835 sq ft) in wings A4/B2/B3 and a registered average of only Rs 23,500/sq ft (3 sales). It may cover a different building or wings, so it is not used for price points. Loans: the FY2009-10 and FY2010-11 reports show the unsold area of Ashok Towers mortgaged as security for company borrowings. Ready reckoner (2025-26, Parel zone) is about Rs 28,600/sq ft carpet (Mumbai Property Exchange). No launch price or any 2004-2024 price data was found; Mumbai Property Exchange cites an undated 'historical' rate of Rs 19,950/sq ft, which is not used. Computed gross yield: a 3 BHK of 1,500 sq ft asking Rs 3.3 lakh/month (Mumbai Property Exchange, Mar 2026). At the Square Yards registered average of Rs 64,700/sq ft that is about 4.1%, and at the Rs 50,550 asking average about 5.2%. The rent and sale area bases may differ.",
+  "sources": [
+    "https://www.bseindia.com/bseplus/AnnualReport/503031/5030310310.pdf",
+    "https://www.bseindia.com/bseplus/AnnualReport/503031/5030310311.pdf",
+    "https://files.tijorifinance.com/insight/india/517/Investor%20Presentation/IP-Dec12.pdf",
+    "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Mumbai",
+    "https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
+    "https://www.squareyards.com/mumbai-residential-property/ashok-towers/62589/project",
+    "https://www.mumbaipropertyexchange.com/project/ashok-towers-parel-by-peninsula-land-ltd/3411",
+    "https://www.nobroker.in/peninsula-ashok-towers-parel_mumbai-prjt-5bac1ede714b564981dc6358"
+  ],
+  "views": ["city", "sea"],
+  "unit_types": [
+    {
+      "config": "2 BHK",
+      "carpet_sqft_min": 716,
+      "carpet_sqft_max": 877,
+      "price_min_cr": 7.63,
+      "price_max_cr": 9.8,
+      "notes": "Carpet from NoBroker. Prices are Square Yards asking prices for 1,090-1,400 sq ft saleable; these imply about Rs 70,000 per saleable sq ft, well above Square Yards' own average, so treat them with caution."
+    },
+    {
+      "config": "3 BHK",
+      "carpet_sqft_min": 1443,
+      "carpet_sqft_max": 1479,
+      "price_min_cr": 13.41,
+      "price_max_cr": 14.91,
+      "notes": "Carpet from NoBroker. Prices are Square Yards asking prices for 1,915-2,130 sq ft saleable."
+    },
+    {
+      "config": "4 BHK",
+      "carpet_sqft_min": 1271,
+      "carpet_sqft_max": 1728,
+      "price_min_cr": 15.86,
+      "price_max_cr": 16.77,
+      "notes": "NoBroker gives a 4 BHK carpet range (1,271-1,728 sq ft) that overlaps its 3 BHK range; to be checked. Prices are Square Yards asking prices for 2,265-2,395 sq ft saleable."
+    },
+    {
+      "config": "5 BHK duplex",
+      "carpet_sqft_min": 2384,
+      "price_min_cr": 26.99,
+      "notes": "Carpet from NoBroker. Square Yards asks Rs 26.99 crore for 3,855 sq ft saleable, and Mumbai Property Exchange lists a D Wing 5 BHK at Rs 27 crore."
+    }
+  ],
+  "price_points": [
+    {
+      "date": "2025-12-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 43350,
+      "basis": "unknown",
+      "source_name": "Square Yards (average asking price)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
+      "confidence": "low",
+      "note": "Listing average for the Dec 2025 quarter, compared with Rs 45,400 for Parel."
+    },
+    {
+      "date": "2026-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 50550,
+      "basis": "unknown",
+      "source_name": "Square Yards (average asking price)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
+      "confidence": "low",
+      "note": "Listing average, unchanged since Mar 2026 (up 16.6% in Q1 2026), compared with Rs 46,200 for Parel. The page header shows Rs 51,981."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 64700,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
+      "confidence": "medium",
+      "note": "Average registered rate of 12 sales from Nov 2025 to Oct 2026 (gross value about Rs 63 crore). The listed registrations were 375-1,160 sq ft, including several units bought together on the 12th floor of C wing. The registered areas look like carpet, so the rate is above the asking averages."
+    }
+  ],
+  "rental_points": [
+    {
+      "date": "2026-03-06",
+      "config": "2 BHK",
+      "monthly_rent": 230000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Mumbai Property Exchange rental listing",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/ashok-towers-parel-by-peninsula-land-ltd/3411",
+      "confidence": "low",
+      "note": "Listed area is 1,400 sq ft (basis not stated, probably saleable, since it matches Square Yards' saleable plan). The date is the page's update date."
+    },
+    {
+      "date": "2026-03-06",
+      "config": "3 BHK",
+      "monthly_rent": 330000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Mumbai Property Exchange rental listing",
+      "source_url": "https://www.mumbaipropertyexchange.com/project/ashok-towers-parel-by-peninsula-land-ltd/3411",
+      "confidence": "low",
+      "note": "Listed area is 1,500 sq ft (basis not stated). Square Yards' Sep 2026 range for the project is Rs 2-6 lakh/month."
+    }
+  ],
+  "news": [
+    {
+      "date": "2010-06-10",
+      "title": "Peninsula Land Annual Report 2009-10: Ashok Towers delivered",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/503031/5030310310.pdf",
+      "source": "Peninsula Land annual report (BSE filing)",
+      "event_type": "possession",
+      "summary": "The chairperson's letter (10 Jun 2010) says the company completed and handed over three of the four towers at Ashok Towers during FY2009-10. The report describes an 18-acre complex of three 30-storey towers and one 50-storey tower, and says work began in 2004."
+    },
+    {
+      "date": "2011-05-12",
+      "title": "Peninsula Land Annual Report 2010-11: ET Acetech award for Ashok Towers",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/503031/5030310311.pdf",
+      "source": "Peninsula Land annual report (BSE filing)",
+      "event_type": "other",
+      "summary": "Ashok Towers won 'Excellence in Premium Housing Amenities and Entertainment Facilities' at the Economic Times Acetech 2010 Real Estate Awards. The date is the report's 12 May 2011 sign-off."
+    }
+  ]
+}

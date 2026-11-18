@@ -28,7 +28,117 @@
         "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
       }
     ],
-    "notes": "Altamount Road (S.K. Barodawalla Marg) on Cumballa Hill is one of India's most expensive streets and home to Antilia. Lodha Altamount set a national record of Rs 1.6 lakh/sq ft in 2015. Metro Line 3's final Worli-Cuffe Parade stretch was inaugurated on 8 Oct 2025 and opened to the public on 9 Oct 2025."
+    "notes": "Altamount Road (S.K. Barodawalla Marg) on Cumballa Hill is one of India's most expensive streets and home to Antilia. Lodha Altamount set a national record of Rs 1.6 lakh/sq ft in 2015. Metro Line 3's final Worli-Cuffe Parade stretch was inaugurated on 8 Oct 2025 and opened to the public on 9 Oct 2025.",
+    "typical_rent_yield_pct": 4.39,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/cumbala-hill-mumbai"
+  },
+  {
+    "slug": "andheri-west",
+    "name": "Andheri West (Oshiwara, Lokhandwala, Four Bungalows)",
+    "region": "Western Suburbs",
+    "lat": 19.136,
+    "lng": 72.83,
+    "catalysts": [
+      {
+        "name": "Metro Line 2A (Yellow Line) Dahisar - DN Nagar along New Link Road",
+        "type": "metro",
+        "status": "operational",
+        "expected_year": 2023,
+        "source_url": "https://www.freepressjournal.in/mumbai/modi-in-mumbai-pm-flags-off-metro-lines-2a-7-on-andheri-dahisar-route"
+      },
+      {
+        "name": "Metro Line 2B (Yellow Line) extension DN Nagar - Bandra - Mandale",
+        "type": "metro",
+        "status": "under_construction",
+        "expected_year": 2027,
+        "source_url": "https://en.wikipedia.org/wiki/Line_2_(Mumbai_Metro)"
+      },
+      {
+        "name": "Versova-Bandra Sea Link (Versova landing)",
+        "type": "road",
+        "status": "under_construction",
+        "expected_year": 2027,
+        "source_url": "https://en.wikipedia.org/wiki/Versova–Bandra_Sea_Link"
+      },
+      {
+        "name": "Metro Line 6 (Pink Line) Swami Samarth Nagar - Vikhroli",
+        "type": "metro",
+        "status": "under_construction",
+        "expected_year": 2027,
+        "source_url": "https://www.mumbaipropertyexchange.com/project/oberoi-springs-andheri-west-by-oberoi-realty-ltd/1321"
+      }
+    ],
+    "typical_rent_yield_pct": 3.77,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/andheri-west-mumbai",
+    "notes": "A large, mixed suburb popular with the film industry. Luxury stock is concentrated in Oshiwara / New Link Road (e.g. Oberoi Springs) and Lokhandwala. Square Yards (Sep 2026): average asking price about Rs 41,400/sq ft, government-registration average Rs 27,900/sq ft (Nov 2025-Oct 2026), rent Rs 130/sq ft (Rs 150 in another table), gross yield 3.77%. Mumbai Property Exchange gives an Andheri West gross yield of about 3.9% and a ready reckoner of Rs 33,200/sq ft carpet. The Metro Line 6 date is from a property portal only, not an official MMRDA source."
+  },
+  {
+    "slug": "bandra-east",
+    "name": "Bandra East / BKC Annexe (Kala Nagar, Gandhi Nagar)",
+    "region": "Western Suburbs",
+    "lat": 19.058,
+    "lng": 72.85,
+    "catalysts": [
+      {
+        "name": "Metro Line 3 (Aqua Line) with BKC station, Cuffe Parade - Aarey JVLR, fully operational",
+        "type": "metro",
+        "status": "operational",
+        "expected_year": 2025,
+        "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+      },
+      {
+        "name": "Metro Line 2B (Yellow Line) DN Nagar - Mandale: Bandra and Income Tax Office (BKC interchange) stations",
+        "type": "metro",
+        "status": "under_construction",
+        "expected_year": 2027,
+        "source_url": "https://en.wikipedia.org/wiki/Line_2_(Mumbai_Metro)"
+      },
+      {
+        "name": "Mumbai-Ahmedabad bullet train, underground BKC terminal station",
+        "type": "rail",
+        "status": "under_construction",
+        "expected_year": 2029,
+        "source_url": "https://en.wikipedia.org/wiki/Mumbai–Ahmedabad_high-speed_rail_corridor"
+      },
+      {
+        "name": "Bandra Kurla Complex business district (offices, Jio World Centre)",
+        "type": "commercial",
+        "status": "operational"
+      }
+    ],
+    "typical_rent_yield_pct": 4.23,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/bandra-east-mumbai",
+    "notes": "A redevelopment-led luxury pocket between the Western Express Highway and BKC; older MHADA / MIG colonies are being rebuilt as gated towers such as Rustomjee Seasons, Rustomjee Oriana and Kalpataru Magnus. Keystone's 2022 DRHP (citing MahaRERA) says 82% of Bandra East launches in 2017-2021 (1,378 units) were redevelopment. Square Yards (Sep 2026): average asking price about Rs 56,150/sq ft, average rent Rs 198/sq ft, gross rental yield 4.23%; its government-registration average is shown as Rs 37,700 or Rs 32,400 in different places. Mumbai Property Exchange cites a ready reckoner rate of about Rs 26,000/sq ft (2025-26). Line 2B's Mandale-Diamond Garden section opened in Apr 2026, but the Bandra / BKC stations are listed for Dec 2027. The bullet train's first stretch (Surat-Bilimora) is planned for Aug 2027 and the full line for 2029."
+  },
+  {
+    "slug": "byculla",
+    "name": "Byculla",
+    "region": "South Mumbai",
+    "lat": 18.978,
+    "lng": 72.835,
+    "catalysts": [
+      {
+        "name": "Atal Setu / Mumbai Trans Harbour Link (Sewri to Nhava Sheva), about 3 km from Piramal Aranya",
+        "type": "road",
+        "status": "operational",
+        "expected_year": 2024,
+        "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+      },
+      {
+        "name": "Eastern Freeway, about 1.1-2 km from Piramal Aranya (per Piramal)",
+        "type": "road",
+        "status": "operational",
+        "source_url": "https://www.piramal.com/wp-content/uploads/2020/04/Aranya_Launch_Release_20160303122214-1-2.pdf"
+      },
+      {
+        "name": "Sewri-Worli Elevated Connector (links Atal Setu to Worli)",
+        "type": "road",
+        "status": "under_construction",
+        "expected_year": 2027,
+        "source_url": "https://propnewstime.com/latestnewsstories/MzM3NzE=/sewri-worli-connector-opening-pushed-to-early-2027-as-construction-timeline-extends"
+      }
+    ],
+    "notes": "Historic central-south locality around Rani Baug (Jijamata Udyan, Byculla Zoo) that is changing from mill and industrial land to high-rise housing, led by Piramal Aranya. Square Yards put the Byculla average asking price at about Rs 44,750/sq ft in Sep 2026 (Rs 45,150 in Dec 2025), with typical rents of about Rs 1.4 lakh/month for a 2 BHK and Rs 2.1 lakh for a 3 BHK (https://www.squareyards.com/mumbai-residential-property/piramal-aranya-arav/10299/project). A Mar 2026 advertorial quoted an average of about Rs 37,590/sq ft (https://theprint.in/ani-press-releases/bycullas-transformation-drives-demand-for-luxury-living-in-central-mumbai/2887611/). No cited rental-yield report was found."
   },
   {
     "slug": "goregaon-east",
@@ -59,7 +169,42 @@
         "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
       }
     ],
-    "notes": "Metro Lines 2A and 7 were dedicated by PM Modi on 19 Jan 2023, after the first sections opened in April 2022. GMLR's target completion has moved several times: Oct 2028 and Dec 2028 in earlier BMC statements, and Feb 2029 in a Nov 2026 report, with both TBMs now excavating. Square Yards put the Goregaon East average asking price at about Rs 32,800/sq ft in Sep 2026. In Feb 2026 Oberoi sold an 8,570 sq ft Elysian penthouse for Rs 55 crore (about Rs 64,822/sq ft) (https://houssed.com/blog/news/oberoi-realty-goregaon-penthouse-sale-55-crore)."
+    "notes": "Metro Lines 2A and 7 were dedicated by PM Modi on 19 Jan 2023, after the first sections opened in April 2022. GMLR's target completion has moved several times: Oct 2028 and Dec 2028 in earlier BMC statements, and Feb 2029 in a Nov 2026 report, with both TBMs now excavating. Square Yards put the Goregaon East average asking price at about Rs 32,800/sq ft in Sep 2026. In Feb 2026 Oberoi sold an 8,570 sq ft Elysian penthouse for Rs 55 crore (about Rs 64,822/sq ft) (https://houssed.com/blog/news/oberoi-realty-goregaon-penthouse-sale-55-crore).",
+    "typical_rent_yield_pct": 3.62,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/goregaon-east-mumbai"
+  },
+  {
+    "slug": "khar-west",
+    "name": "Khar West",
+    "region": "Western Suburbs",
+    "lat": 19.071,
+    "lng": 72.835,
+    "catalysts": [
+      {
+        "name": "Metro Line 2B (Yellow Line) along S.V. Road, DN Nagar - Bandra - Mandale",
+        "type": "metro",
+        "status": "under_construction",
+        "expected_year": 2027,
+        "source_url": "https://en.wikipedia.org/wiki/Line_2_(Mumbai_Metro)"
+      },
+      {
+        "name": "Versova-Bandra Sea Link (with Carter Road and Juhu Koliwada connectors)",
+        "type": "road",
+        "status": "under_construction",
+        "expected_year": 2027,
+        "source_url": "https://en.wikipedia.org/wiki/Versova–Bandra_Sea_Link"
+      },
+      {
+        "name": "Mumbai Coastal Road linked to Bandra-Worli Sea Link (fast access to Worli and South Mumbai)",
+        "type": "road",
+        "status": "operational",
+        "expected_year": 2025,
+        "source_url": "https://indianinfrastructure.com/2025/01/27/mumbai-coastal-roads-northbound-bridge-to-bandra-worli-sea-link-gets-inaugurated/"
+      }
+    ],
+    "typical_rent_yield_pct": 4.19,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/khar-west-mumbai",
+    "notes": "Upscale residential pocket between Bandra and Santacruz, with low new supply: Keystone's 2022 DRHP (citing MahaRERA) counts only 331 units launched in 2017-2021, 101 of them redevelopment. Square Yards (Sep 2026): average asking price about Rs 62,150/sq ft, government-registration average Rs 44,200/sq ft (Nov 2025-Oct 2026), rent about Rs 217/sq ft, gross yield 4.19%. Line 2B stations from Juhu through Bandra are listed for Dec 2026 to Dec 2027. The Versova-Bandra Sea Link was only about 8% complete in May 2023 and has an Aug 2027 target opening, so further slippage is likely."
   },
   {
     "slug": "lower-parel",
@@ -95,7 +240,9 @@
         "source_url": "https://indianinfrastructure.com/2025/01/27/mumbai-coastal-roads-northbound-bridge-to-bandra-worli-sea-link-gets-inaugurated/"
       }
     ],
-    "notes": "A former mill district (for example the Shrinivas Mills site under Lodha The World Towers) redeveloped into offices and luxury towers along Senapati Bapat Marg. A Homebazaar locality series shows Senapati Bapat Marg asking rates rising from about Rs 30,600/sq ft (2016) to Rs 52,450/sq ft (2025) (https://www.homebazaar.com/lodha-world-towers-lower-parel-274); these are listing data with low confidence. Several Lower Parel towers, including World One and Indiabulls Blu, are marketed as 'Worli'."
+    "notes": "A former mill district (for example the Shrinivas Mills site under Lodha The World Towers) redeveloped into offices and luxury towers along Senapati Bapat Marg. A Homebazaar locality series shows Senapati Bapat Marg asking rates rising from about Rs 30,600/sq ft (2016) to Rs 52,450/sq ft (2025) (https://www.homebazaar.com/lodha-world-towers-lower-parel-274); these are listing data with low confidence. Several Lower Parel towers, including World One and Indiabulls Blu, are marketed as 'Worli'.",
+    "typical_rent_yield_pct": 4.29,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/lower-parel-mumbai"
   },
   {
     "slug": "mahalaxmi",
@@ -131,7 +278,9 @@
         "source_url": "https://propnewstime.com/latestnewsstories/MzM3NzE=/sewri-worli-connector-opening-pushed-to-early-2027-as-construction-timeline-extends"
       }
     ],
-    "notes": "A racecourse-facing luxury pocket around Jacob Circle and Sane Guruji Marg, including Raheja Vivarea and the newer Raheja Modern Vivarea on former Modern Mills land. Portal asking averages for Mahalaxmi range from about Rs 60,600 to 73,000/sq ft in 2026 (Square Yards, Mumbai Property Exchange; low confidence). Mumbai Property Exchange cites a government ready reckoner rate of about Rs 19,800/sq ft carpet (https://www.mumbaipropertyexchange.com/project/vivarea-a-b-c-mahalaxmi-by-k-raheja-corp/3240). The Metro 3 station name is from general line maps and was not separately verified in a fetched source."
+    "notes": "A racecourse-facing luxury pocket around Jacob Circle and Sane Guruji Marg, including Raheja Vivarea and the newer Raheja Modern Vivarea on former Modern Mills land. Portal asking averages for Mahalaxmi range from about Rs 60,600 to 73,000/sq ft in 2026 (Square Yards, Mumbai Property Exchange; low confidence). Mumbai Property Exchange cites a government ready reckoner rate of about Rs 19,800/sq ft carpet (https://www.mumbaipropertyexchange.com/project/vivarea-a-b-c-mahalaxmi-by-k-raheja-corp/3240). The Metro 3 station name is from general line maps and was not separately verified in a fetched source.",
+    "typical_rent_yield_pct": 4.3,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/mahalaxmi-mumbai"
   },
   {
     "slug": "malabar-hill",
@@ -162,7 +311,9 @@
         "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
       }
     ],
-    "notes": "Mumbai's most exclusive residential hill, around Raj Bhavan and Walkeshwar Road. Lodha Malabar sold units at about Rs 1.17-1.45 lakh/sq ft in 2023-25, including the Rs 252 crore Bajaj triplex. In Jan 2026 Lodha bought development rights to another 4.3-acre Malabar / Cumballa Hill parcel for about Rs 106 crore (https://www.freepressjournal.in/mumbai/mumbai-real-estate-news-lodha-developers-acquires-43-acre-malabar-hill-land-development-rights-for-106-crore)."
+    "notes": "Mumbai's most exclusive residential hill, around Raj Bhavan and Walkeshwar Road. Lodha Malabar sold units at about Rs 1.17-1.45 lakh/sq ft in 2023-25, including the Rs 252 crore Bajaj triplex. In Jan 2026 Lodha bought development rights to another 4.3-acre Malabar / Cumballa Hill parcel for about Rs 106 crore (https://www.freepressjournal.in/mumbai/mumbai-real-estate-news-lodha-developers-acquires-43-acre-malabar-hill-land-development-rights-for-106-crore).",
+    "typical_rent_yield_pct": 3.51,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/malabar-hill-mumbai"
   },
   {
     "slug": "parel",
@@ -193,7 +344,9 @@
         "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
       }
     ],
-    "notes": "Former mill district redeveloped into high-rise luxury towers and offices; Kalpataru Avana sits behind ITC Grand Central. Square Yards put the Parel locality average asking price at about Rs 46,200/sq ft in Sep 2026. The Sewri-Worli connector links Atal Setu directly to the Worli / Coastal Road side, crossing Parel at Elphinstone."
+    "notes": "Former mill district redeveloped into high-rise luxury towers and offices; Kalpataru Avana sits behind ITC Grand Central. Square Yards put the Parel locality average asking price at about Rs 46,200/sq ft in Sep 2026. The Sewri-Worli connector links Atal Setu directly to the Worli / Coastal Road side, crossing Parel at Elphinstone.",
+    "typical_rent_yield_pct": 4.42,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/parel-mumbai"
   },
   {
     "slug": "prabhadevi",
@@ -231,7 +384,33 @@
         "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
       }
     ],
-    "notes": "Sea-facing pocket between Worli and Dadar; Siddhivinayak Temple is a landmark. The Coastal Road's Prabhadevi connector was still pending when the CM said in early 2025 that it would open 'by February'; no confirmation of its opening was found (https://www.freepressjournal.in/amp/mumbai/mumbai-coastal-road-set-to-open-fully-with-prabhadevi-connector-by-february-says-maharashtra-cm-devendra-fadnavis). The Sewri-Worli connector was about 62% complete in 2025-26 and has slipped from a 2026 target to early 2027."
+    "notes": "Sea-facing pocket between Worli and Dadar; Siddhivinayak Temple is a landmark. The Coastal Road's Prabhadevi connector was still pending when the CM said in early 2025 that it would open 'by February'; no confirmation of its opening was found (https://www.freepressjournal.in/amp/mumbai/mumbai-coastal-road-set-to-open-fully-with-prabhadevi-connector-by-february-says-maharashtra-cm-devendra-fadnavis). The Sewri-Worli connector was about 62% complete in 2025-26 and has slipped from a 2026 target to early 2027.",
+    "typical_rent_yield_pct": 3.91,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/prabhadevi-mumbai"
+  },
+  {
+    "slug": "tardeo",
+    "name": "Tardeo",
+    "region": "South Mumbai",
+    "lat": 18.9708,
+    "lng": 72.8128,
+    "catalysts": [
+      {
+        "name": "Mumbai Coastal Road (Marine Drive to Worli / Bandra-Worli Sea Link)",
+        "type": "road",
+        "status": "operational",
+        "expected_year": 2025,
+        "source_url": "https://indianinfrastructure.com/2025/01/27/mumbai-coastal-roads-northbound-bridge-to-bandra-worli-sea-link-gets-inaugurated/"
+      },
+      {
+        "name": "Metro Line 3 (Aqua Line) Cuffe Parade - Aarey JVLR, fully operational",
+        "type": "metro",
+        "status": "operational",
+        "expected_year": 2025,
+        "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+      }
+    ],
+    "notes": "Elite South Mumbai locality between Mumbai Central, Haji Ali and Altamount Road; home to The Imperial twin towers, once India's tallest (DNA 2012: http://www.dnaindia.com/mumbai/report-mumbais-realty-going-vertical-with-a-vengeance-1745748). Square Yards' Tardeo asking average jumped from about Rs 75,000/sq ft (Dec 2025) to Rs 97,200 (Sep 2026), which probably reflects new ultra-luxury launches in the mix rather than like-for-like growth. Its locality rents are about Rs 4.1 lakh/month for a 3 BHK and Rs 6.4 lakh for a 4 BHK (https://www.squareyards.com/mumbai-residential-property/shapoorji-pallonji-the-imperial/27259/project). Which Metro Line 3 stations are nearest was not verified. No cited rental-yield report was found."
   },
   {
     "slug": "worli",
@@ -267,6 +446,8 @@
         "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
       }
     ],
-    "notes": "Anarock data reported in Dec 2025 put Worli at about Rs 5,500 crore of ultra-luxury deals over two years, making it India's largest ultra-luxury housing market (https://www.business-standard.com/industry/news/worli-leads-indias-ultra-luxury-housing-boom-125120401114_1.html). Premium towers are quoted at Rs 65,000 to over Rs 1 lakh per sq ft. Coastal Road timeline: the southbound arm (Worli to Marine Drive) opened on 11 Mar 2024, the northbound connector to the Sea Link opened in Sep 2024 and Jan 2025, and full opening awaited the Prabhadevi connector, targeted for Feb 2025 (https://theprint.in/india/coastal-road-to-be-fully-open-to-mumbaikars-on-completion-of-prabhadevi-connector-in-feb-fadnavis/2464216/). Worli-Sewri connector: earlier targets were Sep 2026 and end-2026, and a Jul 2026 report says early 2027. No official MMRDA date was found."
+    "notes": "Anarock data reported in Dec 2025 put Worli at about Rs 5,500 crore of ultra-luxury deals over two years, making it India's largest ultra-luxury housing market (https://www.business-standard.com/industry/news/worli-leads-indias-ultra-luxury-housing-boom-125120401114_1.html). Premium towers are quoted at Rs 65,000 to over Rs 1 lakh per sq ft. Coastal Road timeline: the southbound arm (Worli to Marine Drive) opened on 11 Mar 2024, the northbound connector to the Sea Link opened in Sep 2024 and Jan 2025, and full opening awaited the Prabhadevi connector, targeted for Feb 2025 (https://theprint.in/india/coastal-road-to-be-fully-open-to-mumbaikars-on-completion-of-prabhadevi-connector-in-feb-fadnavis/2464216/). Worli-Sewri connector: earlier targets were Sep 2026 and end-2026, and a Jul 2026 report says early 2027. No official MMRDA date was found.",
+    "typical_rent_yield_pct": 4.85,
+    "rent_yield_source_url": "https://www.squareyards.com/property-rates/worli-mumbai"
   }
 ]

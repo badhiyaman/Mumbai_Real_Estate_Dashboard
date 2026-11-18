@@ -1,0 +1,83 @@
+{
+  "developers": [
+    {
+      "slug": "piramal-realty",
+      "name": "Piramal Realty Pvt Ltd (Piramal Group)",
+      "founded_year": 2012,
+      "website": "https://www.piramalrealty.com",
+      "delivery_track_record": "At Piramal Aranya (Byculla) the Avyan and 72-storey Arav towers are delivered (700+ homes by Jul 2025), and Ahan I has its OC; Piramal says Avyan's OC came 21 months ahead of schedule. In May 2023 it announced OCs for Aranya, Vaikunth (Thane) and Revanta (Mulund). At Piramal Mahalaxmi the South Tower (MahaRERA completion Dec 2025) has been handed over and the Central Tower (completion Jun 2026) has its OC, while the North Tower is still being finished.",
+      "notes": "Real estate arm of the Piramal Group; PTI (Jul 2025) says it was founded in 2012. In 2018 the company said Goldman Sachs and Warburg Pincus had invested about US$434 million at entity level. Piramal Mahalaxmi is a joint development with Omkar Realtors. No sourced on-time score, so on_time_score is omitted. Sources: https://www.theweek.in/wire-updates/business/2025/07/10/dcm93-biz-realty-piramal.html ; https://www.piramalrealty.com/pdf/piramal-realty-launches-central-tower-at-piramal-mahalaxmi-an-inr-2600-crore-project.pdf ; https://www.realtynmore.com/piramal-realty-receives-occupancy-certificate-oc-for-three-luxury-projects-in-mmr/ ; https://www.piramalrealty.com/blogs/choosing-between-south-tower-central-tower-and-north-tower-at-piramal-mahalaxmi"
+    },
+    {
+      "slug": "hubtown",
+      "name": "Hubtown Ltd (formerly Akruti City)",
+      "listed_ticker": "NSE: HUBTOWN",
+      "delivery_track_record": "Its 25 South project in Prabhadevi has been under construction since at least 2018, with listed possession dates ranging from Nov 2025 to Dec 2026 and the OC not yet received (Housiey, 2026). No completed-project delivery record was gathered in this batch.",
+      "notes": "Owner of 25 South (Prabhadevi) through 25 South Realty Ltd. A Hubtown NSE filing (Aug 2025) says that entity is proposed for amalgamation with Hubtown Ltd, and an Oct 2025 report says 25 West (Bandra), 25 South and 25 Downtown are being merged into the listed company. The Wadhwa Group co-marketed 25 South (Gulf News, DNA 2018) and was reportedly its development manager from 2015 (unverified search snippet). Website and founding year are omitted because they were not confirmed from a fetched source. Sources: https://nsearchives.nseindia.com/corporate/HUBTOWN_26082025155903_25Southpresentation26082025.pdf ; https://filingreader.com/news-wire/mumbai/2025-10-16/hubtown-to-merge-promoter-entities-boost-assets-and-cut-debt ; https://gulfnews.com/business/property/bespoke-living-in-mumbai-defined-1.1541674563889"
+    },
+    {
+      "slug": "sd-corporation",
+      "name": "SD Corporation Pvt Ltd (Shapoorji Pallonji - Dilip Thacker joint venture)",
+      "founded_year": 1998,
+      "website": "https://www.sdcorp.in",
+      "delivery_track_record": "Delivered The Imperial twin towers in Tardeo (60 storeys, completed 2010, India's tallest until 2019) and The Imperial Edge (MahaRERA original completion Dec 2021, listed as ready). The Imperial i (62 storeys) is under construction with possession scheduled for Dec 2029.",
+      "notes": "HomeBazaar describes SD Corp as a JV of Shapoorji Pallonji and the Dilip Thacker group; SD Corp's site gives 1998 as its founding year. Shapoorji Pallonji was the main contractor for The Imperial. Sources: https://www.sdcorp.in/projects/the-imperial-towers ; https://www.homebazaar.com/the-imperial-edge-tardeo-3491 ; https://www.skyscrapercenter.com/building/wd/889"
+    }
+  ],
+  "micro_markets": [
+    {
+      "slug": "byculla",
+      "name": "Byculla",
+      "region": "South Mumbai",
+      "lat": 18.978,
+      "lng": 72.835,
+      "catalysts": [
+        {
+          "name": "Atal Setu / Mumbai Trans Harbour Link (Sewri to Nhava Sheva), about 3 km from Piramal Aranya",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2024,
+          "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1995650"
+        },
+        {
+          "name": "Eastern Freeway, about 1.1-2 km from Piramal Aranya (per Piramal)",
+          "type": "road",
+          "status": "operational",
+          "source_url": "https://www.piramal.com/wp-content/uploads/2020/04/Aranya_Launch_Release_20160303122214-1-2.pdf"
+        },
+        {
+          "name": "Sewri-Worli Elevated Connector (links Atal Setu to Worli)",
+          "type": "road",
+          "status": "under_construction",
+          "expected_year": 2027,
+          "source_url": "https://propnewstime.com/latestnewsstories/MzM3NzE=/sewri-worli-connector-opening-pushed-to-early-2027-as-construction-timeline-extends"
+        }
+      ],
+      "notes": "Historic central-south locality around Rani Baug (Jijamata Udyan, Byculla Zoo) that is changing from mill and industrial land to high-rise housing, led by Piramal Aranya. Square Yards put the Byculla average asking price at about Rs 44,750/sq ft in Sep 2026 (Rs 45,150 in Dec 2025), with typical rents of about Rs 1.4 lakh/month for a 2 BHK and Rs 2.1 lakh for a 3 BHK (https://www.squareyards.com/mumbai-residential-property/piramal-aranya-arav/10299/project). A Mar 2026 advertorial quoted an average of about Rs 37,590/sq ft (https://theprint.in/ani-press-releases/bycullas-transformation-drives-demand-for-luxury-living-in-central-mumbai/2887611/). No cited rental-yield report was found."
+    },
+    {
+      "slug": "tardeo",
+      "name": "Tardeo",
+      "region": "South Mumbai",
+      "lat": 18.9708,
+      "lng": 72.8128,
+      "catalysts": [
+        {
+          "name": "Mumbai Coastal Road (Marine Drive to Worli / Bandra-Worli Sea Link)",
+          "type": "road",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://indianinfrastructure.com/2025/01/27/mumbai-coastal-roads-northbound-bridge-to-bandra-worli-sea-link-gets-inaugurated/"
+        },
+        {
+          "name": "Metro Line 3 (Aqua Line) Cuffe Parade - Aarey JVLR, fully operational",
+          "type": "metro",
+          "status": "operational",
+          "expected_year": 2025,
+          "source_url": "https://www.freepressjournal.in/mumbai/mumbai-metro-line-3-becomes-fully-operational-promises-faster-sustainable-commute-across-city"
+        }
+      ],
+      "notes": "Elite South Mumbai locality between Mumbai Central, Haji Ali and Altamount Road; home to The Imperial twin towers, once India's tallest (DNA 2012: http://www.dnaindia.com/mumbai/report-mumbais-realty-going-vertical-with-a-vengeance-1745748). Square Yards' Tardeo asking average jumped from about Rs 75,000/sq ft (Dec 2025) to Rs 97,200 (Sep 2026), which probably reflects new ultra-luxury launches in the mix rather than like-for-like growth. Its locality rents are about Rs 4.1 lakh/month for a 3 BHK and Rs 6.4 lakh for a 4 BHK (https://www.squareyards.com/mumbai-residential-property/shapoorji-pallonji-the-imperial/27259/project). Which Metro Line 3 stations are nearest was not verified. No cited rental-yield report was found."
+    }
+  ]
+}

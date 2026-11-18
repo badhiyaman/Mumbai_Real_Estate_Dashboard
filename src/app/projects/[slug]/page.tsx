@@ -6,15 +6,33 @@ import {
   fmtDate,
   fmtPct,
   fmtPsf,
+  possessionLabel,
   growth,
+  typicalYield,
+  IMPLAUSIBLE_YIELD,
+  rentalYields,
   sortedPrices,
+  unitsPerAcre,
   stageGrowth,
   STAGE_LABEL,
   STATUS_LABEL,
   type Growth,
+  type RentYield,
 } from "@/lib/metrics";
-import { getProject, getProjectNews, getProjects } from "@/lib/queries";
-import type { ProjectNewsItem } from "@/lib/types";
+import { getCostItems, getProject, getProjectNews, getProjects } from "@/lib/queries";
+import type { CostItem, Project, ProjectNewsItem } from "@/lib/types";
+import type { LandType } from "@/lib/seed-types";
+
+const LAND_LABEL: Record<LandType, string> = {
+  private: "Private land",
+  mill_land: "Former mill land",
+  redevelopment: "Redevelopment of an older building",
+  sra: "Slum rehabilitation (SRA) scheme",
+  government_lease: "Government / collector lease",
+  other: "Other",
+};
+const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
+const FURNISH_LABEL = { furnished: "Furnished", semi_furnished: "Semi-furnished", unfurnished: "Unfurnished", unknown: "" };
 
 export const revalidate = 600;
 
@@ -38,7 +56,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
   const { slug } = await params;
   const project = await getProject(slug);
   if (!project) notFound();
-  const [news, all] = await Promise.all([getProjectNews(project.id), getProjects()]);
+  const [news, all, costs] = await Promise.all([getProjectNews(project.id), getProjects(), getCostItems()]);
 
   const prices = sortedPrices(project.price_points);
   const overall = growth(project.price_points);
@@ -62,19 +80,92 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
     .filter((n) => n.article.published_at)
     .map((n) => ({ t: new Date(n.article.published_at!).getTime(), title: n.article.title }));
 
-  const facts: [string, string | null][] = [
-    ["Developer", project.developer?.name ?? null],
-    ["Area", [project.micro_market?.name, project.micro_market?.region].filter(Boolean).join(", ") || null],
-    ["Status", STATUS_LABEL[project.status]],
-    ["Launched", project.launch_date ? fmtDate(project.launch_date) : null],
-    ["Possession promised", project.possession_promised ? fmtDate(project.possession_promised) : null],
-    ["Possession actual", project.possession_actual ? fmtDate(project.possession_actual) : null],
-    ["Land parcel", project.land_acres ? `${project.land_acres} acres` : null],
-    ["Towers", project.towers ? String(project.towers) : null],
-    ["Tallest tower", project.floors_max ? `${project.floors_max} floors` : null],
-    ["Total units", project.total_units ? project.total_units.toLocaleString("en-IN") : null],
-    ["MahaRERA", project.rera_ids.length ? project.rera_ids.join(", ") : null],
+  const p = project;
+  const density = unitsPerAcre(p);
+  const yields = rentalYields(p);
+  const medianYield = typicalYield(yields);
+  const areaYield = p.micro_market?.typical_rent_yield_pct;
+  const n = (v: number | null | undefined, f: (x: number) => string = String) => (v == null ? null : f(v));
+  const yes = (v: boolean | null) => (v == null ? null : v ? "Yes" : "No");
+
+  const factGroups: { title: string; facts: [string, string | null][] }[] = [
+    {
+      title: "Project",
+      facts: [
+        ["Developer", p.developer?.name ?? null],
+        ["Area", [p.micro_market?.name, p.micro_market?.region].filter(Boolean).join(", ") || null],
+        ["Status", STATUS_LABEL[p.status]],
+        ["Launched", p.launch_date ? fmtDate(p.launch_date) : null],
+        ["Possession promised", p.possession_promised ? fmtDate(p.possession_promised) : null],
+        ["Possession actual", p.possession_actual ? fmtDate(p.possession_actual) : null],
+        ["Possession status", possessionLabel(p)],
+        ["Branded residence", p.branded_residence],
+      ],
+    },
+    {
+      title: "Building & specs",
+      facts: [
+        ["Land parcel", n(p.land_acres, (x) => `${x} acres`)],
+        ["Towers", n(p.towers)],
+        ["Tallest tower", n(p.floors_max, (x) => `${x} floors`)],
+        ["Total units", n(p.total_units, (x) => x.toLocaleString("en-IN"))],
+        ["Density", n(density, (x) => `${Math.round(x)} units per acre`)],
+        ["Flats per floor", n(p.flats_per_floor)],
+        ["Lifts per tower", n(p.lifts_per_tower)],
+        ["Ceiling height", n(p.ceiling_height_ft, (x) => `${x} ft`)],
+        ["Car parks per unit", n(p.car_parks_per_unit)],
+        ["Clubhouse", n(p.clubhouse_sqft, (x) => `${x.toLocaleString("en-IN")} sq ft`)],
+        ["Open space", n(p.open_space_pct, (x) => `${x}% of land`)],
+        ["Views", p.views?.length ? p.views.join(", ") : null],
+        ["Architect", p.architect],
+        ["Contractor", p.contractor],
+        ["Green certification", p.green_certification],
+      ],
+    },
+    {
+      title: "Land & approvals",
+      facts: [
+        ["Land type", p.land_type ? LAND_LABEL[p.land_type] : null],
+        ["Tenure", p.land_tenure && p.land_tenure !== "unknown" ? cap(p.land_tenure) : null],
+        ["JV / landowner", p.jv_partner],
+        ["Occupation certificate", p.oc_received == null ? null : `${yes(p.oc_received)}${p.oc_date ? ` (${fmtDate(p.oc_date)})` : ""}`],
+        ["MahaRERA", p.rera_ids.length ? p.rera_ids.join(", ") : null],
+        ["MahaRERA complaints", n(p.rera_complaints)],
+        [
+          "Units sold",
+          p.units_sold == null
+            ? null
+            : `${p.units_sold.toLocaleString("en-IN")}${p.total_units ? ` of ${p.total_units.toLocaleString("en-IN")} (${Math.round((p.units_sold / p.total_units) * 100)}%)` : ""}${p.units_sold_as_of ? `, as of ${fmtDate(p.units_sold_as_of)}` : ""}`,
+        ],
+      ],
+    },
+    {
+      title: "Pricing details",
+      facts: [
+        ["Loading", n(p.loading_pct, (x) => `${x}% (saleable area is ${x}% larger than carpet)`)],
+        ["Floor rise", n(p.floor_rise_psf, (x) => `₹${x.toLocaleString("en-IN")}/sq ft per floor`)],
+        ["Floor rise / view notes", p.floor_rise_notes],
+        ["Maintenance", n(p.maintenance_psf_month, (x) => `₹${x}/sq ft per month`)],
+        ["Payment plan", p.payment_plan],
+        ["Registered sales, last 12 months", n(p.transactions_12m)],
+      ],
+    },
+    {
+      title: "Location",
+      facts: [
+        ["Nearest metro", p.nearest_metro ? `${p.nearest_metro}${p.nearest_metro_km != null ? ` (${p.nearest_metro_km} km)` : ""}` : null],
+        ["To BKC", n(p.distance_bkc_km, (x) => `${x} km`)],
+        ["To airport (T2)", n(p.distance_airport_km, (x) => `${x} km`)],
+      ],
+    },
   ];
+
+  // Floor-rise illustration on a typical unit: how much more a high floor costs than a low one.
+  const typicalCarpet = p.unit_types.find((u) => u.carpet_sqft_min)?.carpet_sqft_min ?? null;
+  const floorRiseExample =
+    p.floor_rise_psf && p.floors_max && typicalCarpet
+      ? { floors: p.floors_max - 1, carpet: typicalCarpet, extraCr: (p.floor_rise_psf * (p.floors_max - 1) * typicalCarpet) / 1e7 }
+      : null;
 
   return (
     <article className="space-y-10">
@@ -142,18 +233,35 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
         </p>
       </Section>
 
-      <div className="grid gap-10 lg:grid-cols-2">
-        <Section title="Key facts">
-          <dl className="grid grid-cols-[auto_1fr] gap-x-6 gap-y-2 text-sm">
-            {facts.filter(([, v]) => v).map(([k, v]) => (
-              <div key={k} className="contents">
-                <dt className="text-muted">{k}</dt>
-                <dd>{v}</dd>
+      <Section title="Key facts">
+        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          {factGroups
+            .map((g) => ({ ...g, facts: g.facts.filter(([, v]) => v) }))
+            .filter((g) => g.facts.length)
+            .map((g) => (
+              <div key={g.title} className="rounded-lg border border-border bg-surface p-4">
+                <h3 className="mb-2 text-sm font-medium">{g.title}</h3>
+                <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-1.5 text-sm">
+                  {g.facts.map(([k, v]) => (
+                    <div key={k} className="contents">
+                      <dt className="text-muted">{k}</dt>
+                      <dd className="first-letter:uppercase">{v}</dd>
+                    </div>
+                  ))}
+                </dl>
               </div>
             ))}
-          </dl>
-        </Section>
+        </div>
+        {floorRiseExample && (
+          <p className="text-sm text-muted">
+            Floor rise in practice: a {floorRiseExample.carpet.toLocaleString("en-IN")} sq ft apartment on the top floor
+            costs about <span className="text-foreground">{fmtCr(floorRiseExample.extraCr)} more</span> than the same
+            apartment on the first floor ({floorRiseExample.floors} floors × ₹{p.floor_rise_psf!.toLocaleString("en-IN")}/sq ft).
+          </p>
+        )}
+      </Section>
 
+      <div className="grid gap-10 lg:grid-cols-2">
         <Section title="Apartment types">
           {project.unit_types.length === 0 ? (
             <p className="text-sm text-muted">No unit details yet.</p>
@@ -163,7 +271,8 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
                 <tr className="border-b border-border">
                   <th className="py-2 pr-3 font-normal">Type</th>
                   <th className="py-2 pr-3 font-normal">Carpet area</th>
-                  <th className="py-2 font-normal">Ticket size</th>
+                  <th className="py-2 pr-3 font-normal">Ticket size</th>
+                  <th className="py-2 font-normal">Units</th>
                 </tr>
               </thead>
               <tbody>
@@ -171,15 +280,27 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
                   <tr key={u.id} className="border-b border-border align-top">
                     <td className="py-2 pr-3">{u.config}</td>
                     <td className="py-2 pr-3">{range(u.carpet_sqft_min, u.carpet_sqft_max, (n) => `${n.toLocaleString("en-IN")} sq ft`)}</td>
-                    <td className="py-2">
+                    <td className="py-2 pr-3">
                       {range(u.price_min_cr, u.price_max_cr, fmtCr)}
                       {u.notes && <div className="text-xs text-muted">{u.notes}</div>}
                     </td>
+                    <td className="py-2">{u.units ?? "—"}</td>
                   </tr>
                 ))}
               </tbody>
             </table>
           )}
+        </Section>
+
+        <Section title="Rent & rental yield">
+          <RentSection
+            rents={project.rental_points}
+            yields={yields}
+            medianYield={medianYield}
+            areaYield={areaYield ?? null}
+            areaYieldUrl={p.micro_market?.rent_yield_source_url ?? null}
+            areaName={p.micro_market?.name ?? "the area"}
+          />
         </Section>
       </div>
 
@@ -238,6 +359,12 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
             loading="lazy"
             src={`https://www.openstreetmap.org/export/embed.html?bbox=${project.lng - 0.01}%2C${project.lat - 0.007}%2C${project.lng + 0.01}%2C${project.lat + 0.007}&layer=mapnik&marker=${project.lat}%2C${project.lng}`}
           />
+        </Section>
+      )}
+
+      {costs.length > 0 && (
+        <Section title="Costs of buying, owning and selling in Mumbai">
+          <CostsTable costs={costs} />
         </Section>
       )}
 
@@ -312,6 +439,131 @@ function NewsTimeline({ items }: { items: ProjectNewsItem[] }) {
       ))}
     </ol>
   );
+}
+
+function RentSection({
+  rents,
+  yields,
+  medianYield,
+  areaYield,
+  areaYieldUrl,
+  areaName,
+}: {
+  rents: Project["rental_points"];
+  yields: RentYield[];
+  medianYield: number | null;
+  areaYield: number | null;
+  areaYieldUrl: string | null;
+  areaName: string;
+}) {
+  if (!rents.length) return <p className="text-sm text-muted">No rent data yet.</p>;
+  const yieldById = new Map(yields.map((y) => [y.rent.id, y]));
+  const sorted = [...rents].sort((a, b) => b.date.localeCompare(a.date));
+  return (
+    <div className="space-y-3">
+      <div className="flex flex-wrap gap-6 text-sm">
+        <div>
+          <div className="text-xs text-muted">Typical gross yield here</div>
+          <div className="text-xl font-semibold">{medianYield != null ? `${(medianYield * 100).toFixed(1)}%` : "—"}</div>
+        </div>
+        {areaYield != null && (
+          <div>
+            <div className="text-xs text-muted">{areaName} average</div>
+            <div className="text-xl font-semibold">
+              {areaYieldUrl ? (
+                <a href={areaYieldUrl} target="_blank" rel="noopener noreferrer" className="hover:text-accent">{areaYield}%</a>
+              ) : `${areaYield}%`}
+            </div>
+          </div>
+        )}
+      </div>
+      <table className="w-full text-left text-sm">
+        <thead className="text-xs text-muted">
+          <tr className="border-b border-border">
+            <th className="py-2 pr-3 font-normal">Date</th>
+            <th className="py-2 pr-3 font-normal">Apartment</th>
+            <th className="py-2 pr-3 font-normal">Rent / month</th>
+            <th className="py-2 font-normal">Yield</th>
+          </tr>
+        </thead>
+        <tbody>
+          {sorted.map((r) => {
+            const y = yieldById.get(r.id);
+            return (
+              <tr key={r.id} className="border-b border-border align-top">
+                <td className="py-2 pr-3 whitespace-nowrap">{fmtDate(r.date)}</td>
+                <td className="py-2 pr-3">
+                  {r.config}
+                  {r.carpet_sqft ? `, ${r.carpet_sqft.toLocaleString("en-IN")} sq ft` : ""}
+                  <div className="text-xs text-muted">
+                    {[FURNISH_LABEL[r.furnishing], r.kind === "registered" ? "Registered lease" : "Asking rent"].filter(Boolean).join(" · ")}
+                  </div>
+                </td>
+                <td className="py-2 pr-3 whitespace-nowrap">
+                  {r.source_url ? (
+                    <a href={r.source_url} target="_blank" rel="noopener noreferrer" className="hover:text-accent">
+                      ₹{fmtLakh(r.monthly_rent)}
+                    </a>
+                  ) : `₹${fmtLakh(r.monthly_rent)}`}
+                  <div><ConfidenceBadge c={r.confidence} /></div>
+                </td>
+                <td className="py-2">
+                  {y ? `${(y.grossYield * 100).toFixed(1)}%` : "—"}
+                  {y && y.grossYield > IMPLAUSIBLE_YIELD && (
+                    <div className="text-xs text-amber-600 dark:text-amber-400">Unusually high; rent and price may use different areas</div>
+                  )}
+                </td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+      <p className="text-xs text-muted">
+        Gross yield = yearly rent ÷ (carpet area × the closest carpet ₹/sq ft price). Yields above 7% are left out of the typical figure, because they almost always come from a rent and a price measured on different areas. It ignores maintenance, property
+        tax, vacancy and income tax, so the net yield is lower. A bank FD pays about 6.5% for comparison.
+      </p>
+    </div>
+  );
+}
+
+function CostsTable({ costs }: { costs: CostItem[] }) {
+  const order = ["buying", "holding", "renting", "selling"] as const;
+  const label = { buying: "When buying", holding: "While owning", renting: "If you rent it out", selling: "When selling" };
+  return (
+    <div className="grid gap-4 md:grid-cols-2">
+      {order.map((stage) => {
+        const items = costs.filter((c) => c.stage === stage);
+        if (!items.length) return null;
+        return (
+          <div key={stage} className="rounded-lg border border-border bg-surface p-4">
+            <h3 className="mb-2 text-sm font-medium">{label[stage]}</h3>
+            <ul className="space-y-2 text-sm">
+              {items.map((c) => (
+                <li key={c.key}>
+                  <div className="flex flex-wrap justify-between gap-x-3">
+                    <span className="text-muted">{c.name}</span>
+                    {c.source_url ? (
+                      <a href={c.source_url} target="_blank" rel="noopener noreferrer" className="hover:text-accent">{c.value}</a>
+                    ) : <span>{c.value}</span>}
+                  </div>
+                  {(c.applies_to || c.note) && (
+                    <div className="text-xs text-muted">{[c.applies_to, c.note].filter(Boolean).join(" · ")}</div>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </div>
+        );
+      })}
+      <p className="text-xs text-muted md:col-span-2">
+        General rules, checked on the dates in the sources. Tax rules change; confirm with a chartered accountant before buying.
+      </p>
+    </div>
+  );
+}
+
+function fmtLakh(n: number): string {
+  return n >= 100000 ? `${(n / 100000).toFixed(n % 100000 === 0 ? 0 : 2)} lakh` : n.toLocaleString("en-IN");
 }
 
 function range<T extends number>(min: T | null, max: T | null, f: (n: T) => string): string {
