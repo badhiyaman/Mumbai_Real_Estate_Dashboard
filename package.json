@@ -10,10 +10,12 @@
     "test": "vitest run",
     "seed": "tsx --env-file=.env.local scripts/seed.ts",
     "validate": "tsx scripts/validate-seed.ts",
-    "merge-research": "tsx scripts/merge-research.ts"
+    "merge-research": "tsx scripts/merge-research.ts",
+    "news": "tsx --env-file=.env.local scripts/fetch-news.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.119.0",
+    "fast-xml-parser": "^5.12.1",
     "next": "15.5.29",
     "react": "19.1.0",
     "react-dom": "19.1.0",
