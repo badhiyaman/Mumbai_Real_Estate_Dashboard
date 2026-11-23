@@ -20,6 +20,8 @@ import {
   type RentYield,
 } from "@/lib/metrics";
 import { getCostItems, getProject, getProjectNews, getProjects } from "@/lib/queries";
+import { baseCagrFor, buildContext, combine, DEFAULT_WEIGHTS, scoreFactors } from "@/lib/scoring";
+import { Disclaimer, FactorList, OutlookTable, ScoreBadge } from "@/components/ScoreBreakdown";
 import type { CostItem, Project, ProjectNewsItem } from "@/lib/types";
 import type { LandType } from "@/lib/seed-types";
 
@@ -69,6 +71,12 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
     .map((p) => growth(p.price_points)?.cagr)
     .filter((v): v is number => v != null);
   const peerAvg = peers.length ? peers.reduce((a, b) => a + b, 0) / peers.length : null;
+
+  // Investment score with the default weights (adjustable on the Opportunities page).
+  const scoreCtx = buildContext(all);
+  const factors = scoreFactors(project, scoreCtx);
+  const base = baseCagrFor(project, scoreCtx);
+  const scoreResult = combine(factors, DEFAULT_WEIGHTS, base.value);
 
   const chartPoints: ChartPoint[] = prices.map((p) => ({
     t: new Date(p.date).getTime(),
@@ -170,7 +178,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
   return (
     <article className="space-y-10">
       <header className="space-y-3">
-        <Link href="/history" className="text-sm text-muted hover:text-foreground">← Market History</Link>
+        <div className="flex gap-4 text-sm text-muted"><Link href="/history" className="hover:text-foreground">← Market History</Link><Link href="/opportunities" className="hover:text-foreground">Opportunities</Link></div>
         <h1 className="text-3xl font-semibold tracking-tight">{project.name}</h1>
         {project.address && <p className="text-muted">{project.address}</p>}
         {project.description && <p className="max-w-3xl">{project.description}</p>}
@@ -189,6 +197,21 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           </ul>
         </div>
       </section>
+
+      <Section title="Investment score">
+        <div className="grid gap-6 rounded-lg border border-border bg-surface p-4 lg:grid-cols-2">
+          <div className="space-y-4">
+            <ScoreBadge result={scoreResult} size="lg" />
+            <OutlookTable result={scoreResult} baseSource={base.source} />
+            <p className="text-xs text-muted">
+              Default weights. <Link href="/opportunities" className="text-accent hover:underline">Change what matters to you</Link> and
+              compare with other projects on the Opportunities page.
+            </p>
+          </div>
+          <FactorList factors={factors} result={scoreResult} weights={DEFAULT_WEIGHTS} />
+        </div>
+        <Disclaimer />
+      </Section>
 
       <Section title="Price history">
         <PriceChart points={chartPoints} events={chartEvents} />
