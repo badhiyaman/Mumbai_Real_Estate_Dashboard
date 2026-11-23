@@ -28,6 +28,7 @@ In Supabase > SQL Editor, run these files in order (each is safe to re-run):
 2. `supabase/grants.sql`: lets the API keys use the tables
 3. `supabase/rls.sql`: row-level security (anyone can read; only the secret key can write)
 4. `supabase/migrations/002_more_fields.sql`: building specs, rents and buying costs
+5. `supabase/migrations/003_editing.sql`: lets website edits survive `npm run seed`
 
 Then load the data with `npm run seed`.
 
@@ -42,10 +43,13 @@ Then load the data with `npm run seed`.
 | `npm run seed` | Load everything in `data/seed/` into Supabase (safe to re-run) |
 | `npm run news` | Fetch and save today's news (`-- --dry-run` to preview, `-- --recheck` to clean up) |
 
-## Adding projects
+## Adding and editing projects
 
-Follow `data/seed/RESEARCH_GUIDE.md`, add one JSON file per project to `data/seed/projects/`, then run
-`npm run validate` and `npm run seed`.
+- **On the website:** sign in at `/admin` with `ADMIN_PASSWORD`. You can add a project, edit its details, add or
+  remove prices and rents, and link news. Edited fields are stored in `projects.manual_overrides` and re-applied by
+  `npm run seed`. Prices and rents added on the website (`source = 'app'`) are never replaced by the seed.
+- **In the files:** follow `data/seed/RESEARCH_GUIDE.md`, add one JSON file per project to `data/seed/projects/`, then
+  run `npm run validate` and `npm run seed`. Rows that come from the files (`source = 'seed'`) are reloaded each time.
 
 ## Deployment
 

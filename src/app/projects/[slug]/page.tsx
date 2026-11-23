@@ -20,6 +20,7 @@ import {
   type RentYield,
 } from "@/lib/metrics";
 import { getCostItems, getProject, getProjectNews, getProjects } from "@/lib/queries";
+import { isAdmin } from "@/lib/auth";
 import { baseCagrFor, buildContext, combine, DEFAULT_WEIGHTS, scoreFactors } from "@/lib/scoring";
 import { Disclaimer, FactorList, OutlookTable, ScoreBadge } from "@/components/ScoreBreakdown";
 import type { CostItem, Project, ProjectNewsItem } from "@/lib/types";
@@ -58,6 +59,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
   const { slug } = await params;
   const project = await getProject(slug);
   if (!project) notFound();
+  const admin = await isAdmin();
   const [news, all, costs] = await Promise.all([getProjectNews(project.id), getProjects(), getCostItems()]);
 
   const prices = sortedPrices(project.price_points);
@@ -178,7 +180,7 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
   return (
     <article className="space-y-10">
       <header className="space-y-3">
-        <div className="flex gap-4 text-sm text-muted"><Link href="/history" className="hover:text-foreground">← Market History</Link><Link href="/opportunities" className="hover:text-foreground">Opportunities</Link></div>
+        <div className="flex gap-4 text-sm text-muted"><Link href="/history" className="hover:text-foreground">← Market History</Link><Link href="/opportunities" className="hover:text-foreground">Opportunities</Link>{admin && <Link href={`/projects/${slug}/edit`} className="ml-auto text-accent hover:underline">Edit this project</Link>}</div>
         <h1 className="text-3xl font-semibold tracking-tight">{project.name}</h1>
         {project.address && <p className="text-muted">{project.address}</p>}
         {project.description && <p className="max-w-3xl">{project.description}</p>}

@@ -65,10 +65,17 @@ async function main() {
           },
           { onConflict: "slug" },
         )
-        .select("id"),
+        .select("id, manual_overrides"),
       `project ${p.slug}`,
     );
     const projectId = row.id;
+
+    // Edits made on the website win over the files until they're copied into the files.
+    const overrides = (row.manual_overrides ?? {}) as Record<string, unknown>;
+    if (Object.keys(overrides).length) {
+      check(await db.from("projects").update(overrides).eq("id", projectId), `overrides ${p.slug}`);
+      console.log(`  ${p.slug}: kept ${Object.keys(overrides).length} website edit(s): ${Object.keys(overrides).join(", ")}`);
+    }
 
     check(await db.from("unit_types").delete().eq("project_id", projectId), "clear unit_types");
     if (unit_types.length)
@@ -77,17 +84,18 @@ async function main() {
         `unit_types ${p.slug}`,
       );
 
-    check(await db.from("price_points").delete().eq("project_id", projectId), "clear price_points");
+    // Only replace rows that came from the files; rows added on the website (source 'app') stay.
+    check(await db.from("price_points").delete().eq("project_id", projectId).eq("source", "seed"), "clear price_points");
     if (price_points.length)
       check(
-        await db.from("price_points").insert(price_points.map((pp) => ({ ...pp, project_id: projectId }))),
+        await db.from("price_points").insert(price_points.map((pp) => ({ ...pp, project_id: projectId, source: "seed" }))),
         `price_points ${p.slug}`,
       );
 
-    check(await db.from("rental_points").delete().eq("project_id", projectId), "clear rental_points");
+    check(await db.from("rental_points").delete().eq("project_id", projectId).eq("source", "seed"), "clear rental_points");
     if (rental_points.length)
       check(
-        await db.from("rental_points").insert(rental_points.map((r) => ({ ...r, project_id: projectId }))),
+        await db.from("rental_points").insert(rental_points.map((r) => ({ ...r, project_id: projectId, source: "seed" }))),
         `rental_points ${p.slug}`,
       );
 

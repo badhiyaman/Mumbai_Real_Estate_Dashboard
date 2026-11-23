@@ -1,3 +1,4 @@
+import InsightsStrip from "@/components/InsightsStrip";
 import ProjectGallery from "@/components/ProjectGallery";
 import { toCard } from "@/lib/cards";
 import { getProjects } from "@/lib/queries";
@@ -23,7 +24,11 @@ export default async function HistoryPage() {
           No projects in the database yet. Run <code>npm run seed</code> to load them.
         </p>
       ) : (
-        <ProjectGallery cards={cards} />
+        <>
+          <InsightsStrip projects={projects} />
+          <h2 className="pt-2 text-lg font-medium">All projects</h2>
+          <ProjectGallery cards={cards} />
+        </>
       )}
     </div>
   );
