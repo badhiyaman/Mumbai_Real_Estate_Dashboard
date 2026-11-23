@@ -26,7 +26,7 @@
     "Multipurpose hall"
   ],
   "description": "Three high-rise towers (about 50 storeys) with 802 mostly 3 BHK apartments in Oberoi Realty's Oberoi Garden City township in Goregaon East. Launched in October 2009 and built by Larsen & Toubro, it was fully complete by March 2015. Oberoi's quarterly presentations track its realised price from about Rs 11,000 to Rs 24,000 per sq ft of saleable area.",
-  "notes": "Launched Oct 2009 as 'Oberoi Exquisite - I'. The Jan 2010 DRHP described three 45-storey towers with about 774 three-bedroom units, a saleable area of 1,373,580 sq ft, construction from Dec 2009 and estimated completion in Nov 2013. 211 units were booked by 31 Dec 2009. The project later grew to 786 units / 1,506,810 sq ft (Mar 2011) and then 802 units / 1,547,610 sq ft (Mar 2016). Oberoi Esquire next door was first called 'Exquisite II'. Floors: CTBUH Skyscraper Center lists three 50-floor, 170 m towers completed in 2014; listings give 44-45 floors plus podium. Oberoi reported 93% completion in Mar 2014 and 100% (all revenue recognised) in Mar 2015; listings give possession as May or June 2015. Basis of the Oberoi price points: Oberoi's 2010 DRHP quotes Exquisite in 'Saleable Area', and its presentations footnote only the projects calculated on built-up or carpet area, leaving Exquisite unmarked. 59 units were still unsold on 31 Mar 2017, and the developer kept selling inventory at about Rs 23,500/sq ft until then. The 2009 launch price of Rs 9,500/sq ft plus 1% floor rise comes from a 2023 Mumbai Property Exchange article whose other launch figures don't reconcile. Ranveer Singh's two 43rd-floor flats (1,324 sq ft each, bought Dec 2014 for Rs 4.64 Cr each) sold for Rs 15.25 Cr in Nov 2023. The 1,324 sq ft area basis wasn't stated, but it matches the roughly 1,300 sq ft carpet quoted in listings.",
+  "notes": "Launched Oct 2009 as 'Oberoi Exquisite - I'. The Jan 2010 DRHP described three 45-storey towers with about 774 three-bedroom units, a saleable area of 1,373,580 sq ft, construction from Dec 2009 and estimated completion in Nov 2013. 211 units were booked by 31 Dec 2009. The project later grew to 786 units / 1,506,810 sq ft (Mar 2011) and then 802 units / 1,547,610 sq ft (Mar 2016). Oberoi Esquire next door was first called 'Exquisite II'. Floors: CTBUH Skyscraper Center lists three 50-floor, 170 m towers completed in 2014; listings give 44-45 floors plus podium. Oberoi reported 93% completion in Mar 2014 and 100% (all revenue recognised) in Mar 2015; listings give possession as May or June 2015. Basis of the Oberoi price points: Oberoi's 2010 DRHP quotes Exquisite in 'Saleable Area', and its presentations footnote only the projects calculated on built-up or carpet area, leaving Exquisite unmarked. 59 units were still unsold on 31 Mar 2017, and the developer kept selling inventory at about Rs 23,500/sq ft until then. The 2009 launch price of Rs 9,500/sq ft plus 1% floor rise comes from a 2023 Mumbai Property Exchange article whose other launch figures don't reconcile. Ranveer Singh's two 43rd-floor flats (1,324 sq ft each, bought Dec 2014 for Rs 4.64 Cr each) sold for Rs 15.25 Cr in Nov 2023. The 1,324 sq ft area basis wasn't stated, but it matches the roughly 1,300 sq ft carpet quoted in listings. Area basis (Nov 2026 top-up): Exquisite's project area in Oberoi's decks, 15,47,610 sq ft for 802 units (about 1,930 sq ft a flat), is far above the roughly 1,300 sq ft carpet of a typical 3 BHK, so these points are labelled saleable. For Esquire next door, Oberoi's FY23 restatement to RERA carpet shows the old basis was about 1.63x RERA carpet. No secondary-market deal with a built-up or saleable area was found, so the 2021 'resale' points are the developer's own late inventory sales.",
   "sources": [
     "https://www.sebi.gov.in/sebi_data/attachdocs/1294984013064.pdf",
     "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar11.pdf",
@@ -39,7 +39,10 @@
     "https://www.skyscrapercenter.com/complex/740",
     "https://www.mumbaipropertyexchange.com/news/1166/oberoi-exquisite-sets-records-in-goregaon-east-actor-ranveer-singh-sells-jodi-flat-for-15-cr",
     "https://www.businesstoday.in/real-estate/story/actor-ranveer-singh-sells-two-apartments-in-mumbais-goregaon-for-rs-1525-cr-says-report-405433-2023-11-10",
-    "https://squareyards.com/mumbai-residential-property/oberoi-realty-exquisite/2839/project"
+    "https://squareyards.com/mumbai-residential-property/oberoi-realty-exquisite/2839/project",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar20.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar21.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Dec21.pdf"
   ],
   "contractor": "Larsen & Toubro",
   "units_sold": 743,
@@ -66,6 +69,17 @@
       "source_url": "https://www.mumbaipropertyexchange.com/news/1166/oberoi-exquisite-sets-records-in-goregaon-east-actor-ranveer-singh-sells-jodi-flat-for-15-cr",
       "confidence": "low",
       "note": "Launch base price of Rs 9,500/sq ft plus 1% floor rise, reported in hindsight. The article's other launch figures (Rs 13,585 built-up, Rs 22,875 psf) don't reconcile."
+    },
+    {
+      "date": "2009-10-01",
+      "date_precision": "month",
+      "stage": "launch",
+      "price_psf": 11077,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation (Q4FY11)",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar11.pdf",
+      "confidence": "high",
+      "note": "Computed: launch quarter Q3FY10 (Oct-Dec 2009) = FY10 minus Q4FY10 from the company table: (Rs 51,904 - 10,665 lakh) / (465,390 - 93,080 sq ft) = Rs 41,239 lakh / 372,310 sq ft, about 206 units. The deck's FY10 average (launch to Mar 2010) was Rs 11,153. Same area basis as the later Oberoi points; this supersedes the Rs 9,500 base price as the clear-basis launch figure."
     },
     {
       "date": "2010-03-01",
@@ -165,6 +179,28 @@
       "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar17.pdf",
       "confidence": "high",
       "note": "Developer inventory sales in Q4 FY17 (6,890 sq ft, 4 units, Rs 16.23 crore); FY17 average: Rs 23,141. Lifetime average to Mar 2017: about Rs 16,145 on 1,361,745 sq ft, with 59 units unsold."
+    },
+    {
+      "date": "2021-03-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 24439,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation (Q4FY21)",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar21.pdf",
+      "confidence": "high",
+      "note": "Computed: Rs 3,595 lakh / 14,710 sq ft (3 units) booked in Q4FY21 (Jan-Mar 2021). The developer selling leftover finished flats six years after completion, not a secondary-market resale; it is the latest Exquisite price found on the same area basis as the launch and completion points. Q4FY20 was Rs 22,086 (1 unit, 5,895 sq ft, Rs 1,302 lakh; IP-Mar20)."
+    },
+    {
+      "date": "2021-12-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 19542,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation (Q3FY22)",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Dec21.pdf",
+      "confidence": "medium",
+      "note": "Computed: Rs 2,304 lakh / 11,790 sq ft (2 units) booked in Q3FY22 (Oct-Dec 2021), leaving 4,374 sq ft unsold. Developer inventory sale, not a secondary-market resale. Only two flats, so floor and size mix may explain why it is below Q4FY21. Exquisite no longer appears in the Q4FY22 table."
     },
     {
       "date": "2023-11-06",

@@ -9,7 +9,10 @@
   "towers": 2,
   "floors_max": 51,
   "total_units": 438,
-  "rera_ids": ["P51900000467", "P51900000616"],
+  "rera_ids": [
+    "P51900000467",
+    "P51900000616"
+  ],
   "status": "completed",
   "launch_date": "2013-03-01",
   "possession_promised": "2018-12-31",
@@ -28,7 +31,7 @@
     "High-speed elevators"
   ],
   "description": "Two high-rise residential towers (A2 and A3), about 210-220 m and 51-52 storeys, on Senapati Bapat Marg at Elphinstone Road, Lower Parel. They were built by Indiabulls Properties Pvt Ltd (later Sky Forest Projects Pvt Ltd) and designed by Anupam De & Associates. The 438 apartments range from 2 BHK to 6 BHK with Italian marble flooring. Construction began around 2010 and bookings date from 2013. Deliveries slipped from a promised Dec 2018 to an OC in Nov 2023. Indiabulls Real Estate (now Embassy Developments) bought full ownership of the project company from Blackstone in 2024.",
-  "notes": "Ownership: the 'Sky projects' (Sky and Sky Forest) sat in IPPL (Indiabulls Properties Pvt Ltd), owned by third parties, with IBREL holding a right to buy it (IBREL investor updates, 2022-23). IBREL had an obligation of about Rs 644 crore to buy SFPPL from Blackstone Real Estate Fund, and Indiabulls Constructions completed the purchase of 100% on 30 Apr 2024 at an enterprise value of about Rs 646.71 crore. Delivery: buyer agreements promised possession by 31 Dec 2018, with a grace period to 30 Sep 2019. MahaRERA completion dates are 30 Sep 2023 (A3; A2 originally 30 Sep 2019, revised 30 Mar 2023). A part OC was issued on 20 Apr 2022 (MahaREAT case), and Embassy says Towers A2 and A3 received OC in Nov 2023 (day not given). The developer blamed MCGM's slow takeover of parking and Covid-19. Payment plan: buyers in the MahaREAT case paid about 20% upfront under a subvention scheme while the developer serviced pre-EMIs. Units: MahaRERA lists 219 per tower; A3 had 213 booked (GeoSquare, verified Sep 2026) and A2 196 sold (PropScience, undated), so units_sold is left out. Land area conflicts: Embassy gives 4.4 acres / 1.6 msf, PropScience 2.50 acres, Square Yards 1.31 acres, and the A3 MahaRERA plot is 2,631.71 sq m, so land_acres is left out. Floors: 51 (CTBUH, completed 2023), 52 (Wikipedia list, 2021) and 50 (Rentu). A3 MahaRERA carpet areas: 2 BHK 88-91 sq m (947-984 sq ft), 3 BHK 95-119 sq m (1,026-1,279 sq ft), 3.5 BHK 125 sq m, 4 BHK 148-151 sq m (1,597-1,623 sq ft), 5 BHK 260-289 sq m (2,797-3,105 sq ft), 6 BHK 337-353 sq m (3,631-3,804 sq ft). Portals quote much larger 'saleable' areas (3 BHK 2,908-3,668 sq ft), which implies very high loading, and many rental listings label these saleable figures as carpet. Price basis: the developer's average sales prices (Rs 16,000-21,000/sq ft in FY23-FY24) are per sq ft of area sold, probably saleable area, while portal and registered averages (about Rs 45,000-53,000) look like carpet. They should not be compared directly. Do not confuse with Indiabulls Sky (a separate 48-storey tower nearby, launched in 2009), where Zaheer Khan bought a flat in Feb 2025. Gross yield was not computed, because rent listings and sale prices use incompatible area bases. As a rough check, a Rs 4 lakh/month 3 BHK against a Rs 7.65 crore asking price is about 6.3%, which looks implausibly high.",
+  "notes": "Ownership: the 'Sky projects' (Sky and Sky Forest) sat in IPPL (Indiabulls Properties Pvt Ltd), owned by third parties, with IBREL holding a right to buy it (IBREL investor updates, 2022-23). IBREL had an obligation of about Rs 644 crore to buy SFPPL from Blackstone Real Estate Fund, and Indiabulls Constructions completed the purchase of 100% on 30 Apr 2024 at an enterprise value of about Rs 646.71 crore. Delivery: buyer agreements promised possession by 31 Dec 2018, with a grace period to 30 Sep 2019. MahaRERA completion dates are 30 Sep 2023 (A3; A2 originally 30 Sep 2019, revised 30 Mar 2023). A part OC was issued on 20 Apr 2022 (MahaREAT case), and Embassy says Towers A2 and A3 received OC in Nov 2023 (day not given). The developer blamed MCGM's slow takeover of parking and Covid-19. Payment plan: buyers in the MahaREAT case paid about 20% upfront under a subvention scheme while the developer serviced pre-EMIs. Units: MahaRERA lists 219 per tower; A3 had 213 booked (GeoSquare, verified Sep 2026) and A2 196 sold (PropScience, undated), so units_sold is left out. Land area conflicts: Embassy gives 4.4 acres / 1.6 msf, PropScience 2.50 acres, Square Yards 1.31 acres, and the A3 MahaRERA plot is 2,631.71 sq m, so land_acres is left out. Floors: 51 (CTBUH, completed 2023), 52 (Wikipedia list, 2021) and 50 (Rentu). A3 MahaRERA carpet areas: 2 BHK 88-91 sq m (947-984 sq ft), 3 BHK 95-119 sq m (1,026-1,279 sq ft), 3.5 BHK 125 sq m, 4 BHK 148-151 sq m (1,597-1,623 sq ft), 5 BHK 260-289 sq m (2,797-3,105 sq ft), 6 BHK 337-353 sq m (3,631-3,804 sq ft). Portals quote much larger 'saleable' areas (3 BHK 2,908-3,668 sq ft), which implies very high loading, and many rental listings label these saleable figures as carpet. Price basis: the developer's average sales prices (Rs 16,000-21,000/sq ft in FY23-FY24) are per sq ft of area sold, probably saleable area, while portal and registered averages (about Rs 45,000-53,000) look like carpet. They should not be compared directly. Do not confuse with Indiabulls Sky (a separate 48-storey tower nearby, launched in 2009), where Zaheer Khan bought a flat in Feb 2025. Gross yield was not computed, because rent listings and sale prices use incompatible area bases. As a rough check, a Rs 4 lakh/month 3 BHK against a Rs 7.65 crore asking price is about 6.3%, which looks implausibly high. Research gap (Nov 2026 top-up): no 2013 launch price was found. IBREL's June 2016 investor presentation (BSE filing) gives only an estimated gross development value of Rs 3,936 crore for 1.50 mn sq ft saleable (about Rs 26,240/sq ft, computed), which is a projection rather than a price and is not recorded as a price point. PropertyButler's registered-deed summary (carpet area) gives median ticket sizes of Rs 6.57 Cr (2020, 41 sales), Rs 6.55 Cr (2021, 72), Rs 5.8 Cr (2022, 86), Rs 6.26 Cr (2023, 33), Rs 7.49 Cr (2024, 37) and Rs 7.6 Cr (2025, 20), but no per-sq-ft series.",
   "sources": [
     "https://www.squareyards.com/mumbai-residential-property/indiabulls-sky-forest/3151/project",
     "https://www.geosquare.in/indiabulls-sky-forest-a3-mahalaxmi-mumbai-real-estate-project/",
@@ -42,10 +45,15 @@
     "https://propnewstime.com/latestnewsstories/NjgzNA==/indiabulls-real-estate-obtains-sky-forest-projects-for-inr-646-71-crore-in-mumbai",
     "https://squarefeatindia.com/indiabulls-sky-forest-case-landmark-rera-ruling-orders-developer-to-issue-full-refunds-with-interest/",
     "https://realtynmore.com/embassy-developments-delivers-six-long-stalled-legacy-projects-to-3000-families/",
-    "https://www.rentu.in/property/9728939/3-bhk-for-lease-in-senapati-bapat-marg-indiabulls-sky-forest"
+    "https://www.rentu.in/property/9728939/3-bhk-for-lease-in-senapati-bapat-marg-indiabulls-sky-forest",
+    "https://www.bseindia.com/xml-data/corpfiling/CorpAttachment/2016/6/915328CE_3F02_4AC7_B194_57643D7463C7_113839.pdf",
+    "https://propertybutler.in/building/Indiabulls%20Sky%20Forest"
   ],
   "architect": "Anupam De & Associates",
-  "views": ["city", "sea"],
+  "views": [
+    "city",
+    "sea"
+  ],
   "jv_partner": "Blackstone Real Estate Fund (owned the project company SFPPL until Indiabulls bought it in Apr 2024)",
   "oc_received": true,
   "oc_date": "2023-11-01",

@@ -8,7 +8,12 @@
   "lng": 72.8345,
   "land_acres": 3.5,
   "towers": 6,
-  "rera_ids": ["P51800000481", "P51800000619", "P51800000862", "P51800020843"],
+  "rera_ids": [
+    "P51800000481",
+    "P51800000619",
+    "P51800000862",
+    "P51800020843"
+  ],
   "status": "completed",
   "launch_date": "2014-01-01",
   "possession_actual": "2018-08-01",
@@ -33,7 +38,7 @@
     "RFID tags for children and pets; CCTV in children's zone"
   ],
   "description": "Gated community of several wings (A to F) in Khar West, built by Rustomjee (Keystone Realtors) and designed to be senior-friendly. It has 2 to 5 BHK homes with sun decks, two homes per floor in the early wings, and interiors by Sanjay Puri. Wings A and B received their occupation certificate in Sep 2017 and Wings D and E in Nov 2018. Wing F was still under construction in 2026.",
-  "notes": "Keystone's DRHP (June 2022) says Paramount was launched in 2014 on 3.50 acres. Its average price rose 2.06x, from Rs 17,535 to Rs 36,129 per sq ft saleable at OC, with a lifetime average of Rs 28,153. Cumulative sales were Rs 1,357 crore, with 91.17% of inventory sold as of 31 Dec 2021. The DRHP also says 39 of Khar's 101 redevelopment units launched in 2017-2021 were in Paramount, so at least part of it (likely Wing F) is redevelopment; land_type is left out. Land area conflicts: the DRHP gives 3.50 acres, while Square Yards and Free Press Journal (2024) give 1.65 acres, perhaps for the RERA-registered phases only. Wings A and B: commencement certificate Nov 2015, handover from Aug 2018 (DRHP). The OC for Wings D and E was reported on 2 Nov 2018. Wing F (P51800020843): commencement 15 May 2019, original completion 30 Dec 2025, revised to 30 Dec 2026, with internal finishing at 87-96% in Apr 2026 (Square Yards). Floors are given as 22 or 24 storeys in listings (units are registered up to the 22nd floor), so floors_max is omitted. flats_per_floor = 2 comes from the 2017 OC release for the early wings. Notable owners: Tiger Shroff bought two flats from Keystone in 2018 and sold them in 2025 and 2026. Square Yards' 12-month registered tally (2 sales, Rs 5 Cr, Nov 2025-Oct 2026) doesn't seem to include Shroff's Rs 9 Cr sale registered on 22 Oct 2026.",
+  "notes": "Keystone's DRHP (June 2022) says Paramount was launched in 2014 on 3.50 acres. Its average price rose 2.06x, from Rs 17,535 to Rs 36,129 per sq ft saleable at OC, with a lifetime average of Rs 28,153. Cumulative sales were Rs 1,357 crore, with 91.17% of inventory sold as of 31 Dec 2021. The DRHP also says 39 of Khar's 101 redevelopment units launched in 2017-2021 were in Paramount, so at least part of it (likely Wing F) is redevelopment; land_type is left out. Land area conflicts: the DRHP gives 3.50 acres, while Square Yards and Free Press Journal (2024) give 1.65 acres, perhaps for the RERA-registered phases only. Wings A and B: commencement certificate Nov 2015, handover from Aug 2018 (DRHP). The OC for Wings D and E was reported on 2 Nov 2018. Wing F (P51800020843): commencement 15 May 2019, original completion 30 Dec 2025, revised to 30 Dec 2026, with internal finishing at 87-96% in Apr 2026 (Square Yards). Floors are given as 22 or 24 storeys in listings (units are registered up to the 22nd floor), so floors_max is omitted. flats_per_floor = 2 comes from the 2017 OC release for the early wings. Notable owners: Tiger Shroff bought two flats from Keystone in 2018 and sold them in 2025 and 2026. Square Yards' 12-month registered tally (2 sales, Rs 5 Cr, Nov 2025-Oct 2026) doesn't seem to include Shroff's Rs 9 Cr sale registered on 22 Oct 2026. Same-basis comparison (Nov 2026 top-up): on carpet area there is a completion price (Tiger Shroff's two 2018 purchases from Keystone, Rs 58,400-58,940) and resale prices (Rs 57,079-78,403, 2024-26), but no carpet-basis launch price; on the DRHP's saleable basis there are launch and completion prices but no resale. Registered deeds give a 'built-up' area only 10-19% above carpet (1,609.53 vs 1,357.77; 2,189 vs 1,989.72 sq ft), far below the roughly 1.6x implied by the DRHP saleable averages, so they are not used as saleable-basis resale points. No 2014 launch price on carpet area was found, and PropertyButler shows no registered sales for the building.",
   "sources": [
     "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
     "https://www.prnewswire.com/in/news-releases/rustomjee-paramount-receives-occupancy-certificate-for-a-and-b-wing-646708393.html",
@@ -45,7 +50,9 @@
   ],
   "architect": "Sanjay Puri Architects (Mumbai) with Patty Mak (Suying Metropolitan, Singapore)",
   "flats_per_floor": 2,
-  "views": ["sea"],
+  "views": [
+    "sea"
+  ],
   "oc_received": true,
   "oc_date": "2017-09-22",
   "transactions_12m": 2,
@@ -109,24 +116,24 @@
     {
       "date": "2018-01-01",
       "date_precision": "year",
-      "stage": "under_construction",
+      "stage": "completion",
       "price_psf": 58400,
       "basis": "carpet",
       "source_name": "The Realty Today (Square Yards / IGR documents)",
       "source_url": "https://therealtytoday.com/news/residential/tiger-shroff-sells-khar-apartment-for-1560-crore-records-34-value-gain/",
       "confidence": "high",
-      "note": "Computed: Tiger Shroff's 2018 purchase price of Rs 11.62 Cr ÷ 1,989.72 sq ft carpet (22nd-floor flat, 3 car parks)."
+      "note": "Computed: Tiger Shroff's 2018 purchase price of Rs 11.62 Cr ÷ 1,989.72 sq ft carpet (22nd-floor flat, 3 car parks). Stage set to completion (Nov 2026): a primary purchase from Keystone between the Wings A/B OC (Sep 2017) and the Wings D/E OC (2 Nov 2018), with handover from Aug 2018."
     },
     {
       "date": "2018-07-17",
       "date_precision": "day",
-      "stage": "under_construction",
+      "stage": "completion",
       "price_psf": 58940,
       "basis": "carpet",
       "source_name": "Aurum PropTech (CRE Matrix registration documents)",
       "source_url": "https://www.aurumproptech.in/pulse/media/tiger-shroff-sells-mumbai-flat-for-rs-9-crore",
       "confidence": "high",
-      "note": "Computed: Rs 7.61 Cr paid to Keystone Realtors on 17 Jul 2018 ÷ 1,291.14 sq ft carpet (9th floor). Possession was 30 Nov 2019."
+      "note": "Computed: Rs 7.61 Cr paid to Keystone Realtors on 17 Jul 2018 ÷ 1,291.14 sq ft carpet (9th floor). Possession was 30 Nov 2019. Stage set to completion (Nov 2026): bought from the developer about 10 months after the first OC and within 4 months of the Wings D/E OC."
     },
     {
       "date": "2024-10-01",

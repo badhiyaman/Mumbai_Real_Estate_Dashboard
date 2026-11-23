@@ -7,7 +7,12 @@
   "land_acres": 5.3,
   "towers": 3,
   "floors_max": 47,
-  "rera_ids": ["P51900006860", "P51900011418", "P51900030600", "P51900030729"],
+  "rera_ids": [
+    "P51900006860",
+    "P51900011418",
+    "P51900030600",
+    "P51900030729"
+  ],
   "status": "under_construction",
   "possession_promised": "2026-12-01",
   "amenities": [
@@ -20,7 +25,7 @@
     "Podium parking"
   ],
   "description": "A sea-facing luxury development on a 5.3-acre plot in Prabhadevi, designed by Hafeez Contractor, with large 3, 4 and 6 BHK homes (typically four per floor) in towers of up to 47 habitable floors above a 10-level podium. It is a Hubtown-group project (owned by 25 South Realty Ltd); the Wadhwa Group co-marketed it as development manager. It has drawn several large registered deals, including Rs 127 crore for the top three floors of one wing in 2018.",
-  "notes": "Developer: Gulf News (2018) and DNA (2018) describe 25 South as a Wadhwa Group and Hubtown project. A Hubtown NSE filing (Aug 2025) says the project is owned by 25 South Realty Ltd and proposed for amalgamation with Hubtown Ltd. A 2021 report seen only in search snippets (not verified) said Hubtown and Singapore's Rising Straits Capital own it, with Wadhwa as development manager since 2015; Oaktree Capital was also reported to have invested. Recent registrations name it 'Hubtown Twenty Five South North', so developer is set to hubtown. Towers: sources give two 57-storey towers, three towers of 55 floors, or South/Central/North towers of G+10P+47; DNA confirms floors 45-47 are the top three floors of one wing, so floors_max = 47 habitable. MahaRERA IDs come from listing sites and were not checked on the MahaRERA portal: P51900006860 (lower floors) and P51900011418 (11th-47th floors) for the earlier Wadhwa-marketed wing(s), and P51900030600 and P51900030729 for later Hubtown phases. Possession: listings range from Nov 2025 (PropTiger) to Dec 2026 (Housiey, RERA date); Housiey says the OC will be applied for near possession and construction is about 95% complete (Sep 2026). Land: 5.3 acres (Gulf News, 'open and slum-free', clear title); Housiey says 5.11 acres. Construction World has reported Hubtown awaiting approvals for a 60+ storey five-star hotel on the same plot (date not seen). No launch date or launch price was found. PropNewsTime counted 3 registered deals in Feb 2024. No rental listings were found for this project.",
+  "notes": "Developer: Gulf News (2018) and DNA (2018) describe 25 South as a Wadhwa Group and Hubtown project. A Hubtown NSE filing (Aug 2025) says the project is owned by 25 South Realty Ltd and proposed for amalgamation with Hubtown Ltd. A 2021 report seen only in search snippets (not verified) said Hubtown and Singapore's Rising Straits Capital own it, with Wadhwa as development manager since 2015; Oaktree Capital was also reported to have invested. Recent registrations name it 'Hubtown Twenty Five South North', so developer is set to hubtown. Towers: sources give two 57-storey towers, three towers of 55 floors, or South/Central/North towers of G+10P+47; DNA confirms floors 45-47 are the top three floors of one wing, so floors_max = 47 habitable. MahaRERA IDs come from listing sites and were not checked on the MahaRERA portal: P51900006860 (lower floors) and P51900011418 (11th-47th floors) for the earlier Wadhwa-marketed wing(s), and P51900030600 and P51900030729 for later Hubtown phases. Possession: listings range from Nov 2025 (PropTiger) to Dec 2026 (Housiey, RERA date); Housiey says the OC will be applied for near possession and construction is about 95% complete (Sep 2026). Land: 5.3 acres (Gulf News, 'open and slum-free', clear title); Housiey says 5.11 acres. Construction World has reported Hubtown awaiting approvals for a 60+ storey five-star hotel on the same plot (date not seen). Launch: PropTiger gives Dec 2015 (used) and Housing.com Jan 2016 for the Wadhwa-marketed phase (38 launched units), and Housing.com Mar 2016 for the Hubtown 11th-47th floors phase (search snippets). No launch price was found; the earliest price is Square Yards' Oct 2019 asking of about Rs 60,800/sq ft carpet. PropNewsTime counted 3 registered deals in Feb 2024. ADDED (Nov 2026 top-up): Hubtown's NSE filing (26 Aug 2025) describes a ~5.5-acre FREEHOLD plot, about 1 million sq ft of sale area in 3 towers, one tower already completed and handed over, the other two in advanced construction with completion expected in FY27, all approvals including MahaRERA in place, units of 1,565-18,000 sq ft, about 93% sold, interiors by Bobby Mukherji & Associates, landscaping by Design Cell, and over 30 amenities across about 1,20,000 sq ft. It says the metro station is 1 minute away. No OC date is given, so oc_received is left out. Square Yards (Nov 2026): 371 units, 113 launched and 109 booked as of Nov 2025 (used for units_sold), 'partially ready to move', possession Dec 2026; its construction updates conflict (100% structure in Nov 2025 vs 84% in Mar 2026). transactions_12m (11) is Square Yards' Nov 2025-Oct 2026 count. Rents: Square Yards shows live 3 BHK and 4 BHK rental listings (see rental_points), so some completed-tower units are leased out.",
   "sources": [
     "https://gulfnews.com/business/property/bespoke-living-in-mumbai-defined-1.1541674563889",
     "https://www.dnaindia.com/mumbai/report-man-buys-three-full-floors-in-prabhadevi-building-for-rs-127-cr-2679000",
@@ -28,12 +33,19 @@
     "https://propnewstime.com/latestnewsstories/NjAwNg==/prabhadevi-real-estate-market-trends-for-february-2024",
     "https://therealtytoday.com/news/news/nadiadwala-grandson-entertainment-acquires-two-luxury-apartments-worth-3657-crore-in-mumbais-prabhadevi/",
     "https://housiey.com/projects/hubtown-25-south",
-    "https://nsearchives.nseindia.com/corporate/HUBTOWN_26082025155903_25Southpresentation26082025.pdf"
+    "https://nsearchives.nseindia.com/corporate/HUBTOWN_26082025155903_25Southpresentation26082025.pdf",
+    "https://proptiger.com/mumbai/prabhadevi/wadhwa-residency-25-south-prabhadevi-1645930",
+    "https://www.squareyards.com/mumbai-residential-property/hubtown-25-south/11052/project",
+    "https://web.archive.org/web/20191023010008/https://www.squareyards.com/mumbai-residential-property/wadhwa-25-south/11052/project",
+    "https://web.archive.org/web/20240806105931/https://www.squareyards.com/mumbai-residential-property/wadhwa-25-south/11052/project"
   ],
   "architect": "Hafeez Contractor",
   "flats_per_floor": 4,
-  "views": ["sea", "city"],
-  "land_tenure": "unknown",
+  "views": [
+    "sea",
+    "city"
+  ],
+  "land_tenure": "freehold",
   "unit_types": [
     {
       "config": "3 & 4 BHK (2018 marketing)",
@@ -88,6 +100,17 @@
       "note": "Computed: over Rs 127.49 Cr divided by 20,989 sq ft carpet for the top three floors (45-47) of one wing; stamp duty over Rs 6.37 Cr. Registration date not stated. A bulk top-floor purchase, so not a typical unit rate."
     },
     {
+      "date": "2019-10-18",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 60790,
+      "basis": "carpet",
+      "source_name": "Square Yards (Wayback Machine snapshot, last updated 18 Oct 2019)",
+      "source_url": "https://web.archive.org/web/20191023010008/https://www.squareyards.com/mumbai-residential-property/wadhwa-25-south/11052/project",
+      "confidence": "low",
+      "note": "Computed from asking prices: 3 BHK of 1,464 sq ft at Rs 8.90 Cr (about Rs 60,790) and 4 BHK of 1,981 sq ft at Rs 12.33 Cr (about Rs 62,240). 1,464 sq ft is the RERA carpet size on PropTiger. Status: advanced-stage construction. The earliest price found; no 2015-2016 launch price was found."
+    },
+    {
       "date": "2022-11-28",
       "date_precision": "day",
       "stage": "under_construction",
@@ -110,6 +133,17 @@
       "note": "The most expensive Prabhadevi apartment sold in Feb 2024: Rs 29.22 Cr at Rs 73,717/sq ft in 'Hubtown 25 South'. That implies 3,965 sq ft, which matches the month's 'largest carpet area sold', so the basis is taken as carpet."
     },
     {
+      "date": "2024-07-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 72300,
+      "basis": "unknown",
+      "source_name": "Square Yards registered sales (Wayback Machine snapshot, 6 Aug 2024)",
+      "source_url": "https://web.archive.org/web/20240806105931/https://www.squareyards.com/mumbai-residential-property/wadhwa-25-south/11052/project",
+      "confidence": "medium",
+      "note": "Computed: Rs 17.41 Cr / 2,408 sq ft, registered Jul 2024. The same month's other registrations vary widely: Rs 18.72 Cr/2,392 sq ft (about Rs 78,300), 13.25/1,934 (68,500), 9.42/2,041 (46,200), 6.92/1,934 (35,800) and 9.28/3,780 (24,600). The low ones may be landowner, rehab or non-standard units."
+    },
+    {
       "date": "2025-10-01",
       "date_precision": "month",
       "stage": "under_construction",
@@ -130,6 +164,17 @@
       "source_url": "https://housiey.com/projects/hubtown-25-south",
       "confidence": "low",
       "note": "Computed: 4 BHK 2,142 sq ft carpet at Rs 23.56 Cr all-inclusive (about Rs 1.10 lakh/sq ft); other units range from about Rs 1.10 to 1.37 lakh. All-inclusive prices (incl. charges and possibly parking/GST), so higher than registered agreement values."
+    },
+    {
+      "date": "2026-10-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 97050,
+      "basis": "unknown",
+      "source_name": "Square Yards (registered transactions summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/hubtown-25-south/11052/project",
+      "confidence": "medium",
+      "note": "Average registered rate of 11 sales from Nov 2025 to Oct 2026 (gross Rs 310 Cr). Listed registrations were 1,662-3,939 sq ft across the North, North B, Central and B wings. Asking averages: Rs 82,450 (Dec 2025), 61,150 (Mar 2026), 96,650 (Jun 2026), 104,500 (Sep 2026)."
     }
   ],
   "news": [
@@ -158,6 +203,14 @@
       "summary": "Hubtown 25 South had Prabhadevi's costliest sale of the month (Rs 29.22 crore at Rs 73,717/sq ft) and its largest carpet area (3,965 sq ft), with 3 deals in Feb 2024."
     },
     {
+      "date": "2025-08-26",
+      "title": "Brief details of 25 South, Prabhadevi (Hubtown presentation filed with NSE)",
+      "url": "https://nsearchives.nseindia.com/corporate/HUBTOWN_26082025155903_25Southpresentation26082025.pdf",
+      "source": "Hubtown Ltd (NSE filing)",
+      "event_type": "possession",
+      "summary": "Hubtown says one of the three towers is completed and handed over, the other two are in advanced construction for completion in FY27, and the project is about 93% sold."
+    },
+    {
       "date": "2025-10-16",
       "title": "Hubtown to merge promoter entities, boost assets and cut debt",
       "url": "https://filingreader.com/news-wire/mumbai/2025-10-16/hubtown-to-merge-promoter-entities-boost-assets-and-cut-debt",
@@ -172,6 +225,35 @@
       "source": "The Realty Today",
       "event_type": "deal",
       "summary": "Two apartments of about 2,390 and 2,382 sq ft carpet in Hubtown Twenty Five South North registered for Rs 18.57 crore and Rs 18 crore (Square Yards review of IGR documents)."
+    }
+  ],
+  "launch_date": "2015-12-01",
+  "transactions_12m": 11,
+  "units_sold": 109,
+  "units_sold_as_of": "2025-11-01",
+  "nearest_metro": "Siddhivinayak / Prabhadevi (Metro Line 3)",
+  "rental_points": [
+    {
+      "date": "2026-10-01",
+      "config": "3 BHK",
+      "monthly_rent": 550000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards (current rental listings summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/hubtown-25-south/11052/project",
+      "confidence": "low",
+      "note": "3 BHK listings ask Rs 5.5-5.8 lakh/month; Square Yards estimates Rs 6.6 lakh. Area not given. Rentals exist because one tower is completed and handed over."
+    },
+    {
+      "date": "2026-10-01",
+      "config": "4 BHK",
+      "monthly_rent": 700000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards (current rental listings summary)",
+      "source_url": "https://www.squareyards.com/mumbai-residential-property/hubtown-25-south/11052/project",
+      "confidence": "low",
+      "note": "4 BHK listings ask Rs 7-15 lakh/month (lowest used); Square Yards estimates Rs 7.9 lakh. Area not given."
     }
   ]
 }

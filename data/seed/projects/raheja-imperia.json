@@ -6,7 +6,9 @@
   "address": "Shankar Rao Naram Path, near Peninsula Corporate Park, Lower Parel (marketed as Worli), Mumbai 400013",
   "land_acres": 5,
   "total_units": 459,
-  "rera_ids": ["P51900009379"],
+  "rera_ids": [
+    "P51900009379"
+  ],
   "status": "completed",
   "possession_promised": "2022-12-30",
   "amenities": [
@@ -24,14 +26,27 @@
     "Landscaped garden"
   ],
   "description": "A high-rise luxury residential development by Raheja Universal on Shankar Rao Naram Path, next to Peninsula Corporate Park, in Lower Parel, which portals market as Worli. MahaRERA registered phase Imperia-I in 2017 with a completion date of Dec 2022. Wikipedia's list of Mumbai's tallest buildings gives a 214 m, 52-floor tower completed in 2022. It offers compact-carpet 3 and 4 BHK homes (about 1,400-1,950 sq ft carpet) and larger 5 BHK units, with registered resales averaging about Rs 75,750/sq ft in 2025-26.",
-  "notes": "Thin sourcing: the WebSearch budget ran out before launch-era news, launch prices or deal reports could be found, so this file rests on Square Yards, RealEstateMumbai and the Wikipedia tallest-buildings list. The launch date is unknown. MahaRERA's original commencement of 22 Aug 2017 is the registration of the ongoing phase, not necessarily the launch. Possession conflict: Square Yards shows 'Ready to Move since Dec 2019' but its FAQ gives Dec 2022 and calls construction 'mid-stage'. Wikipedia lists completion in 2022, and no OC date was found. Towers and floors: MahaRERA phase P51900009379 (Raheja Imperia-I) covers one tower, but registrations reference towers / wings 1, 2, A and B. Floors are 52 (Wikipedia), 54 (RealEstateMumbai), and a registered unit on floor 58 (Square Yards), so towers and floors_max are left out. Units: 459 total, with 262 launched units fully booked by Nov 2025 (Square Yards); the gap suggests more phases or rehab / landowner units. Do not confuse with Raheja Imperia II (The Rivière), a separate current Raheja Universal project in Worli, or with K Raheja Corp, an unrelated company. Computed gross yield: a 3 BHK of 1,447 sq ft carpet asking Rs 3.9 lakh/month, at the registered average of Rs 75,750/sq ft (about Rs 10.96 crore), is about 4.3%. A 4 BHK of 1,950 sq ft at Rs 7.5 lakh/month is about 6.1%. These use asking rents and look high for Worli/Lower Parel.",
+  "notes": "Sourcing is still mostly portals. The launch date is unknown: broker listings were already offering primary \"New Booking\" units in Aug-Sep 2014 at about Rs 30,000/sq ft (built-up), with possession promised for Dec 2018-Dec 2019. MahaRERA's original commencement of 22 Aug 2017 is the registration of the ongoing phase, not necessarily the launch. Possession conflict: Square Yards shows 'Ready to Move since Dec 2019' but its FAQ gives Dec 2022 and calls construction 'mid-stage'. Wikipedia lists completion in 2022, and no OC date was found. Towers and floors: MahaRERA phase P51900009379 (Raheja Imperia-I) covers one tower, but registrations reference towers / wings 1, 2, A and B. Floors are 52 (Wikipedia), 54 (RealEstateMumbai), and a registered unit on floor 58 (Square Yards), so towers and floors_max are left out. Units: 459 total, with 262 launched units fully booked by Nov 2025 (Square Yards); the gap suggests more phases or rehab / landowner units. Do not confuse with Raheja Imperia II (The Rivière), a separate current Raheja Universal project in Worli, or with K Raheja Corp, an unrelated company. Computed gross yield: a 3 BHK of 1,447 sq ft carpet asking Rs 3.9 lakh/month, at the registered average of Rs 75,750/sq ft (about Rs 10.96 crore), is about 4.3%. A 4 BHK of 1,950 sq ft at Rs 7.5 lakh/month is about 6.1%. These use asking rents and look high for Worli/Lower Parel. ADDED (Nov 2026 top-up): CTBUH lists Raheja Imperia I as 214 m, 52 floors above ground, 263 apartments, proposed 2008, construction start 2014, completed 2022, architect J.P. Parekh And Sons, structural engineer Mahimtura Consultants. MGS Architecture (undated) gives 225.3 m / 60 storeys, KONE 4 m/s lifts (4 passenger and 1 service lift per wing, plus 2 clubhouse lifts) and a 60th-level infinity pool; Dwello (Aug 2018) lists floors 11-58 as residential, 59 as a service floor and 60 as the amenity level. These floor counts may number levels differently, so floors_max stays out. Land: the developer's Feb 2017 release calls it a low-density project on a virgin plot with no SRA, rehab or public-parking obligation (land_type private); 'freehold' comes only from 2014 broker listings. Loading: Square Yards (Jun 2021) shows a 4 BHK of 1,930 sq ft carpet as 3,003 sq ft saleable, about 56% loading, which matches the 3,003-3,004 sq ft built-up 4 BHKs in 2014 listings. Metro: Propscience gives Acharya Atre Chowk Metro at 0.82 km. transactions_12m (15) is the Square Yards count for Nov 2025-Oct 2026. GAPS: no registered deal in the news, no OC date, no maintenance figure.",
   "sources": [
     "https://squareyards.com/mumbai-residential-property/raheja-imperia/3312/project",
     "https://www.realestatemumbai.com/rent/raheja-imperia-worli",
     "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Mumbai",
-    "https://www.rahejauniversal.com/"
+    "https://www.rahejauniversal.com/",
+    "https://prnewswire.com/in/news-releases/raheja-imperia-sets-benchmark-for-low-density-luxury-housing-in-india-613910233.html",
+    "https://www.skyscrapercenter.com/building/raheja-imperia-i/33923",
+    "https://dwello.in/news/raheja-imperia-lower-parel",
+    "https://www.ghar.tv/blog/xanadu-introduces-a-luxury-vertical-in-worli-south-mumbai-starting-with-raheja-imperia-2/artid613",
+    "https://www.360realtors.com/raheja-universal-imperia-1-worli-mumbai-uid-4015",
+    "https://www.propscience.com/building_flat/UDUxOTAwMDA5Mzc5/Mumbai-City/South-Mumbai/Lower-Parel/Century-Mill/Raheja-Imperia-Phase-1",
+    "https://web.archive.org/web/20140904025945/http://www.99acres.com/raheja-imperia-worli-mumbai-south-npxid-r41300",
+    "https://web.archive.org/web/20210614161016/https://www.squareyards.com/mumbai-residential-property/raheja-imperia/3312/project",
+    "https://web.archive.org/web/20240916073743/https://www.squareyards.com/mumbai-residential-property/raheja-imperia/3312/project",
+    "https://www.mgsarchitecture.in/building-materials-products/elevators/kone-lifts-at-raheja-universal-s-latest-raheja-imperia-i-in-mumbai.html"
   ],
-  "views": ["city", "sea"],
+  "views": [
+    "city",
+    "sea"
+  ],
   "units_sold": 262,
   "units_sold_as_of": "2025-11-01",
   "unit_types": [
@@ -39,7 +54,7 @@
       "config": "3 BHK",
       "carpet_sqft_min": 1414,
       "carpet_sqft_max": 1519,
-      "price_min_cr": 10.0,
+      "price_min_cr": 10,
       "price_max_cr": 11.11,
       "notes": "Square Yards carpet areas and asking prices (2026). The unit table and floor-plan section differ slightly (Rs 10.00-10.74 crore vs Rs 10.34-11.11 crore)."
     },
@@ -57,6 +72,50 @@
     }
   ],
   "price_points": [
+    {
+      "date": "2014-09-01",
+      "date_precision": "month",
+      "stage": "launch",
+      "price_psf": 30027,
+      "basis": "saleable",
+      "source_name": "99acres listings (Wayback Machine snapshot, 4 Sep 2014)",
+      "source_url": "https://web.archive.org/web/20140904025945/http://www.99acres.com/raheja-imperia-worli-mumbai-south-npxid-r41300",
+      "confidence": "low",
+      "note": "Median of five broker \"New Booking\" (primary sale) listings posted Aug-Sep 2014, per built-up area: Rs 29,971-33,082/sq ft (3 BHK 2,262-2,270 sq ft at Rs 6.79-7.51 Cr; 4 BHK 3,003-3,004 sq ft at Rs 9.0-9.02 Cr). Listings showed possession by Dec 2018 / Sep-Dec 2019 and freehold land. Earliest price found; CTBUH gives a 2014 construction start."
+    },
+    {
+      "date": "2020-03-25",
+      "date_precision": "day",
+      "stage": "under_construction",
+      "price_psf": 58740,
+      "basis": "carpet",
+      "source_name": "360 Realtors listing (last updated 25 Mar 2020)",
+      "source_url": "https://www.360realtors.com/raheja-universal-imperia-1-worli-mumbai-uid-4015",
+      "confidence": "low",
+      "note": "Computed: 3 BHK of 1,447 sq ft (RERA carpet) at Rs 8.50 Cr. The 4 BHK of 1,931 sq ft at Rs 12.50 Cr works out to about Rs 64,730."
+    },
+    {
+      "date": "2021-06-01",
+      "date_precision": "month",
+      "stage": "under_construction",
+      "price_psf": 60700,
+      "basis": "carpet",
+      "source_name": "Square Yards (Wayback Machine snapshot, 14 Jun 2021)",
+      "source_url": "https://web.archive.org/web/20210614161016/https://www.squareyards.com/mumbai-residential-property/raheja-imperia/3312/project",
+      "confidence": "low",
+      "note": "Computed from asking prices: 3 BHK 1,285 sq ft carpet at Rs 7.80 Cr (about Rs 60,700) and 4 BHK 1,930 sq ft carpet at Rs 11.71 Cr (about Rs 60,670). Status then: advanced-stage construction. The same 4 BHK is shown as 3,003 sq ft saleable, the basis for loading_pct."
+    },
+    {
+      "date": "2024-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 52600,
+      "basis": "unknown",
+      "source_name": "Square Yards registered sales (Wayback Machine snapshot, 16 Sep 2024)",
+      "source_url": "https://web.archive.org/web/20240916073743/https://www.squareyards.com/mumbai-residential-property/raheja-imperia/3312/project",
+      "confidence": "medium",
+      "note": "Computed: median of six registered sales in Jul-Sep 2024: Rs 8.60 Cr/1,410 sq ft (about Rs 61,000), 10.38/1,936 (53,600), 8.91/1,528 (58,300), 7.50/1,454 (51,600), 6.47/1,263 (51,200), 4.70/1,197 (39,300). Areas match carpet sizes, but the basis is not stated."
+    },
     {
       "date": "2025-12-01",
       "date_precision": "month",
@@ -104,18 +163,6 @@
   ],
   "rental_points": [
     {
-      "date": "2026-11-02",
-      "config": "3 BHK",
-      "carpet_sqft": 1447,
-      "monthly_rent": 390000,
-      "furnishing": "semi_furnished",
-      "kind": "asking",
-      "source_name": "RealEstateMumbai rental listing (ID 10060189)",
-      "source_url": "https://www.realestatemumbai.com/rent/raheja-imperia-worli",
-      "confidence": "low",
-      "note": "Deposit Rs 11.7 lakh. The date is the listing record update date."
-    },
-    {
       "date": "2026-10-29",
       "config": "3 BHK",
       "carpet_sqft": 1500,
@@ -128,16 +175,16 @@
       "note": "Deposit Rs 10.5 lakh."
     },
     {
-      "date": "2026-11-17",
-      "config": "4 BHK",
-      "carpet_sqft": 1950,
-      "monthly_rent": 750000,
-      "furnishing": "furnished",
+      "date": "2026-11-02",
+      "config": "3 BHK",
+      "carpet_sqft": 1447,
+      "monthly_rent": 390000,
+      "furnishing": "semi_furnished",
       "kind": "asking",
-      "source_name": "RealEstateMumbai rental listing (ID 10065579)",
+      "source_name": "RealEstateMumbai rental listing (ID 10060189)",
       "source_url": "https://www.realestatemumbai.com/rent/raheja-imperia-worli",
       "confidence": "low",
-      "note": "Deposit Rs 22.5 lakh, fully furnished. A semi-furnished 2,000 sq ft 4 BHK also asks Rs 7.5 lakh. Square Yards estimates 4 BHK rent at Rs 6.1 lakh."
+      "note": "Deposit Rs 11.7 lakh. The date is the listing record update date."
     },
     {
       "date": "2026-11-02",
@@ -150,7 +197,51 @@
       "source_url": "https://www.realestatemumbai.com/rent/raheja-imperia-worli",
       "confidence": "low",
       "note": "Deposit Rs 30 lakh. Square Yards estimates 5 BHK rent at Rs 9.4 lakh."
+    },
+    {
+      "date": "2026-11-17",
+      "config": "4 BHK",
+      "carpet_sqft": 1950,
+      "monthly_rent": 750000,
+      "furnishing": "furnished",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai rental listing (ID 10065579)",
+      "source_url": "https://www.realestatemumbai.com/rent/raheja-imperia-worli",
+      "confidence": "low",
+      "note": "Deposit Rs 22.5 lakh, fully furnished. A semi-furnished 2,000 sq ft 4 BHK also asks Rs 7.5 lakh. Square Yards estimates 4 BHK rent at Rs 6.1 lakh."
     }
   ],
-  "news": []
+  "news": [
+    {
+      "date": "2017-02-16",
+      "title": "Raheja Imperia Sets Benchmark for Low Density Luxury Housing in India",
+      "url": "https://prnewswire.com/in/news-releases/raheja-imperia-sets-benchmark-for-low-density-luxury-housing-in-india-613910233.html",
+      "source": "PR Newswire (developer press release)",
+      "event_type": "other",
+      "summary": "Raheja Universal promotes Imperia in Worli as low-density 3-5 BHK homes on a virgin plot free of SRA, rehab or public-parking obligations, with 30 amenities across four zones and a top-floor infinity pool."
+    },
+    {
+      "date": "2018-08-30",
+      "title": "Property Review of Raheja Imperia in Lower Parel, Mumbai",
+      "url": "https://dwello.in/news/raheja-imperia-lower-parel",
+      "source": "Dwello",
+      "event_type": "other",
+      "summary": "Review of the MahaRERA-registered project, then promising possession in Dec 2021, with 3, 4, 4.5 and 5 BHK homes; floors 46-58 are skyplexes and floor 60 holds the infinity pool and sky lounge."
+    },
+    {
+      "date": "2022-12-13",
+      "title": "Xanadu Introduces a Luxury Vertical in Worli, South Mumbai, Starting With Raheja Imperia 2",
+      "url": "https://www.ghar.tv/blog/xanadu-introduces-a-luxury-vertical-in-worli-south-mumbai-starting-with-raheja-imperia-2/artid613",
+      "source": "Ghar.tv",
+      "event_type": "launch",
+      "summary": "Xanadu Realty starts a luxury sales vertical with about Rs 2,000 crore of Worli inventory, beginning with the sister phase Raheja Imperia II (The Riviere). This concerns the next phase, not Imperia I."
+    }
+  ],
+  "architect": "J.P. Parekh And Sons Architects",
+  "land_type": "private",
+  "land_tenure": "freehold",
+  "loading_pct": 56,
+  "transactions_12m": 15,
+  "nearest_metro": "Acharya Atre Chowk (Metro Line 3)",
+  "nearest_metro_km": 0.82
 }

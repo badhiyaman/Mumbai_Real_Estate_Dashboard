@@ -8,7 +8,9 @@
   "towers": 1,
   "floors_max": 45,
   "total_units": 133,
-  "rera_ids": ["P51900000841"],
+  "rera_ids": [
+    "P51900000841"
+  ],
   "status": "completed",
   "possession_promised": "2023-12-30",
   "amenities": [
@@ -26,7 +28,7 @@
     "Party hall"
   ],
   "description": "A single ultra-luxury residential tower on a roughly 5-acre plot near the Worli sea face, built by K. Raheja Private Limited (a K Raheja Corp group company). It has limited-edition 4 BHK residences, three to a floor, with views of the Arabian Sea and the Bandra-Worli Sea Link, and Art Deco-inspired interiors by London's Martin Kemp Design. Mint described it in 2018 as an upcoming 45-storey tower selling 3,000 sq ft homes by invitation at around Rs 30 crore. Since 2021, Raheja family members have bought and then resold several top-floor apartments, which set Worli records of Rs 1.55 to 1.82 lakh/sq ft of carpet in 2025-26.",
-  "notes": "Status: Square Yards lists it ready to move since Jun 2019, and Wikipedia's list of tallest Mumbai buildings gives completion in 2019. MahaRERA (P51900000841, registered 23 Jul 2017) still showed it as ongoing with a proposed completion of 30 Dec 2023 (GeoSquare, verified Sep 2026). No OC date was found, so oc_received is left out. Floors conflict between sources: 45 storeys (Mint 2018 / Construction World 2021, which matches duplexes on floors 44-45), 49 (MGS Architecture), 54 (a RERA listing) and 58 floors / 210 m (Wikipedia list). Land: 4.97 acres per the developer; 5.2 acres per MGS; MahaRERA plot area 19,640.99 sq m. Units: 133 per MahaRERA / Zapkey, with 130 booked as of Nov 2025 (Square Yards); the 129 elsewhere on Square Yards conflicts. Mortgaged to HDFC Ltd (developer site). Design team: RSP (India) design consultants, Sterling Engineering (structure concept), Burega Farnell (landscape), BES (facade), AECOM (MEP), Martin Kemp Design and JPA Design (show apartments). Floor height is 3.9 m floor-to-floor (the developer page also captions it as floor-to-ceiling). Related-party deals: in Dec 2020 Neel, Chandru and Ravi Raheja and their wives bought three duplexes (18 flats, 42 car parks) for Rs 427.81 crore at the 2% Covid-era stamp duty, and from 2025 they resold some of these units. The two Feb 2026 sales (Rs 123.51 crore to Radha Tanti and Rs 121 crore to Shree Dhootapapeshwar) are both 44th-floor, 6,772 sq ft carpet units sold by Ravi and Sumati Raheja. Reported stamp duties differ (Rs 6.18 crore vs Rs 7.28 crore), and Square Yards lists the 26 Feb 2026 sale as unit 4402, so they are treated as two separate flats. This is not confirmed. Earlier buyers include Smita Parekh (Rs 50 crore), Keki Mistry (Rs 41.23 crore) and the Relli family (Rs 30.31 crore), all reported around 2021 with no area or date. Rent: Square Yards gave Rs 5-6 lakh/month for a 4 BHK in Sep 2025, but Nov 2026 listings ask Rs 16-17 lakh for 3,064 sq ft. These figures conflict. Computed gross yield: Rs 16 lakh x 12 / (3,064 sq ft x Rs 1,49,200 Square Yards asking) = about 4.2%; at registered rates of Rs 1.55-1.82 lakh it is about 3.4-4.0%. Both use asking rents.",
+  "notes": "Status: Square Yards lists it ready to move since Jun 2019, and Wikipedia's list of tallest Mumbai buildings gives completion in 2019. MahaRERA (P51900000841, registered 23 Jul 2017) still showed it as ongoing with a proposed completion of 30 Dec 2023 (GeoSquare, verified Sep 2026). No OC date was found, so oc_received is left out. Floors conflict between sources: 45 storeys (Mint 2018 / Construction World 2021, which matches duplexes on floors 44-45), 49 (MGS Architecture), 54 (a RERA listing) and 58 floors / 210 m (Wikipedia list). Land: 4.97 acres per the developer; 5.2 acres per MGS; MahaRERA plot area 19,640.99 sq m. Units: 133 per MahaRERA / Zapkey, with 130 booked as of Nov 2025 (Square Yards); the 129 elsewhere on Square Yards conflicts. Mortgaged to HDFC Ltd (developer site). Design team: RSP (India) design consultants, Sterling Engineering (structure concept), Burega Farnell (landscape), BES (facade), AECOM (MEP), Martin Kemp Design and JPA Design (show apartments). Floor height is 3.9 m floor-to-floor (the developer page also captions it as floor-to-ceiling). Related-party deals: in Dec 2020 Neel, Chandru and Ravi Raheja and their wives bought three duplexes (18 flats, 42 car parks) for Rs 427.81 crore at the 2% Covid-era stamp duty, and from 2025 they resold some of these units. The two Feb 2026 sales (Rs 123.51 crore to Radha Tanti and Rs 121 crore to Shree Dhootapapeshwar) are both 44th-floor, 6,772 sq ft carpet units sold by Ravi and Sumati Raheja. Reported stamp duties differ (Rs 6.18 crore vs Rs 7.28 crore), and Square Yards lists the 26 Feb 2026 sale as unit 4402, so they are treated as two separate flats. This is not confirmed. Earlier buyers include Smita Parekh (Rs 50 crore), Keki Mistry (Rs 41.23 crore) and the Relli family (Rs 30.31 crore), all reported around 2021 with no area or date. Rent: Square Yards gave Rs 5-6 lakh/month for a 4 BHK in Sep 2025, but Nov 2026 listings ask Rs 16-17 lakh for 3,064 sq ft. These figures conflict. Computed gross yield: Rs 16 lakh x 12 / (3,064 sq ft x Rs 1,49,200 Square Yards asking) = about 4.2%; at registered rates of Rs 1.55-1.82 lakh it is about 3.4-4.0%. Both use asking rents. Research gap (Nov 2026 top-up): no dated launch price was found. Mint's undated piece (image file dated 2 May 2018) still called Artesia 'upcoming' and sold by invitation, so the May 2018 point may be close to the launch, but its stage is left as under_construction. Reported 2021 buyers (Keki Mistry Rs 41.23 crore, Smita Parekh Rs 50 crore) have no area or registration date, so no completion-era rate can be computed.",
   "sources": [
     "https://www.krahejacorphomes.com/project/?p=6778",
     "https://krahejacorp.com/newsroom/new-in-luxury-apartments-designer-lobby-in-house-spa",
@@ -45,7 +47,10 @@
   ],
   "architect": "RSP (India) (design consultants); Martin Kemp Design (lobby, show apartment and common areas)",
   "flats_per_floor": 3,
-  "views": ["sea", "city"],
+  "views": [
+    "sea",
+    "city"
+  ],
   "units_sold": 130,
   "units_sold_as_of": "2025-11-01",
   "unit_types": [

@@ -8,7 +8,12 @@
   "lng": 72.8503,
   "land_acres": 3.82,
   "towers": 6,
-  "rera_ids": ["P51800001433", "P51800000605", "P51800000309", "P51800021028"],
+  "rera_ids": [
+    "P51800001433",
+    "P51800000605",
+    "P51800000309",
+    "P51800021028"
+  ],
   "status": "completed",
   "launch_date": "2015-11-19",
   "possession_promised": "2021-12-30",
@@ -31,13 +36,14 @@
     "Banquet hall"
   ],
   "description": "Gated community of six towers on about 3.8 acres in Kala Nagar, Bandra East, next to the Bandra Kurla Complex. Rustomjee (Keystone Realtors) built it as a MHADA-colony redevelopment and sells 3, 3.5 and 4 BHK homes with sun decks. Handover began in April 2020, and the last tower received its occupation certificate by March 2023.",
-  "notes": "Redevelopment of a MHADA layout: Keystone's DRHP describes lender security as 'development rights of MHADA redevelopment Project Rustomjee Seasons'. It followed Rustomjee's nearby Oriana redevelopment. Launch date conflicts: the DRHP milestone list says 'Launched our redevelopment project Seasons in Bandra East' in 2013, while Rustomjee's press launch is dated 19 Nov 2015. The DRHP gives price appreciation from project start to OC as 2.13x (Rs 17,773 to Rs 37,934 per sq ft saleable), with a lifetime average of Rs 28,208. Cumulative sales were Rs 1,951 crore, with 72.39% of inventory sold as of 31 Dec 2021. Commencement certificate for Wings B, C, E and F: Sep 2016; handover of those wings began April 2020. In 2020 Keystone intervened in a Supreme Court property-tax case after MCGM refused the no-dues certificate needed for the Seasons OC. Free Press Journal (24 Mar 2023) reported the OC for the last tower and said the project was fully ready, but gave no OC date. Square Yards still showed Wing D (P51800021028) with a completion date of 30 Dec 2025, so Wing D's OC timing is unclear. Unit count and floors conflict: Square Yards lists 442 units; Free Press Journal says over 400 families; Mumbai Property Exchange cites 86 units for Wing A alone and gives 22 or 26 storeys. floors_max and total_units are therefore omitted. Architect credits conflict: Sanjay Puri in the 2015 launch release; design concepts by Alfaz Miller per the 2023 OC report; landscape by Site Concepts International per the DRHP. Awards: CNBC Best Residential Project Ultra-Luxury Segment (2018-19); ET Now Best Redevelopment Project (2019). Mumbai Property Exchange lists the BKC metro station 0.6 km away (straight line) and Metro Line 3 / Line 2B stations 2.1 km away. The labels are inconsistent, so nearest_metro is omitted.",
+  "notes": "Redevelopment of a MHADA layout: Keystone's DRHP describes lender security as 'development rights of MHADA redevelopment Project Rustomjee Seasons'. It followed Rustomjee's nearby Oriana redevelopment. Launch date conflicts: the DRHP milestone list says 'Launched our redevelopment project Seasons in Bandra East' in 2013, while Rustomjee's press launch is dated 19 Nov 2015. The DRHP gives price appreciation from project start to OC as 2.13x (Rs 17,773 to Rs 37,934 per sq ft saleable), with a lifetime average of Rs 28,208. Cumulative sales were Rs 1,951 crore, with 72.39% of inventory sold as of 31 Dec 2021. Commencement certificate for Wings B, C, E and F: Sep 2016; handover of those wings began April 2020. In 2020 Keystone intervened in a Supreme Court property-tax case after MCGM refused the no-dues certificate needed for the Seasons OC. Free Press Journal (24 Mar 2023) reported the OC for the last tower and said the project was fully ready, but gave no OC date. Square Yards still showed Wing D (P51800021028) with a completion date of 30 Dec 2025, so Wing D's OC timing is unclear. Unit count and floors conflict: Square Yards lists 442 units; Free Press Journal says over 400 families; Mumbai Property Exchange cites 86 units for Wing A alone and gives 22 or 26 storeys. floors_max and total_units are therefore omitted. Architect credits conflict: Sanjay Puri in the 2015 launch release; design concepts by Alfaz Miller per the 2023 OC report; landscape by Site Concepts International per the DRHP. Awards: CNBC Best Residential Project Ultra-Luxury Segment (2018-19); ET Now Best Redevelopment Project (2019). Mumbai Property Exchange lists the BKC metro station 0.6 km away (straight line) and Metro Line 3 / Line 2B stations 2.1 km away. The labels are inconsistent, so nearest_metro is omitted. Same-basis comparison (Nov 2026 top-up): carpet-basis completion (PropertyButler 2020-21 registered medians, about Rs 44,600-46,900) and resale (Rs 59,266 registered in Sep 2025; Rs 57,700-67,200 asking in 2026) now exist, but no carpet-basis launch price was found. The DRHP's saleable launch and completion averages (Rs 17,773 and 37,934) have no saleable-basis resale counterpart; the carpet completion median is about 1.2x the DRHP's saleable OC average, which suggests the DRHP's saleable area carries a loading of roughly 20%, but this is not used to convert anything.",
   "sources": [
     "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
     "https://mccoymart.com/post/rustomjee-launches-yet-another-premium-project-in-bkc",
     "https://www.freepressjournal.in/corporate-gallery/keystone-realtors-receives-full-occupancy-certificate-for-rustomjee-seasons",
     "https://www.mumbaipropertyexchange.com/project/rustomjee-seasons-bandra-east-by-rustomjee/5179",
-    "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project"
+    "https://www.squareyards.com/mumbai-residential-property/rustomjee-seasons/6623/project",
+    "https://propertybutler.in/building/Rustomjee%20Seasons"
   ],
   "architect": "Sanjay Puri (per 2015 launch release); design concepts by Alfaz Miller (per 2023 OC report); landscape by Site Concepts International",
   "land_type": "redevelopment",
@@ -91,6 +97,39 @@
       "source_url": "https://listing.bseindia.com/download/361610/Keystone%20Realtors%20Limited%20-%20DRHP_20220615155551.pdf",
       "confidence": "high",
       "note": "Company figure: average price on receipt of the occupancy certificate (Rs 37,934.08/sq ft saleable), 2.13x the starting price. The year is approximate: handover of Wings B, C, E and F began in April 2020. The lifetime average was Rs 28,208/sq ft."
+    },
+    {
+      "date": "2020-10-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 44643,
+      "basis": "carpet",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/Rustomjee%20Seasons",
+      "confidence": "medium",
+      "note": "Quarterly median registered rate for Q4 2020 (Oct-Dec), 17 deeds, outliers removed. Handover of Wings B, C, E and F began in Apr 2020, so this is the completion period. Carpet basis inferred: the deed areas PropertyButler lists (945-1,316 sq ft for 3 BHK, 1,711 sq ft for 4 BHK) sit within the MahaRERA carpet ranges; PropertyButler does not state the basis for this building. Q3 2020 median: Rs 43,000 (9 deeds)."
+    },
+    {
+      "date": "2021-04-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 46947,
+      "basis": "carpet",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/Rustomjee%20Seasons",
+      "confidence": "medium",
+      "note": "Quarterly median registered rate for Q2 2021 (Apr-Jun), 16 deeds, outliers removed; carpet basis inferred as above. Listed Jun-Jul 2021 deeds include Rs 5.13-5.36 Cr for 1,141-1,144 sq ft (about Rs 44,960-46,980/sq ft, computed). Q1 2021: Rs 45,457 (5 deeds)."
+    },
+    {
+      "date": "2025-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 59266,
+      "basis": "carpet",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://propertybutler.in/building/Rustomjee%20Seasons",
+      "confidence": "medium",
+      "note": "Quarterly median registered rate for Q3 2025 from 3 deeds registered 23-27 Sep 2025: Rs 6.49 Cr / 945 sq ft (21st floor), Rs 6.30 Cr / 1,063 sq ft (12th) and Rs 6.85 Cr / 1,316 sq ft (12th), i.e. about Rs 68,677, 59,266 and 52,052/sq ft (computed). Carpet basis inferred. PropertyButler's 12-month registered median is Rs 55,659 (range Rs 52,773-58,545)."
     },
     {
       "date": "2025-12-01",

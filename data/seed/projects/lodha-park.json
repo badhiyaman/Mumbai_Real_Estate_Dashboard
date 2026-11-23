@@ -10,7 +10,11 @@
   "towers": 6,
   "floors_max": 76,
   "total_units": 2612,
-  "rera_ids": ["P51900001339", "P51900014937", "P51900016526"],
+  "rera_ids": [
+    "P51900001339",
+    "P51900014937",
+    "P51900016526"
+  ],
   "status": "completed",
   "launch_date": "2013-08-19",
   "possession_promised": "2021-12-31",
@@ -28,7 +32,7 @@
     "Pet garden, organic vegetable and herb gardens"
   ],
   "description": "Lodha's flagship gated complex in Worli, built on about 17 acres of former mill land that Lodha bought from DLF in 2012. Six residential towers (Allura, Parkside, Trump Tower Mumbai, Marquise, Kiara and the final tower, Adrina) surround a 7-acre private park, with town houses and some retail and office space. Singapore's WOHA designed it. Trump Tower Mumbai, a licensing tie-up with the Trump Organization, sold at a reported premium of about 20-30% over the other towers.",
-  "notes": "Scope: this file treats the whole Lodha Park complex as one project. Land: Lodha bought Jawala Real Estate (DLF's subsidiary owning the former NTC mill land, which DLF had won at auction in 2005 for about Rs 702 crore) for about Rs 2,725-2,750 crore in 2012; reports say 17 to 17.5 acres, Wikipedia says 18.5 acres, Lodha's site says a 17-acre neighbourhood. Towers: Wikipedia lists five 268 m, 76-floor towers (Trump Tower, Marquise, Allura, Parkside, Kiara); Lodha's site calls Adrina 'the final tower', so six in all. DNA (Feb 2018) called Trump Tower 78 storeys; HomeBazaar says Marquise is 67 storeys; floors_max uses Wikipedia's 76. total_units (2,612) and units sold (2,165 of 2,210 launched units booked, Nov 2025) are from Square Yards and are low confidence. MahaRERA: P51900001339 covers Lodha Park wings 1-5 (commenced 27 Jul 2017, original completion 31 Dec 2021, revised 30 Dec 2023); P51900014937 is Lodha Adrina (original completion 31 Jul 2024, revised 30 Jun 2026); P51900016526 is Lodha Park Town Houses. Square Yards also lists Lodha Park Signet (P51900046367) and Lodha Signet (P51900029416), which look like commercial wings and are left out of rera_ids. Possession: Lodha's site lists Adrina as ready to move in; no sourced OC date for the earlier towers was found (a listing site says Trump Tower possession began around June 2019, unverified). Launch: Lodha launched 'The Park' on 19 Aug 2013 (Business Standard) and reported about Rs 2,500 crore of day-one bookings in Sep 2013; Aishwarya Rai Bachchan was brand ambassador. Square Yards says 85% of the site is open/green and the buildings are IGBC certified (level not stated). Registered sales: Square Yards counts 35 registered sales worth Rs 269 crore between Nov 2025 and Oct 2026. Housing.com lists the project under Lower Parel. Price conflict: Square Yards' Sep 2026 asking average (Rs 62,550/sq ft) is well above its registered average (Rs 51,900/sq ft); the basis of both is not stated.",
+  "notes": "Scope: this file treats the whole Lodha Park complex as one project. Land: Lodha bought Jawala Real Estate (DLF's subsidiary owning the former NTC mill land, which DLF had won at auction in 2005 for about Rs 702 crore) for about Rs 2,725-2,750 crore in 2012; reports say 17 to 17.5 acres, Wikipedia says 18.5 acres, Lodha's site says a 17-acre neighbourhood. Towers: Wikipedia lists five 268 m, 76-floor towers (Trump Tower, Marquise, Allura, Parkside, Kiara); Lodha's site calls Adrina 'the final tower', so six in all. DNA (Feb 2018) called Trump Tower 78 storeys; HomeBazaar says Marquise is 67 storeys; floors_max uses Wikipedia's 76. total_units (2,612) and units sold (2,165 of 2,210 launched units booked, Nov 2025) are from Square Yards and are low confidence. MahaRERA: P51900001339 covers Lodha Park wings 1-5 (commenced 27 Jul 2017, original completion 31 Dec 2021, revised 30 Dec 2023); P51900014937 is Lodha Adrina (original completion 31 Jul 2024, revised 30 Jun 2026); P51900016526 is Lodha Park Town Houses. Square Yards also lists Lodha Park Signet (P51900046367) and Lodha Signet (P51900029416), which look like commercial wings and are left out of rera_ids. Possession: Lodha's site lists Adrina as ready to move in; no sourced OC date for the earlier towers was found (a listing site says Trump Tower possession began around June 2019, unverified). Launch: Lodha launched 'The Park' on 19 Aug 2013 (Business Standard) and reported about Rs 2,500 crore of day-one bookings in Sep 2013; Aishwarya Rai Bachchan was brand ambassador. Square Yards says 85% of the site is open/green and the buildings are IGBC certified (level not stated). Registered sales: Square Yards counts 35 registered sales worth Rs 269 crore between Nov 2025 and Oct 2026. Housing.com lists the project under Lower Parel. Price conflict: Square Yards' Sep 2026 asking average (Rs 62,550/sq ft) is well above its registered average (Rs 51,900/sq ft); the basis of both is not stated. Research gap (Nov 2026 top-up): searches for 2019-2022 registered deals (Zapkey, Square Yards, news) in any Lodha Park tower found nothing with a date, value and area, and PropertyButler shows only asking prices. The basis of the 2013 launch figures is still unconfirmed.",
   "sources": [
     "https://en.wikipedia.org/wiki/The_Park_(residential_project)",
     "https://www.lodhagroup.com/projects/residential-property-in-worli/lodha-park",
@@ -47,7 +51,10 @@
   "branded_residence": "Trump (Trump Tower Mumbai)",
   "clubhouse_sqft": 50000,
   "open_space_pct": 85,
-  "views": ["city", "sea"],
+  "views": [
+    "city",
+    "sea"
+  ],
   "land_type": "mill_land",
   "land_tenure": "unknown",
   "units_sold": 2165,
@@ -75,7 +82,7 @@
       "carpet_sqft_min": 1471,
       "carpet_sqft_max": 1526,
       "price_min_cr": 8.53,
-      "price_max_cr": 9.0,
+      "price_max_cr": 9,
       "notes": "Square Yards: 1,471 sq ft carpet at Rs 8.53 Cr (2026 asking). Business Today (2017): Trump Tower 3 and 4 BHKs started at Rs 9 Cr."
     },
     {

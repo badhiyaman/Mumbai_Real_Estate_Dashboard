@@ -7,7 +7,9 @@
   "lat": 19.0167,
   "lng": 72.8167,
   "towers": 3,
-  "rera_ids": ["P51900003316"],
+  "rera_ids": [
+    "P51900003316"
+  ],
   "status": "completed",
   "launch_date": "2013-10-01",
   "possession_promised": "2019-06-30",
@@ -21,7 +23,7 @@
     "Three basement parking levels per tower"
   ],
   "description": "A three-tower luxury development (Towers A, B and C) off Annie Besant Road in Worli. It is the free-sale part of an SRA slum-redevelopment scheme by Omkar Realtors & Developers. Foster + Partners did the original design and Larsen & Toubro built it. The towers have large sea-facing 3 to 5 BHK 'sky bungalows' and duplexes, with buyers including several cricketers and industrialists.",
-  "notes": "SRA link: the free-sale towers are tied to the Mahalaxmi SRA CHS slum scheme. In Sept 2021 the Bombay High Court barred new sale agreements in the free-sale building after slum dwellers said rent had not been paid since 2016; Omkar had promised in Aug 2015 that the rehab would be ready by July 2016. Wikipedia still says sales are on hold. Promoter troubles: the ED arrested chairman Kamal Kishore Gupta and MD Babulal Varma in Jan 2021 in a Yes Bank loan/SRA money-laundering case (a different Omkar SRA scheme), and a later report says a special court discharged them. Delays: a Tower C allotment (Apr 2016) promised possession by 30 Jun 2019, extendable to 30 Jun 2020, which is the possession_promised date. MahaRERA's registered completion date is 30 Dec 2021. In April 2026 the appellate tribunal (MREAT) ordered a full refund with interest to a Tower C 35th-floor buyer, citing delay attributable to the builder. Status conflicts: MahaRERA aggregators and Square Yards say completed / ready to move, while Wikipedia says topped out with completion expected 2024. Floors: Wikipedia says 73 floors per tower (about 267 m), the MahaRERA phase lists Tower 2 at 54 pt to 79th floor (likely podium-inclusive numbering), HomeBazaar says 75 storeys and CTBUH lists 212 m for Tower C, so floors_max is left out. Units: Wikipedia says '400-plus', an aggregator says 517 launched, and the MahaRERA phase P51900003316 shows only the 136 units still registered (Tower 2: 33, Tower 3: 103) on 3,372 sq m, so total_units and land_acres are left out. Sales: Piramal Fund Management invested about Rs 1,400 crore and in 2018 appointed Anarock to sell 70 apartments valued at Rs 1,100 crore. Buyers reported by PTI (2018) include Yuvraj Singh (Rs 64 crore), the DY Patil family (Rs 49.1 crore) and Baba Kalyani (Rs 21.3 crore). Virat Kohli booked a Tower C flat in 2016 and cancelled it in March 2018. Enrichment (Nov 2026): Wikipedia credits Foster + Partners with the original design and UHA London as executive architects, with Buro Happold as structural engineer and HBA for interiors; Mumbai Property Exchange's MahaRERA extract names Anand Dhokay as the registered architect. OC: a March 2022 Bombay High Court order notes the SRA granted a part OC for Tower A up to the 69th floor, with possession handed over up to the 64th floor; a broker page says Towers A and B have OCs. No full-project OC date was found, so oc_received is left out. units_sold (65) is Square Yards' figure for the 136 units in MahaRERA phase P51900003316 as of Mar 2026, not the whole project. Land: HomeBazaar and realestatemumbai say about 9 acres, but this is unverified and land_acres stays out. nearest_metro_km is a straight-line distance from Mumbai Property Exchange. Liquidity: PropertyButler counts 177 sale and 204 lease deeds in the last 12 months, but its sizes start at 400 sq ft, so the count likely includes non-free-sale or small units; Square Yards counts 15 sales (Nov 2025 to Oct 2026). transactions_12m is therefore left out. Bulk deal: in March 2021 Omkar registered nine A/B-wing flats (floors 30 to 68) to Mirandum Realtors for Rs 130.99 crore with 25 car parks. Resales: Jeetendra and Ekta Kapoor bought in June 2017 for Rs 11.52 crore and sold in June 2025 for Rs 12.25 crore (2,149 sq ft); Anita and Amrita Puri bought in March 2017 for Rs 19.81 crore and sold in March 2026 for Rs 27 crore (area not reported). BKC and airport road distances were not found from a project-specific source.",
+  "notes": "SRA link: the free-sale towers are tied to the Mahalaxmi SRA CHS slum scheme. In Sept 2021 the Bombay High Court barred new sale agreements in the free-sale building after slum dwellers said rent had not been paid since 2016; Omkar had promised in Aug 2015 that the rehab would be ready by July 2016. Wikipedia still says sales are on hold. Promoter troubles: the ED arrested chairman Kamal Kishore Gupta and MD Babulal Varma in Jan 2021 in a Yes Bank loan/SRA money-laundering case (a different Omkar SRA scheme), and a later report says a special court discharged them. Delays: a Tower C allotment (Apr 2016) promised possession by 30 Jun 2019, extendable to 30 Jun 2020, which is the possession_promised date. MahaRERA's registered completion date is 30 Dec 2021. In April 2026 the appellate tribunal (MREAT) ordered a full refund with interest to a Tower C 35th-floor buyer, citing delay attributable to the builder. Status conflicts: MahaRERA aggregators and Square Yards say completed / ready to move, while Wikipedia says topped out with completion expected 2024. Floors: Wikipedia says 73 floors per tower (about 267 m), the MahaRERA phase lists Tower 2 at 54 pt to 79th floor (likely podium-inclusive numbering), HomeBazaar says 75 storeys and CTBUH lists 212 m for Tower C, so floors_max is left out. Units: Wikipedia says '400-plus', an aggregator says 517 launched, and the MahaRERA phase P51900003316 shows only the 136 units still registered (Tower 2: 33, Tower 3: 103) on 3,372 sq m, so total_units and land_acres are left out. Sales: Piramal Fund Management invested about Rs 1,400 crore and in 2018 appointed Anarock to sell 70 apartments valued at Rs 1,100 crore. Buyers reported by PTI (2018) include Yuvraj Singh (Rs 64 crore), the DY Patil family (Rs 49.1 crore) and Baba Kalyani (Rs 21.3 crore). Virat Kohli booked a Tower C flat in 2016 and cancelled it in March 2018. Enrichment (Nov 2026): Wikipedia credits Foster + Partners with the original design and UHA London as executive architects, with Buro Happold as structural engineer and HBA for interiors; Mumbai Property Exchange's MahaRERA extract names Anand Dhokay as the registered architect. OC: a March 2022 Bombay High Court order notes the SRA granted a part OC for Tower A up to the 69th floor, with possession handed over up to the 64th floor; a broker page says Towers A and B have OCs. No full-project OC date was found, so oc_received is left out. units_sold (65) is Square Yards' figure for the 136 units in MahaRERA phase P51900003316 as of Mar 2026, not the whole project. Land: HomeBazaar and realestatemumbai say about 9 acres, but this is unverified and land_acres stays out. nearest_metro_km is a straight-line distance from Mumbai Property Exchange. Liquidity: PropertyButler counts 177 sale and 204 lease deeds in the last 12 months, but its sizes start at 400 sq ft, so the count likely includes non-free-sale or small units; Square Yards counts 15 sales (Nov 2025 to Oct 2026). transactions_12m is therefore left out. Bulk deal: in March 2021 Omkar registered nine A/B-wing flats (floors 30 to 68) to Mirandum Realtors for Rs 130.99 crore with 25 car parks. Resales: Jeetendra and Ekta Kapoor bought in June 2017 for Rs 11.52 crore and sold in June 2025 for Rs 12.25 crore (2,149 sq ft); Anita and Amrita Puri bought in March 2017 for Rs 19.81 crore and sold in March 2026 for Rs 27 crore (area not reported). BKC and airport road distances were not found from a project-specific source. Price comparison (Nov 2026 top-up): PropertyButler's registered medians give a like-for-like completion (Q4 2021, Rs 41,444, 40 deeds) and resale (Q3 2025, Rs 39,478, 25 deeds) series, both on an unstated area basis. No dated launch-era (2013) price with a clear basis was found; the earliest figure is a broker's Mar 2014 report of the builder quoting Rs 40,000/sq ft plus floor rise.",
   "sources": [
     "https://en.wikipedia.org/wiki/Omkar_1973",
     "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-city/omkar-1973-worli-P51900003316",
@@ -37,11 +39,15 @@
     "https://www.freepressjournal.in/india/mumbai-hand-over-habitable-flat-to-buyers-hc-to-omkar-realtors",
     "https://propertybutler.in/building/omkar-1973",
     "https://www.mumbaipropertyexchange.com/project/omkar-1973-worli/30738",
-    "https://gharpe.com/mumbai/omkar-1973/rentals"
+    "https://gharpe.com/mumbai/omkar-1973/rentals",
+    "https://www.propertybutler.in/building/Omkar%201973"
   ],
   "architect": "Foster + Partners (original design); UHA London (executive architects)",
   "contractor": "Larsen & Toubro",
-  "views": ["sea", "city"],
+  "views": [
+    "sea",
+    "city"
+  ],
   "land_type": "sra",
   "units_sold": 65,
   "units_sold_as_of": "2026-03-01",
@@ -132,6 +138,17 @@
       "note": "Computed: Rs 130.99 crore / 31,952 sq ft (2,968.43 sq m) for nine A and B wing flats on floors 30 to 68, registered 28 Mar 2021 to Mirandum Realtors (a real-estate company) with 25 car parks. A bulk developer sale, so likely below single-unit pricing. Area basis not stated."
     },
     {
+      "date": "2021-10-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 41444,
+      "basis": "unknown",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://www.propertybutler.in/building/Omkar%201973",
+      "confidence": "medium",
+      "note": "Quarterly median registered rate for Q4 2021 (Oct-Dec), 40 deeds, outliers removed. Treated as the completion period: a Mar 2022 Bombay High Court order notes a part OC for Tower A up to the 69th floor with possession handed over up to the 64th floor. Q2 2021 was also Rs 41,444 (27 deeds); Q1 2022 Rs 40,341 (4 deeds). PropertyButler does not state the area basis; the deed sizes it lists look like carpet areas, but this is not confirmed."
+    },
+    {
       "date": "2025-06-08",
       "date_precision": "day",
       "stage": "resale",
@@ -141,6 +158,17 @@
       "source_url": "https://propnewstime.com/getdetailsStories/MTkzMjI=/mumbai-property-deals-jeetendar-and-ekta-kapoor-sell-their-omkar-1973-apartment-for-inr-12-25-crore",
       "confidence": "medium",
       "note": "Rs 12.25 crore for 2,149 sq ft (about Rs 57,003/sq ft as reported), sold by Jeetendra and Ekta Kapoor with two car parks, registered 8 Jun 2025. The article does not name its data source or the area basis."
+    },
+    {
+      "date": "2025-07-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 39478,
+      "basis": "unknown",
+      "source_name": "PropertyButler (registered sale deeds)",
+      "source_url": "https://www.propertybutler.in/building/Omkar%201973",
+      "confidence": "medium",
+      "note": "Quarterly median registered rate for Q3 2025 (Jul-Sep), 25 deeds, outliers removed. Same source and method as the Q4 2021 completion median, so the two are comparable even though the area basis is not stated. Some of these deeds may be developer sales (for example the three 55th-floor deeds of 28 Aug 2025)."
     },
     {
       "date": "2025-08-28",

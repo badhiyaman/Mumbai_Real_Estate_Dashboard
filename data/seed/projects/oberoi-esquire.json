@@ -29,7 +29,7 @@
     "Children's play area"
   ],
   "description": "Three high-rise residential towers (A, B and C) with 882 apartments in Oberoi Realty's Oberoi Garden City township in Goregaon East. Homes are 3 BHK and 4 BHK in Superior, Supreme and Royale configurations. Oberoi was ready to hand over possession in early 2018.",
-  "notes": "MahaRERA P51800005229 (registered 11 Aug 2017, completion date 30 Jun 2018; 882 units: Tower A 296, B 294, C 292). Launch date conflicts: Sep 2010 (Aurum PropTech), Oct 2010 (Housing.com), Feb 2011 (Mumbai Property Exchange, quoting the developer). possession_actual is approximate (month only), taken from a 16 Mar 2018 report that Oberoi was ready to hand over possession; Square Yards says 'ready to move since Dec 2017'. Floor count conflicts: Mumbai Property Exchange cites MahaRERA as up to 70 (A 70, B 70, C 69, probably including podium/parking levels), while its developer description says 51 storeys, so floors_max is omitted. Land area is also unclear: RERA shows 3,306.78 (units unspecified) and Aurum gives 0.82 acres, so it is omitted. Booking status varies by snapshot: 616 sold (PropScience), 609 of 882 (Square Yards, Apr 2026). Brokerage and Business Standard coverage (2015, 2017) credited Esquire with driving Oberoi's sales volumes and margins. Launch-era prices were later found in Morgan Stanley's Oct 2011 note, which reproduces company project-wise sales data (see price points); this replaces an earlier remark that none had been found. Do not confuse this project with the older Oberoi Exquisite next door (2009 launch at Rs 9,500/sq ft). Enrichment (Nov 2026): Vikas Oberoi said on the May 2019 earnings call that Esquire has 6 apartments per floor, repeated over about 50 floors in 3 buildings (about 900 apartments). Morgan Stanley (Oct 2011, company data) gave Esquire's saleable area as 1.97 mn sq ft and 846 units, 14% sold by Mar 2011, 22% by Jun 2011 and 29% by Sep 2011. Later earnings calls give a total of 21.22 lakh sq ft, with 15.45 lakh sq ft (72%) booked for a cumulative Rs 2,456 crore by Dec 2018, which averages about Rs 15,900/sq ft across all bookings since launch (computed), and 17.01 lakh sq ft (80%) for Rs 2,778 crore by Dec 2019. Motilal Oswal (Jan 2012) reported a roughly 10% price increase across Oberoi's ongoing projects in Q3FY12, and that Esquire had about Rs 750 crore of sales by Dec 2011. In May 2019 Vikas Oberoi said Esquire's base price 'works to about INR 18,000 plus' (part of the transcript is indiscernible) and that the net present value to a buyer under the deferred plan was about Rs 15,000 plus. He also said fewer than 200 apartments (close to Rs 1,000 crore) remained in May 2019. units_sold (712) is computed as 882 minus the '170 apartments ... left to be sold' stated on the 10 Feb 2020 call; Square Yards' MahaRERA-based 609 of 882 (Apr 2026) looks stale. oc_received is inferred from Oberoi's Mar 2018 ready-for-possession announcement and the 100% completion stated on the calls; the OC date was not found. transactions_12m is Square Yards' 6 registrations from Nov 2025 to Oct 2026. Oberoi's early figures are on saleable area (pre-RERA); the area basis of the 2016-2019 averages is not stated.",
+  "notes": "MahaRERA P51800005229 (registered 11 Aug 2017, completion date 30 Jun 2018; 882 units: Tower A 296, B 294, C 292). Launch date conflicts: Sep 2010 (Aurum PropTech), Oct 2010 (Housing.com), Feb 2011 (Mumbai Property Exchange, quoting the developer). possession_actual is approximate (month only), taken from a 16 Mar 2018 report that Oberoi was ready to hand over possession; Square Yards says 'ready to move since Dec 2017'. Floor count conflicts: Mumbai Property Exchange cites MahaRERA as up to 70 (A 70, B 70, C 69, probably including podium/parking levels), while its developer description says 51 storeys, so floors_max is omitted. Land area is also unclear: RERA shows 3,306.78 (units unspecified) and Aurum gives 0.82 acres, so it is omitted. Booking status varies by snapshot: 616 sold (PropScience), 609 of 882 (Square Yards, Apr 2026). Brokerage and Business Standard coverage (2015, 2017) credited Esquire with driving Oberoi's sales volumes and margins. Launch-era prices were later found in Morgan Stanley's Oct 2011 note, which reproduces company project-wise sales data (see price points); this replaces an earlier remark that none had been found. Do not confuse this project with the older Oberoi Exquisite next door (2009 launch at Rs 9,500/sq ft). Enrichment (Nov 2026): Vikas Oberoi said on the May 2019 earnings call that Esquire has 6 apartments per floor, repeated over about 50 floors in 3 buildings (about 900 apartments). Morgan Stanley (Oct 2011, company data) gave Esquire's saleable area as 1.97 mn sq ft and 846 units, 14% sold by Mar 2011, 22% by Jun 2011 and 29% by Sep 2011. Later earnings calls give a total of 21.22 lakh sq ft, with 15.45 lakh sq ft (72%) booked for a cumulative Rs 2,456 crore by Dec 2018, which averages about Rs 15,900/sq ft across all bookings since launch (computed), and 17.01 lakh sq ft (80%) for Rs 2,778 crore by Dec 2019. Motilal Oswal (Jan 2012) reported a roughly 10% price increase across Oberoi's ongoing projects in Q3FY12, and that Esquire had about Rs 750 crore of sales by Dec 2011. In May 2019 Vikas Oberoi said Esquire's base price 'works to about INR 18,000 plus' (part of the transcript is indiscernible) and that the net present value to a buyer under the deferred plan was about Rs 15,000 plus. He also said fewer than 200 apartments (close to Rs 1,000 crore) remained in May 2019. units_sold (712) is computed as 882 minus the '170 apartments ... left to be sold' stated on the 10 Feb 2020 call; Square Yards' MahaRERA-based 609 of 882 (Apr 2026) looks stale. oc_received is inferred from Oberoi's Mar 2018 ready-for-possession announcement and the 100% completion stated on the calls; the OC date was not found. transactions_12m is Square Yards' 6 registrations from Nov 2025 to Oct 2026. Oberoi's early figures are on saleable area (pre-RERA); the area basis of the 2016-2019 averages is not stated. Area basis (Nov 2026 top-up): Oberoi's presentations up to FY22 footnote project areas as 'carpet areas calculated as per the law prevailing prior to the introduction of RERA', and for Esquire this gives 21,22,031 sq ft for 882 units (about 2,406 sq ft a flat, against RERA carpet of 1,366-2,068 sq ft). From Q4FY23 the deck restated all areas to RERA carpet: Esquire became 13,04,626 sq ft, so the old basis is about 1.63x RERA carpet. That is why the Oberoi points here are labelled saleable, and loading_pct = 63 is computed from this restatement (21,22,031 / 13,04,626 - 1). On the RERA carpet basis, the lifetime average to Mar 2023 was about Rs 28,793/sq ft (Rs 3,75,242 lakh / 13,03,259 sq ft, computed). The Square Yards carpet-basis resale asks (about Rs 57,600-59,300) should not be compared with the saleable launch and completion figures; no recent secondary-market deal with a saleable or built-up area was found.",
   "sources": [
     "https://www.aurumproptech.in/pulse/rera/maharashtra/mumbai-suburban/esquire-P51800005229",
     "https://www.mumbaipropertyexchange.com/project/oberoi-esquire-goregaon-east-by-oberoi-realty-ltd/5122",
@@ -44,7 +44,13 @@
     "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q4-2019",
     "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q3-2020",
     "https://rentu.in/property/3-bhk-apartment-rent-oberoi-esquire-goregaon-east-near-oberoi-woods-off/2970970",
-    "https://propertybutler.in/building/oberoi-esquire"
+    "https://propertybutler.in/building/oberoi-esquire",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar18.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar19.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar21.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Dec21.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar22.pdf",
+    "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar23.pdf"
   ],
   "flats_per_floor": 6,
   "oc_received": true,
@@ -127,6 +133,17 @@
       "note": "Average realisation for 9MFY18 (Apr to Dec 2017) as stated by the CFO. Vikas Oberoi said Esquire's price had been marginally increased and that floor-rise mix moves the average."
     },
     {
+      "date": "2018-03-01",
+      "date_precision": "month",
+      "stage": "completion",
+      "price_psf": 21791,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation (Q4FY18)",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar18.pdf",
+      "confidence": "high",
+      "note": "Company average rate per sq ft for Q4FY18 (Jan-Mar 2018): 42,248 sq ft (16 units) booked for Rs 9,206 lakh. Part OC came on 29 Jan 2018 and full OC on 17 Apr 2018, so this is the completion quarter. Per the deck, Q4FY18/FY18 averages are after the GST benefit passed on as a price cut. FY18 average: Rs 20,904 (1,28,994 sq ft, Rs 26,965 lakh). Area basis: pre-RERA project area (see notes; about 1.63x RERA carpet)."
+    },
+    {
       "date": "2018-06-01",
       "date_precision": "month",
       "stage": "completion",
@@ -152,12 +169,12 @@
       "date": "2019-03-01",
       "date_precision": "month",
       "stage": "completion",
-      "price_psf": 20771,
-      "basis": "unknown",
-      "source_name": "Oberoi Realty earnings call (Q4FY19) via AlphaSpread transcript",
-      "source_url": "https://www.alphaspread.com/security/nse/oberoirlty/earnings-calls/q4-2019",
-      "confidence": "medium",
-      "note": "Computed: Rs 97 crore booked / about 46,700 sq ft in Q4FY19 (Jan to Mar 2019), as stated by management. Quarter in which the deferred 25% + 15% a year plan began."
+      "price_psf": 20942,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation (Q4FY19)",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar19.pdf",
+      "confidence": "high",
+      "note": "Computed: Rs 9,780 lakh / 46,700 sq ft (19 units) booked in Q4FY19 (Jan-Mar 2019), per the company's project table. Replaces Rs 20,771 computed from the rounded 'Rs 97 crore' on the Q4FY19 earnings call (alphaspread.com/security/nse/oberoirlty/earnings-calls/q4-2019). Quarter in which the deferred 25% + 15% a year plan began. Pre-RERA project-area basis (about 1.63x RERA carpet)."
     },
     {
       "date": "2019-12-01",
@@ -180,6 +197,17 @@
       "source_url": "https://www.sharekhan.com/MediaGalary/Equity/Oberoi-3R-Sept03_2021.pdf",
       "confidence": "medium",
       "note": "Computed: unsold Esquire inventory of 197,919 sq ft valued at Rs 452 crore as of Q1 FY22, with the project 100% complete (source: company / Sharekhan). The table doesn't state the area basis; Oberoi reports on RERA carpet since FY18, so this may be carpet. It is lower than the 2018 HousingMan figure, and the gap is unexplained."
+    },
+    {
+      "date": "2022-03-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 25734,
+      "basis": "saleable",
+      "source_name": "Oberoi Realty investor presentation (Q4FY22)",
+      "source_url": "https://files.tijorifinance.com/insight/india/6363/Investor%20Presentation/IP-Mar22.pdf",
+      "confidence": "high",
+      "note": "Computed: Rs 11,649 lakh / 45,267 sq ft (18 units) booked in Q4FY22 (Jan-Mar 2022). This is the developer selling its last finished inventory four years after OC, not a secondary-market resale; it is the latest price found on the same pre-RERA area basis as the launch and completion points. Earlier post-completion quarters: Q4FY21 Rs 23,011 (64,416 sq ft, Rs 14,823 lakh) and Q3FY22 Rs 24,385 (44,055 sq ft, Rs 10,743 lakh), per IP-Mar21 and IP-Dec21. Only 7,923 sq ft was left unsold after this quarter."
     },
     {
       "date": "2024-03-07",
@@ -329,5 +357,6 @@
       "event_type": "other",
       "summary": "Esquire still had about 197,919 sq ft of unsold inventory valued at Rs 452 crore as of Q1 FY22, three years after completion."
     }
-  ]
+  ],
+  "loading_pct": 63
 }

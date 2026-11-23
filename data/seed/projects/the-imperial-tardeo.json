@@ -19,7 +19,7 @@
     "Terrace lounge"
   ],
   "description": "Twin 60-storey residential towers (about 256 m to the spire) by SD Corporation, the Shapoorji Pallonji and Dilip Thacker group joint venture, designed by Hafeez Contractor and built by Shapoorji Pallonji. Completed in 2010, they were India's tallest buildings until 2019, when Lodha Park overtook them. The project was built on a slum-rehabilitation model: the developer rehoused slum dwellers in exchange for development rights. Residences range from about 2,500 to 10,000 sq ft, with four flats on a typical floor and duplexes above the 40th floor.",
-  "notes": "Scope: this file covers the two completed 2010 towers (CTBUH: 'The Imperial I' / SD Tower I and 'The Imperial II'). Later SD Corp phases in the same 'Imperial Collective' are separate and NOT included: The Imperial Edge (MahaRERA P51900000723, 46 units, original completion Dec 2021, ready), the new 62-storey 'The Imperial i' (P51900050473, just over 100 residences, possession Dec 2029) and Imperial T3 Wing C / C1 (PR1171012502413, PR1170002601316, completions 2033-34). Square Yards' 'Shapoorji Pallonji The Imperial' page mixes these new phases with older registrations (asking Rs 1,05,850/sq ft and one registered sale averaging Rs 53,600/sq ft, Nov 2025-Oct 2026), so its figures were not used for the 2010 towers. Timeline: CTBUH gives construction start 2002 (proposed 2001) and completion 2010; Wikipedia gives start 2005. Wikipedia cites a Mumbai Boss report (11 Mar 2010) that the towers opened for possession. Lifts: CTBUH lists 17 elevator cars for The Imperial I. Land: Wikipedia describes the slum-rehabilitation model but no SRA scheme details or land area were found. Litigation: in May 2013 flat owners took on the builder over VAT (Times of India, cited by Wikipedia; not retrieved). GAP: no sourced launch price, resale price or rental listing was found for the 2010 towers; the web-search budget ran out before targeted searches (Zapkey, Square Yards registrations, news of resale deals) could be done.",
+  "notes": "Scope: this file covers the two completed 2010 towers (CTBUH: 'The Imperial I' / SD Tower I and 'The Imperial II'). Later SD Corp phases in the same 'Imperial Collective' are separate and NOT included: The Imperial Edge (MahaRERA P51900000723, 46 units, original completion Dec 2021, ready), the new 62-storey 'The Imperial i' (P51900050473, just over 100 residences, possession Dec 2029) and Imperial T3 Wing C / C1 (PR1171012502413, PR1170002601316, completions 2033-34). Square Yards' 'Shapoorji Pallonji The Imperial' page mixes these new phases with older registrations (asking Rs 1,05,850/sq ft and one registered sale averaging Rs 53,600/sq ft, Nov 2025-Oct 2026), so its figures were not used for the 2010 towers. Timeline: CTBUH gives construction start 2002 (proposed 2001) and completion 2010; Wikipedia gives start 2005. Wikipedia cites a Mumbai Boss report (11 Mar 2010) that the towers opened for possession. Lifts: CTBUH lists 17 elevator cars for The Imperial I. Land: Wikipedia describes the slum-rehabilitation model but no SRA scheme details or land area were found. Litigation: in May 2013 flat owners took on the builder over VAT (Times of India, cited by Wikipedia; not retrieved). ADDED (Nov 2026 top-up): Launch: Business Standard (31 Jul 2007, seen only as a search snippet) said Shapoorji Pallonji and a local builder would 'shortly launch' two 60-floor Tardeo towers with apartments of 2,550-10,105 sq ft; Housing.com gives a launch of Sep 2007 (search snippet), used as launch_date. Units: The National (26 Oct 2010) says 228 apartments, 80% sold since the March 2010 opening; Housing.com and Square Yards say 220, and an older report said about 200 flats. The National quoted apartments of 8,000-10,000 sq ft at US$13-14 million each (not converted here). Early price: DNA (about 2008) quoted about Rs 22,000/sq ft; no developer price list was found. Registered deals: Milind Deora, Feb 2024, 'The Imperial I' 25th floor, about Rs 49,700/sq ft (tower ambiguous, see the price point). Venkatesh (Venky) Mysore and Veena Mysore bought a 1,783 sq ft carpet unit at 'The Imperial' for Rs 17.1 Cr on 7 May 2026 from Gradis Trading Pvt Ltd, with two car parks and Rs 1.02 Cr stamp duty (Ghar.tv). That is about Rs 95,900/sq ft carpet, but the tower is not named and it could be Imperial Edge, so it is NOT used as a price point. Listings: Gupta Sen lists an 18th-floor North Tower 3 BHK of 1,750 sq ft carpet at Rs 17 Cr (about Rs 97,100/sq ft carpet; undated, not used). Square Yards (Jan 2026 snapshot of the mixed 'Shapoorji Pallonji The Imperial' page) shows 5 registered sales in Jan-Dec 2025 at Rs 72,900/sq ft and 4 BHK rents of Rs 5-7 lakh, but that page mixes in the under-construction Imperial i ('structural works 21%'), so neither is used. GAPS: no developer launch price list, no OC date, no maintenance or loading figures, and no transaction count limited to the 2010 towers.",
   "sources": [
     "https://en.wikipedia.org/wiki/The_Imperial_(Mumbai)",
     "https://www.skyscrapercenter.com/building/wd/889",
@@ -27,13 +27,24 @@
     "https://www.sdcorp.in/projects/the-imperial-i",
     "https://www.homebazaar.com/the-imperial-edge-tardeo-3491",
     "https://www.squareyards.com/mumbai-residential-property/shapoorji-pallonji-the-imperial/27259/project",
-    "http://www.dnaindia.com/mumbai/report-mumbais-realty-going-vertical-with-a-vengeance-1745748"
+    "http://www.dnaindia.com/mumbai/report-mumbais-realty-going-vertical-with-a-vengeance-1745748",
+    "https://www.business-standard.com/article/pf/million-dollar-flats-107073101051_1.html",
+    "https://thenationalnews.com/business/india-s-rich-invest-in-luxury-property-1.552382",
+    "https://www.dnaindia.com/mumbai/report-a-21-storey-slum-will-now-rise-at-tardeo-1149387/amp",
+    "https://web.archive.org/web/20140923172348/http://www.99acres.com/imperial-towers-tardeo-mumbai-south-npxid-r32040",
+    "https://squarefeatindia.com/milind-deora-acquires-luxury-flat-in-tardeo-for-rs-16-68-cr/",
+    "https://www.ghar.tv/blog/tardeo-luxury-housing-secures-17-crore-investment-from-venky-mysore/artid6757",
+    "https://rentu.in/property/9719323/4-bhk-for-rent-in-tardeo-road-imperial-towers",
+    "https://www.guptasen.com/?p=8620"
   ],
   "architect": "Hafeez Contractor",
   "contractor": "Shapoorji Pallonji & Co. Ltd",
   "flats_per_floor": 4,
   "lifts_per_tower": 17,
-  "views": ["sea", "city"],
+  "views": [
+    "sea",
+    "city"
+  ],
   "land_type": "sra",
   "land_tenure": "unknown",
   "unit_types": [
@@ -42,8 +53,50 @@
       "notes": "SD Corp: residences from 2,500 to 10,000 sq ft (area basis not stated); CTBUH: four units on a typical floor, all units above the 40th floor are duplexes. No configuration-wise prices were found."
     }
   ],
-  "price_points": [],
+  "price_points": [
+    {
+      "date": "2008-01-01",
+      "date_precision": "year",
+      "stage": "under_construction",
+      "price_psf": 22000,
+      "basis": "unknown",
+      "source_name": "DNA (slum rehab report)",
+      "source_url": "https://www.dnaindia.com/mumbai/report-a-21-storey-slum-will-now-rise-at-tardeo-1149387/amp",
+      "confidence": "low",
+      "note": "DNA: flats in the two 60-storey Imperial towers \"would cost ... about Rs22,000 a sq ft\" (the same sentence says Rs45 crore per flat, which does not fit and looks like an error). The page shows no date; the article ID places it around early 2008, so the date is year-only. Quoted while the towers were under construction."
+    },
+    {
+      "date": "2014-09-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 58665,
+      "basis": "saleable",
+      "source_name": "99acres listings (Wayback Machine snapshot, 23 Sep 2014)",
+      "source_url": "https://web.archive.org/web/20140923172348/http://www.99acres.com/imperial-towers-tardeo-mumbai-south-npxid-r32040",
+      "confidence": "low",
+      "note": "Median of five resale asking prices posted Sep 2014 on 99acres for \"Imperial Towers\", per built-up area: Rs 57,824-66,628/sq ft (e.g. 4 BHK 3,070 sq ft at Rs 18.01 Cr; 3 BHK 2,550 sq ft at Rs 15.5-16.99 Cr). The project card gave Rs 15-65 Cr for 2,500-10,300 sq ft. Only the 2010 twin towers existed then, so these refer to the original towers."
+    },
+    {
+      "date": "2024-02-22",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 49700,
+      "basis": "unknown",
+      "source_name": "SquareFeat India (registration report)",
+      "source_url": "https://squarefeatindia.com/milind-deora-acquires-luxury-flat-in-tardeo-for-rs-16-68-cr/",
+      "confidence": "medium",
+      "note": "Computed: Rs 16.68 Cr divided by 311.78 sq m (about 3,356 sq ft; basis not stated, plus a 22.67 sq m terrace) for apartment 2503, 25th floor, \"The Imperial I\", bought by Milind Deora, registered 22 Feb 2024, seller SDC Township Ltd (the developer), four car parks, stamp duty about Rs 1 Cr. CAUTION: CTBUH calls the original tower \"The Imperial I\", but SD Corp also sells a new tower \"The Imperial i\" (under construction); the address does not settle which one."
+    }
+  ],
   "news": [
+    {
+      "date": "2007-07-31",
+      "title": "Million-dollar flats",
+      "url": "https://www.business-standard.com/article/pf/million-dollar-flats-107073101051_1.html",
+      "source": "Business Standard",
+      "event_type": "launch",
+      "summary": "Shapoorji Pallonji, with a local builder, is about to launch two 60-floor towers at Tardeo with apartments of 2,550-10,105 sq ft designed for each buyer. Read from a search snippet; the article could not be fetched."
+    },
     {
       "date": "2010-03-11",
       "title": "Imperial Towers Opens For Possession",
@@ -51,6 +104,14 @@
       "source": "Mumbai Boss (archived)",
       "event_type": "possession",
       "summary": "The twin towers open for possession (cited by Wikipedia; the archived article could not be retrieved)."
+    },
+    {
+      "date": "2010-10-26",
+      "title": "India's rich invest in luxury property",
+      "url": "https://thenationalnews.com/business/india-s-rich-invest-in-luxury-property-1.552382",
+      "source": "The National",
+      "event_type": "other",
+      "summary": "Imperial Towers, built on a former slum where about 10,000 people were resettled, had sold 80% of its 228 apartments since opening in March; apartments of 8,000-10,000 sq ft were priced at US$13-14 million."
     },
     {
       "date": "2012-09-26",
@@ -67,6 +128,38 @@
       "source": "Times of India",
       "event_type": "litigation",
       "summary": "Imperial flat owners dispute VAT charges with the builder (cited by Wikipedia; article not retrieved)."
+    },
+    {
+      "date": "2024-02-22",
+      "title": "Milind Deora Acquires Luxury Flat in Tardeo for Rs 16.68 Cr",
+      "url": "https://squarefeatindia.com/milind-deora-acquires-luxury-flat-in-tardeo-for-rs-16-68-cr/",
+      "source": "SquareFeat India",
+      "event_type": "deal",
+      "summary": "Apartment 2503 on the 25th floor of The Imperial I (311.78 sq m plus terrace, four car parks) registered on 22 Feb 2024 from SDC Township Ltd. The date is the registration date; the article date is not shown."
+    },
+    {
+      "date": "2026-05-07",
+      "title": "Tardeo Luxury Housing Secures ₹17 Crore Investment from Venky Mysore",
+      "url": "https://www.ghar.tv/blog/tardeo-luxury-housing-secures-17-crore-investment-from-venky-mysore/artid6757",
+      "source": "Ghar.tv",
+      "event_type": "deal",
+      "summary": "KKR CEO Venkatesh Mysore and Veena Mysore buy a 1,783 sq ft carpet unit at The Imperial for Rs 17.1 crore (stamp duty Rs 1.02 crore). The tower is not named. The date is the transaction date."
+    }
+  ],
+  "launch_date": "2007-09-01",
+  "total_units": 228,
+  "rental_points": [
+    {
+      "date": "2026-11-01",
+      "config": "4 BHK",
+      "carpet_sqft": 2060,
+      "monthly_rent": 690000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Rentu.in listing (ID 9988023, \"Imperial Towers\", Tardeo Road)",
+      "source_url": "https://rentu.in/property/9719323/4-bhk-for-rent-in-tardeo-road-imperial-towers",
+      "confidence": "low",
+      "note": "Listed \"23 Nov\" (year not shown; seen Nov 2026). One fetch labelled the 2,060 sq ft as carpet, another gave no basis. A second Imperial Towers 4 BHK of 2,050 sq ft asks Rs 7 lakh/month. Tower not stated, and Rentu lists Imperial Edge separately."
     }
   ]
 }

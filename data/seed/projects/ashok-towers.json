@@ -24,7 +24,7 @@
     "Senior citizens' area"
   ],
   "description": "Peninsula Land's first luxury residential complex: about 1.1 million sq ft across four towers on roughly 18 acres in Parel. Three towers are about 30 storeys and Tower D is about 50 storeys (193 m), arranged around a central sports ground. Work began in 2004, and Peninsula handed over three of the four towers in FY2009-10, with the complex completed in 2010. It won the Economic Times Acetech 2010 award for premium housing amenities. Resale units today range from 2 BHK to 5 BHK duplexes, with larger flats listed above Rs 13 crore.",
-  "notes": "Developer facts are from Peninsula Land annual reports (FY2009-10 and FY2010-11 on BSE) and a Dec 2012 investor presentation (1,077,000 sq ft delivered). The FY2009-10 report describes 'three 30 storey towers and one 50 storey tower'; a later annual report (seen only in a search snippet, not opened) says three 31-storey towers. Wikipedia's list gives Ashok Towers D as 193 m / 49 floors, completed 2010. Mumbai Property Exchange lists possession Dec 2009, used as possession_promised; possession_actual is year-only (2010). No OC date was found. It is a pre-RERA completed building, so there is no MahaRERA ID; Square Yards prints A51800000454, which is Square Yards' own agent registration. Units conflict: 550 (Square Yards / NoBroker description), 782 (NoBroker panel) and 730 (a second Square Yards page), so total_units is left out. That second Square Yards page ('Ashok Towers', ID 62589) shows small units (441-835 sq ft) in wings A4/B2/B3 and a registered average of only Rs 23,500/sq ft (3 sales). It may cover a different building or wings, so it is not used for price points. Loans: the FY2009-10 and FY2010-11 reports show the unsold area of Ashok Towers mortgaged as security for company borrowings. Ready reckoner (2025-26, Parel zone) is about Rs 28,600/sq ft carpet (Mumbai Property Exchange). No launch price or any 2004-2024 price data was found; Mumbai Property Exchange cites an undated 'historical' rate of Rs 19,950/sq ft, which is not used. Computed gross yield: a 3 BHK of 1,500 sq ft asking Rs 3.3 lakh/month (Mumbai Property Exchange, Mar 2026). At the Square Yards registered average of Rs 64,700/sq ft that is about 4.1%, and at the Rs 50,550 asking average about 5.2%. The rent and sale area bases may differ.",
+  "notes": "Developer facts are from Peninsula Land annual reports (FY2009-10 and FY2010-11 on BSE) and a Dec 2012 investor presentation (1,077,000 sq ft delivered). The FY2009-10 report describes 'three 30 storey towers and one 50 storey tower'; a later annual report (seen only in a search snippet, not opened) says three 31-storey towers. Wikipedia's list gives Ashok Towers D as 193 m / 49 floors, completed 2010. Mumbai Property Exchange lists possession Dec 2009, used as possession_promised; possession_actual is year-only (2010). No OC date was found. It is a pre-RERA completed building, so there is no MahaRERA ID; Square Yards prints A51800000454, which is Square Yards' own agent registration. Units conflict: 550 (Square Yards / NoBroker description), 782 (NoBroker panel) and 730 (a second Square Yards page), so total_units is left out. That second Square Yards page ('Ashok Towers', ID 62589) shows small units (441-835 sq ft) in wings A4/B2/B3 and a registered average of only Rs 23,500/sq ft (3 sales). It may cover a different building or wings, so it is not used for price points. Loans: the FY2009-10 and FY2010-11 reports show the unsold area of Ashok Towers mortgaged as security for company borrowings. Ready reckoner (2025-26, Parel zone) is about Rs 28,600/sq ft carpet (Mumbai Property Exchange). No launch price was found. Mumbai Property Exchange cites an undated 'historical' (last known developer) rate of Rs 19,950/sq ft, which is not used; it matches an undated portal quote of Rs 2.24 Cr for a 1,125 sq ft built-up 2 BHK (about Rs 19,900), seen only in a search snippet. Computed gross yield: a 3 BHK of 1,500 sq ft asking Rs 3.3 lakh/month (Mumbai Property Exchange, Mar 2026). At the Square Yards registered average of Rs 64,700/sq ft that is about 4.1%, and at the Rs 50,550 asking average about 5.2%. The rent and sale area bases may differ. ADDED (Nov 2026 top-up): CTBUH lists Ashok Towers B as 31 floors, completed 2009, architect Kapadia Associates, main contractor B.E. Billimoria & Co., KONE lifts (used for architect and contractor). Price history now runs from 2014 (99acres resale asking, about Rs 45,800/sq ft built-up) through 2021 (PropertyWala, about Rs 52,900) and 2024 (Square Yards registered median, about Rs 47,900) to 2026. Square Yards' figures move between snapshots: 26 sales at Rs 61,100/sq ft for Jul 2025-Jun 2026 (search snippet) vs 12 sales at Rs 64,700 for Nov 2025-Oct 2026; transactions_12m uses the latter. 2014 broker listings described the land as freehold (not set as land_tenure; low-quality source). A search snippet of a company filing says Peninsula launched Ashok Towers in 2004-05, consistent with the FY2009-10 annual report's 2004 start of work; launch_date is left out because no launch month or price was found. Peninsula Land's FY2009-10 annual report (re-read) gives no sale prices for the project. GAPS: no launch-era (2004-2010) price, no OC date, no maintenance, and no newspaper coverage of the building was found (searches returned only portals).",
   "sources": [
     "https://www.bseindia.com/bseplus/AnnualReport/503031/5030310310.pdf",
     "https://www.bseindia.com/bseplus/AnnualReport/503031/5030310311.pdf",
@@ -33,9 +33,17 @@
     "https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
     "https://www.squareyards.com/mumbai-residential-property/ashok-towers/62589/project",
     "https://www.mumbaipropertyexchange.com/project/ashok-towers-parel-by-peninsula-land-ltd/3411",
-    "https://www.nobroker.in/peninsula-ashok-towers-parel_mumbai-prjt-5bac1ede714b564981dc6358"
+    "https://www.nobroker.in/peninsula-ashok-towers-parel_mumbai-prjt-5bac1ede714b564981dc6358",
+    "https://www.skyscrapercenter.com/building/ashok-towers-b/10551",
+    "https://web.archive.org/web/20140829065020/http://www.99acres.com/ashok-towers-parel-mumbai-south-npxid-r13152",
+    "https://propertywala.com/peninsula-ashoka-towers-mumbai",
+    "https://web.archive.org/web/20240717173816/https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
+    "https://www.realestatemumbai.com/ashok-towers-parel-apartments-flats-on-rent-sale-lease_4423"
   ],
-  "views": ["city", "sea"],
+  "views": [
+    "city",
+    "sea"
+  ],
   "unit_types": [
     {
       "config": "2 BHK",
@@ -70,6 +78,39 @@
   ],
   "price_points": [
     {
+      "date": "2014-08-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 45822,
+      "basis": "saleable",
+      "source_name": "99acres listings (Wayback Machine snapshot, 29 Aug 2014)",
+      "source_url": "https://web.archive.org/web/20140829065020/http://www.99acres.com/ashok-towers-parel-mumbai-south-npxid-r13152",
+      "confidence": "low",
+      "note": "Median of five resale asking prices posted Aug 2014, per built-up area: Rs 44,601-46,667/sq ft (e.g. 3 BHK 2,130 sq ft at Rs 9.76 Cr; 3 BHK 2,285 sq ft at Rs 10.55 Cr; 2 BHK 1,125 sq ft at Rs 5.25 Cr). One listing at Rs 8,216/sq ft (Rs 1.75 Cr for 2,130 sq ft) is clearly a typo and was ignored. The project card showed sizes of 1,010-3,615 sq ft and prices up to Rs 17.5 Cr."
+    },
+    {
+      "date": "2021-10-16",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 52940,
+      "basis": "unknown",
+      "source_name": "PropertyWala project page (updated 16 Oct 2021)",
+      "source_url": "https://propertywala.com/peninsula-ashoka-towers-mumbai",
+      "confidence": "low",
+      "note": "Computed: 3 BHK of 157.94 sq m (about 1,700 sq ft) at Rs 9 Cr. Other rows: 2 BHK 88.26-92.9 sq m at Rs 5.5 Cr (about Rs 55,000-57,900) and 5 BHK 3,730 sq ft at Rs 19 Cr (about Rs 50,900). One 2 BHK row (1,365 sq ft at Rs 4 Cr, about Rs 29,300) looks stale. The page says the data may not be up to date."
+    },
+    {
+      "date": "2024-06-01",
+      "date_precision": "month",
+      "stage": "resale",
+      "price_psf": 47860,
+      "basis": "unknown",
+      "source_name": "Square Yards registered sales (Wayback Machine snapshot, 17 Jul 2024)",
+      "source_url": "https://web.archive.org/web/20240717173816/https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
+      "confidence": "medium",
+      "note": "Computed: median of six registered sales in Apr-Jun 2024: Rs 8.10 Cr/1,800 sq ft (Rs 45,000), 8.75/1,535 (57,000), 5.08/1,000 (50,800), 4.92/970 (50,700), 4.53/1,220 (37,100), 4.65/1,220 (38,100). Area basis not stated."
+    },
+    {
       "date": "2025-12-01",
       "date_precision": "month",
       "stage": "resale",
@@ -101,9 +142,42 @@
       "source_url": "https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
       "confidence": "medium",
       "note": "Average registered rate of 12 sales from Nov 2025 to Oct 2026 (gross value about Rs 63 crore). The listed registrations were 375-1,160 sq ft, including several units bought together on the 12th floor of C wing. The registered areas look like carpet, so the rate is above the asking averages."
+    },
+    {
+      "date": "2026-11-19",
+      "date_precision": "day",
+      "stage": "resale",
+      "price_psf": 73346,
+      "basis": "carpet",
+      "source_name": "RealEstateMumbai (average asking price)",
+      "source_url": "https://www.realestatemumbai.com/ashok-towers-parel-apartments-flats-on-rent-sale-lease_4423",
+      "confidence": "low",
+      "note": "Average asking rate across 12 sale listings (range Rs 65,873-1,03,831/sq ft carpet), listings checked 19-23 Nov 2026. Examples: 5 BHK 3,500 sq ft carpet at Rs 23 Cr; 3.5 BHK 1,550 sq ft at Rs 11.5 Cr. Carpet basis explains why it is above Square Yards' averages."
     }
   ],
   "rental_points": [
+    {
+      "date": "2014-08-18",
+      "config": "3 BHK",
+      "monthly_rent": 160000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "99acres listing description (Wayback Machine snapshot)",
+      "source_url": "https://web.archive.org/web/20140829065020/http://www.99acres.com/ashok-towers-parel-mumbai-south-npxid-r13152",
+      "confidence": "low",
+      "note": "A broker posting (18 Aug 2014) quoted rents of Rs 1.60 lakh for a 1,800 sq ft 3 BHK and Rs 1.25 lakh for a 1,400 sq ft 2 BHK in \"Ashoka Tower\", Parel. Areas are probably saleable."
+    },
+    {
+      "date": "2024-07-01",
+      "config": "2 BHK",
+      "monthly_rent": 150000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "Square Yards rental listings (Wayback Machine snapshot, 17 Jul 2024)",
+      "source_url": "https://web.archive.org/web/20240717173816/https://www.squareyards.com/mumbai-residential-property/peninsula-ashok-towers/25894/project",
+      "confidence": "low",
+      "note": "2 BHK of 1,400 sq ft built-up asking Rs 1.5 lakh; another asked Rs 1.6 lakh."
+    },
     {
       "date": "2026-03-06",
       "config": "2 BHK",
@@ -125,6 +199,30 @@
       "source_url": "https://www.mumbaipropertyexchange.com/project/ashok-towers-parel-by-peninsula-land-ltd/3411",
       "confidence": "low",
       "note": "Listed area is 1,500 sq ft (basis not stated). Square Yards' Sep 2026 range for the project is Rs 2-6 lakh/month."
+    },
+    {
+      "date": "2026-11-19",
+      "config": "2.5 BHK",
+      "carpet_sqft": 1000,
+      "monthly_rent": 200000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai rental listing (ID 10054295)",
+      "source_url": "https://www.realestatemumbai.com/ashok-towers-parel-apartments-flats-on-rent-sale-lease_4423",
+      "confidence": "low",
+      "note": "Checked 19 Nov 2026. Across 16 rental listings the site gives a range of Rs 1.75-3.4 lakh/month, typical Rs 2.83 lakh."
+    },
+    {
+      "date": "2026-11-19",
+      "config": "3 BHK",
+      "carpet_sqft": 1350,
+      "monthly_rent": 290000,
+      "furnishing": "unknown",
+      "kind": "asking",
+      "source_name": "RealEstateMumbai rental listing (ID 10054296)",
+      "source_url": "https://www.realestatemumbai.com/ashok-towers-parel-apartments-flats-on-rent-sale-lease_4423",
+      "confidence": "low",
+      "note": "Checked 19 Nov 2026. 3 BHK rents on the page range from Rs 2.75 to 3.4 lakh/month."
     }
   ],
   "news": [
@@ -144,5 +242,8 @@
       "event_type": "other",
       "summary": "Ashok Towers won 'Excellence in Premium Housing Amenities and Entertainment Facilities' at the Economic Times Acetech 2010 Real Estate Awards. The date is the report's 12 May 2011 sign-off."
     }
-  ]
+  ],
+  "architect": "Kapadia Associates",
+  "contractor": "B.E. Billimoria & Co. Limited",
+  "transactions_12m": 12
 }
